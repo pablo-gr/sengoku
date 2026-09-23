@@ -99,3 +99,94 @@ Del mismo modo, una persona muy competente puede encontrarse en una situación e
 Los modificadores narrativos representan estas circunstancias cuando afectan al resultado de una acción. En otros casos, la situación puede modificar directamente lo que es posible hacer, las consecuencias de una acción o las opciones disponibles.
 
 Los jugadores pueden buscar activamente estas ventajas mediante sus decisiones. Prepararse bien, elegir el terreno adecuado o evitar un enfrentamiento desfavorable puede ser más importante que intentar superar una dificultad mediante capacidad individual.
+
+# 2. Personajes
+
+## 2.1. Personas del periodo Sengoku
+
+Los personajes de **Sengoku Jidai** representan personas reales del Japón del periodo Sengoku.
+
+Pueden ser individuos excepcionalmente capaces, experimentados o influyentes, pero siguen estando sujetos a los límites físicos, sociales y psicológicos propios de seres humanos reales. El reglamento no presupone héroes legendarios ni capacidades sobrehumanas.
+
+Los personajes pueden proceder de ámbitos muy distintos: casas guerreras, aldeas, ciudades, comunidades religiosas, talleres artesanales, redes mercantiles, ejércitos, administraciones señoriales u otros entornos propios del periodo.
+
+El reglamento no presupone que todos los personajes sean samuráis ni que todos estén dedicados al combate. Un personaje puede ser guerrero, campesino, artesano, mercader, religioso, criado, administrador, mensajero, marinero, médico, intérprete o desempeñar cualquier otra función históricamente adecuada a la campaña.
+
+La forma en que un personaje actúa y las oportunidades de las que dispone dependen tanto de sus capacidades personales como de su educación, experiencia, origen, posición social y circunstancias.
+
+## 2.2. Características
+
+Las **Características** representan las capacidades naturales del personaje: fuerza, coordinación, percepción, presencia, inteligencia y voluntad.
+
+Determinan el potencial general de una persona, pero no sustituyen al entrenamiento ni a la experiencia.
+
+Dos personajes con una Destreza semejante pueden combatir de forma completamente distinta si uno ha recibido años de entrenamiento con una espada y el otro nunca ha utilizado un arma.
+
+Las reglas completas de Características se describen en el capítulo correspondiente.
+
+## 2.3. Habilidades
+
+Las **Habilidades** representan conocimientos adquiridos, entrenamiento, práctica y experiencia.
+
+Una Habilidad puede proceder de la educación, de un oficio, del entrenamiento militar, de la vida cotidiana, de una tradición familiar, de la instrucción recibida de un maestro o de la experiencia acumulada por el personaje.
+
+La posición social de una persona no determina automáticamente sus Habilidades.
+
+Un samurái puede ser un arquero mediocre. Un ashigaru veterano puede dominar el uso de la yari. Un religioso puede haber recibido formación militar. Un mercader puede ser un jinete experimentado. Un campesino puede conocer mejor que cualquier viajero los caminos, ríos y montañas de su región.
+
+Las reglas completas de Habilidades se describen en el capítulo correspondiente.
+
+## 2.4. Origen
+
+El **Origen** describe el entorno social, familiar y material en el que se formó el personaje.
+
+Puede indicar, entre otras cosas:
+
+- La familia o comunidad en la que nació.
+- El lugar donde creció.
+- El ambiente social en el que fue educado.
+- Las actividades habituales durante su juventud.
+- Las personas o instituciones de las que recibió formación.
+- Las experiencias tempranas que explican parte de sus conocimientos actuales.
+
+El Origen no determina necesariamente la posición actual del personaje.
+
+Una persona nacida en una familia campesina puede haber entrado al servicio de una casa guerrera. Alguien nacido en una familia de guerreros puede haber adoptado una vida religiosa. Un criado puede haber ascendido dentro de una organización militar o administrativa.
+
+El Origen ayuda a establecer qué cosas resultan familiares para el personaje, qué conocimientos cotidianos puede poseer sin necesidad de una Habilidad especializada y qué relaciones o experiencias previas pueden ser relevantes durante la partida.
+
+## 2.5. Posición social
+
+La **Posición social** representa el lugar real que ocupa el personaje dentro de las estructuras sociales, políticas, militares, económicas o religiosas de su entorno.
+
+No es una clase de personaje y no concede por sí sola un conjunto fijo de Habilidades o capacidades.
+
+La Posición social puede influir en:
+
+- El trato que otras personas consideran apropiado.
+- Las personas o instituciones a las que puede acceder.
+- La autoridad que puede ejercer.
+- Las autoridades a las que está sometido.
+- Los comportamientos que se esperan de él.
+- Las obligaciones asociadas a su posición.
+- Los recursos que puede poseer o utilizar de forma razonable.
+- Las consecuencias sociales de determinadas acciones.
+
+La Posición social tampoco equivale a riqueza. Una persona de posición formalmente inferior puede disponer de más dinero, propiedades o recursos materiales que otra situada por encima de ella dentro de una jerarquía determinada.
+
+La posición de un personaje debe interpretarse siempre dentro de su contexto. El territorio, la autoridad bajo la que se encuentra, sus relaciones personales y el momento histórico pueden modificar considerablemente el significado práctico de una misma posición.
+
+## 2.6. Posición real y posición aparente
+
+La **Posición social real** de un personaje y la posición que otras personas le atribuyen pueden ser diferentes.
+
+Un guerrero puede viajar vestido como un criado. Un ashigaru puede presentarse como miembro de una casa guerrera lejana. Un mercader puede intentar aparentar una posición superior a la que realmente posee. Una persona de origen guerrero puede vivir bajo una identidad religiosa o civil.
+
+Mientras una identidad aparente resulte creíble y nadie tenga motivos para cuestionarla, los demás personajes pueden reaccionar de acuerdo con lo que creen estar viendo.
+
+Esto no modifica la posición real del personaje. Cambia únicamente la manera en que es percibido y tratado.
+
+Cuando exista incertidumbre sobre una identidad, una afiliación, un rango o una posición declarada, la situación puede resolverse mediante los retos y Habilidades apropiados.
+
+Las reglas detalladas sobre identidad, reputación, reconocimiento, afiliaciones, funciones, disfraces y operaciones encubiertas se desarrollan en capítulos posteriores.
+
