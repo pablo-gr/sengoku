@@ -190,3 +190,95 @@ Cuando exista incertidumbre sobre una identidad, una afiliación, un rango o una
 
 Las reglas detalladas sobre identidad, reputación, reconocimiento, afiliaciones, funciones, disfraces y operaciones encubiertas se desarrollan en capítulos posteriores.
 
+# 3. Características
+
+Todos los personajes poseen seis **Características**.
+
+Las Características representan capacidades generales y relativamente estables del personaje. No describen entrenamiento específico, conocimientos adquiridos ni experiencia profesional.
+
+Una misma Característica puede aplicarse de formas distintas según la acción. Las Habilidades, el equipo y las circunstancias determinan cómo se concreta esa capacidad general en cada situación.
+
+## 3.1. Fortaleza
+
+**Fortaleza** representa la capacidad física general del personaje: fuerza, constitución, resistencia corporal y capacidad para soportar dolor, esfuerzo y agotamiento.
+
+No todas las acciones relacionadas con Fortaleza dependen de los mismos factores.
+
+La fuerza necesaria para levantar una carga, la capacidad para soportar una marcha prolongada, la resistencia al cansancio o la potencia aplicada en una acción física pueden utilizar la misma Característica, pero combinarse con Habilidades, equipo o modificadores diferentes según el caso.
+
+Fortaleza proporciona por tanto una base física común. Las diferencias entre fuerza máxima, resistencia prolongada, tolerancia al esfuerzo u otras capacidades físicas se representan mediante las reglas específicas aplicables a cada situación, no mediante Características separadas.
+
+## 3.2. Destreza
+
+**Destreza** representa la coordinación manual y corporal, la precisión, los reflejos, el equilibrio, la movilidad y el control de los movimientos.
+
+Incluye tanto la destreza fina como la agilidad física general.
+
+La Destreza puede intervenir en acciones como manejar un arma, moverse con precisión, conservar el equilibrio, ejecutar una maniobra corporal o realizar una tarea manual delicada.
+
+## 3.3. Percepción
+
+**Percepción** representa la capacidad para advertir detalles, interpretar estímulos, mantener la atención y detectar cambios o anomalías en el entorno.
+
+Puede utilizarse para reconocer una amenaza, advertir una emboscada, seguir movimientos, examinar un lugar, leer el terreno o percibir detalles relevantes en la conducta de otra persona.
+
+## 3.4. Presencia
+
+**Presencia** representa el carisma, la seguridad social, la autoridad natural y la capacidad para causar una impresión o influir personalmente en los demás.
+
+No equivale a posición social, rango, riqueza ni belleza física.
+
+Una persona de baja posición puede poseer una Presencia extraordinaria, del mismo modo que alguien de alto rango puede carecer de autoridad personal.
+
+La posición social puede modificar las circunstancias de una interacción, pero no altera por sí sola la Presencia del personaje.
+
+## 3.5. Inteligencia
+
+**Inteligencia** representa el razonamiento, la memoria, la comprensión, la capacidad de análisis y la facilidad para aprender.
+
+Puede intervenir en planificación, administración, táctica, interpretación de información, aprendizaje, resolución de problemas y aplicación de conocimientos especializados.
+
+## 3.6. Voluntad
+
+**Voluntad** representa la determinación, el autocontrol, la entereza y la capacidad para continuar actuando bajo miedo, dolor, presión, intimidación, agotamiento psicológico o coerción.
+
+También representa la capacidad natural para dominar impulsos, resistir el pánico, soportar situaciones emocionalmente extremas y mantener una decisión cuando las circunstancias empujan al personaje a abandonarla.
+
+Voluntad describe una capacidad natural. El entrenamiento, la experiencia y la disciplina aprendida pueden representarse mediante Habilidades específicas, Rasgos, preparación o modificadores cuando corresponda.
+
+## 3.7. Escala humana
+
+| Valor | Significado |
+|---:|---|
+| **−1** | Deficiencia grave |
+| **0** | Capacidad humana normal |
+| **+1** | Capacidad notable |
+| **+2** | Capacidad humana extraordinaria |
+
+Un valor de **+2** representa una capacidad realmente excepcional dentro de los límites humanos.
+
+No describe simplemente a una persona competente, entrenada o experimentada. El entrenamiento pertenece principalmente a las Habilidades.
+
+Un personaje con Destreza 0 y una Habilidad marcial elevada puede ser un combatiente mucho más competente que una persona con Destreza +2 que nunca haya recibido entrenamiento.
+
+Las Características no dependen de la posición social. Un campesino puede poseer Fortaleza +2, un mercader Presencia +2 o un criado Inteligencia +2.
+
+## 3.8. Características deficientes
+
+Una Característica de **−1** representa una limitación grave, no una capacidad ligeramente inferior a la media.
+
+Ejemplos orientativos:
+
+| Característica | Posibles deficiencias |
+|---|---|
+| Fortaleza −1 | Enfermedad crónica grave, debilidad física severa, constitución extremadamente frágil |
+| Destreza −1 | Lesión permanente grave, movilidad muy reducida, temblores severos o falta importante de coordinación |
+| Percepción −1 | Ceguera, sordera profunda o pérdida severa de un sentido esencial |
+| Presencia −1 | Gran dificultad para imponerse, comunicarse o desenvolverse socialmente |
+| Inteligencia −1 | Limitación cognitiva significativa o alteraciones graves de memoria, comprensión o razonamiento |
+| Voluntad −1 | Autocontrol muy pobre, extrema sugestionabilidad o tendencia marcada a quebrarse bajo presión |
+
+El valor negativo se aplica numéricamente cuando corresponde, pero sus consecuencias no se limitan al −1.
+
+Una deficiencia puede hacer que ciertas acciones sean imposibles, obligar al personaje a emplear otro método o producir consecuencias adicionales cuando la situación lo justifique.
+
