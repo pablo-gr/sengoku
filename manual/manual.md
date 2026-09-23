@@ -76,7 +76,7 @@ El director no debe utilizar su autoridad para anular decisiones razonables de l
 
 ## 1.5. Realismo histórico y límites humanos
 
-**Sengoku Jidai** tiene como objetivo representar de forma verosímil la vida y los conflictos del Japón del periodo Sengoku dentro de las limitaciones propias de un juego de rol.
+**Sengoku Jidai** tiene como objetivo representar con el mayor realismo histórico razonable la vida y los conflictos del Japón del periodo Sengoku, dentro de las limitaciones propias de un juego de rol.
 
 Los personajes pueden ser personas especialmente capaces: guerreros veteranos, arqueros expertos, jinetes consumados, estrategas brillantes, artesanos excepcionales o individuos de gran fortaleza y determinación. Sin embargo, continúan sujetos a los límites físicos y psicológicos de seres humanos reales.
 
