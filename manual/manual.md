@@ -282,3 +282,1115 @@ El valor negativo se aplica numéricamente cuando corresponde, pero sus consecue
 
 Una deficiencia puede hacer que ciertas acciones sean imposibles, obligar al personaje a emplear otro método o producir consecuencias adicionales cuando la situación lo justifique.
 
+# 4. Combate
+
+> **Estado de estas reglas:** el sistema de combate se encuentra todavía en desarrollo. Este capítulo recoge las decisiones de diseño adoptadas hasta el momento. Las reglas fundamentales de Intercambios, Guardia, Éxito, Crítico, Suerte y Técnicas constituyen la base actual del sistema; el catálogo de Técnicas y algunos efectos concretos seguirán revisándose mediante pruebas de juego.
+
+## 4.1. Principios del combate
+
+El combate de **Sengoku Jidai** utiliza los mismos principios generales que el resto del juego, pero los enfrentamientos importantes entre combatientes capaces requieren una resolución más detallada.
+
+El sistema pretende mantener los siguientes principios:
+
+- El combate debe ser peligroso y potencialmente letal.
+- Una Herida grave puede decidir un enfrentamiento y una Herida mortal representa una amenaza extrema para la vida del personaje.
+- Un combatiente muy superior debe ser difícil de derrotar en un enfrentamiento justo.
+- Las decisiones del jugador deben poder superar diferencias importantes de capacidad cuando crean ventajas narrativas reales.
+- El terreno, la visibilidad, la preparación, la sorpresa, las armas y la posición pueden ser tan importantes como las capacidades del personaje.
+- La Suerte puede ayudar a sobrevivir o aprovechar una oportunidad ya existente, pero no debe permitir comprar automáticamente una oportunidad mortal.
+- Las Técnicas proporcionan la mayor parte de la profundidad táctica del sistema.
+- Las reglas deben representar posición, presión, distancia y terreno sin convertir el combate en un juego de casillas o hexágonos.
+
+Un jugador no está obligado a conceder a un adversario superior un combate justo. Preparar una emboscada, elegir el terreno, atacar desde la oscuridad, separar a un enemigo de sus aliados o utilizar un arma apropiada pueden ser decisiones mucho más importantes que enfrentarse directamente a él.
+
+## 4.2. Ataques simples e Intercambios
+
+No todos los ataques se resuelven mediante Intercambios.
+
+Un **Intercambio** se utiliza cuando dos combatientes:
+
+- son conscientes de la presencia del otro;
+- pueden reaccionar de forma efectiva;
+- disputan activamente la posición, la distancia y el control del enfrentamiento.
+
+Un Intercambio representa varios segundos de combate: movimientos, cambios de guardia, amenazas, fintas, ataques abortados, paradas, control de la distancia, desplazamientos y búsqueda de una apertura.
+
+Cuando no existe una oposición efectiva no es necesario iniciar un Intercambio.
+
+Atacar a una persona dormida, apuñalar por la espalda a un enemigo completamente desprevenido o ejecutar a alguien que se encuentra físicamente a merced del personaje puede resolverse como una acción o reto normal.
+
+Del mismo modo, si durante un combate la superioridad narrativa de uno de los participantes llega a ser tan absoluta que el adversario ya no puede ofrecer una defensa efectiva, el director puede dejar de utilizar Intercambios y resolver directamente la situación resultante.
+
+## 4.3. Resultado de un Intercambio
+
+Cada combatiente obtiene un resultado utilizando normalmente:
+
+> **Característica + Habilidad de combate + modificador narrativo + efectos aplicables**
+
+La combinación habitual puede ser Destreza más la Habilidad correspondiente al arma utilizada, pero el método concreto puede justificar otra combinación.
+
+Ambos combatientes actúan simultáneamente. Por tanto, a diferencia de un reto enfrentado ordinario, un empate no favorece automáticamente a un personaje activo.
+
+El resultado puede ser:
+
+- **Empate:** ambos resultados son iguales.
+- **Éxito:** un combatiente supera al otro por exactamente +1.
+- **Crítico:** un combatiente supera al otro por +2 o más y se cumplen además las reglas de Crítico respecto a la Suerte.
+
+En combate, a diferencia de los retos ordinarios, el margen es relevante porque determina si la victoria constituye un Éxito o un Crítico.
+
+## 4.4. Modificador narrativo en combate
+
+El modificador narrativo representa las ventajas y desventajas reales creadas por la situación y por las decisiones de los jugadores.
+
+No existe un límite mecánico al modificador narrativo total.
+
+Una circunstancia individual puede producir de forma orientativa:
+
+- **+1:** ventaja significativa;
+- **+2:** ventaja fuerte;
+- **+3:** ventaja extrema;
+- **+4 o más:** circunstancia excepcionalmente dominante.
+
+Varias ventajas independientes pueden acumularse.
+
+No deben acumularse varias descripciones de una misma ventaja cuando representan en realidad la misma causa.
+
+Pueden producir modificadores narrativos, entre otras cosas:
+
+- terreno elegido deliberadamente;
+- oscuridad o iluminación favorable;
+- una distracción;
+- una posición elevada;
+- un ataque desde un ángulo difícil;
+- superioridad numérica cuando los aliados pueden intervenir realmente;
+- un arma especialmente apropiada para la situación;
+- preparación previa;
+- conocimiento del enemigo;
+- miedo, confusión o pérdida de concentración;
+- limitaciones físicas del entorno.
+
+El modificador narrativo no debe confundirse con otros efectos de la situación.
+
+Una circunstancia puede:
+
+1. modificar numéricamente el resultado;
+2. afectar al estado de Guardia;
+3. impedir o permitir determinadas acciones o Técnicas.
+
+No debe aplicarse varias veces la misma circunstancia sin que existan consecuencias claramente diferentes.
+
+La ausencia de límite al modificador narrativo es deliberada. Permite que la calidad de las decisiones del jugador pueda superar diferencias importantes entre los valores de los personajes.
+
+## 4.5. Guardia
+
+La **Guardia** representa de forma abstracta la capacidad inmediata del personaje para defenderse eficazmente.
+
+Incluye postura, equilibrio, posición, atención, control del arma, gestión de la distancia, capacidad de reacción y otros factores semejantes.
+
+La Guardia sólo tiene dos estados:
+
+- **Guardia Firme**
+- **Guardia Comprometida**
+
+No existen niveles intermedios de Guardia.
+
+Dos combatientes entrenados, conscientes el uno del otro y en condiciones normales comienzan habitualmente con Guardia Firme.
+
+La Guardia puede comenzar Comprometida o quedar Comprometida como consecuencia de la situación. Entre las posibles causas se encuentran:
+
+- sorpresa;
+- una posición extremadamente desfavorable;
+- desequilibrio;
+- incapacidad para controlar adecuadamente el arma o la distancia;
+- Heridas;
+- Fatiga;
+- Estrés o pérdida severa de concentración;
+- determinados efectos de Técnicas.
+
+No toda desventaja compromete automáticamente la Guardia. Combatir cuesta arriba, por ejemplo, puede justificar simplemente un modificador narrativo negativo. Encontrarse de rodillas ante un adversario preparado para atacar puede justificar directamente Guardia Comprometida.
+
+Algunas causas pueden impedir recuperar Guardia Firme mientras continúen activas. Los umbrales definitivos de Fatiga, Estrés y Heridas que produzcan este efecto se definirán en sus capítulos correspondientes.
+
+Si el enfrentamiento se interrumpe y el personaje dispone de tiempo y condiciones razonables para recomponerse, puede recuperar Guardia Firme sin necesidad de un Intercambio, siempre que ninguna condición persistente lo impida.
+
+## 4.6. Resultado y efecto son conceptos distintos
+
+Obtener un Éxito o un Crítico no produce automáticamente una consecuencia concreta.
+
+El resultado determina qué **efectos** puede elegir el vencedor.
+
+Por defecto, una victoria permite elegir **un único efecto**.
+
+Un Crítico amplía las opciones disponibles, pero no concede automáticamente dos efectos.
+
+Las Técnicas pueden añadir nuevos efectos, alterar sus requisitos o permitir combinaciones que normalmente no serían posibles.
+
+### Empate
+
+Un Empate no concede ningún efecto estándar.
+
+Las Técnicas pueden crear efectos que se activen o puedan elegirse después de un Empate.
+
+### Éxito
+
+Un Éxito permite elegir un efecto estándar de Éxito que sea aplicable o un efecto proporcionado por una Técnica cuyo requisito sea haber obtenido un Éxito.
+
+### Crítico
+
+Un Crítico permite elegir:
+
+- cualquier efecto disponible mediante un Éxito;
+- un efecto estándar exclusivo de Crítico;
+- un efecto proporcionado por una Técnica cuyo requisito sea haber obtenido un Crítico.
+
+## 4.7. Efectos estándar de Éxito
+
+### Recomponer Guardia
+
+**Requisito:** la Guardia propia está Comprometida.
+
+La Guardia propia pasa a estar **Firme**.
+
+### Comprometer Guardia
+
+**Requisito:** la Guardia del adversario está Firme.
+
+La Guardia del adversario pasa a estar **Comprometida**.
+
+### Herida grave
+
+**Requisito:** la Guardia del adversario está Comprometida.
+
+El adversario recibe una **Herida grave**.
+
+Las consecuencias médicas y mecánicas completas de las Heridas se definirán en el capítulo correspondiente.
+
+## 4.8. Efectos estándar de Crítico
+
+Un Crítico permite utilizar también todos los efectos de Éxito.
+
+Además, proporciona los siguientes efectos exclusivos.
+
+### Herida leve
+
+**Requisito:** la Guardia del adversario está Firme.
+
+El adversario recibe una **Herida leve** sin necesidad de comprometer previamente su Guardia.
+
+### Herida mortal
+
+**Requisito:** la Guardia del adversario está Comprometida.
+
+El adversario recibe una **Herida mortal**.
+
+El término Herida mortal identifica el nivel de gravedad de la lesión. Sus consecuencias exactas se definirán con las reglas de Heridas y no implican necesariamente que la muerte sea instantánea.
+
+## 4.9. Decisiones después de una victoria
+
+El vencedor elige qué efecto legal desea aplicar.
+
+Por ejemplo, si ambos combatientes tienen Guardia Comprometida y uno obtiene un Éxito, puede elegir entre:
+
+- Recomponer su propia Guardia;
+- causar una Herida grave al adversario.
+
+La primera opción reduce el riesgo futuro. La segunda intenta terminar antes el combate, pero deja al vencedor con Guardia Comprometida.
+
+Si obtiene un Crítico, puede además elegir una Herida mortal si se cumplen sus requisitos.
+
+Las Técnicas pueden ampliar estas posibilidades con opciones como Desarmar, Derribar, controlar un arma, obligar a ceder terreno u otros efectos.
+
+## 4.10. Suerte en combate
+
+La Suerte se utiliza durante los Intercambios mediante **cartas de Suerte**.
+
+El conjunto de prueba utiliza cartas de:
+
+- Suerte +1
+- Suerte +2
+- Suerte +3
+- Suerte +4
+- Suerte +5
+
+La carta representa cuántos puntos de Suerte desea gastar el personaje durante ese Intercambio.
+
+Para jugar una carta debe disponer de suficientes puntos de Suerte. Los puntos indicados se gastan al utilizarla.
+
+### La Suerte y los Críticos
+
+La Suerte **nunca puede crear un Crítico**.
+
+Para que un combatiente obtenga un Crítico deben cumplirse las dos condiciones siguientes:
+
+1. Antes de aplicar Suerte ya debía superar al adversario por +2 o más.
+2. Después de aplicar toda la Suerte utilizada en el Intercambio debe seguir superándolo por +2 o más.
+
+La Suerte puede:
+
+- convertir una derrota en Empate;
+- convertir un Empate o una derrota en Éxito;
+- aumentar el margen de un Éxito;
+- reducir el margen del adversario;
+- impedir que el adversario conserve un Crítico.
+
+Aunque la Suerte haga que el resultado final supere al adversario por +2 o más, el resultado continúa siendo un Éxito si antes de aplicar Suerte no existía ya margen suficiente para Crítico.
+
+Esta regla impide que una reserva de Suerte pueda transformarse directamente en una oportunidad mortal que el personaje no había creado mediante capacidad, situación o Técnicas.
+
+## 4.11. Elección secreta del Intercambio
+
+Al comienzo de cada Intercambio, cada combatiente puede realizar **una única elección secreta**:
+
+- jugar una Técnica activa;
+- jugar una carta de Suerte;
+- no jugar ninguna carta.
+
+Después las elecciones se revelan simultáneamente.
+
+Un personaje no puede utilizar durante el mismo Intercambio una Técnica activa y una carta de Suerte.
+
+La elección entre entrenamiento y Suerte forma parte de la táctica del combate.
+
+Las Técnicas pasivas no ocupan esta elección secreta y pueden utilizarse cuando se cumplan sus condiciones.
+
+## 4.12. Secuencia provisional de un Intercambio
+
+La secuencia de resolución es:
+
+1. **Establecer la situación.** Se determinan Guardia, armas, posición, distancia, terreno, visibilidad, modificadores narrativos y demás circunstancias.
+2. **Elección secreta.** Cada combatiente elige una Técnica activa, una carta de Suerte o ninguna carta.
+3. **Revelación simultánea.**
+4. **Resolver Técnicas activas.** Se comprueban requisitos, contexto, costes, counters y efectos.
+5. **Calcular resultados previos a Suerte.** Se calcula el resultado de cada combatiente sin aplicar la carta de Suerte.
+6. **Comprobar posibilidad de Crítico.** Se registra si algún combatiente posee ya un margen de +2 o superior.
+7. **Aplicar Suerte.**
+8. **Determinar Empate, Éxito o Crítico.**
+9. **Elegir un efecto.** El vencedor elige un único efecto estándar o proporcionado por una Técnica que resulte legal.
+10. **Resolver Técnicas pasivas y reacciones aplicables.** Se aplican cuando su condición concreta se produce.
+11. **Actualizar la situación.** Guardia, terreno, Fatiga, Estrés, Heridas, posición, duración de efectos y Cooldowns pasan a definir el siguiente Intercambio.
+
+Algunas Técnicas pueden alterar este orden mediante una excepción explícita.
+
+# 5. Técnicas marciales
+
+## 5.1. Función de las Técnicas
+
+Las **Técnicas** representan entrenamiento marcial concreto: métodos aprendidos, principios tácticos, respuestas practicadas y capacidades especiales desarrolladas mediante instrucción y experiencia.
+
+Las Técnicas constituyen la principal fuente de profundidad táctica del combate.
+
+Una Técnica puede:
+
+- proporcionar un modificador;
+- permitir un nuevo efecto;
+- modificar los requisitos de un efecto;
+- impedir determinadas opciones del rival;
+- conservar o recuperar Guardia;
+- aprovechar una clase de terreno;
+- reaccionar a un resultado;
+- reaccionar a la Técnica utilizada por el adversario;
+- modificar distancia o posición;
+- permitir acciones normalmente imposibles;
+- transformar el funcionamiento de otra regla.
+
+No todas las Técnicas proporcionan bonificaciones numéricas.
+
+Las Técnicas que alteran reglas, abren posibilidades o dependen del contexto son preferibles a convertir el sistema en una acumulación de modificadores.
+
+## 5.2. Técnicas activas
+
+Una Técnica **activa** debe elegirse expresamente como la elección secreta del personaje durante un Intercambio.
+
+Sólo puede jugarse una Técnica activa por Intercambio.
+
+Jugar una Técnica activa impide jugar una carta de Suerte durante ese mismo Intercambio.
+
+La Técnica se activa durante ese Intercambio, aunque su efecto puede continuar posteriormente si su Duración así lo indica.
+
+Una Técnica activa puede tener:
+
+- requisitos;
+- contexto;
+- coste;
+- Cooldown;
+- duración;
+- riesgos;
+- efectos condicionados al resultado;
+- interacciones con Técnicas del adversario.
+
+## 5.3. Técnicas pasivas
+
+Una Técnica **pasiva** forma permanentemente parte de las capacidades disponibles del personaje.
+
+No ocupa la elección secreta del Intercambio.
+
+El personaje puede utilizarla cuando se cumplan sus condiciones, incluso si durante ese mismo Intercambio ha utilizado una Técnica activa o una carta de Suerte.
+
+Una Técnica pasiva no tiene por qué ser automática, gratuita ni ilimitada.
+
+Puede poseer:
+
+- requisitos;
+- contexto;
+- coste;
+- Cooldown;
+- duración;
+- condiciones de activación.
+
+El personaje decide si desea utilizarla cuando se produzca la situación correspondiente, salvo que la propia Técnica indique expresamente que su efecto es automático.
+
+## 5.4. Costes
+
+Una Técnica puede exigir un coste al utilizarse.
+
+Entre los posibles costes se encuentran:
+
+- Fatiga;
+- Estrés;
+- Suerte;
+- ceder terreno;
+- renunciar al ataque;
+- comprometer la propia Guardia;
+- aceptar una limitación durante el siguiente Intercambio;
+- disponer de una posición, arma o recurso concreto.
+
+El coste se paga cuando indique la Técnica.
+
+Una Técnica no debe considerarse equilibrada simplemente porque exista alguna Técnica capaz de contrarrestarla. Cada Técnica debe ser razonablemente jugable por sí misma.
+
+Especialmente, una Técnica activa que conceda un modificador numérico incondicional necesita una limitación significativa, como coste, Cooldown, riesgo o requisito restrictivo. De otro modo se convertiría en la elección automática de todos los Intercambios.
+
+## 5.5. Cooldown
+
+Cuando una Técnica con **Cooldown** se utiliza durante un Intercambio, no puede utilizarse durante el Intercambio siguiente.
+
+Vuelve a estar disponible en el Intercambio posterior.
+
+Esta regla se aplica tanto a Técnicas activas como pasivas.
+
+El Cooldown representa la imposibilidad de repetir inmediatamente una misma maniobra, patrón, esfuerzo o recurso táctico con plena eficacia.
+
+## 5.6. Contexto y requisitos
+
+Una Técnica sólo puede utilizarse cuando se cumplen sus requisitos físicos y narrativos.
+
+Ejemplos:
+
+- sólo con yari;
+- sólo con un arma de asta;
+- sólo con un arma que posea Gancho;
+- sólo con dos armas;
+- sólo con Guardia Firme;
+- sólo con Guardia Comprometida;
+- sólo con poca iluminación;
+- sólo cuando existe espacio para retroceder;
+- sólo cuando se ocupa una posición ventajosa;
+- sólo cuando el rival utiliza una Técnica de determinada familia;
+- sólo después de obtener un Éxito o un Crítico;
+- sólo cuando el adversario obtiene un determinado resultado.
+
+Si el entorno hace imposible cumplir el requisito, la Técnica no puede utilizarse.
+
+## 5.7. Duración
+
+Una Técnica activa se declara en un Intercambio concreto, pero su efecto puede durar más de ese Intercambio si así lo especifica.
+
+La Técnica debe indicar claramente:
+
+- cuándo comienza su efecto;
+- cuánto dura;
+- qué condiciones pueden finalizarlo;
+- si sigue contando como utilizada a efectos de Cooldown.
+
+## 5.8. Etiquetas funcionales
+
+Las Técnicas pueden utilizar etiquetas descriptivas para facilitar interacciones generales.
+
+Etiquetas provisionales:
+
+- **Ataque**
+- **Defensa**
+- **Movimiento**
+- **Control**
+- **Engaño**
+- **Recuperación**
+- **Presión**
+- **Counter**
+
+Las etiquetas no proporcionan efectos por sí mismas.
+
+Permiten que una Técnica pueda reaccionar a una familia completa de comportamientos sin necesitar una excepción contra cada carta individual.
+
+Por ejemplo, una Técnica puede indicar:
+
+> Si el adversario juega una Técnica de Movimiento, obtienes +2.
+
+## 5.9. Criterio de equilibrio
+
+Una Técnica poderosa no es necesariamente problemática.
+
+Para evaluar una Técnica debe plantearse:
+
+> **Si tengo que combatir contra un adversario que posee esta Técnica, ¿qué puedo intentar hacer?**
+
+Una Técnica puede resultar muy fuerte si existen respuestas razonables mediante:
+
+- otras Técnicas;
+- cambios de terreno;
+- distancia;
+- Fatiga o Estrés;
+- lectura del adversario;
+- coste;
+- Cooldown;
+- uso de otra arma;
+- retirada;
+- preparación previa.
+
+Una Técnica cuya única respuesta sea una carta rara y exclusiva de una escuela concreta probablemente necesita rediseñarse.
+
+Las defensas pueden ser extremadamente fuertes porque normalmente compran tiempo. Los efectos que garantizan progreso ofensivo deben ser mucho más restrictivos.
+
+Existe una diferencia fundamental entre:
+
+- impedir una derrota;
+- obligar a obtener una victoria.
+
+Una Técnica que evita perder puede mantener un combate vivo. Una Técnica que fuerza automáticamente una victoria puede Comprometer Guardia, causar Heridas o terminar un duelo sin dar al adversario una respuesta suficiente.
+
+## 5.10. Técnicas y efectos de resultado
+
+Las Técnicas pueden utilizar Empate, Éxito y Crítico como condiciones.
+
+Ejemplos:
+
+- si obtienes un Éxito, aparece un nuevo efecto;
+- si obtienes un Crítico, puedes utilizar un efecto especial;
+- si el rival obtiene un Éxito, puedes activar una defensa;
+- si el rival obtiene un Crítico, puedes reducir sus consecuencias;
+- si se produce un Empate, puedes ganar posición;
+- si el rival elige Comprometer Guardia, puedes reaccionar.
+
+Un Crítico incluye todas las posibilidades de un Éxito, además de las opciones exclusivas de Crítico.
+
+## 5.11. Técnicas de supervivencia
+
+Algunas Técnicas pueden actuar como último recurso después de que el personaje haya perdido un Intercambio.
+
+Su función principal es **trasladar el problema al futuro**, no borrar las consecuencias del combate.
+
+Pueden, por ejemplo:
+
+- reducir una Herida mortal a grave;
+- reducir una Herida grave a leve;
+- evitar temporalmente una consecuencia a cambio de Fatiga;
+- gastar Suerte para continuar luchando.
+
+Estas Técnicas no deberían:
+
+- convertir automáticamente la derrota en victoria;
+- causar daño al rival;
+- recuperar gratuitamente Guardia;
+- eliminar todos los costes sufridos.
+
+# 6. Terreno, distancia y armas en las Técnicas
+
+## 6.1. El terreno como parte del sistema
+
+El terreno no se representa mediante casillas obligatorias ni distancias tácticas exactas.
+
+Se representa por lo que permite, impide y arriesga.
+
+Una Técnica puede exigir:
+
+- ceder terreno;
+- avanzar;
+- mantener la posición;
+- disponer de espacio lateral;
+- tener una ruta de retirada;
+- contar con obstáculos próximos;
+- conservar una distancia favorable.
+
+Ceder terreno es un coste real dentro de la ficción.
+
+Puede ser trivial en un campo abierto y extremadamente peligroso junto a una pared, una puerta que se intenta defender, una persona que debe protegerse, un precipicio o un espacio reducido.
+
+Una escuela basada en movilidad puede ser muy poderosa al aire libre y perder gran parte de su repertorio dentro de una habitación estrecha.
+
+## 6.2. Propiedades funcionales de las armas
+
+Las armas pueden poseer propiedades funcionales utilizadas como requisitos de Técnicas.
+
+Lista inicial orientativa:
+
+- Arma de asta
+- Larga
+- Corta
+- Punta
+- Filo
+- Contundente
+- Gancho
+- Dos manos
+- Dos armas
+
+No es necesario convertir estas propiedades en una colección de bonificadores permanentes.
+
+Su principal función es indicar qué Técnicas y opciones físicas resultan posibles.
+
+## 6.3. Requisito mínimo y mejoras por arma
+
+Una Técnica puede separar:
+
+1. el requisito mínimo para poder utilizarla;
+2. propiedades adicionales del arma que amplían sus posibilidades.
+
+Ejemplo conceptual:
+
+> **Controlar la distancia**  
+> Requiere: Arma de asta.  
+> Con Punta: permite amenazar durante la aproximación.  
+> Con Gancho: permite interferir o controlar el arma rival.  
+> Con Filo: permite convertir ciertos movimientos laterales en amenazas de corte.
+
+De este modo, un combatiente puede conservar parte de su entrenamiento aunque pierda su arma tradicional.
+
+Un practicante especializado puede utilizar:
+
+- un bō y conservar parte de su repertorio;
+- un yari ordinario y recuperar más opciones;
+- el arma característica de su escuela y disponer del repertorio completo.
+
+El arma ideal debe desbloquear capacidades, no limitarse a conceder números mayores.
+
+# 7. Escuelas marciales — planificación provisional
+
+> Este capítulo define la identidad mecánica prevista para las primeras escuelas. No pretende afirmar que las escuelas históricas utilizaran literalmente las reglas o Técnicas descritas. Se distingue entre la base histórica conocida y la interpretación creada para el juego.
+
+## 7.1. Tenshin Shōden Katori Shintō-ryū
+
+**Base histórica:** tradición de amplio currículo marcial, con entrenamiento en distintas armas y disciplinas.
+
+**Interpretación para el juego:** **versatilidad y adaptación multiarma**.
+
+Su fortaleza no debe consistir en ser la mejor escuela con cada arma, sino en conservar un repertorio útil cuando cambian las circunstancias.
+
+Principios de diseño:
+
+- gran variedad de requisitos de arma;
+- Técnicas que funcionan con familias amplias;
+- capacidad para cambiar de arma;
+- Técnicas que obtienen posibilidades diferentes según las propiedades del arma;
+- buena adaptación a desarme, espacios distintos y armas improvisadas;
+- menor especialización extrema que las escuelas centradas en un arma concreta.
+
+Idea central:
+
+> **Casi siempre existe otra herramienta apropiada.**
+
+## 7.2. Kashima-Shinryū
+
+**Base histórica:** tradición marcial asociada a principios que integran movimiento y quietud, ataque y defensa, y conceptos de apariencia y realidad.
+
+**Interpretación para el juego:** **integración entre ataque y defensa**.
+
+Principios de diseño:
+
+- defensas que conservan amenaza ofensiva;
+- ataques que ayudan simultáneamente a estabilizar la posición propia;
+- Técnicas que transforman un resultado según la respuesta rival;
+- efectos dobles muy condicionados;
+- equilibrio entre presión y conservación.
+
+Idea central:
+
+> **Defender y atacar pueden formar parte de una misma acción.**
+
+## 7.3. Shinkage-ryū / Yagyū Shinkage-ryū
+
+**Base histórica:** tradición surgida durante el siglo XVI y posteriormente desarrollada por la línea Yagyū, con fuerte énfasis en adaptación, lectura e interacción con la iniciativa del adversario.
+
+**Interpretación para el juego:** **lectura, respuesta y counter**.
+
+Principios de diseño:
+
+- predecir qué hará el rival;
+- reaccionar a familias de Técnicas;
+- premiar la lectura correcta;
+- castigar la repetición predecible;
+- conservar opciones ante una ofensiva agresiva;
+- disponer de respuestas cuyo valor depende de la acción enemiga.
+
+Idea central:
+
+> **Dejo que reveles tu intención y utilizo esa decisión contra ti.**
+
+## 7.4. Hōzōin-ryū Sōjutsu
+
+**Base histórica:** tradición de sōjutsu del siglo XVI vinculada al uso de yari y especialmente formas de kamayari o jūmonji-yari capaces de estocar, barrer, enganchar y controlar.
+
+**Interpretación para el juego:** **control de distancia y terreno**.
+
+Principios de diseño:
+
+- mantener al enemigo fuera de su distancia favorable;
+- impedir aproximaciones;
+- obligar a retroceder;
+- perseguir retiradas;
+- controlar o enganchar armas;
+- desbloquear capacidades adicionales con Punta, Filo y Gancho;
+- depender de disponer de espacio suficiente.
+
+Idea central:
+
+> **Yo decido a qué distancia se combate.**
+
+## 7.5. Takenouchi-ryū
+
+**Base histórica:** tradición fundada en el siglo XVI asociada a kogusoku, armas cortas, agarres, captura y combate a distancia muy corta.
+
+**Interpretación para el juego:** **entrada, agarre y combate cerrado**.
+
+Principios de diseño:
+
+- superar la distancia favorable de armas largas;
+- entrar dentro de su alcance útil;
+- agarrar o controlar armas;
+- derribar;
+- inmovilizar;
+- combatir eficazmente en espacios reducidos;
+- utilizar armas cortas;
+- ser especialmente peligrosa cuando ya se ha cerrado la distancia.
+
+Idea central:
+
+> **Quiero estar demasiado cerca para que utilices tu arma como deseas.**
+
+## 7.6. Taisha-ryū
+
+**Base histórica:** tradición surgida hacia el final del Sengoku, vinculada a Shinkage y conocida por un repertorio marcial pragmático que incluye movimientos engañosos y recursos diversos.
+
+**Interpretación para el juego:** **ofensiva, engaño y presión**.
+
+Principios de diseño:
+
+- crear Guardia Comprometida;
+- castigar defensas previsibles;
+- fintas y engaños;
+- presión continuada;
+- sacrificar seguridad propia para aumentar la amenaza;
+- pocas herramientas para recuperarse cuando el adversario rompe su ritmo.
+
+Idea central:
+
+> **Te presiono hasta que dejas una apertura.**
+
+## 7.7. Tradición clandestina de Iga
+
+**Base histórica:** Iga no se trata como una única «escuela ninja». La región reunió familias, guerreros y comunidades con experiencia en guerra irregular, infiltración, operaciones nocturnas, uso del terreno y otras funciones que posteriormente contribuyeron a su reputación.
+
+**Interpretación para el juego:** **entorno, sorpresa, engaño y ruptura del combate**.
+
+Se trata de una síntesis lúdica inspirada históricamente, no de una ryūha histórica única.
+
+Principios de diseño:
+
+- aprovechar oscuridad y obstáculos;
+- crear o explotar sorpresa;
+- cambiar posición;
+- utilizar terreno preparado;
+- retirarse y romper contacto;
+- engañar durante una retirada;
+- improvisar herramientas;
+- evitar enfrentamientos frontales desfavorables.
+
+Idea central:
+
+> **Si estoy obligado a combatir limpiamente, mi plan ya ha fallado.**
+
+## 7.8. Equilibrio entre escuelas
+
+Las escuelas se equilibran como **conjuntos de opciones**, no necesariamente Técnica por Técnica.
+
+Una escuela puede poseer una defensa excepcional si carece de herramientas equivalentes para presionar.
+
+Otra puede resultar extremadamente peligrosa cuando toma la iniciativa, pero tener dificultades para recuperar Guardia.
+
+Las combinaciones especialmente poderosas pueden mantenerse separadas mediante el acceso a escuelas diferentes.
+
+Los counters importantes deben poder aparecer en varias escuelas o depender también de recursos universales como terreno, distancia, Fatiga, Suerte o lectura del adversario.
+
+## 7.9. Cronología
+
+No todas las escuelas existen durante todo el periodo Sengoku.
+
+La disponibilidad debe depender de:
+
+- fecha de la campaña;
+- región;
+- maestros y redes de enseñanza;
+- posición y relaciones del personaje.
+
+El manual definitivo deberá incluir cronologías y condiciones de acceso suficientemente precisas para cada tradición.
+
+# 8. Técnicas provisionales de prueba
+
+> **Todo el contenido de este capítulo es provisional.** Estas Técnicas existen para probar el motor de combate y las identidades de escuela. Sus valores, costes, Cooldowns, nombres y efectos se revisarán antes de considerarlas definitivas.
+
+## 8.1. Técnicas generales
+
+### Defensa Activa
+
+**Tipo:** Activa  
+**Etiquetas:** Defensa  
+**Contexto:** cualquier Intercambio.  
+**Efecto:** el personaje renuncia a cualquier efecto ofensivo durante el Intercambio y obtiene **+2 al resultado**.  
+**Coste:** si no gana el Intercambio, sufre 1 nivel de Fatiga.  
+**Cooldown:** sí.
+
+### Romper distancia
+
+**Tipo:** Activa  
+**Etiquetas:** Defensa, Movimiento, Recuperación  
+**Contexto:** Guardia Comprometida y posibilidad real de ceder terreno.  
+**Efecto:** recupera automáticamente Guardia Firme y cede terreno. Renuncia a efectos ofensivos durante ese Intercambio.  
+**Coste:** ceder terreno.  
+**Cooldown:** sí.
+
+### Imponer físico
+
+**Tipo:** Activa  
+**Etiquetas:** Defensa, Recuperación  
+**Contexto:** Guardia Comprometida.  
+**Efecto:** recupera automáticamente Guardia Firme. Renuncia a efectos ofensivos durante ese Intercambio.  
+**Coste:** 1 Fatiga.  
+**Cooldown:** no.
+
+### Ira
+
+**Tipo:** Activa  
+**Etiquetas:** Recuperación  
+**Contexto:** Guardia Comprometida.  
+**Efecto:** recupera automáticamente Guardia Firme. Renuncia a efectos ofensivos durante ese Intercambio.  
+**Coste:** 1 Estrés.  
+**Cooldown:** sí.
+
+### Ataque comprometido
+
+**Tipo:** Activa  
+**Etiquetas:** Ataque  
+**Contexto:** cualquier Intercambio en el que el personaje pueda atacar normalmente.  
+**Efecto:** obtiene **+1 al resultado**.  
+**Coste:** sufre **1 Fatiga** cada vez que utiliza la Técnica.  
+**Riesgo:** si no gana el Intercambio, su Guardia queda Comprometida. Si ya estaba Comprometida, permanece así.  
+**Cooldown:** no.
+
+El coste de Fatiga se paga siempre. La Técnica no se vuelve gratuita por tener ya Guardia Comprometida.
+
+### Finta
+
+**Tipo:** Activa  
+**Etiquetas:** Engaño  
+**Contexto:** cualquier Intercambio.  
+**Efecto:** si el rival juega una Técnica activa de Defensa, obtiene **+2 al resultado**. Si el rival juega cualquier otra Técnica, Suerte o ninguna carta, sufre **−1 al resultado**.  
+**Cooldown:** sí.
+
+### Defensa Perfecta
+
+**Tipo:** Pasiva  
+**Etiquetas:** Defensa  
+**Contexto:** Guardia Firme; el adversario obtiene un Crítico.  
+**Efecto:** el rival no puede elegir Herida leve como efecto de ese Crítico. Puede utilizar cualquier otro efecto legal.  
+**Coste:** ninguno.  
+**Cooldown:** sí.
+
+Esta Técnica puede utilizarse aunque el personaje haya jugado una Técnica activa o una carta de Suerte durante el mismo Intercambio.
+
+### Equilibrio
+
+**Tipo:** Pasiva  
+**Etiquetas:** Defensa, Movimiento  
+**Contexto:** Guardia Firme; el personaje pierde un Intercambio por exactamente 1.  
+**Efecto:** puede ceder terreno para impedir que el rival utilice Comprometer Guardia contra él. El Éxito del rival no desaparece y puede utilizar otro efecto si dispone de uno legal.  
+**Coste:** ceder terreno.  
+**Cooldown:** sí.
+
+### Resiliencia
+
+**Tipo:** Pasiva  
+**Contexto:** permanente.  
+**Efecto provisional:** la Fatiga no compromete automáticamente la Guardia hasta alcanzar Agotamiento, en lugar del umbral normal anterior.  
+**Coste:** ninguno.  
+**Cooldown:** no.
+
+Los niveles exactos dependerán de las reglas definitivas de Fatiga.
+
+### Último aliento
+
+**Tipo:** Pasiva  
+**Contexto:** el personaje fuera a recibir una Herida grave o mortal.  
+**Efecto:** puede gastar 2 puntos de Suerte para reducir la Herida un grado:
+- Herida mortal → Herida grave.
+- Herida grave → Herida leve.
+
+La derrota permanece y la Guardia no mejora.  
+**Coste:** 2 Suerte.  
+**Cooldown:** sí.
+
+## 8.2. Primeras Técnicas de Katori Shintō-ryū
+
+### Cambio de arma
+
+**Tipo:** Pasiva  
+**Contexto:** existe otra arma accesible que el personaje sabe utilizar.  
+**Efecto:** puede cambiar de arma sin que el cambio comprometa por sí mismo la Guardia ni consuma el efecto obtenido en el Intercambio.  
+**Cooldown:** sí.
+
+### Intercepción adaptable
+
+**Tipo:** Activa  
+**Etiquetas:** Defensa, Control  
+**Requisito:** arma.  
+**Efecto provisional:** +1 al resultado. El arma puede desbloquear posibilidades diferentes:
+- arma larga: posibilidad de obligar a ceder terreno;
+- Gancho: posibilidad de Desarmar con Crítico;
+- dos armas: opciones adicionales de control y recuperación pendientes de concretar.
+
+### Dos hojas
+
+**Tipo:** Activa  
+**Etiquetas:** Defensa, Ataque  
+**Requisito:** dos armas apropiadas.  
+**Efecto provisional:** si el rival juega una Técnica activa de Ataque, +2 al resultado.  
+**Cooldown:** sí.
+
+### Siempre hay otra forma
+
+**Tipo:** Pasiva  
+**Contexto:** una Técnica queda impedida exclusivamente por el arma concreta utilizada.  
+**Efecto:** el personaje puede emplear otra arma accesible que posea realmente las propiedades mínimas exigidas. No crea propiedades inexistentes.
+
+## 8.3. Primeras Técnicas de Kashima-Shinryū
+
+### Ataque y defensa como uno
+
+**Tipo:** Pasiva  
+**Contexto:** el personaje obtiene un Crítico mientras su Guardia está Comprometida.  
+**Efecto provisional:** puede elegir dos efectos estándar no lesivos en lugar de uno. No puede producir dos Heridas ni combinar una Herida con otro efecto.  
+**Cooldown:** sí.
+
+### Vacío y realidad
+
+**Tipo:** Activa  
+**Etiquetas:** Engaño, Counter  
+**Efecto provisional:** si el rival juega una Técnica activa, +2 al resultado; si juega Suerte o ninguna carta, −1.  
+**Cooldown:** sí.
+
+### Movimiento y quietud
+
+**Tipo:** Activa  
+**Etiquetas:** Defensa  
+**Efecto:** renuncia a efectos que perjudiquen directamente al adversario y obtiene +2 al resultado.  
+**Coste:** si no gana, 1 Fatiga.  
+**Cooldown:** sí.
+
+### Equilibrio de Kashima
+
+**Tipo:** Pasiva  
+**Etiquetas:** Defensa, Movimiento  
+**Contexto:** pierde por exactamente 1 con Guardia Firme.  
+**Efecto provisional:** puede ceder terreno para conservar Guardia Firme.  
+**Cooldown:** sí.
+
+## 8.4. Primeras Técnicas de Shinkage-ryū
+
+### Leer la intención
+
+**Tipo:** Activa  
+**Etiquetas:** Counter  
+**Declaración:** al jugarla se elige en secreto una etiqueta entre Ataque, Defensa, Movimiento o Engaño.  
+**Efecto provisional:** si la Técnica rival posee esa etiqueta, +2. Si no, −1. Suerte o ninguna carta cuentan como predicción fallida.  
+**Cooldown:** no.
+
+### Reconocer el patrón
+
+**Tipo:** Pasiva  
+**Contexto:** el rival repite la misma Técnica activa que utilizó la última vez que la tuvo disponible.  
+**Efecto provisional:** +1 contra esa Técnica. El efecto desaparece cuando cambia de Técnica.
+
+### Ceder sin quebrarse
+
+**Tipo:** Pasiva  
+**Etiquetas:** Defensa, Movimiento  
+**Contexto:** Guardia Firme; pierde por 1.  
+**Efecto provisional:** cede terreno y conserva Guardia Firme.  
+**Coste provisional:** 1 Estrés si ya se utilizó anteriormente durante el mismo combate.  
+**Cooldown:** sí.
+
+### Muto
+
+**Tipo:** Pasiva  
+**Etiquetas:** Counter, Control  
+**Contexto:** el personaje está desarmado frente a un adversario con espada y puede físicamente entrar en contacto con él.  
+**Efecto provisional:** puede participar normalmente en el Intercambio en lugar de considerarse automáticamente indefenso. Si obtiene un Crítico, puede aparecer como efecto especial Desarmar.  
+**Bonificación:** ninguna.
+
+## 8.5. Primeras Técnicas de Hōzōin-ryū
+
+### Mantener a raya
+
+**Tipo:** Activa  
+**Etiquetas:** Control, Defensa  
+**Requisito:** Arma de asta.  
+**Contexto:** existe espacio suficiente y el rival necesita aproximarse para utilizar eficazmente su arma.  
+**Efecto provisional:** +1; si el rival utiliza una Técnica de Movimiento destinada a acercarse, +2 en lugar de +1.  
+**Cooldown:** no.
+
+### Barrido
+
+**Tipo:** Activa  
+**Etiquetas:** Control, Movimiento  
+**Requisito:** Arma de asta.  
+**Efecto provisional:** con Éxito o Crítico permite elegir obligar al rival a ceder terreno.
+- Con Filo pueden añadirse consecuencias ofensivas al intento de mantener posición.
+- Con Gancho, un Crítico puede permitir Desarmar.
+
+Los efectos exactos deben revisarse.
+
+### Enganchar el arma
+
+**Tipo:** Pasiva  
+**Etiquetas:** Counter, Control  
+**Requisito:** Gancho o Kama.  
+**Contexto:** el rival utiliza una Técnica activa dependiente de su arma y el personaje gana el Intercambio.  
+**Efecto provisional:** puede elegir Controlar el arma. Mientras continúe el control, el rival no puede utilizar Técnicas activas que dependan de esa arma sin liberarla, cambiarla o romper el contacto.  
+**Cooldown:** sí.
+
+### Perseguir la retirada
+
+**Tipo:** Pasiva  
+**Etiquetas:** Control, Movimiento  
+**Requisito:** Arma de asta y espacio suficiente.  
+**Contexto:** el rival utiliza una Técnica cuyo coste sea ceder terreno.  
+**Efecto provisional:** el personaje puede avanzar con él. El rival paga el coste de ceder terreno, pero no aumenta automáticamente la distancia.  
+**Cooldown:** sí.
+
+## 8.6. Primeras Técnicas de Takenouchi-ryū
+
+### Entrar bajo el arma
+
+**Tipo:** Activa  
+**Etiquetas:** Movimiento, Counter  
+**Contexto:** el rival utiliza un arma larga y controla una distancia favorable.  
+**Efecto provisional:** si el rival juega una Técnica de Control basada en esa arma, +2. Si gana puede disponer del efecto especial Cerrar distancia.  
+**Cooldown:** sí.
+
+### Kogusoku
+
+**Tipo:** Pasiva  
+**Etiquetas:** Control  
+**Requisito:** arma corta apropiada.  
+**Contexto:** distancia cerrada y Guardia rival Comprometida.  
+**Efecto provisional:** al obtener un Éxito puede elegir Inmovilizar en lugar de causar una Herida grave.
+
+### Derribo
+
+**Tipo:** Activa  
+**Etiquetas:** Control  
+**Contexto:** distancia cerrada.  
+**Efecto provisional:** no concede bonificación. Si obtiene al menos Éxito permite elegir Derribar.  
+**Cooldown:** no.
+
+Las consecuencias exactas de Derribado quedan pendientes.
+
+### Aferrarse al combate
+
+**Tipo:** Pasiva  
+**Etiquetas:** Control  
+**Contexto:** el rival intenta ceder terreno para romper la distancia cerrada.  
+**Efecto provisional:** sufrir 1 Fatiga permite impedir que ese desplazamiento, por sí solo, rompa el contacto.  
+**Cooldown:** sí.
+
+## 8.7. Primeras Técnicas de Taisha-ryū
+
+### Asalto temerario
+
+**Tipo:** Activa  
+**Etiquetas:** Ataque  
+**Efecto provisional:** +2 al resultado.  
+**Riesgo:** si no gana, su Guardia queda Comprometida. Si ya estaba Comprometida, sufre además 1 Fatiga.  
+**Cooldown:** sí.
+
+### Ataque engañoso
+
+**Tipo:** Activa  
+**Etiquetas:** Ataque, Engaño  
+**Efecto provisional:** si el rival juega una Técnica de Defensa o Counter, +2; si juega Suerte, ninguna carta o una Técnica de otra familia, −1.  
+**Cooldown:** sí.
+
+### Sin respiro
+
+**Tipo:** Pasiva  
+**Etiquetas:** Ataque, Presión  
+**Contexto:** el rival utilizó el efecto de su victoria anterior para Recomponer Guardia.  
+**Efecto provisional:** +1 al siguiente Intercambio si el personaje continúa atacándole inmediatamente. La oportunidad desaparece si realiza otra acción.
+
+### Golpe de remate
+
+**Tipo:** Activa  
+**Etiquetas:** Ataque  
+**Requisito provisional:** arma cortante.  
+**Contexto:** Guardia rival Comprometida.  
+**Efecto provisional:** +2 al resultado.  
+**Riesgo:** si no gana, la Guardia propia queda Comprometida.  
+**Cooldown:** sí.
+
+## 8.8. Primeras Técnicas de la tradición clandestina de Iga
+
+### Romper contacto
+
+**Tipo:** Activa  
+**Etiquetas:** Defensa, Recuperación, Movimiento  
+**Requisito:** existe una dirección razonable hacia la que retirarse.  
+**Efecto provisional:** renuncia a efectos ofensivos, recupera automáticamente Guardia Firme y cede terreno. El resultado del rival continúa resolviéndose normalmente.  
+**Cooldown:** sí.
+
+### Retirada falsa
+
+**Tipo:** Activa  
+**Etiquetas:** Engaño, Movimiento  
+**Efecto provisional:** cede terreno. Si el rival ha elegido una Técnica de Movimiento, Presión o destinada a perseguirle, +2 al resultado. Si no le persigue, no obtiene bonificación.  
+**Cooldown:** sí.
+
+### Desaparecer entre obstáculos
+
+**Tipo:** Pasiva  
+**Etiquetas:** Movimiento, Recuperación  
+**Contexto:** oscuridad, vegetación, edificios, humo u otro entorno que permita romper visualmente el contacto.  
+**Efecto provisional:** cuando utiliza un Éxito para Recomponer Guardia puede además terminar el enfrentamiento inmediato si existe una vía real de retirada.  
+**Cooldown:** sí.
+
+### Herramienta oportunista
+
+**Tipo:** Pasiva  
+**Contexto:** se utiliza un objeto improvisado que posee realmente una propiedad física útil.  
+**Efecto provisional:** el objeto puede satisfacer requisitos de Técnicas basados en esa propiedad. Un palo largo puede contar como Arma de asta; una hoz puede proporcionar Gancho; una herramienta pesada puede proporcionar Contundente. No adquiere propiedades que físicamente no posee.  
+**Cooldown:** no.
+
+## 8.9. Objetivos de las pruebas
+
+Antes de ampliar el catálogo de Técnicas deben probarse enfrentamientos que permitan responder, entre otras, a las siguientes preguntas:
+
+- ¿Un combatiente claramente superior resulta realmente difícil de derrotar en un duelo justo?
+- ¿Las ventajas narrativas permiten que un personaje inferior pueda vencer mediante preparación inteligente?
+- ¿La Suerte resulta útil sin convertirse en una forma de comprar Críticos?
+- ¿La elección secreta entre Técnica activa y Suerte produce decisiones reales?
+- ¿Las Técnicas pasivas añaden profundidad sin generar combinaciones inevitables?
+- ¿La Guardia cambia de manos con suficiente frecuencia sin convertirse en una barra de puntos de vida?
+- ¿Un personaje con Guardia Comprometida dispone de decisiones interesantes entre recuperar seguridad y atacar?
+- ¿Las defensas fuertes compran tiempo en lugar de garantizar victorias?
+- ¿Las escuelas producen estilos de combate reconociblemente diferentes?
+- ¿Existen respuestas razonables contra las Técnicas más poderosas?
+- ¿El terreno cambia de verdad el valor de las Técnicas?
+- ¿Los costes de Fatiga, Estrés, Suerte y terreno resultan comparables?
+- ¿Aparecen bucles en los que una Técnica se convierta en la opción correcta de todos los Intercambios?
+
