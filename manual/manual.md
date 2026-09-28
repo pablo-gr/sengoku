@@ -1336,10 +1336,11 @@ Las consecuencias exactas de Derribado quedan pendientes.
 
 ### Sin respiro
 
-**Tipo:** Pasiva  
+**Tipo:** Activa  
 **Etiquetas:** Ataque, Presión  
-**Contexto:** el rival utilizó el efecto de su victoria anterior para Recomponer Guardia.  
-**Efecto provisional:** +1 al siguiente Intercambio si el personaje continúa atacándole inmediatamente. La oportunidad desaparece si realiza otra acción.
+**Contexto:** el rival utilizó el efecto de su victoria en el Intercambio inmediatamente anterior para Recomponer Guardia.  
+**Efecto provisional:** el personaje obtiene **+1 al resultado** del presente Intercambio. La Técnica sólo puede utilizarse inmediatamente después de que el rival se haya recompuesto; si no se utiliza entonces, la oportunidad se pierde.  
+**Cooldown:** sí.
 
 ### Mantener la presión
 
