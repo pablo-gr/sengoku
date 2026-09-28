@@ -671,6 +671,8 @@ Esta regla se aplica tanto a Técnicas activas como pasivas.
 
 El Cooldown representa la imposibilidad de repetir inmediatamente una misma maniobra, patrón, esfuerzo o recurso táctico con plena eficacia.
 
+Como criterio general de diseño, **la mayoría de las Técnicas activas deben tener Cooldown**. La ausencia de Cooldown debe justificarse por un coste acumulativo, un riesgo importante o una limitación equivalente que impida convertir la Técnica en la elección automática de todos los Intercambios.
+
 ## 5.6. Contexto y requisitos
 
 Una Técnica sólo puede utilizarse cuando se cumplen sus requisitos físicos y narrativos.
@@ -1149,11 +1151,14 @@ La derrota permanece y la Guardia no mejora.
 
 **Tipo:** Activa  
 **Etiquetas:** Defensa, Control  
-**Requisito:** arma.  
-**Efecto provisional:** +1 al resultado. El arma puede desbloquear posibilidades diferentes:
-- arma larga: posibilidad de obligar a ceder terreno;
+**Requisito:** arma apropiada.  
+**Efecto provisional:** no proporciona bonificación al resultado. Si el personaje obtiene Éxito o Crítico, las propiedades del arma utilizada pueden desbloquear efectos especiales adicionales:
+- arma Larga: posibilidad de obligar a ceder terreno;
 - Gancho: posibilidad de Desarmar con Crítico;
 - dos armas: opciones adicionales de control y recuperación pendientes de concretar.
+
+La Técnica amplía las opciones disponibles si el personaje consigue imponerse, pero no aumenta sus posibilidades de ganar el Intercambio.  
+**Cooldown:** sí.
 
 ### Dos hojas
 
@@ -1182,7 +1187,8 @@ La derrota permanece y la Guardia no mejora.
 
 **Tipo:** Activa  
 **Etiquetas:** Engaño, Counter  
-**Efecto provisional:** si el rival juega una Técnica activa, +2 al resultado; si juega Suerte o ninguna carta, −1.  
+**Contexto:** cualquier Intercambio.  
+**Efecto provisional:** si el rival utiliza una Técnica ofensiva, el personaje obtiene **+1 al resultado**. Si el rival no utiliza una Técnica ofensiva, la Técnica no produce ningún beneficio.  
 **Cooldown:** sí.
 
 ### Movimiento y quietud
@@ -1240,10 +1246,10 @@ La derrota permanece y la Guardia no mejora.
 
 **Tipo:** Activa  
 **Etiquetas:** Control, Defensa  
-**Requisito:** Arma de asta.  
-**Contexto:** existe espacio suficiente y el rival necesita aproximarse para utilizar eficazmente su arma.  
-**Efecto provisional:** +1; si el rival utiliza una Técnica de Movimiento destinada a acercarse, +2 en lugar de +1.  
-**Cooldown:** no.
+**Requisito:** Arma de asta o arma Larga.  
+**Contexto:** existe espacio suficiente para aprovechar correctamente el alcance del arma.  
+**Efecto provisional:** si el rival utiliza una Técnica ofensiva, el personaje obtiene **+1 al resultado**. Si el rival no utiliza una Técnica ofensiva, no obtiene bonificación y, si gana el Intercambio, su resultado se considera **Empate**.  
+**Cooldown:** sí.
 
 ### Barrido
 
@@ -1316,8 +1322,9 @@ Las consecuencias exactas de Derribado quedan pendientes.
 
 **Tipo:** Activa  
 **Etiquetas:** Ataque  
-**Efecto provisional:** +2 al resultado.  
-**Riesgo:** si no gana, su Guardia queda Comprometida. Si ya estaba Comprometida, sufre además 1 Fatiga.  
+**Contexto:** Guardia Firme.  
+**Efecto provisional:** el personaje obtiene **+1 al resultado**.  
+**Riesgo:** si termina el Intercambio en Empate o Derrota, su Guardia pasa a estar **Comprometida**. Si gana, conserva su estado de Guardia normal y resuelve el efecto de su victoria.  
 **Cooldown:** sí.
 
 ### Ataque engañoso
@@ -1334,14 +1341,13 @@ Las consecuencias exactas de Derribado quedan pendientes.
 **Contexto:** el rival utilizó el efecto de su victoria anterior para Recomponer Guardia.  
 **Efecto provisional:** +1 al siguiente Intercambio si el personaje continúa atacándole inmediatamente. La oportunidad desaparece si realiza otra acción.
 
-### Golpe de remate
+### Mantener la presión
 
 **Tipo:** Activa  
-**Etiquetas:** Ataque  
-**Requisito provisional:** arma cortante.  
-**Contexto:** Guardia rival Comprometida.  
-**Efecto provisional:** +2 al resultado.  
-**Riesgo:** si no gana, la Guardia propia queda Comprometida.  
+**Etiquetas:** Ataque, Presión, Counter  
+**Contexto:** el rival tiene la Guardia **Comprometida**.  
+**Efecto provisional:** el personaje obtiene **+2 al resultado** y el rival no puede recuperar Guardia durante este Intercambio.  
+**Limitación:** si el personaje gana el Intercambio, el resultado se considera **Empate**. Por tanto, la Técnica puede impedir que un rival comprometido se recomponga, pero no puede utilizarse para obtener progreso ofensivo ni causar una Herida.  
 **Cooldown:** sí.
 
 ## 8.8. Primeras Técnicas de la tradición clandestina de Iga
