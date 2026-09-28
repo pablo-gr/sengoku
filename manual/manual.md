@@ -1331,7 +1331,8 @@ Las consecuencias exactas de Derribado quedan pendientes.
 
 **Tipo:** Activa  
 **Etiquetas:** Ataque, Engaño  
-**Efecto provisional:** si el rival juega una Técnica de Defensa o Counter, +2; si juega Suerte, ninguna carta o una Técnica de otra familia, −1.  
+**Contexto:** cualquier Intercambio.  
+**Efecto provisional:** si el rival utiliza una Técnica de Defensa o Counter, el personaje obtiene **+1 al resultado**. Si el rival utiliza cualquier otra Técnica, Suerte o ninguna carta, sufre **−1 al resultado**.  
 **Cooldown:** sí.
 
 ### Sin respiro
