@@ -1440,7 +1440,7 @@ No puede utilizarse una Técnica activa y una carta de Suerte en el mismo Interc
 
 Las Técnicas pasivas no ocupan esta elección y pueden activarse cuando se cumplan sus condiciones.
 
-Las reglas generales de Técnicas se encuentran en el capítulo 10 y el catálogo de Técnicas permanece al final del manual.
+Las reglas generales de Técnicas se encuentran en el capítulo 11 y el catálogo de Técnicas permanece al final del manual.
 
 ## 6.18. Secuencia de un Intercambio
 
@@ -2727,9 +2727,334 @@ Una ruta observada durante varios días puede convertir una dificultad 7 en una 
 
 Una alarma previa puede hacer exactamente lo contrario.
 
-# 10. Reglas de Técnicas marciales
+# 10. Equipo y armas
 
-## 10.1. Función de las Técnicas
+El equipo importa por lo que permite hacer.
+
+Una herramienta adecuada puede:
+
+- hacer posible una acción;
+- reducir su dificultad;
+- conceder un modificador narrativo;
+- reducir el tiempo necesario;
+- evitar una consecuencia;
+- permitir utilizar una Técnica.
+
+El equipo no proporciona bonificaciones automáticas sólo por figurar en la ficha.
+
+## 10.1. Disponibilidad y recursos
+
+La disponibilidad de un objeto depende de:
+
+- fecha;
+- región;
+- posición social;
+- contactos;
+- riqueza;
+- autoridad;
+- situación militar;
+- tiempo disponible.
+
+En lugar de utilizar una tabla universal de precios para todo el periodo Sengoku, el manual clasifica los bienes de forma orientativa:
+
+- **Común:** puede conseguirse normalmente en el entorno adecuado.
+- **Especializado:** requiere un artesano, mercado o contacto apropiado.
+- **Militar:** su disponibilidad depende del servicio, guerra, señor o mercado de armas.
+- **Restringido:** obtenerlo puede exigir autoridad, relaciones, robo, contrabando o una explicación creíble.
+
+Un objeto puede cambiar de categoría según el lugar.
+
+Una yari puede ser relativamente corriente en un ejército y muy llamativa en manos de un viajero que intenta pasar por comerciante.
+
+Un teppō puede ser raro o inexistente en una campaña temprana y relativamente accesible en determinados ejércitos décadas después.
+
+## 10.2. Carga y transporte
+
+No se utilizan puntos de carga.
+
+El director considera:
+
+- peso;
+- volumen;
+- facilidad para sujetar el objeto;
+- distancia recorrida;
+- terreno;
+- duración del esfuerzo.
+
+Llevar una espada, una bolsa y provisiones ordinarias no requiere cálculos.
+
+Transportar una armadura completa, varias armas largas, un herido o una carga pesada puede producir:
+
+- Fatiga;
+- penalizadores;
+- menor velocidad;
+- imposibilidad de trepar o nadar con normalidad;
+- necesidad de animales, porteadores o carros.
+
+## 10.3. Principio general de las armas
+
+Las armas cuerpo a cuerpo **no poseen un valor de daño propio**.
+
+Una katana no causa automáticamente más daño que una yari o un tantō.
+
+La gravedad de la Herida depende de:
+
+- el resultado del combate;
+- el estado de Guardia;
+- la posición;
+- la oportunidad creada;
+- la zona alcanzada;
+- la protección disponible.
+
+Las armas se diferencian principalmente por:
+
+- distancia favorable;
+- propiedades físicas;
+- facilidad para ocultarlas;
+- necesidad de espacio;
+- capacidad para desbloquear Técnicas;
+- situaciones concretas donde proporcionan una ventaja o desventaja.
+
+## 10.4. Propiedades de armas
+
+Las siguientes propiedades pueden utilizarse como requisitos de Técnicas o para interpretar la ficción:
+
+- **Arma de asta:** utiliza un asta larga como parte fundamental de su manejo.
+- **Larga:** diseñada para controlar una distancia larga.
+- **Corta:** apropiada para combate a distancia Corta.
+- **Punta:** apta para estocadas.
+- **Filo:** apta para cortes.
+- **Contundente:** causa trauma principalmente mediante impacto.
+- **Gancho:** puede enganchar arma, miembro, ropa u objeto cuando la forma lo permite.
+- **Dos manos:** requiere normalmente ambas manos para emplearse de forma eficaz.
+- **Dos armas:** configuración en la que se utilizan dos armas compatibles.
+- **Ocultable:** puede esconderse razonablemente bajo ropa o entre equipo ordinario.
+- **Improvisada:** no fue diseñada como arma y su utilidad depende de su forma real.
+
+Las propiedades no conceden bonificadores por sí solas.
+
+## 10.5. Armas cuerpo a cuerpo habituales
+
+| Arma | Distancia apropiada | Propiedades habituales | Observaciones |
+|---|---|---|---|
+| Tantō / cuchillo | Corta | Corta, Punta, Filo, Ocultable | Muy útil cuando no existe espacio para armas largas |
+| Wakizashi / espada corta | Media | Punta, Filo | Más manejable que una espada larga en espacios reducidos |
+| Katana / uchigatana | Media | Punta, Filo | Espada de uso general; puede emplearse con una o dos manos según situación |
+| Tachi | Media | Punta, Filo | Espada asociada especialmente a contextos militares y de caballería |
+| Yari | Larga | Arma de asta, Larga, Punta | Gran control de alcance; necesita espacio |
+| Kamayari / jūmonji-yari | Larga | Arma de asta, Larga, Punta, Gancho | Permite interacciones adicionales de enganche y control |
+| Naginata | Larga | Arma de asta, Larga, Punta, Filo, Dos manos | Combina alcance con capacidad de corte |
+| Bō | Larga | Arma de asta, Larga, Contundente, Dos manos | Puede improvisarse a partir de ciertos bastones largos |
+| Kama / hoz | Corta | Corta, Filo, Gancho | Herramienta que puede emplearse como arma |
+| Garrote / herramienta pesada | Corta o Media | Contundente, Improvisada | La distancia depende del tamaño real |
+
+La tabla describe configuraciones habituales. Un arma concreta puede poseer propiedades distintas por su forma.
+
+## 10.6. Armas improvisadas
+
+Un objeto sólo cuenta como arma según lo que físicamente pueda hacer.
+
+Ejemplos:
+
+- una vara larga puede funcionar como Arma de asta y Contundente;
+- una hoz puede proporcionar Filo y Gancho;
+- un martillo puede proporcionar Contundente;
+- una cuerda no se convierte en arma de asta porque una Técnica la necesite.
+
+El director puede aplicar un penalizador cuando el objeto sea incómodo, frágil o claramente peor que un arma diseñada para la tarea.
+
+## 10.7. Arco
+
+El **yumi** utiliza la Habilidad **Arco**.
+
+Características principales:
+
+- arma letal a distancia;
+- silenciosa comparada con un arma de fuego;
+- permite realizar nuevos disparos con relativa rapidez;
+- su eficacia depende de distancia, visibilidad, viento, posición y habilidad;
+- la armadura puede proporcionar protección cuando cubre la zona alcanzada.
+
+Un impacto limpio causa normalmente una Herida grave según las reglas de ataques a distancia.
+
+El arco también puede utilizarse desde posiciones preparadas o a caballo cuando la formación del personaje lo justifique.
+
+## 10.8. Teppō y armas de fuego
+
+Las armas de mecha utilizan **Armas de fuego**.
+
+Su disponibilidad depende fuertemente de la fecha y región de la campaña. Las armas de fuego portuguesas llegaron a Japón a mediados del siglo XVI y se difundieron con rapidez en las décadas posteriores. citeturn112031search2turn112031search1
+
+Características principales:
+
+- arma letal a distancia;
+- muy ruidosa;
+- produce humo;
+- revela con facilidad la posición del tirador;
+- necesita tiempo para recargar;
+- la mecha y la pólvora crean problemas bajo lluvia o humedad;
+- puede ser especialmente eficaz contra protección corporal.
+
+A distancia eficaz, un teppō puede **ignorar el +1 defensivo de una armadura** cuando el director considere que el disparo posee energía y ángulo suficientes para que la protección no proporcione una ventaja fiable.
+
+Esto no significa que toda bala atraviese cualquier armadura. El tipo de protección, distancia, ángulo y arma concreta siguen formando parte de la ficción.
+
+### Recarga
+
+Recargar un teppō requiere un intervalo significativo.
+
+En una escena donde el tiempo importa, el personaje no puede disparar repetidamente como si el arma estuviera siempre preparada.
+
+La preparación previa, ayudantes, armas adicionales y formaciones militares pueden cambiar radicalmente la cadencia de fuego.
+
+## 10.9. Armas arrojadizas
+
+Un cuchillo, piedra, lanza u objeto semejante puede arrojarse cuando resulte físicamente razonable.
+
+Se utiliza la Habilidad correspondiente al objeto si el lanzamiento forma parte natural de su entrenamiento. En caso contrario puede utilizarse **Destreza + Atletismo** u otra combinación apropiada.
+
+Las armas improvisadas y objetos pequeños tienen un alcance limitado y pueden sufrir penalizadores importantes.
+
+No existe una categoría especial de armas arrojadizas «ninja» con reglas superiores a las demás.
+
+## 10.10. Armaduras
+
+Las armaduras utilizan las reglas del capítulo de Combate.
+
+Cuando una protección resulta eficaz contra una amenaza, concede normalmente **+1 defensivo**.
+
+Este bonificador no se acumula pieza por pieza.
+
+La diferencia entre protecciones ligeras, parciales y completas se representa sobre todo mediante **cobertura y contexto**.
+
+### Protección parcial
+
+Ejemplos:
+
+- casco;
+- protecciones de brazos;
+- piezas de torso;
+- combinaciones incompletas.
+
+Sólo concede protección cuando el ataque afecta razonablemente a la zona cubierta.
+
+### Armadura de campaña
+
+Una armadura militar completa o casi completa proporciona protección contra una gama mucho mayor de ataques.
+
+Las armaduras del siglo XVI evolucionaron hacia configuraciones adecuadas para combates a pie y para la guerra de grandes contingentes. citeturn406736search2turn406736search1
+
+Puede perjudicar acciones donde importen:
+
+- silencio;
+- natación;
+- escalada extrema;
+- paso por huecos reducidos;
+- resistencia durante esfuerzos prolongados.
+
+No aplica un penalizador constante a todas las acciones.
+
+## 10.11. Equipo para operaciones clandestinas
+
+El equipo útil para una infiltración suele ser ordinario.
+
+Ejemplos:
+
+- cuerda;
+- gancho;
+- herramientas de cerrajería;
+- yesca y medios para encender fuego;
+- recipientes para transportar brasas o combustible;
+- ropa común compatible con una identidad;
+- prendas oscuras y discretas para movimiento nocturno;
+- recipientes de agua;
+- comida;
+- material para escribir;
+- documentos;
+- pequeñas herramientas;
+- sandalias o calzado apropiado;
+- vendas;
+- armas que puedan ocultarse.
+
+No existe un «uniforme ninja» que proporcione bonificaciones.
+
+La mejor ropa es la que funciona para el método elegido: a veces debe ocultar al personaje y otras veces debe permitir que sea visto sin despertar sospechas.
+
+## 10.12. Herramientas
+
+Una herramienta adecuada puede:
+
+- hacer posible una acción que sin ella sería imposible;
+- conceder normalmente +1 cuando proporciona una ventaja clara;
+- reducir el tiempo normal;
+- evitar un penalizador.
+
+Una herramienta excepcional puede justificar una ventaja mayor, pero sólo si cambia realmente la situación.
+
+No se obtiene bonificación por llevar una colección de herramientas irrelevantes.
+
+## 10.13. Equipo médico
+
+Un equipo básico de atención puede incluir:
+
+- vendas;
+- paños limpios;
+- recipientes de agua;
+- instrumentos;
+- material para inmovilizar;
+- remedios disponibles;
+- herramientas propias de un médico.
+
+**Primeros auxilios** puede realizarse con medios improvisados cuando la situación lo permite, pero la falta de material adecuado puede aumentar la dificultad o limitar lo que puede conseguirse.
+
+**Medicina** no permite realizar tratamientos que la tecnología y conocimientos disponibles no hacen posibles.
+
+## 10.14. Caballos y transporte
+
+Los caballos son recursos valiosos.
+
+Su disponibilidad depende de posición, riqueza y función.
+
+Un caballo puede:
+
+- aumentar la velocidad de viaje;
+- permitir llevar carga;
+- proporcionar movilidad militar;
+- facilitar mensajería y persecución.
+
+También necesita:
+
+- alimento;
+- agua;
+- descanso;
+- cuidado;
+- terreno adecuado.
+
+Los carros, embarcaciones y porteadores se tratan del mismo modo: son recursos narrativos cuya utilidad depende de la ruta y de las circunstancias.
+
+## 10.15. Bienes, dinero y compras
+
+El reglamento básico no exige llevar una contabilidad detallada de cada gasto cotidiano.
+
+Las compras ordinarias coherentes con la posición y recursos del personaje pueden resolverse directamente.
+
+Cuando una adquisición es importante, el director considera:
+
+- riqueza disponible;
+- relaciones;
+- disponibilidad local;
+- autoridad;
+- tiempo;
+- riesgo;
+- necesidad de mantener el secreto.
+
+Conseguir un bien raro puede convertirse en una escena de **Comercio, Persuasión, Engaño, contactos o robo**, no simplemente en pagar una cifra.
+
+Una campaña centrada en comercio o administración puede utilizar precios concretos y monedas históricas, pero esos valores deben adaptarse a la región y fecha de la campaña en lugar de asumir una economía uniforme para todo el Sengoku.
+
+# 11. Reglas de Técnicas marciales
+
+## 11.1. Función de las Técnicas
 
 Las **Técnicas** representan entrenamiento marcial concreto: métodos aprendidos, principios tácticos, respuestas practicadas y capacidades especiales desarrolladas mediante instrucción y experiencia.
 
@@ -2753,7 +3078,7 @@ No todas las Técnicas proporcionan bonificaciones numéricas.
 
 Las Técnicas que alteran reglas, abren posibilidades o dependen del contexto son preferibles a convertir el sistema en una acumulación de modificadores.
 
-## 10.2. Técnicas activas
+## 11.2. Técnicas activas
 
 Una Técnica **activa** debe elegirse expresamente como la elección secreta del personaje durante un Intercambio.
 
@@ -2774,7 +3099,7 @@ Una Técnica activa puede tener:
 - efectos condicionados al resultado;
 - interacciones con Técnicas del adversario.
 
-## 10.3. Técnicas pasivas
+## 11.3. Técnicas pasivas
 
 Una Técnica **pasiva** forma permanentemente parte de las capacidades disponibles del personaje.
 
@@ -2795,7 +3120,7 @@ Puede poseer:
 
 El personaje decide si desea utilizarla cuando se produzca la situación correspondiente, salvo que la propia Técnica indique expresamente que su efecto es automático.
 
-## 10.4. Costes
+## 11.4. Costes
 
 Una Técnica puede exigir un coste al utilizarse.
 
@@ -2816,7 +3141,7 @@ Una Técnica no debe considerarse equilibrada simplemente porque exista alguna T
 
 Especialmente, una Técnica activa que conceda un modificador numérico incondicional necesita una limitación significativa, como coste, Cooldown, riesgo o requisito restrictivo. De otro modo se convertiría en la elección automática de todos los Intercambios.
 
-## 10.5. Cooldown
+## 11.5. Cooldown
 
 Cuando una Técnica con **Cooldown** se utiliza durante un Intercambio, no puede utilizarse durante el Intercambio siguiente.
 
@@ -2828,7 +3153,7 @@ El Cooldown representa la imposibilidad de repetir inmediatamente una misma mani
 
 Como criterio general de diseño, **la mayoría de las Técnicas activas deben tener Cooldown**. La ausencia de Cooldown debe justificarse por un coste acumulativo, un riesgo importante o una limitación equivalente que impida convertir la Técnica en la elección automática de todos los Intercambios.
 
-## 10.6. Contexto y requisitos
+## 11.6. Contexto y requisitos
 
 Una Técnica sólo puede utilizarse cuando se cumplen sus requisitos físicos y narrativos.
 
@@ -2849,7 +3174,7 @@ Ejemplos:
 
 Si el entorno hace imposible cumplir el requisito, la Técnica no puede utilizarse.
 
-## 10.7. Duración
+## 11.7. Duración
 
 Una Técnica activa se declara en un Intercambio concreto, pero su efecto puede durar más de ese Intercambio si así lo especifica.
 
@@ -2860,7 +3185,7 @@ La Técnica debe indicar claramente:
 - qué condiciones pueden finalizarlo;
 - si sigue contando como utilizada a efectos de Cooldown.
 
-## 10.8. Etiquetas funcionales
+## 11.8. Etiquetas funcionales
 
 Las Técnicas pueden utilizar etiquetas descriptivas para facilitar interacciones generales.
 
@@ -2885,7 +3210,7 @@ Por ejemplo, una Técnica puede indicar:
 
 > Si el adversario juega una Técnica de Movimiento, obtienes +2.
 
-## 10.9. Criterio de equilibrio
+## 11.9. Criterio de equilibrio
 
 Una Técnica poderosa no es necesariamente problemática.
 
@@ -2917,7 +3242,7 @@ Existe una diferencia fundamental entre:
 
 Una Técnica que evita perder puede mantener un combate vivo. Una Técnica que fuerza automáticamente una victoria puede Comprometer Guardia, causar Heridas o terminar un duelo sin dar al adversario una respuesta suficiente.
 
-## 10.10. Técnicas y efectos de resultado
+## 11.10. Técnicas y efectos de resultado
 
 Las Técnicas pueden utilizar Empate, Éxito y Crítico como condiciones.
 
@@ -2932,7 +3257,7 @@ Ejemplos:
 
 Un Crítico incluye todas las posibilidades de un Éxito, además de las opciones exclusivas de Crítico.
 
-## 10.11. Técnicas de supervivencia
+## 11.11. Técnicas de supervivencia
 
 Algunas Técnicas pueden actuar como último recurso después de que el personaje haya perdido un Intercambio.
 
@@ -2951,43 +3276,6 @@ Estas Técnicas no deberían:
 - causar daño al rival;
 - recuperar gratuitamente Guardia;
 - eliminar todos los costes sufridos.
-
-# 11. Armas y requisitos de las Técnicas
-
-Las reglas generales de terreno, distancia, combate desarmado y Desarmar se encuentran en el capítulo de **Combate**.
-
-Este capítulo define únicamente cómo pueden utilizar esas propiedades las Técnicas.
-
-## 11.1. Propiedades funcionales de las armas
-
-Las armas pueden poseer propiedades funcionales utilizadas como requisitos de Técnicas.
-
-Lista inicial:
-
-- Arma de asta
-- Larga
-- Corta
-- Punta
-- Filo
-- Contundente
-- Gancho
-- Dos manos
-- Dos armas
-
-Estas propiedades no proporcionan bonificadores permanentes por sí mismas.
-
-Indican qué acciones y Técnicas resultan físicamente posibles.
-
-## 11.2. Requisito mínimo y propiedades adicionales
-
-Una Técnica puede distinguir entre:
-
-1. el requisito mínimo necesario para utilizarla;
-2. propiedades adicionales que desbloquean efectos distintos.
-
-Una Técnica nunca crea una propiedad que el arma no posee realmente.
-
-El arma utilizada y las circunstancias de la escena deben justificar siempre el efecto.
 
 # 12. Escuelas marciales — planificación provisional
 
@@ -3164,7 +3452,7 @@ El manual definitivo deberá incluir cronologías y condiciones de acceso sufici
 
 Este capítulo reúne el catálogo de Técnicas disponibles para los personajes.
 
-Las reglas generales que determinan cómo funcionan las Técnicas —tipos, elección secreta, costes, Cooldown, etiquetas, requisitos y duración— se explican en el capítulo 10. Las Técnicas de este catálogo modifican o amplían esas reglas cuando su descripción lo indica expresamente.
+Las reglas generales que determinan cómo funcionan las Técnicas —tipos, elección secreta, costes, Cooldown, etiquetas, requisitos y duración— se explican en el capítulo 11. Las Técnicas de este catálogo modifican o amplían esas reglas cuando su descripción lo indica expresamente.
 
 El catálogo debe permanecer como **capítulo final del manual**. Si se añaden nuevos capítulos de reglas, equipo, ambientación, sociedad, viaje u otros subsistemas, se insertarán antes de éste. De este modo pueden añadirse nuevas Técnicas sin reorganizar el cuerpo principal del reglamento.
 
