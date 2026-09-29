@@ -1731,6 +1731,430 @@ El director puede:
 
 La recuperación de Salud no significa que los tejidos se regeneren de forma abstracta. Debe corresponder a la evolución real de las Heridas descritas.
 
+# 8. Sociedad
+
+La sociedad del periodo Sengoku era jerárquica, pero no debe representarse como un sistema uniforme, inmóvil y completamente cerrado.
+
+La posición de una persona dependía de una combinación de:
+
+- nacimiento y familia;
+- señor, casa o institución a la que servía;
+- función que desempeñaba;
+- riqueza y propiedades;
+- reputación;
+- relaciones personales;
+- territorio;
+- circunstancias políticas y militares.
+
+Las categorías sociales del periodo Edo no deben proyectarse automáticamente hacia atrás. Durante el Sengoku podían producirse ascensos, cambios de servicio, adopciones, pérdida de tierras, movilización de población rural como soldados y otras transformaciones.
+
+## 8.1. Posición social como circunstancia
+
+La Posición social no concede un bonificador universal.
+
+Cambia la situación.
+
+Puede determinar:
+
+- quién tiene derecho a entrar en un lugar;
+- quién puede solicitar audiencia;
+- quién puede portar determinadas armas sin llamar la atención;
+- quién ejerce autoridad sobre otras personas;
+- qué trato se considera apropiado;
+- qué obligaciones se esperan;
+- qué recursos resulta razonable poseer;
+- qué consecuencias produce una falta;
+- qué identidades aparentes resultan creíbles.
+
+Un samurái conocido puede entrar en dependencias militares que serían inaccesibles para un mercader.
+
+Un mercader importante puede disponer de más dinero que un guerrero pobre y, aun así, carecer de autoridad para dar órdenes a soldados.
+
+Un campesino local puede moverse por su aldea sin despertar atención mientras un desconocido vestido como guerrero será observado inmediatamente.
+
+La Posición social puede:
+
+- eliminar la necesidad de un reto;
+- hacer una acción imposible;
+- proporcionar un modificador narrativo;
+- cambiar la Habilidad apropiada;
+- alterar las consecuencias del fracaso.
+
+## 8.2. Posición real y posición percibida
+
+Las personas reaccionan a la posición que creen estar viendo.
+
+Un personaje puede ocultar o falsear su identidad mediante:
+
+- ropa;
+- equipo;
+- lenguaje;
+- documentación;
+- comportamiento;
+- contactos;
+- una historia de cobertura.
+
+La apariencia correcta no basta por sí sola.
+
+Un infiltrado que pretende ser criado puede necesitar:
+
+- **Disfraz** para parecerlo;
+- **Etiqueta** para comportarse correctamente;
+- **Engaño** para responder preguntas;
+- **Falsificación** si necesita documentos;
+- conocimientos previos para saber nombres, lugares y obligaciones.
+
+Cuanto más cercana sea la interacción y más familiarizado esté el observador con la identidad alegada, más difícil resulta mantener la ficción.
+
+## 8.3. Guerreros y casas militares
+
+### Daimyō y grandes señores
+
+Los grandes señores controlan territorios, castillos, ejércitos, redes de vasallaje y recursos.
+
+Su posición les concede enorme autoridad dentro de su esfera, pero también obligaciones políticas, familiares y militares.
+
+No representan una categoría normal de personaje salvo campañas diseñadas alrededor del gobierno de un dominio.
+
+### Samurai y otros guerreros al servicio de una casa
+
+«Samurái» no describe un único nivel de riqueza, autoridad o capacidad militar.
+
+Dentro del mundo guerrero pueden existir:
+
+- grandes vasallos;
+- administradores;
+- oficiales;
+- guerreros de séquito;
+- hombres con pequeñas rentas;
+- servidores pobres;
+- guerreros rurales;
+- especialistas;
+- mensajeros;
+- personas cuya función cotidiana es más administrativa que militar.
+
+Ser samurái no implica automáticamente poseer Habilidades de combate elevadas.
+
+Un guerrero puede haber dedicado su vida al entrenamiento.
+
+Otro puede proceder de una familia guerrera, cumplir funciones administrativas y haber descuidado durante años sus obligaciones marciales.
+
+### Ashigaru
+
+Los ashigaru constituyen una parte esencial de los ejércitos del periodo.
+
+Pueden proceder de contextos muy distintos: campesinos movilizados, soldados con experiencia, hombres contratados y servidores cada vez más especializados.
+
+Pueden actuar como:
+
+- lanceros;
+- arqueros;
+- tiradores con armas de fuego;
+- guardias;
+- exploradores;
+- mensajeros;
+- trabajadores militares.
+
+Un ashigaru veterano puede poseer mucha más experiencia de combate real que un samurái de posición superior.
+
+### Rōnin y guerreros sin señor
+
+Un guerrero sin señor conserva experiencia, contactos y origen, pero pierde la protección y obligaciones derivadas de un vínculo de servicio estable.
+
+Puede convertirse en:
+
+- mercenario;
+- instructor;
+- guardaespaldas;
+- bandido;
+- servidor de otra casa;
+- viajero en busca de empleo.
+
+«Rōnin» describe una situación respecto al servicio, no una personalidad ni una profesión uniforme.
+
+## 8.4. Aldeas y población rural
+
+La mayor parte de la población vive directa o indirectamente de la producción agrícola.
+
+Una aldea no debe tratarse como un conjunto de campesinos idénticos.
+
+Puede contener:
+
+- familias con distinta cantidad de tierra;
+- jefes locales;
+- arrendatarios;
+- jornaleros;
+- artesanos;
+- religiosos;
+- antiguos soldados;
+- personas que combinan trabajo agrícola con otras actividades.
+
+La población rural puede estar sometida a impuestos, trabajos obligatorios, reclutamientos y exigencias militares.
+
+También posee redes propias de solidaridad, jerarquía, conocimiento local y negociación colectiva.
+
+Un extraño puede descubrir rápidamente que «ser sólo campesino» no significa carecer de influencia dentro de una comunidad.
+
+## 8.5. Artesanos
+
+Los artesanos especializados pueden disfrutar de gran valor económico y libertad de movimiento, especialmente cuando sus conocimientos son necesarios para la guerra, la construcción o el comercio.
+
+Ejemplos:
+
+- herreros;
+- armeros;
+- carpinteros;
+- constructores;
+- ceramistas;
+- tejedores;
+- fabricantes de papel;
+- constructores navales;
+- productores de bienes especializados.
+
+Su posición concreta depende de quién los emplea, el prestigio del oficio, su clientela y la escasez de sus conocimientos.
+
+Un maestro artesano puede tener poco rango formal y una gran capacidad de negociación porque un señor necesita su trabajo.
+
+## 8.6. Mercaderes
+
+Los mercaderes participan en redes de transporte, crédito, almacenamiento, distribución y comercio local o regional.
+
+Riqueza y posición social no son equivalentes.
+
+Un mercader puede:
+
+- poseer grandes recursos;
+- prestar dinero;
+- abastecer ejércitos;
+- controlar información comercial;
+- mantener contactos en varias ciudades;
+
+y seguir careciendo de la autoridad formal de un guerrero.
+
+Las ciudades mercantiles, puertos y mercados pueden otorgar a estos personajes un peso muy distinto al que tendrían dentro de un castillo militar.
+
+## 8.7. Religiosos e instituciones religiosas
+
+Los religiosos tampoco forman un grupo uniforme.
+
+Pueden existir:
+
+- monjes dedicados principalmente a la práctica religiosa;
+- administradores de templos;
+- estudiosos;
+- peregrinos;
+- yamabushi;
+- religiosos con funciones diplomáticas;
+- comunidades con propiedades y recursos;
+- miembros armados vinculados a instituciones religiosas.
+
+Los grandes templos y organizaciones religiosas pueden actuar como centros espirituales, culturales, económicos, políticos y militares.
+
+La pertenencia religiosa puede proporcionar educación, contactos, alojamiento, movilidad o autoridad dentro de determinadas redes sin convertir automáticamente al personaje en guerrero.
+
+## 8.8. Criados, trabajadores y dependientes
+
+Muchas personas viven y trabajan dentro de hogares, talleres, casas guerreras, establecimientos comerciales o instituciones religiosas.
+
+Pueden ser:
+
+- criados domésticos;
+- mozos;
+- trabajadores;
+- aprendices;
+- porteadores;
+- ayudantes;
+- sirvientes personales;
+- empleados de almacén.
+
+Su posición depende en gran medida de la casa o persona a la que sirven.
+
+Un criado de confianza puede tener acceso físico a espacios que resultarían imposibles para personas de rango mucho mayor.
+
+## 8.9. Ladrones, bandidos y otros fuera de la ley
+
+«Bandido» o «ladrón» describe principalmente una relación con la ley y la comunidad, no una clase social única.
+
+Pueden proceder de:
+
+- campesinos desplazados;
+- antiguos soldados;
+- rōnin;
+- delincuentes urbanos;
+- grupos itinerantes;
+- comunidades locales armadas.
+
+Sus capacidades pueden ser útiles para actividades clandestinas: observar rutinas, entrar en edificios, ocultarse, vender bienes robados o evitar autoridades.
+
+Una casa militar puede reclutar temporalmente a personas de estos ambientes para operaciones concretas.
+
+## 8.10. Prostitutas, entretenedores e itinerantes
+
+El trabajo sexual y el entretenimiento existían en contextos variados y no deben reducirse a un único modelo posterior de barrio licenciado.
+
+Una prostituta, cantante, bailarina, narradora, músico, sirviente de establecimiento o artista itinerante puede disponer de:
+
+- acceso a viajeros;
+- conocimiento de rumores;
+- redes de clientes;
+- movilidad;
+- memoria de rostros y conversaciones;
+- contacto con personas de posiciones sociales diferentes.
+
+La posición y condiciones de estas personas pueden variar enormemente: desde profesionales integrados en grupos familiares o artísticos hasta personas sometidas a explotación y dependencia.
+
+## 8.11. Mujeres y posición social
+
+«Mujer» no es una clase social.
+
+Las oportunidades y restricciones de una mujer dependen de:
+
+- familia;
+- posición;
+- región;
+- riqueza;
+- estado matrimonial;
+- institución a la que pertenece;
+- circunstancias de guerra.
+
+Pueden existir mujeres como:
+
+- campesinas;
+- artesanas;
+- comerciantes;
+- administradoras de hogares;
+- religiosas;
+- responsables de bienes;
+- servidoras de casas guerreras;
+- artistas;
+- prostitutas;
+- miembros de familias militares.
+
+El director debe evitar sustituir la diversidad histórica por una prohibición universal del tipo «las mujeres no podían hacer X». Cuando una limitación social sea relevante debe depender de una situación concreta.
+
+## 8.12. Grupos marginados
+
+Determinadas ocupaciones, comunidades y personas podían sufrir discriminación severa por razones locales, religiosas, económicas o relacionadas con trabajos considerados contaminantes o deshonrosos.
+
+No existe una única categoría que funcione igual en todo Japón y durante todo el Sengoku.
+
+Cuando una campaña quiera tratar estas situaciones, el director debe definir quién discrimina, por qué, en qué territorio y qué consecuencias concretas produce.
+
+## 8.13. Shinobi no es una clase social
+
+**Shinobi** describe principalmente un ámbito de actividad clandestina, no una casta separada.
+
+Una persona empleada en reconocimiento, espionaje, infiltración o sabotaje puede ser formalmente:
+
+- ashigaru;
+- samurái;
+- mercenario;
+- ladrón;
+- bandido;
+- campesino;
+- comerciante;
+- religioso;
+- criado;
+- especialista contratado.
+
+La ficha representa quién es la persona.
+
+La misión describe qué está haciendo.
+
+## 8.14. Ejemplos de personajes y PNJ
+
+Los ejemplos siguientes no son plantillas obligatorias. Sirven para mostrar cómo posición, ocupación y capacidades pueden combinarse de formas muy distintas.
+
+### Ladrón urbano
+
+**Categoría:** ordinario.  
+**Posición:** baja; conocido en determinados ambientes criminales.  
+**Características destacadas:** Destreza +2, Percepción +1.  
+**Habilidades:** Sigilo +2, Cerrajería +1, Vigilancia +0, Engaño +0.  
+**Rasgos:** conoce compradores de mercancía robada; evita matar si puede.
+
+Es muy eficaz entrando en edificios y observando rutinas, pero no posee entrenamiento militar por el mero hecho de ser delincuente.
+
+### Samurai bien entrenado
+
+**Categoría:** excepcional.  
+**Posición:** guerrero al servicio de una casa.  
+**Características destacadas:** Destreza +2, Voluntad +1, Percepción +1.  
+**Habilidades:** Espadas +3, Armas de asta +2, Táctica +1, Equitación +1, Etiqueta +0.  
+**Rasgos:** disciplinado; reputación de duelista.
+
+Es un adversario formidable en combate, pero sus competencias administrativas o clandestinas pueden ser mediocres.
+
+### Samurai que descuidó su entrenamiento
+
+**Categoría:** ordinario.  
+**Posición:** miembro de una familia guerrera con función administrativa.  
+**Características destacadas:** Inteligencia +2, Presencia +1.  
+**Habilidades:** Administración +2, Escritura y documentos +1, Etiqueta +1, Espadas +0.  
+**Rasgos:** evita los enfrentamientos físicos; conoce bien los procedimientos de su casa.
+
+Tiene rango guerrero, pero un ashigaru veterano puede superarlo ampliamente con las armas.
+
+### Funcionario o administrador
+
+**Categoría:** ordinario.  
+**Posición:** servidor especializado de una autoridad.  
+**Características destacadas:** Inteligencia +2, Percepción +1.  
+**Habilidades:** Administración +2, Escritura y documentos +1, Comercio +0, Perspicacia +0.  
+**Rasgos:** memoria excelente para nombres y obligaciones.
+
+Puede detectar irregularidades en inventarios, permisos o suministros sin poseer autoridad social fuera de la institución que representa.
+
+### Campesino
+
+**Categoría:** ordinario.  
+**Posición:** miembro de una comunidad rural.  
+**Características destacadas:** Fortaleza +1, Percepción +1, Voluntad +1.  
+**Habilidades:** Supervivencia +1, Oficio (agricultura) +1, Atletismo +0.  
+**Rasgos:** conoce cada camino de su valle; familia extensa en aldeas próximas.
+
+Dentro de su región puede poseer información y contactos que ningún guerrero forastero tiene.
+
+### Prostituta
+
+**Categoría:** ordinario.  
+**Posición:** depende del establecimiento, ciudad y relaciones de protección o deuda.  
+**Características destacadas:** Presencia +2, Percepción +1.  
+**Habilidades:** Perspicacia +2, Engaño +1, Persuasión +0, Vigilancia +0.  
+**Rasgos:** recuerda clientes y conversaciones; conoce sirvientes de varias casas.
+
+Su valor como informadora puede proceder de acceso social, memoria y capacidad para leer a otras personas, no de habilidades de combate.
+
+### Mercader
+
+**Categoría:** ordinario.  
+**Posición:** económicamente cómodo, sin autoridad militar formal.  
+**Características destacadas:** Inteligencia +1, Presencia +1, Percepción +1.  
+**Habilidades:** Comercio +2, Persuasión +1, Administración +0, Vigilancia +0.  
+**Rasgos:** crédito en dos ciudades; conoce transportistas y posaderos.
+
+Puede conseguir bienes, financiación e información que un guerrero no sabría obtener por la fuerza.
+
+### Artesano
+
+**Categoría:** ordinario.  
+**Posición:** profesional especializado.  
+**Características destacadas:** Destreza +2, Inteligencia +1.  
+**Habilidades:** Oficio (herrería) +2, Comercio +0, Ingeniería +0.  
+**Rasgos:** trabaja ocasionalmente para una casa guerrera.
+
+Su competencia técnica puede convertirlo en una persona valiosa incluso ante clientes de rango mucho mayor.
+
+### Bandido veterano
+
+**Categoría:** excepcional.  
+**Posición:** fuera de la ley; depende de una banda y de apoyos locales.  
+**Características destacadas:** Fortaleza +1, Destreza +2, Percepción +1.  
+**Habilidades:** Armas de asta +2, Sigilo +1, Supervivencia +1, Táctica +1, Intimidación +0.  
+**Rasgos:** conoce pasos de montaña; perseguido por una autoridad local.
+
+Es peligroso porque combina experiencia violenta, conocimiento del terreno y ausencia de obligaciones legales, no porque pertenezca a una «clase de bandido» especial.
+
 # 10. Reglas de Técnicas marciales
 
 ## 10.1. Función de las Técnicas
