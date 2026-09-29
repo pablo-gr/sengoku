@@ -1468,7 +1468,114 @@ Un efecto no cancela otro únicamente porque proceda de un Empate, una Técnica 
 
 Por ejemplo, si un Empate permite a un combatiente Derribar y al otro Comprometer Guardia, ambos efectos se aplican.
 
-## 6.19. Fin del combate
+## 6.19. Ataques a distancia
+
+Los ataques con arco, armas de fuego y otros proyectiles se resuelven normalmente como **retos ordinarios**, no como Intercambios.
+
+Un ataque utiliza habitualmente:
+
+> **Destreza + Habilidad de arma + modificadores narrativos + modificador temporal + Suerte**
+
+La dificultad depende de circunstancias como:
+
+- distancia;
+- tamaño y movimiento del objetivo;
+- visibilidad;
+- cobertura;
+- viento o lluvia cuando resulten relevantes;
+- posición del tirador;
+- tiempo dedicado a apuntar;
+- calidad del arma y munición;
+- presión inmediata.
+
+Si el objetivo está actuando deliberadamente para evitar el disparo y dispone de libertad real para hacerlo, su capacidad defensiva puede establecer la dificultad mediante un reto enfrentado.
+
+Un personaje completamente sorprendido, inmóvil o indefenso no recibe una defensa artificial sólo por ser un objetivo humano.
+
+### Consecuencia de un impacto
+
+Un impacto limpio con un arma de proyectil capaz de matar causa normalmente una **Herida grave**.
+
+El director puede modificar esta consecuencia cuando la ficción lo justifique claramente:
+
+- un impacto superficial puede causar una Herida leve;
+- un disparo a una zona vital desde muy corta distancia contra una persona indefensa puede causar una Herida mortal;
+- una cobertura o armadura eficaz puede impedir la Herida aunque el proyectil alcance al objetivo;
+- una fuente físicamente devastadora puede producir consecuencias mayores.
+
+No se calcula un daño distinto sólo porque un arco, una espada o una yari tengan tamaños diferentes. La gravedad representa **dónde y cómo ha alcanzado el ataque**, no una cifra abstracta de energía del arma.
+
+### Apuntar
+
+Dedicar tiempo a apuntar utiliza las reglas normales de tiempo.
+
+El tiempo adicional sólo ayuda mientras el objetivo y la situación permitan mantener la puntería.
+
+### Disparar bajo presión
+
+Un personaje amenazado directamente en combate cuerpo a cuerpo puede tener dificultades para preparar o utilizar un arma a distancia.
+
+El director puede aplicar penalizadores, declarar que el arma no puede utilizarse eficazmente o exigir primero romper el contacto.
+
+## 6.20. Cobertura
+
+La cobertura protege porque oculta al objetivo, dificulta una trayectoria limpia o interpone material.
+
+Puede:
+
+- aumentar la dificultad;
+- impedir completamente el disparo;
+- proteger sólo parte del cuerpo;
+- detener determinados proyectiles y no otros.
+
+El director valora el material, grosor, ángulo y parte del cuerpo expuesta.
+
+Asomarse para observar o disparar puede reducir la protección durante ese momento.
+
+## 6.21. Armadura
+
+La armadura no posee puntos de vida ni una reducción fija de daño.
+
+Cuando una armadura protege de forma efectiva contra el ataque que recibe el personaje, proporciona normalmente un **modificador defensivo de +1**.
+
+En un ataque a distancia este modificador aumenta en +1 la dificultad necesaria para conseguir un impacto eficaz.
+
+En un Intercambio cuerpo a cuerpo se suma +1 al resultado del combatiente protegido cuando la armadura resulta relevante para la amenaza del adversario.
+
+El modificador representa que el atacante debe:
+
+- alcanzar una abertura;
+- golpear una zona menos protegida;
+- producir un impacto capaz de superar la protección;
+- o crear una oportunidad mejor antes de herir.
+
+La armadura no concede el modificador cuando no puede proteger razonablemente de la amenaza.
+
+Ejemplos:
+
+- una protección corporal sólida es útil contra cortes y muchas flechas;
+- una zona descubierta no recibe protección;
+- controlar, derribar o desarmar a alguien puede ignorar en gran medida su armadura;
+- determinadas armas de fuego, distancias o ángulos pueden reducir o eliminar la protección;
+- una armadura inadecuada, dañada o incompleta puede proteger sólo en contextos concretos.
+
+El director no determina aleatoriamente una localización de impacto. La cobertura de la armadura forma parte de la situación general y de la descripción del resultado.
+
+### Inconvenientes
+
+La armadura puede producir consecuencias cuando su peso, volumen o ruido importan.
+
+Puede penalizar:
+
+- Sigilo;
+- Natación;
+- escalada;
+- desplazamientos prolongados;
+- acciones en espacios extremadamente reducidos.
+
+No se aplica un penalizador permanente por llevar armadura. Sólo cuando la limitación resulta relevante para la acción concreta.
+
+## 6.22. Fin del combate
 
 Un combate termina cuando deja de existir oposición efectiva.
 
