@@ -509,22 +509,6 @@ Una Técnica puede modificar estas restricciones, permitir atacar desde el suelo
 
 Si ya no existe presión inmediata de un adversario, el personaje puede levantarse sin necesidad de ganar un Intercambio.
 
-### Inmovilizado
-
-Un personaje **Inmovilizado** se encuentra bajo control físico efectivo de un adversario mediante agarre, llave, presión corporal, control de un miembro o una técnica equivalente.
-
-Mientras permanezca Inmovilizado:
-
-- su Guardia está **Comprometida**;
-- no puede Recomponer Guardia;
-- no puede atacar normalmente;
-- no puede desplazarse, huir ni cambiar libremente de arma;
-- no puede utilizar Técnicas que requieran libertad de movimiento incompatible con la inmovilización.
-
-Si gana un Intercambio mientras está Inmovilizado, su opción estándar es **Liberarse**. Liberarse termina la inmovilización, pero el personaje continúa con Guardia Comprometida.
-
-Una inmovilización puede permitir al combatiente que mantiene el control **desarmar, derribar, sujetar, atar o capturar** al adversario cuando la situación lo permita. Si el objetivo deja de resistirse y no existe intervención externa, una inmovilización efectiva puede poner fin al enfrentamiento de forma no letal.
-
 ## 4.10. Decisiones después de una victoria
 
 El vencedor elige qué efecto legal desea aplicar.
@@ -1196,24 +1180,29 @@ La derrota permanece y la Guardia no mejora.
 
 ## 8.2. Primeras Técnicas de Katori Shintō-ryū
 
-### Cambio de arma
-
-**Tipo:** Pasiva  
-**Contexto:** existe otra arma accesible que el personaje sabe utilizar.  
-**Efecto:** puede cambiar de arma sin que el cambio comprometa por sí mismo la Guardia ni consuma el efecto obtenido en el Intercambio.  
-**Cooldown:** sí.
-
-### Intercepción adaptable
+### Control de alcance
 
 **Tipo:** Activa  
 **Etiquetas:** Defensa, Control  
-**Requisito:** arma apropiada.  
-**Efecto provisional:** no proporciona bonificación al resultado. Si el personaje obtiene Éxito o Crítico, las propiedades del arma utilizada pueden desbloquear efectos especiales adicionales:
-- arma Larga: posibilidad de obligar a ceder terreno;
-- Gancho: posibilidad de Desarmar con Crítico;
-- dos armas: opciones adicionales de control y recuperación pendientes de concretar.
+**Requisito:** arma Larga.  
+**Efecto provisional:** no proporciona bonificación al resultado. Si el personaje obtiene Éxito o Crítico, puede elegir **obligar al rival a ceder terreno** como efecto de la victoria.  
+**Cooldown:** sí.
 
-La Técnica amplía las opciones disponibles si el personaje consigue imponerse, pero no aumenta sus posibilidades de ganar el Intercambio.  
+### Enganche de Katori
+
+**Tipo:** Activa  
+**Etiquetas:** Control  
+**Requisito:** arma con Gancho.  
+**Efecto provisional:** no proporciona bonificación al resultado. Si el personaje obtiene un **Crítico**, puede elegir **Desarmar** como efecto de la victoria.  
+**Cooldown:** sí.
+
+### Guardia de dos armas
+
+**Tipo:** Activa  
+**Etiquetas:** Defensa, Control  
+**Requisito:** dos armas apropiadas.  
+**Contexto:** el rival utiliza una Técnica ofensiva.  
+**Efecto provisional:** si el resultado final del Intercambio es **Empate**, el personaje puede **Comprometer la Guardia** del rival pese a no haber obtenido una victoria.  
 **Cooldown:** sí.
 
 ### Dos hojas
@@ -1224,19 +1213,16 @@ La Técnica amplía las opciones disponibles si el personaje consigue imponerse,
 **Efecto provisional:** si el rival utiliza una Técnica activa de Ataque y, antes de aplicar el efecto de Dos hojas, el personaje perdería el Intercambio, obtiene **+2 al resultado**. Si no se cumplen ambas condiciones, Dos hojas no concede bonificación.  
 **Cooldown:** sí.
 
-### Siempre hay otra forma
-
-**Tipo:** Pasiva  
-**Contexto:** una Técnica queda impedida exclusivamente por el arma concreta utilizada.  
-**Efecto:** el personaje puede emplear otra arma accesible que posea realmente las propiedades mínimas exigidas. No crea propiedades inexistentes.
-
 ## 8.3. Primeras Técnicas de Kashima-Shinryū
 
 ### Ataque y defensa como uno
 
-**Tipo:** Pasiva  
-**Contexto:** el personaje obtiene un Crítico mientras su Guardia está Comprometida.  
-**Efecto provisional:** puede elegir dos efectos estándar no lesivos en lugar de uno. No puede producir dos Heridas ni combinar una Herida con otro efecto.  
+**Tipo:** Activa  
+**Etiquetas:** Defensa, Counter  
+**Contexto:** cualquier Intercambio.  
+**Efecto provisional:** el personaje obtiene **+2 al resultado**, pero durante este Intercambio no puede elegir ningún efecto ofensivo aunque gane.
+
+Si gana el Intercambio, obtiene **+1 al resultado del siguiente Intercambio** contra el mismo rival. Este +1 es un efecto diferido de Ataque y defensa como uno y no ocupa por sí mismo la elección secreta del siguiente Intercambio, pero durante ese siguiente Intercambio el personaje **no puede utilizar ninguna otra Técnica activa o pasiva**. Puede utilizar Suerte si las reglas normales se lo permiten.  
 **Cooldown:** sí.
 
 ### Vacío y realidad
@@ -1250,17 +1236,18 @@ La Técnica amplía las opciones disponibles si el personaje consigue imponerse,
 ### Movimiento y quietud
 
 **Tipo:** Activa  
-**Etiquetas:** Defensa  
-**Efecto:** renuncia a efectos que perjudiquen directamente al adversario y obtiene +2 al resultado.  
-**Coste:** si no gana, 1 Fatiga.  
+**Etiquetas:** Defensa, Control  
+**Contexto:** cualquier Intercambio en el que la Guardia rival esté Firme.  
+**Efecto:** el personaje obtiene **+1 al resultado**. Si gana el Intercambio, sólo puede utilizar como efecto ofensivo **Comprometer Guardia**; no puede causar Heridas ni utilizar otros efectos ofensivos.  
+**Coste:** si no gana el Intercambio, sufre **1 Fatiga**.  
 **Cooldown:** sí.
 
 ### Equilibrio de Kashima
 
 **Tipo:** Pasiva  
 **Etiquetas:** Defensa, Movimiento  
-**Contexto:** pierde por exactamente 1 con Guardia Firme.  
-**Efecto provisional:** puede ceder terreno para conservar Guardia Firme.  
+**Contexto:** Guardia Firme; el personaje pierde un Intercambio por **1 o 2**.  
+**Efecto provisional:** puede ceder terreno para impedir que el rival utilice **Comprometer Guardia** contra él. La victoria del rival no desaparece y cualquier otro efecto legal se resuelve normalmente. En particular, si el rival obtuvo un Crítico puede seguir eligiendo **Herida leve**.  
 **Cooldown:** sí.
 
 ## 8.4. Primeras Técnicas de Shinkage-ryū
@@ -1276,8 +1263,8 @@ La Técnica amplía las opciones disponibles si el personaje consigue imponerse,
 ### Reconocer el patrón
 
 **Tipo:** Pasiva  
-**Contexto:** el rival repite la misma Técnica activa que utilizó la última vez que la tuvo disponible.  
-**Efecto provisional:** +1 contra esa Técnica. El efecto desaparece cuando cambia de Técnica.
+**Contexto:** el rival utiliza una Técnica activa que **ya había utilizado anteriormente durante el mismo combate**.  
+**Efecto provisional:** el personaje obtiene **+1 al resultado** contra esa Técnica.
 
 ### Ceder sin quebrarse
 
@@ -1314,20 +1301,21 @@ Muto no convierte el enfrentamiento en una situación favorable ni permite recup
 
 **Tipo:** Activa  
 **Etiquetas:** Control, Movimiento  
-**Requisito:** Arma de asta.  
-**Efecto provisional:** con Éxito o Crítico permite elegir obligar al rival a ceder terreno.
-- Con Filo pueden añadirse consecuencias ofensivas al intento de mantener posición.
-- Con Gancho, un Crítico puede permitir Desarmar.
+**Requisito:** yari.  
+**Efecto provisional:** si obtiene Éxito o Crítico, puede elegir **obligar al rival a ceder terreno** como efecto de la victoria.
 
-Los efectos exactos deben revisarse.
+Si utiliza una **kamayari** o un yari con propiedad **Gancho**, un Crítico permite elegir **Desarmar** en lugar de obligar a ceder terreno.  
+**Cooldown:** sí.
 
 ### Enganchar el arma
 
 **Tipo:** Pasiva  
-**Etiquetas:** Counter, Control  
-**Requisito:** Gancho o Kama.  
-**Contexto:** el rival utiliza una Técnica activa dependiente de su arma y el personaje gana el Intercambio.  
-**Efecto provisional:** puede elegir Controlar el arma. Mientras continúe el control, el rival no puede utilizar Técnicas activas que dependan de esa arma sin liberarla, cambiarla o romper el contacto.  
+**Etiquetas:** Control  
+**Requisito:** arma con Gancho o Kama.  
+**Contexto:** el resultado obtenido permitiría causar una Herida al rival.  
+**Efecto provisional:** el personaje puede elegir **Desarmar** en lugar de causar la Herida.
+
+Por tanto, contra un rival con Guardia Firme normalmente necesita un **Crítico** para Desarmar; contra un rival con Guardia Comprometida basta normalmente un **Éxito**.  
 **Cooldown:** sí.
 
 ### Perseguir la retirada
@@ -1354,10 +1342,10 @@ Los efectos exactos deben revisarse.
 **Tipo:** Pasiva  
 **Etiquetas:** Control  
 **Requisito:** combatir desarmado o utilizar un arma corta apropiada para agarre y control.  
-**Contexto:** distancia cerrada y Guardia rival Comprometida.  
-**Efecto provisional:** al obtener un Éxito o Crítico puede elegir **Inmovilizar** en lugar de causar una Herida. La inmovilización permite resolver el enfrentamiento de forma no letal y puede utilizarse para desarmar, derribar, sujetar o capturar al rival cuando la situación lo permita.
+**Contexto:** distancia cerrada; el resultado obtenido permitiría causar una Herida al rival.  
+**Efecto provisional:** en lugar de causar la Herida, el personaje puede elegir **Desarmar** o **Derribar** al rival, siempre que el efecto elegido sea físicamente posible.
 
-Kogusoku puede utilizarse también en un combate completamente desarmado, proporcionando una forma de terminar rápidamente el enfrentamiento mediante control físico en lugar de daño.  
+Kogusoku puede utilizarse también en combate completamente desarmado. En ese caso permite sustituir una oportunidad de causar una Herida por **Derribar**, facilitando una resolución rápida y no letal del enfrentamiento.  
 **Cooldown:** sí.
 
 ### Derribo
@@ -1412,7 +1400,7 @@ Si la Técnica no consigue Derribar al rival, el personaje sufre **−1 al resul
 **Tipo:** Activa  
 **Etiquetas:** Ataque, Presión, Counter  
 **Contexto:** el rival tiene la Guardia **Comprometida**.  
-**Efecto provisional:** el personaje obtiene **+2 al resultado** y el rival no puede recuperar Guardia durante este Intercambio.  
+**Efecto provisional:** el personaje obtiene **+2 al resultado** y el rival **no puede recuperar Guardia de ninguna forma durante este Intercambio**, ya sea mediante un efecto estándar, una Técnica activa o pasiva, una recuperación automática o cualquier otro recurso.  
 **Limitación:** si el personaje gana el Intercambio, el resultado se considera **Empate**. Por tanto, la Técnica puede impedir que un rival comprometido se recomponga, pero no puede utilizarse para obtener progreso ofensivo ni causar una Herida.  
 **Cooldown:** sí.
 
@@ -1423,7 +1411,7 @@ Si la Técnica no consigue Derribar al rival, el personaje sufre **−1 al resul
 **Tipo:** Activa  
 **Etiquetas:** Defensa, Recuperación, Movimiento  
 **Requisito:** existe una dirección razonable hacia la que retirarse.  
-**Efecto provisional:** renuncia a efectos ofensivos, recupera automáticamente Guardia Firme y cede terreno. El resultado del rival continúa resolviéndose normalmente.  
+**Efecto provisional:** renuncia a efectos ofensivos, recupera automáticamente **Guardia Firme** y cede terreno. Si el rival obtiene una victoria durante ese mismo Intercambio, sus efectos se resuelven **contra la Guardia Firme recién recuperada**.  
 **Cooldown:** sí.
 
 ### Retirada falsa
@@ -1438,7 +1426,9 @@ Si la Técnica no consigue Derribar al rival, el personaje sufre **−1 al resul
 **Tipo:** Pasiva  
 **Etiquetas:** Movimiento, Recuperación  
 **Contexto:** oscuridad, vegetación, edificios, humo u otro entorno que permita romper visualmente el contacto.  
-**Efecto provisional:** cuando utiliza un Éxito para Recomponer Guardia puede además terminar el enfrentamiento inmediato si existe una vía real de retirada.  
+**Efecto provisional:** cuando utiliza un Éxito para **Recomponer Guardia**, puede además terminar el enfrentamiento inmediato si existe una vía real de retirada.
+
+Esta Técnica es una excepción explícita a la regla general de un único efecto por victoria: permite **Recomponer Guardia y romper el contacto** con el mismo Éxito.  
 **Cooldown:** sí.
 
 ### Herramienta oportunista
