@@ -1270,7 +1270,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Primeros auxilios;
 - Oficio relacionado con actividades rurales.
 
-**Oficios habituales:** Agricultor, Pescador, Cazador, Leñador o carbonero, Criado, Porteador, Marinero, Mensajero, Posadero, Ladrón, Bandido, Ashigaru, Guardia, Mercenario, Curandero o herbolario, Monje, Yamabushi, Artista o entretenedor, Prostituta/o, Espía o agente clandestino.
+**Oficios habituales:** Agricultor, Pescador, Cazador, Leñador o carbonero, Criado, Porteador, Marinero, Mensajero, Posadero, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Curandero o herbolario, Monje, Yamabushi, Artista o entretenedor, Prostituta/o, Espía o agente clandestino.
 
 ### Artesano
 
@@ -1283,7 +1283,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Ingeniería;
 - Primeros auxilios.
 
-**Oficios habituales:** Artesano, Herrero o armero, Carpintero o constructor, Criado, Mensajero, Posadero, Ladrón, Bandido, Guardia, Mercenario, Escribano, Médico, Curandero o herbolario, Monje, Yamabushi, Artista o entretenedor, Prostituta/o, Espía o agente clandestino.
+**Oficios habituales:** Artesano, Herrero o armero, Carpintero o constructor, Criado, Mensajero, Posadero, Ladrón, Asesino, Bandido, Guardia, Mercenario, Escribano, Médico, Curandero o herbolario, Monje, Yamabushi, Artista o entretenedor, Prostituta/o, Espía o agente clandestino.
 
 ### Mercader
 
@@ -1296,7 +1296,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Vigilancia;
 - Idiomas.
 
-**Oficios habituales:** Mercader, Administrador, Escribano, Marinero, Mensajero, Posadero, Criado, Ladrón, Guardia, Médico, Monje, Artista o entretenedor, Prostituta/o, Espía o agente clandestino, Emisario.
+**Oficios habituales:** Mercader, Administrador, Escribano, Marinero, Mensajero, Posadero, Criado, Ladrón, Asesino, Guardia, Médico, Monje, Artista o entretenedor, Prostituta/o, Espía o agente clandestino, Emisario.
 
 ### Samurái
 
@@ -1318,7 +1318,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Vigilancia;
 - Primeros auxilios.
 
-**Oficios habituales:** Samurái de armas, Oficial militar, Administrador, Guardia, Mensajero, Mercenario, Escribano, Médico, Monje, Yamabushi, Espía o agente clandestino, Cortesano, Emisario.
+**Oficios habituales:** Samurái de armas, Oficial militar, Administrador, Guardia, Mensajero, Mercenario, Asesino, Escribano, Médico, Monje, Yamabushi, Espía o agente clandestino, Cortesano, Emisario.
 
 Además de habilitar estas Habilidades, la Clase **Samurái** permite que el personaje tenga acceso inicial a una **escuela marcial** cuando su origen, maestro, región y fecha lo hagan plausible.
 
@@ -1457,6 +1457,25 @@ El cazador puede comprar Arco, Supervivencia, Sigilo y las demás Habilidades pr
 **Clases:** Campesino, Artesano, Mercader.  
 **Habilidades profesionales:** Hurto, Sigilo, Cerrajería, Atletismo, Vigilancia, Engaño, Disfraz, Perspicacia.  
 **Bonificación gratuita:** Hurto +2.
+
+### Asesino
+
+**Clases:** Campesino, Artesano, Mercader, Samurái.
+
+Al elegir este Oficio se escoge una **Habilidad de arma principal** coherente con la historia del personaje:
+
+- Cuchillos;
+- Espadas;
+- Lanzas;
+- Arco;
+- Armas de fuego, cuando sean plausibles.
+
+**Habilidades profesionales:** Habilidad de arma elegida, Sigilo, Vigilancia, Disfraz, Engaño, Venenos, Hurto, Atletismo, Rastreo, Perspicacia.  
+**Bonificación gratuita:** Habilidad de arma elegida +2.
+
+El Oficio representa experiencia habitual matando por encargo, por servicio o como actividad criminal. No implica pertenecer a una escuela marcial ni concede Técnicas.
+
+Un personaje que antes fue ladrón, soldado u otra cosa puede justificar mediante su historia por qué posee otras Habilidades habilitadas o aprendidas, pero esas capacidades no se obtienen automáticamente por ser Asesino.
 
 ### Bandido
 
