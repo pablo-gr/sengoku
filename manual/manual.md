@@ -427,11 +427,12 @@ Las **Habilidades** representan conocimientos adquiridos, entrenamiento, prácti
 
 Durante la creación, un personaje no puede comprar necesariamente cualquier Habilidad del manual.
 
-Su acceso procede de tres fuentes:
+Su acceso procede de dos fuentes ordinarias:
 
-1. **Habilidades generales**, disponibles para cualquier personaje.
-2. **Habilidades de Clase social**.
-3. **Habilidades profesionales de su Oficio**.
+1. **Habilidades habilitadas por su Clase social**.
+2. **Habilidades profesionales habilitadas por su Oficio**.
+
+Algunas Habilidades aparecen como comunes a todas las Clases, pero siguen estando habilitadas por la Clase y no constituyen una tercera fuente de acceso.
 
 Tener acceso a una Habilidad significa únicamente que el personaje **puede comprarla con sus puntos de creación**.
 
@@ -1195,17 +1196,18 @@ Los máximos de la categoría de personaje siguen aplicándose.
 
 Durante la creación, un personaje sólo puede gastar puntos en Habilidades que tenga **habilitadas**.
 
-Una Habilidad puede quedar habilitada por:
+Una Habilidad queda habilitada ordinariamente por:
 
 1. su **Clase social**;
-2. su **Oficio**;
-3. una excepción narrativa autorizada por el director.
+2. su **Oficio**.
 
 Que una Habilidad esté habilitada **no concede ningún nivel gratuito**.
 
 Los únicos niveles gratuitos ordinarios proceden del Oficio.
 
-Las siguientes Habilidades se consideran generales y están habilitadas para cualquier personaje:
+### Habilidades comunes a todas las Clases
+
+Todas las Clases sociales habilitan las siguientes Habilidades:
 
 - Alerta;
 - Registro;
@@ -1216,7 +1218,11 @@ Las siguientes Habilidades se consideran generales y están habilitadas para cua
 - Templanza;
 - Pelea.
 
-No poseer acceso durante la creación no significa que la Habilidad sea imposible de aprender para siempre. Durante la campaña, la experiencia, un maestro, el servicio militar, un nuevo Oficio o una institución pueden abrir nuevas posibilidades de aprendizaje.
+Esto no significa que todos los personajes posean esas Habilidades. Significa únicamente que cualquier personaje puede gastar puntos de creación en ellas.
+
+Las demás Habilidades deben estar habilitadas específicamente por su Clase o por su Oficio.
+
+No poseer acceso durante la creación no significa que la Habilidad sea imposible de aprender para siempre. Durante la campaña, una nueva oportunidad de formación puede habilitarla.
 
 ### Regla opcional: excepciones del director
 
