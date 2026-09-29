@@ -1354,6 +1354,14 @@ Las Habilidades profesionales se añaden a las generales y a las de Clase.
 
 Las bonificaciones gratuitas no se diseñan mediante un presupuesto uniforme. Representan qué formación resulta inevitable para ejercer ese Oficio y cuánto valor tiene esa formación dentro del juego.
 
+Como referencia de diseño:
+
+- un Oficio centrado en una Habilidad muy útil puede conceder sólo **+2 en esa Habilidad**;
+- un Oficio más general puede conceder **+1 en tres Habilidades**;
+- un Oficio cuya competencia principal tiene poca utilidad aventurera puede conceder **+2 en esa competencia y varios +1 adicionales**.
+
+Estas pautas no son una fórmula obligatoria.
+
 ### Agricultor
 
 **Clases:** Campesino.  
@@ -1370,7 +1378,9 @@ Las bonificaciones gratuitas no se diseñan mediante un presupuesto uniforme. Re
 
 **Clases:** Campesino.  
 **Habilidades profesionales:** Rastreo, Arco, Supervivencia, Sigilo, Vigilancia, Trampas, Alerta.  
-**Bonificaciones gratuitas:** Rastreo +1, Arco +1, Supervivencia +1.
+**Bonificaciones gratuitas:** Rastreo +2.
+
+El cazador puede comprar Arco, Supervivencia, Sigilo y las demás Habilidades profesionales con sus puntos normales. El oficio no presupone que todo cazador sea además un arquero experto o un infiltrador excepcional.
 
 ### Leñador o carbonero
 
@@ -1474,7 +1484,9 @@ Un ashigaru puede alcanzar niveles muy elevados en su arma mediante experiencia 
 
 **Clases:** Samurái, Noble.  
 **Habilidades profesionales:** Espadas, Cuchillos, Lanzas, Naginata, Bastones, Arco, Equitación, Táctica, Templanza, Liderazgo, Etiqueta, Armas de fuego.  
-**Bonificaciones gratuitas:** una entre Espadas, Lanzas, Naginata o Arco +1; Etiqueta +1; Equitación +1.
+**Bonificación gratuita:** una entre Espadas, Lanzas, Naginata o Arco +2.
+
+Este Oficio representa una formación marcial seria. Etiqueta, Equitación, Táctica y las demás Habilidades están habilitadas, pero el jugador decide si invierte puntos en ellas.
 
 ### Oficial militar
 
