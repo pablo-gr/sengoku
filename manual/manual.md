@@ -2155,6 +2155,471 @@ Su competencia técnica puede convertirlo en una persona valiosa incluso ante cl
 
 Es peligroso porque combina experiencia violenta, conocimiento del terreno y ausencia de obligaciones legales, no porque pertenezca a una «clase de bandido» especial.
 
+# 9. Sigilo y operaciones clandestinas
+
+Este capítulo explica cómo resolver operaciones de reconocimiento, infiltración, espionaje, sabotaje y otras actividades asociadas históricamente al ámbito de los **shinobi**.
+
+No existe un «modo de infiltración» separado ni un minijuego para entrar en fortalezas.
+
+La operación se resuelve mediante las reglas normales:
+
+1. el director describe el problema;
+2. el jugador explica su método;
+3. sólo se plantea un reto cuando existe incertidumbre relevante;
+4. el éxito o fracaso cambia la situación.
+
+## 9.1. El objetivo de una operación clandestina
+
+Una operación clandestina no consiste necesariamente en matar enemigos.
+
+Los objetivos pueden ser:
+
+- reconocer caminos;
+- observar una guarnición;
+- contar tropas;
+- localizar entradas;
+- comprobar provisiones;
+- identificar mandos;
+- entrar en un castillo;
+- escuchar conversaciones;
+- contactar con un informador;
+- provocar un incendio;
+- sabotear un recurso;
+- capturar a una persona;
+- robar un documento;
+- transmitir información.
+
+En una misión de inteligencia, obtener la información y no regresar con ella equivale normalmente a fracasar.
+
+El combate innecesario suele ser un riesgo, no un objetivo.
+
+## 9.2. No existe una Habilidad universal de shinobi
+
+La operación determina las capacidades necesarias.
+
+Un explorador militar puede ser un ashigaru.
+
+Un infiltrador puede ser un antiguo ladrón.
+
+Un informador puede ser un mercader, religioso o criado.
+
+Un grupo encargado de una emboscada puede estar formado por guerreros irregulares.
+
+Por tanto, no existe una Habilidad «Ninjutsu» que sustituya a las competencias concretas.
+
+## 9.3. Preparar la operación
+
+Antes de infiltrarse, los personajes pueden reducir la dificultad obteniendo información.
+
+Ejemplos:
+
+- observar cambios de guardia;
+- identificar puertas poco utilizadas;
+- conocer el terreno;
+- averiguar quién suministra comida;
+- descubrir qué trabajadores entran regularmente;
+- conseguir ropa apropiada;
+- obtener una contraseña;
+- copiar un permiso;
+- preparar una ruta de retirada.
+
+Las Habilidades habituales son:
+
+- **Vigilancia** para estudiar rutinas;
+- **Rastreo** para interpretar movimientos fuera de zonas pobladas;
+- **Supervivencia** para conocer rutas y terreno;
+- **Historia** o conocimiento local para recordar información previa;
+- **Perspicacia** para evaluar personas;
+- **Comercio** o **Administración** para comprender suministros y procedimientos;
+- **Engaño** o **Persuasión** para obtener información.
+
+Cada preparación útil puede proporcionar un modificador narrativo posterior o eliminar por completo un obstáculo.
+
+## 9.4. Aproximarse sin ser detectado
+
+Cuando el personaje intenta pasar por una zona vigilada sin ser visto u oído utiliza normalmente:
+
+> **Destreza + Sigilo**
+
+Si existe un guardia concreto, suele resolverse como reto enfrentado contra:
+
+> **Percepción + Alerta**
+
+No se realiza un reto por cada pocos metros.
+
+Un único reto puede representar atravesar una zona completa mientras las condiciones no cambien.
+
+Debe plantearse otro reto cuando aparece un problema nuevo:
+
+- una patrulla inesperada;
+- un espacio iluminado;
+- grava o madera ruidosa;
+- un perro;
+- una puerta cerrada;
+- un cambio de guardia;
+- un encuentro a corta distancia.
+
+### Modificadores frecuentes
+
+Pueden favorecer:
+
+- oscuridad;
+- lluvia o viento que enmascara sonido;
+- haber estudiado la ruta;
+- ropa y equipo silenciosos;
+- una distracción simultánea;
+- conocer el horario de los guardias.
+
+Pueden perjudicar:
+
+- luna brillante;
+- suelo ruidoso;
+- equipamiento voluminoso;
+- Heridas;
+- Fatiga;
+- vigilancia reforzada;
+- una alarma previa;
+- desconocimiento del terreno.
+
+## 9.5. Escalar y superar obstáculos
+
+Trepar un muro, tejado, árbol, talud o estructura utiliza normalmente:
+
+> **Fortaleza/Destreza + Atletismo**
+
+El director considera:
+
+- altura;
+- agarres;
+- inclinación;
+- humedad;
+- herramientas;
+- peso transportado;
+- necesidad de hacerlo en silencio.
+
+Si el verdadero problema no es subir sino hacerlo sin producir ruido, puede exigirse además Sigilo o tratar el ruido como modificador.
+
+No debe dividirse una escalada ordinaria en múltiples retos salvo que existan obstáculos realmente distintos.
+
+## 9.6. Puertas, cerraduras y alarmas
+
+Una cerradura o mecanismo utiliza normalmente:
+
+> **Destreza + Cerrajería**
+
+Detectar un mecanismo de alarma deliberadamente oculto puede utilizar:
+
+> **Percepción + Registro**
+
+o, si el personaje posee formación específica:
+
+> **Percepción + Trampas**
+
+Desactivarlo utiliza normalmente:
+
+> **Destreza + Trampas**
+
+No toda puerta cerrada necesita Cerrajería.
+
+Una puerta atrancada, una contraventana, una empalizada o una puerta interior pueden resolverse mediante fuerza, herramientas, desmontaje, engaño o acceso por otro lugar.
+
+## 9.7. Infiltración mediante identidad
+
+A menudo la forma más segura de entrar no consiste en esconderse.
+
+Un personaje puede intentar pasar por:
+
+- criado;
+- trabajador;
+- mercader;
+- monje;
+- peregrino;
+- mensajero;
+- artista itinerante;
+- porteador;
+- soldado de otra unidad.
+
+Pueden intervenir varias Habilidades:
+
+- **Disfraz:** parecer físicamente apropiado;
+- **Etiqueta:** comportarse de forma correcta;
+- **Engaño:** mantener la historia;
+- **Falsificación:** producir documentación;
+- **Escritura y documentos:** redactarla correctamente;
+- **Administración:** saber qué documento tendría sentido.
+
+No se realiza automáticamente un reto de todas ellas.
+
+Si nadie examina al personaje de cerca, un disfraz razonable puede bastar.
+
+Si un guardia pregunta por una orden, el problema pasa a ser Engaño.
+
+Si un funcionario inspecciona un salvoconducto, el problema puede ser Falsificación.
+
+## 9.8. Moverse dentro de una fortaleza
+
+Una fortaleza no se representa como una sucesión de tiradas de Sigilo.
+
+El director plantea problemas concretos:
+
+- ¿sabe el personaje dónde está el objetivo?
+- ¿hay una puerta cerrada?
+- ¿debe cruzar un patio vigilado?
+- ¿se encuentra con un sirviente?
+- ¿existe luz?
+- ¿qué ocurre si una patrulla cambia su ruta?
+- ¿cómo reconoce el almacén correcto?
+- ¿cómo sale después?
+
+Una preparación previa mediante Vigilancia puede evitar muchos de estos problemas.
+
+Perderse puede resolverse mediante conocimiento previo, Navegación, memoria, observación o tiempo adicional según el lugar.
+
+## 9.9. Registrar y obtener información
+
+Encontrar algo físicamente oculto utiliza normalmente:
+
+> **Percepción + Registro**
+
+Identificar qué documento es importante puede utilizar:
+
+- Escritura y documentos;
+- Administración;
+- Historia;
+- Comercio;
+- otra Habilidad apropiada.
+
+La información necesaria para que la historia avance no debería quedar bloqueada detrás de una cadena arbitraria de retos.
+
+Si los personajes llegan al lugar correcto y examinan razonablemente aquello que tienen delante, el director puede proporcionar la información básica directamente.
+
+Los retos se utilizan cuando importan:
+
+- el tiempo;
+- el secreto;
+- la posibilidad de pasar algo por alto;
+- la necesidad de distinguir entre varios elementos;
+- una oposición activa.
+
+## 9.10. Vigilancia de un objetivo
+
+Observar una fortaleza, campamento, camino o persona durante horas o días utiliza **Vigilancia** cuando existe incertidumbre sobre la calidad de la observación.
+
+Un éxito puede proporcionar:
+
+- horarios;
+- número aproximado de guardias;
+- rutinas;
+- entradas utilizadas;
+- relevos;
+- personas que entran y salen;
+- momentos de menor actividad.
+
+La información concreta depende de lo que realmente pueda observarse.
+
+Más tiempo puede mejorar las posibilidades, pero también aumenta el riesgo de ser detectado.
+
+## 9.11. Seguir a una persona
+
+En un entorno poblado se utiliza normalmente:
+
+> **Percepción/Destreza + Vigilancia**
+
+contra la capacidad del objetivo para advertir o evitar el seguimiento.
+
+En terreno rural donde la persona ya no está a la vista puede utilizarse **Rastreo**.
+
+Si el objetivo intenta deliberadamente descubrir si lo siguen, puede convertirse en personaje activo y utilizar Alerta, Vigilancia u otro método apropiado.
+
+## 9.12. Matar a un guardia desprevenido
+
+El problema principal es normalmente **aproximarse sin ser detectado**.
+
+Si el atacante llega hasta un guardia completamente desprevenido y éste no posee una oportunidad efectiva de reaccionar, no se utiliza un Intercambio.
+
+El director resuelve la acción normal según:
+
+- posición;
+- arma;
+- protección;
+- vulnerabilidad;
+- intención;
+- tiempo disponible.
+
+Cuando la situación hace prácticamente segura una lesión mortal —por ejemplo, un arma apropiada colocada contra una zona vital de una persona completamente indefensa— no es necesario introducir una dificultad artificial sólo para permitir que sobreviva.
+
+Si el guardia advierte el ataque a tiempo para defenderse, comienza un Intercambio normal.
+
+## 9.13. Reducir a alguien sin matarlo
+
+Capturar silenciosamente a una persona es más difícil que atacarla con intención letal.
+
+Puede exigir:
+
+- acercarse mediante Sigilo;
+- ganar control físico mediante Pelea;
+- aprovechar sorpresa;
+- evitar que grite;
+- disponer de ayuda.
+
+Si el objetivo consigue reaccionar efectivamente, se utilizan las reglas normales de combate.
+
+Las Técnicas de control pueden resultar especialmente importantes.
+
+## 9.14. Interrogar a un prisionero
+
+No existe un minijuego de interrogatorio.
+
+Primero debe decidirse:
+
+- qué sabe realmente el prisionero;
+- qué desea proteger;
+- qué teme;
+- qué espera obtener;
+- qué consecuencias prevé si habla.
+
+Después el jugador elige método.
+
+Puede utilizar:
+
+- **Persuasión:** cooperación voluntaria o trato;
+- **Engaño:** hacerle creer algo falso;
+- **Intimidación:** miedo a consecuencias;
+- **Interrogatorio:** estructurar preguntas y explotar contradicciones;
+- **Perspicacia:** observar qué temas provocan reacciones.
+
+Una persona puede ceder y aun así mentir.
+
+La violencia no convierte automáticamente una respuesta en verdad.
+
+Un fracaso puede producir:
+
+- silencio;
+- información incompleta;
+- una mentira plausible;
+- hostilidad;
+- pérdida de tiempo;
+- que el prisionero comprenda qué busca el interrogador.
+
+## 9.15. Sabotaje e incendio
+
+Muchas acciones de sabotaje no requieren una Habilidad específica.
+
+Prender fuego a material seco con tiempo y medios adecuados puede ser automático.
+
+El reto aparece cuando existen dificultades:
+
+- hacerlo rápidamente;
+- evitar humo prematuro;
+- conseguir que el fuego se propague;
+- actuar bajo vigilancia;
+- dañar una estructura concreta;
+- manipular pólvora;
+- preparar un mecanismo retardado.
+
+Según el problema pueden utilizarse:
+
+- Oficio;
+- Ingeniería;
+- Trampas;
+- Armas de fuego;
+- conocimientos específicos.
+
+El incendio puede crear confusión, obligar a mover guardias, destruir suministros o abrir una oportunidad. Sus efectos dependen del lugar y de los materiales, no de una tabla universal.
+
+## 9.16. Robar o copiar documentos
+
+Localizar documentación puede utilizar Registro.
+
+Comprenderla puede exigir Escritura y documentos, Administración, Comercio, Historia o Idiomas.
+
+Copiarla de forma legible puede utilizar Escritura y documentos.
+
+Alterarla o crear una copia destinada a engañar utiliza Falsificación.
+
+El personaje debe decidir si:
+
+- roba el original;
+- lo copia;
+- memoriza la información;
+- lo sustituye;
+- toma notas para reconstruirlo después.
+
+Cada método produce riesgos diferentes.
+
+## 9.17. Escapar
+
+Entrar es sólo la mitad de una operación.
+
+Una ruta de retirada puede depender de:
+
+- Sigilo;
+- Atletismo;
+- Supervivencia;
+- Navegación;
+- Equitación;
+- conocimiento previo;
+- ayuda exterior.
+
+Una alarma puede cambiar por completo las dificultades.
+
+Los guardias pueden:
+
+- cerrar puertas;
+- iluminar zonas;
+- utilizar perros;
+- aumentar patrullas;
+- cortar rutas;
+- avisar a puestos próximos.
+
+El director modifica la ficción en vez de utilizar una «barra de alerta».
+
+## 9.18. Fracaso y escalada de la situación
+
+Un fracaso no tiene por qué significar «te descubren inmediatamente».
+
+Puede significar:
+
+- producir un ruido;
+- perder tiempo;
+- encontrar una ruta bloqueada;
+- despertar sospechas;
+- obligar a esconderse;
+- provocar una comprobación de identidad;
+- cambiar una patrulla;
+- perder una herramienta;
+- dejar una evidencia;
+- verse obligado a abandonar parte del plan.
+
+La consecuencia debe corresponder al riesgo del reto.
+
+Un fallo menor durante una fase poco peligrosa no tiene por qué convertir instantáneamente una infiltración en una batalla.
+
+## 9.19. Dificultades orientativas
+
+Las cifras siguientes son referencias, no una tabla obligatoria.
+
+| Situación | Dificultad orientativa |
+|---|---:|
+| Cruzar sin ruido una zona oscura y poco vigilada | 2–3 |
+| Escalar una estructura sencilla con buenos apoyos | 2–4 |
+| Abrir un cierre sencillo con herramientas apropiadas | 3–4 |
+| Mantener una identidad genérica entre desconocidos | 3–4 |
+| Atravesar una zona con vigilancia ordinaria | Reto enfrentado |
+| Abrir una cerradura de buena calidad bajo presión | 5–7 |
+| Trepar un muro difícil sin equipo adecuado | 5–7 |
+| Hacerse pasar por miembro de un grupo ante alguien familiarizado con él | 6–8 |
+| Entrar en una zona militar especialmente vigilada tras una alarma | 7–10 o reto enfrentado |
+| Suplantar a una persona concreta ante alguien que la conoce bien | 9+ |
+
+La preparación puede cambiar radicalmente estas cifras.
+
+Un permiso auténtico puede eliminar un reto.
+
+Una ruta observada durante varios días puede convertir una dificultad 7 en una dificultad 4.
+
+Una alarma previa puede hacer exactamente lo contrario.
+
 # 10. Reglas de Técnicas marciales
 
 ## 10.1. Función de las Técnicas
