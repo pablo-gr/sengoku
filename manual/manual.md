@@ -1270,7 +1270,7 @@ La Técnica amplía las opciones disponibles si el personaje consigue imponerse,
 **Tipo:** Activa  
 **Etiquetas:** Counter  
 **Declaración:** al jugarla se elige en secreto una etiqueta entre Ataque, Defensa, Movimiento o Engaño.  
-**Efecto provisional:** si la Técnica rival posee esa etiqueta, +2. Si no, −1. Suerte o ninguna carta cuentan como predicción fallida.  
+**Efecto provisional:** si la Técnica rival posee esa etiqueta, el personaje obtiene **+1 al resultado**. Si no, sufre **−1 al resultado**. Suerte o ninguna carta cuentan como predicción fallida.  
 **Cooldown:** no.
 
 ### Reconocer el patrón
@@ -1386,9 +1386,9 @@ Si la Técnica no consigue Derribar al rival, el personaje sufre **−1 al resul
 
 **Tipo:** Activa  
 **Etiquetas:** Ataque  
-**Contexto:** Guardia Firme.  
+**Contexto:** cualquier Intercambio en el que el personaje pueda atacar normalmente.  
 **Efecto provisional:** el personaje obtiene **+1 al resultado**.  
-**Riesgo:** si termina el Intercambio en Empate o Derrota, su Guardia pasa a estar **Comprometida**. Si gana, conserva su estado de Guardia normal y resuelve el efecto de su victoria.  
+**Riesgo:** si termina el Intercambio en Empate o Derrota, su Guardia queda o pasa a estar **Comprometida**. Si ya estaba Comprometida, permanece así. Si gana, conserva su estado de Guardia normal y resuelve el efecto de su victoria.  
 **Cooldown:** sí.
 
 ### Ataque engañoso
