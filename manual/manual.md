@@ -280,6 +280,84 @@ Como referencia:
 
 El director decide qué personajes reciben la recompensa y si corresponde a todo el grupo o sólo a quienes hayan contribuido de forma decisiva.
 
+## 1.14. Consecuencias del fracaso
+
+Un fracaso importante debe cambiar la situación o consumir algo significativo.
+
+Puede provocar:
+
+- pérdida de tiempo;
+- ruido o atención indeseada;
+- deterioro de una relación;
+- Fatiga o Tensión;
+- pérdida o rotura de equipo;
+- aparición de una amenaza;
+- una oportunidad perdida;
+- quedar en peor posición;
+- que otra persona comprenda las intenciones del personaje;
+- una lesión cuando el riesgo físico lo justificaba.
+
+El fracaso no debe significar automáticamente la peor consecuencia imaginable.
+
+Si un personaje intenta cruzar una zona poco vigilada y falla por poco, el resultado puede ser un ruido o una sospecha. No tiene por qué aparecer instantáneamente toda la guarnición.
+
+La consecuencia debe corresponder al riesgo que existía antes del reto.
+
+## 1.15. Dificultades de referencia
+
+Las cifras siguientes sirven como orientación antes de aplicar modificadores, tiempo o Suerte.
+
+| Acción | Dificultad orientativa |
+|---|---:|
+| Saltar un obstáculo bajo durante una persecución | 1 |
+| Encontrar un objeto mal escondido | 1 |
+| Trepar una pendiente sencilla con buenos apoyos | 2 |
+| Abrir un cierre sencillo con herramientas | 2–3 |
+| Convencer a una persona neutral con un argumento razonable | 2–3 |
+| Seguir discretamente a una persona corriente en una población | 3 |
+| Identificar una enfermedad común con síntomas poco claros | 3 |
+| Reconocer una falsificación mediocre | 3 |
+| Abrir una cerradura de buena calidad | 4 |
+| Convencer a una persona claramente reacia | 4 |
+| Mantener una identidad falsa ante desconocidos atentos | 4 |
+| Cruzar un río peligroso | 4–5 |
+| Realizar un tratamiento médico complejo disponible en la época | 5 |
+| Seguir un rastro antiguo bajo lluvia | 5–6 |
+| Falsificar una orden que será revisada por un funcionario competente | 6 |
+| Escalar de noche un muro difícil con poco equipo | 6–7 |
+| Atravesar sin ser detectado una zona militar muy vigilada | 7–8 |
+| Suplantar a una persona concreta ante alguien que la conoce bien | 9+ |
+
+Una tarea puede ser imposible sin la formación o medios adecuados aunque su dificultad numérica parezca alcanzable.
+
+Una persona que no sabe leer no puede interpretar un documento únicamente gastando Suerte. Un personaje sin conocimientos médicos no puede realizar una intervención compleja porque posea Destreza elevada.
+
+## 1.16. Obtención de información
+
+**Sengoku Jidai no utiliza un subsistema de investigación.**
+
+Obtener información se resuelve mediante narración y, cuando existe incertidumbre relevante, mediante las Habilidades normales.
+
+El director debe distinguir entre:
+
+- información evidente;
+- información que el personaje conoce por su experiencia;
+- información que puede obtener preguntando, observando o consultando una fuente;
+- información cuya obtención implica un riesgo real.
+
+La información necesaria para que una situación pueda seguir avanzando no debería desaparecer simplemente porque un personaje falle un único reto.
+
+Un fracaso puede significar:
+
+- necesitar más tiempo;
+- obtener información incompleta;
+- llamar la atención;
+- tener que recurrir a otra persona;
+- no poder confirmar una sospecha;
+- pagar un coste para conseguir la respuesta.
+
+La investigación, cuando exista en una aventura, es una actividad narrativa, no una fase mecánica separada.
+
 # 2. Personajes
 
 ## 2.1. Personas del periodo Sengoku
@@ -401,7 +479,26 @@ Ejemplos:
 - Incapaz de abandonar a un compañero.
 - Busca vengar la muerte de su hermano.
 
-Los Rasgos no sustituyen Características ni Habilidades. Su función principal es definir al personaje, justificar conocimientos o relaciones y crear consecuencias narrativas.
+Los Rasgos no sustituyen Características ni Habilidades.
+
+Un Rasgo **no concede automáticamente un modificador**.
+
+Puede influir cuando la ficción lo justifique:
+
+- proporcionar una ventaja narrativa real;
+- justificar conocimiento, contacto o acceso;
+- limitar una decisión;
+- producir una complicación;
+- hacer que determinada conducta resulte incoherente con el personaje.
+
+Ejemplos:
+
+- **Antiguo ashigaru** puede justificar familiaridad con campamentos militares, pero no sustituye a Táctica.
+- **Conocido entre los mercaderes de Sakai** puede facilitar encontrar un contacto, pero no sustituye a Comercio.
+- **Leal a su señor** puede llevar al personaje a aceptar un riesgo que otro evitaría.
+- **Mala reputación en la provincia** puede perjudicar una negociación antes incluso de hablar.
+
+Cuando un Rasgo provoca una complicación, sacrificio o decisión especialmente significativa, el director puede conceder **1 punto de Suerte**.
 
 Como orientación, un personaje jugador comienza con **entre dos y cuatro Rasgos**.
 
