@@ -1365,7 +1365,7 @@ Estas pautas no son una fórmula obligatoria.
 ### Agricultor
 
 **Clases:** Campesino.  
-**Habilidades profesionales:** Oficio (agricultura), Atletismo, Supervivencia, Alerta, Primeros auxilios, Lanzas.  
+**Habilidades profesionales:** Oficio (agricultura), Atletismo, Supervivencia, Alerta, Primeros auxilios.  
 **Bonificaciones gratuitas:** Oficio (agricultura) +2, Atletismo +1, Supervivencia +1, Alerta +1.
 
 ### Pescador
@@ -1385,7 +1385,7 @@ El cazador puede comprar Arco, Supervivencia, Sigilo y las demás Habilidades pr
 ### Leñador o carbonero
 
 **Clases:** Campesino.  
-**Habilidades profesionales:** Oficio (trabajo forestal), Atletismo, Supervivencia, Rastreo, Alerta, Bastones.  
+**Habilidades profesionales:** Oficio (trabajo forestal), Atletismo, Supervivencia, Rastreo, Alerta.  
 **Bonificaciones gratuitas:** Oficio (trabajo forestal) +2, Atletismo +1, Supervivencia +1, Alerta +1.
 
 ### Artesano
@@ -1398,7 +1398,7 @@ El cazador puede comprar Arco, Supervivencia, Sigilo y las demás Habilidades pr
 ### Herrero o armero
 
 **Clases:** Artesano.  
-**Habilidades profesionales:** Oficio (herrería o fabricación de armas), Ingeniería, Comercio, Registro, Espadas, Cuchillos, Lanzas, Naginata.  
+**Habilidades profesionales:** Oficio (herrería o fabricación de armas), Ingeniería, Comercio, Registro.  
 **Bonificaciones gratuitas:** Oficio (herrería o fabricación de armas) +2, Ingeniería +1, Registro +1.
 
 ### Carpintero o constructor
