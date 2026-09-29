@@ -1149,7 +1149,7 @@ El coste de Fatiga se paga siempre. La Técnica no se vuelve gratuita por tener 
 **Tipo:** Activa  
 **Etiquetas:** Engaño  
 **Contexto:** cualquier Intercambio.  
-**Efecto:** si el rival juega una Técnica activa de Defensa, obtiene **+2 al resultado**. Si el rival juega cualquier otra Técnica, Suerte o ninguna carta, sufre **−1 al resultado**.  
+**Efecto:** si el rival juega una Técnica activa de Defensa, obtiene **+1 al resultado**. Si el rival juega cualquier otra Técnica, Suerte o ninguna carta, sufre **−1 al resultado**.  
 **Cooldown:** sí.
 
 ### Defensa Perfecta
@@ -1221,7 +1221,7 @@ La Técnica amplía las opciones disponibles si el personaje consigue imponerse,
 **Tipo:** Activa  
 **Etiquetas:** Defensa, Ataque  
 **Requisito:** dos armas apropiadas.  
-**Efecto provisional:** si el rival juega una Técnica activa de Ataque, +2 al resultado.  
+**Efecto provisional:** si el rival utiliza una Técnica activa de Ataque y, antes de aplicar el efecto de Dos hojas, el personaje perdería el Intercambio, obtiene **+2 al resultado**. Si no se cumplen ambas condiciones, Dos hojas no concede bonificación.  
 **Cooldown:** sí.
 
 ### Siempre hay otra forma
@@ -1244,7 +1244,7 @@ La Técnica amplía las opciones disponibles si el personaje consigue imponerse,
 **Tipo:** Activa  
 **Etiquetas:** Engaño, Counter  
 **Contexto:** cualquier Intercambio.  
-**Efecto provisional:** si el rival utiliza una Técnica ofensiva, el personaje obtiene **+1 al resultado**. Si el rival no utiliza una Técnica ofensiva, la Técnica no produce ningún beneficio.  
+**Efecto provisional:** si el rival utiliza una Técnica ofensiva, el personaje obtiene **+1 al resultado**. Si utiliza otra Técnica, el personaje sufre **−1 al resultado**. Si el rival juega Suerte o ninguna carta, Vacío y realidad no modifica el resultado.  
 **Cooldown:** sí.
 
 ### Movimiento y quietud
@@ -1346,7 +1346,7 @@ Los efectos exactos deben revisarse.
 **Tipo:** Activa  
 **Etiquetas:** Movimiento, Counter  
 **Contexto:** el rival utiliza un arma larga y controla una distancia favorable.  
-**Efecto provisional:** si el rival juega una Técnica de Control basada en esa arma, +2. Si gana puede disponer del efecto especial Cerrar distancia.  
+**Efecto provisional:** si el rival juega una Técnica de Control basada en esa arma, el personaje obtiene **+1 al resultado**. Si gana puede disponer del efecto especial Cerrar distancia.  
 **Cooldown:** sí.
 
 ### Kogusoku
@@ -1365,7 +1365,11 @@ Kogusoku puede utilizarse también en un combate completamente desarmado, propor
 **Tipo:** Activa  
 **Etiquetas:** Control  
 **Contexto:** distancia cerrada.  
-**Efecto provisional:** no concede bonificación al resultado. Si obtiene Éxito o Crítico, el personaje puede elegir **Derribar** como efecto de la victoria. El rival pasa a estar Derribado y sufre todas las restricciones de esa condición.  
+**Efecto provisional:** no concede bonificación al resultado.
+- Si el rival tiene **Guardia Firme**, sólo puede ser Derribado si el personaje obtiene un **Crítico**.
+- Si el rival tiene **Guardia Comprometida**, basta con obtener **Empate o un resultado superior** para Derribarlo.
+
+Si la Técnica no consigue Derribar al rival, el personaje sufre **−1 al resultado del siguiente Intercambio**.  
 **Cooldown:** sí.
 
 ### Aferrarse al combate
@@ -1426,7 +1430,7 @@ Kogusoku puede utilizarse también en un combate completamente desarmado, propor
 
 **Tipo:** Activa  
 **Etiquetas:** Engaño, Movimiento  
-**Efecto provisional:** cede terreno. Si el rival ha elegido una Técnica de Movimiento, Presión o destinada a perseguirle, +2 al resultado. Si no le persigue, no obtiene bonificación.  
+**Efecto provisional:** el personaje cede terreno. Si el rival utiliza una Técnica ofensiva, obtiene **+1 al resultado**. En cualquier otro caso sufre **−1 al resultado**.  
 **Cooldown:** sí.
 
 ### Desaparecer entre obstáculos
