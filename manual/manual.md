@@ -486,7 +486,46 @@ El adversario recibe una **Herida mortal**.
 
 El término Herida mortal identifica el nivel de gravedad de la lesión. Sus consecuencias exactas se definirán con las reglas de Heridas y no implican necesariamente que la muerte sea instantánea.
 
-## 4.9. Decisiones después de una victoria
+## 4.9. Condiciones de control
+
+Algunas Técnicas pueden imponer condiciones físicas que restringen las opciones normales de un combatiente. Estas condiciones no añaden nuevos estados de Guardia: la Guardia continúa siendo únicamente Firme o Comprometida.
+
+### Derribado
+
+Un personaje **Derribado** se encuentra en el suelo y no puede combatir con normalidad.
+
+Mientras permanezca Derribado:
+
+- su Guardia está **Comprometida**;
+- no puede Recomponer Guardia hasta Firme;
+- no puede realizar ataques ni utilizar Técnicas ofensivas, salvo que una Técnica indique expresamente que puede utilizarse desde el suelo;
+- no puede ceder terreno ni utilizar Técnicas que requieran desplazamiento o juego de pies incompatibles con estar en el suelo.
+
+El personaje continúa participando en los Intercambios para defenderse e intentar recuperar la posición.
+
+Si un personaje Derribado gana un Intercambio, su única opción estándar es **Levantarse**. Levantarse elimina la condición Derribado, pero **no recupera Guardia Firme**: el personaje continúa con Guardia Comprometida y deberá Recomponerla posteriormente por los medios normales.
+
+Una Técnica puede modificar estas restricciones, permitir atacar desde el suelo o mejorar la forma de levantarse.
+
+Si ya no existe presión inmediata de un adversario, el personaje puede levantarse sin necesidad de ganar un Intercambio.
+
+### Inmovilizado
+
+Un personaje **Inmovilizado** se encuentra bajo control físico efectivo de un adversario mediante agarre, llave, presión corporal, control de un miembro o una técnica equivalente.
+
+Mientras permanezca Inmovilizado:
+
+- su Guardia está **Comprometida**;
+- no puede Recomponer Guardia;
+- no puede atacar normalmente;
+- no puede desplazarse, huir ni cambiar libremente de arma;
+- no puede utilizar Técnicas que requieran libertad de movimiento incompatible con la inmovilización.
+
+Si gana un Intercambio mientras está Inmovilizado, su opción estándar es **Liberarse**. Liberarse termina la inmovilización, pero el personaje continúa con Guardia Comprometida.
+
+Una inmovilización puede permitir al combatiente que mantiene el control **desarmar, derribar, sujetar, atar o capturar** al adversario cuando la situación lo permita. Si el objetivo deja de resistirse y no existe intervención externa, una inmovilización efectiva puede poner fin al enfrentamiento de forma no letal.
+
+## 4.10. Decisiones después de una victoria
 
 El vencedor elige qué efecto legal desea aplicar.
 
@@ -501,7 +540,7 @@ Si obtiene un Crítico, puede además elegir una Herida mortal si se cumplen sus
 
 Las Técnicas pueden ampliar estas posibilidades con opciones como Desarmar, Derribar, controlar un arma, obligar a ceder terreno u otros efectos.
 
-## 4.10. Suerte en combate
+## 4.11. Suerte en combate
 
 La Suerte se utiliza durante los Intercambios mediante **cartas de Suerte**.
 
@@ -538,7 +577,7 @@ Aunque la Suerte haga que el resultado final supere al adversario por +2 o más,
 
 Esta regla impide que una reserva de Suerte pueda transformarse directamente en una oportunidad mortal que el personaje no había creado mediante capacidad, situación o Técnicas.
 
-## 4.11. Elección secreta del Intercambio
+## 4.12. Elección secreta del Intercambio
 
 Al comienzo de cada Intercambio, cada combatiente puede realizar **una única elección secreta**:
 
@@ -554,7 +593,7 @@ La elección entre entrenamiento y Suerte forma parte de la táctica del combate
 
 Las Técnicas pasivas no ocupan esta elección secreta y pueden utilizarse cuando se cumplan sus condiciones.
 
-## 4.12. Secuencia provisional de un Intercambio
+## 4.13. Secuencia provisional de un Intercambio
 
 La secuencia de resolución es:
 
@@ -1314,19 +1353,20 @@ Los efectos exactos deben revisarse.
 
 **Tipo:** Pasiva  
 **Etiquetas:** Control  
-**Requisito:** arma corta apropiada.  
+**Requisito:** combatir desarmado o utilizar un arma corta apropiada para agarre y control.  
 **Contexto:** distancia cerrada y Guardia rival Comprometida.  
-**Efecto provisional:** al obtener un Éxito puede elegir Inmovilizar en lugar de causar una Herida grave.
+**Efecto provisional:** al obtener un Éxito o Crítico puede elegir **Inmovilizar** en lugar de causar una Herida. La inmovilización permite resolver el enfrentamiento de forma no letal y puede utilizarse para desarmar, derribar, sujetar o capturar al rival cuando la situación lo permita.
+
+Kogusoku puede utilizarse también en un combate completamente desarmado, proporcionando una forma de terminar rápidamente el enfrentamiento mediante control físico en lugar de daño.  
+**Cooldown:** sí.
 
 ### Derribo
 
 **Tipo:** Activa  
 **Etiquetas:** Control  
 **Contexto:** distancia cerrada.  
-**Efecto provisional:** no concede bonificación. Si obtiene al menos Éxito permite elegir Derribar.  
-**Cooldown:** no.
-
-Las consecuencias exactas de Derribado quedan pendientes.
+**Efecto provisional:** no concede bonificación al resultado. Si obtiene Éxito o Crítico, el personaje puede elegir **Derribar** como efecto de la victoria. El rival pasa a estar Derribado y sufre todas las restricciones de esa condición.  
+**Cooldown:** sí.
 
 ### Aferrarse al combate
 
