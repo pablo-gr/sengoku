@@ -100,6 +100,177 @@ Los modificadores narrativos representan estas circunstancias cuando afectan al 
 
 Los jugadores pueden buscar activamente estas ventajas mediante sus decisiones. Prepararse bien, elegir el terreno adecuado o evitar un enfrentamiento desfavorable puede ser más importante que intentar superar una dificultad mediante capacidad individual.
 
+## 1.7. Dificultad secreta
+
+La dificultad de un reto es secreta.
+
+El director no la revela antes de que el jugador decida:
+
+- qué método utiliza;
+- cuánto tiempo dedica;
+- qué preparación intenta obtener;
+- cuánta Suerte gasta.
+
+Como referencia general:
+
+| Dificultad | Categoría |
+|---:|---|
+| 1–4 | Fácil |
+| 5–8 | Moderada |
+| 9–12 | Difícil |
+| 13 o más | Extraordinaria |
+
+Los nombres describen la escala desde una perspectiva humana. Una dificultad elevada puede superarse mediante capacidad excepcional, preparación, tiempo, equipo, circunstancias favorables y Suerte.
+
+Un reto no debería plantearse sólo porque una acción tenga una dificultad baja. Si una persona competente puede realizarla de forma rutinaria y el fracaso no tendría consecuencias relevantes, simplemente tiene éxito.
+
+## 1.8. Modificadores
+
+Existen tres fuentes principales de modificación:
+
+1. **modificador narrativo**;
+2. **modificador temporal**;
+3. **Suerte**.
+
+Son independientes y pueden acumularse.
+
+### Modificador narrativo
+
+Representa ventajas y desventajas reales de la situación.
+
+Ejemplos favorables:
+
+- disponer de herramientas adecuadas;
+- conocer previamente el lugar;
+- haber observado la rutina de un guardia;
+- actuar desde una posición favorable;
+- contar con ayuda útil;
+- disponer de una carta de presentación auténtica;
+- preparar una emboscada;
+- esperar al momento adecuado.
+
+Ejemplos desfavorables:
+
+- oscuridad;
+- ruido;
+- prisa;
+- herramientas deficientes;
+- heridas;
+- cansancio;
+- lluvia intensa;
+- terreno peligroso;
+- vigilancia reforzada;
+- desconocimiento del lugar.
+
+El director valora el efecto real del método completo. Acumular descripciones distintas de una misma ventaja no multiplica la bonificación.
+
+### Colaboración
+
+Cuando varias personas colaboran en una misma tarea, una de ellas realiza normalmente el reto.
+
+Los demás participantes pueden aportar:
+
+- información;
+- herramientas;
+- fuerza de trabajo;
+- acceso;
+- distracciones;
+- experiencia complementaria.
+
+La ayuda sólo concede una ventaja si cambia realmente las condiciones. El número de participantes no proporciona una bonificación automática.
+
+## 1.9. Tiempo
+
+Toda tarea posee un **tiempo normal** según el método, las herramientas y las circunstancias.
+
+El personaje puede intentar realizarla más deprisa o dedicar más tiempo cuando pueda aprovecharlo realmente:
+
+- cada paso hacia un intervalo más corto aplica **−1**;
+- cada paso hacia un intervalo más largo aplica **+1**.
+
+No existe un límite mecánico universal. La ficción determina si el tiempo declarado resulta físicamente posible y si el personaje puede mantener el acceso necesario.
+
+Dedicar más tiempo sólo ayuda si se emplea de forma útil: comprobar el trabajo, estudiar el problema, preparar herramientas, observar una rutina, ensayar, corregir errores o buscar un momento más favorable.
+
+Una interrupción puede hacer perder parte o todo el progreso según la naturaleza de la tarea.
+
+## 1.10. Retos enfrentados
+
+Cuando una acción se enfrenta directamente a la capacidad de otra persona, el resultado del oponente establece la dificultad.
+
+> **Resultado del oponente = dificultad del personaje activo**
+
+Ejemplos:
+
+- Destreza + Sigilo contra Percepción + Alerta;
+- Presencia + Engaño contra Percepción + Perspicacia;
+- Percepción + Vigilancia contra Destreza + Sigilo;
+- Presencia + Intimidación contra Voluntad + Templanza.
+
+El personaje activo tiene éxito si iguala o supera la dificultad.
+
+La ficción determina quién intenta cambiar la situación. Si un infiltrado intenta atravesar una zona vigilada, él es el personaje activo. Si los guardias comienzan una búsqueda sistemática, pueden convertirse ellos en los personajes activos.
+
+Los Intercambios de combate utilizan sus propias reglas y no aplican esta ventaja del personaje activo en caso de empate.
+
+## 1.11. Reintentos
+
+Un reto puede repetirse sólo cuando tenga sentido narrativo.
+
+Cada reintento con el mismo método aumenta en **+1 la dificultad original**.
+
+El aumento representa frustración, desgaste, agotamiento de soluciones evidentes, deterioro del material o empeoramiento de las circunstancias.
+
+Un cambio menor no elimina este aumento.
+
+Si el personaje cambia realmente de método o transforma la situación, el director puede considerarlo un reto nuevo.
+
+Ejemplos:
+
+- seguir intentando abrir la misma cerradura con las mismas herramientas es un reintento;
+- abandonar la ganzúa y desmontar las bisagras puede ser un método nuevo;
+- volver a contar la misma mentira a un guardia desconfiado es un reintento;
+- conseguir un documento auténtico que respalde la historia cambia la situación.
+
+Las oportunidades irrepetibles no pueden reintentarse: una alarma ya activada, una primera impresión perdida o un guardia que ya ha visto el rostro del personaje no vuelven al estado anterior porque el jugador quiera probar otra vez.
+
+## 1.12. Acciones complejas y simultáneas
+
+Cuando una acción exige de forma esencial varias Características, se utiliza la menor de ellas.
+
+> **Resultado = Característica más baja + Habilidad + modificadores + Suerte**
+
+Ejemplos:
+
+- Fortaleza/Destreza + Atletismo para escalar cargando a una persona;
+- Percepción/Destreza + Arco para realizar un disparo especialmente preciso;
+- Destreza/Inteligencia + Medicina para una intervención delicada;
+- Presencia/Inteligencia + Persuasión para defender una propuesta compleja ante una autoridad.
+
+El director sólo exige varias Características cuando todas sean realmente imprescindibles.
+
+Un personaje también puede intentar varias acciones durante el mismo intervalo cuando resulte físicamente posible. Para hacerlo reparte los puntos positivos de la Característica implicada entre esas acciones. Las Habilidades y modificadores se calculan por separado.
+
+Una Característica 0 no aporta puntos positivos para repartir. Una Característica −1 aplica su penalización a cualquier acción que dependa de ella.
+
+## 1.13. Suerte
+
+La Suerte representa coincidencias favorables, oportunidades inesperadas y golpes de fortuna.
+
+Cada punto de Suerte gastado proporciona **+1**.
+
+El jugador decide cuánta Suerte gasta antes de conocer la dificultad. Los puntos se gastan aunque el reto fracase.
+
+La Suerte:
+
+- nunca puede bajar de 0;
+- no tiene máximo acumulable;
+- se conserva entre aventuras.
+
+Todo personaje comienza normalmente con **4 puntos de Suerte**.
+
+El director puede conceder 1 punto de Suerte cuando un Rasgo importante del personaje provoque una complicación, sacrificio o decisión significativa, o cuando su interpretación contribuya de forma especialmente coherente a la partida.
+
 # 2. Personajes
 
 ## 2.1. Personas del periodo Sengoku
@@ -189,6 +360,41 @@ Esto no modifica la posición real del personaje. Cambia únicamente la manera e
 Cuando exista incertidumbre sobre una identidad, una afiliación, un rango o una posición declarada, la situación puede resolverse mediante los retos y Habilidades apropiados.
 
 Las reglas detalladas sobre identidad, reputación, reconocimiento, afiliaciones, funciones, disfraces y operaciones encubiertas se desarrollan en capítulos posteriores.
+
+## 2.7. Rasgos
+
+Los **Rasgos** describen elementos importantes del personaje que no necesitan una puntuación propia.
+
+Pueden representar:
+
+- personalidad;
+- principios;
+- defectos;
+- obligaciones;
+- relaciones;
+- reputación;
+- secretos;
+- miedos;
+- hábitos;
+- experiencias pasadas.
+
+Un Rasgo puede ayudar en una situación y perjudicar en otra.
+
+Ejemplos:
+
+- Leal a su señor.
+- Protege a su familia.
+- Ambicioso.
+- Supersticioso.
+- Conocido entre los mercaderes de Sakai.
+- Antiguo ashigaru.
+- Deuda con un monasterio.
+- Incapaz de abandonar a un compañero.
+- Busca vengar la muerte de su hermano.
+
+Los Rasgos no sustituyen Características ni Habilidades. Su función principal es definir al personaje, justificar conocimientos o relaciones y crear consecuencias narrativas.
+
+Como orientación, un personaje jugador comienza con **entre dos y cuatro Rasgos**.
 
 # 3. Características
 
@@ -282,13 +488,565 @@ El valor negativo se aplica numéricamente cuando corresponde, pero sus consecue
 
 Una deficiencia puede hacer que ciertas acciones sean imposibles, obligar al personaje a emplear otro método o producir consecuencias adicionales cuando la situación lo justifique.
 
-# 4. Combate
+# 4. Habilidades
+
+Las **Habilidades** representan formación, práctica, conocimientos adquiridos y experiencia.
+
+No existe una lista completamente cerrada. Las Habilidades siguientes cubren las situaciones más habituales de una campaña de **Sengoku Jidai**. El director puede aceptar otras cuando un oficio, tradición o actividad requiera una competencia diferenciada.
+
+## 9.1. Valores de Habilidad
+
+| Valor | Significado |
+|---:|---|
+| **No adquirida** | El personaje carece de formación específica |
+| **+0** | Familiaridad rudimentaria |
+| **+1** | Formación básica o práctica habitual |
+| **+2** | Competencia profesional |
+| **+3** | Dominio excepcional dentro de la capacidad humana |
+
+Una Habilidad no adquirida puede utilizarse sin bonificación cuando la tarea sea accesible a una persona sin formación.
+
+Las Habilidades marcadas con un asterisco (`*`) requieren normalmente instrucción. Sin ella, ciertas tareas son imposibles aunque el personaje posea una Característica elevada.
+
+## 9.2. Habilidades y Características
+
+Una Habilidad no está ligada a una única Característica.
+
+El método determina la combinación.
+
+Ejemplos:
+
+- **Destreza + Cerrajería:** manipular una cerradura.
+- **Inteligencia + Cerrajería:** comprender el mecanismo o diagnosticar por qué está bloqueado.
+- **Percepción + Rastreo:** seguir huellas.
+- **Inteligencia + Rastreo:** deducir cuántas personas pasaron y hace cuánto.
+- **Presencia + Interrogatorio:** presionar a un prisionero mediante preguntas.
+- **Inteligencia + Interrogatorio:** detectar contradicciones entre respuestas.
+- **Fortaleza + Intimidación:** amenazar físicamente.
+- **Voluntad + Templanza:** mantener el control bajo miedo o presión.
+
+## 9.3. Movimiento y viaje
+
+### Atletismo
+
+Correr, saltar, trepar, mantener el equilibrio bajo esfuerzo, escalar y realizar esfuerzos corporales donde importe la técnica de movimiento.
+
+No sustituye a **Pelea** en un enfrentamiento ni a **Supervivencia** para resolver los problemas de una travesía.
+
+### Equitación `*`
+
+Montar, controlar y cuidar un caballo en situaciones que exceden la rutina.
+
+Se utiliza para:
+
+- mantener el control de una montura asustada;
+- cabalgar por terreno difícil;
+- realizar maniobras exigentes;
+- viajar rápidamente sin agotar innecesariamente al animal;
+- valorar problemas básicos de una montura.
+
+No sustituye a la Habilidad de arma utilizada en combate montado.
+
+### Natación
+
+Nadar, bucear, mantenerse a flote, cruzar corrientes y actuar en el agua.
+
+No cubre navegación ni manejo de embarcaciones.
+
+### Marinería `*`
+
+Manejo práctico de embarcaciones: velas, remos, maniobras, trabajo de cubierta, atraque y mantenimiento ordinario.
+
+**Navegación** determina hacia dónde ir. **Marinería** permite gobernar la embarcación.
+
+### Navegación `*`
+
+Determinar rutas mediante mapas, referencias del terreno, costa, estrellas y experiencia geográfica.
+
+No sustituye a **Supervivencia** para obtener comida, refugio o soportar el entorno.
+
+### Supervivencia
+
+Vivir y desplazarse fuera de asentamientos: encontrar agua, alimento y refugio, encender fuego, valorar el tiempo, elegir campamento y reconocer peligros naturales.
+
+Puede proporcionar conocimiento práctico del terreno, pero seguir la pista concreta de una persona corresponde a **Rastreo**.
+
+### Rastreo
+
+Seguir personas o animales mediante huellas, ramas, barro, restos, marcas y otros rastros físicos.
+
+También permite estimar dirección, número aproximado, velocidad o antigüedad de un rastro cuando existan indicios suficientes.
+
+No sustituye a **Vigilancia** para seguir discretamente a alguien dentro de una población.
+
+## 9.4. Observación, infiltración y seguridad
+
+### Alerta
+
+Advertir algo inesperado sin estar buscándolo de forma sistemática.
+
+Ejemplos:
+
+- oír pasos al otro lado de una puerta;
+- detectar movimiento entre los árboles;
+- advertir que alguien lleva la mano al arma;
+- notar que una ventana que debía estar cerrada está abierta.
+
+**Alerta es reactiva.** Cuando el personaje examina deliberadamente un lugar se utiliza **Registro**. Cuando observa a una persona o lugar durante un periodo prolongado se utiliza **Vigilancia**.
+
+### Registro
+
+Buscar activamente objetos o detalles físicos ocultos.
+
+Ejemplos:
+
+- registrar una habitación;
+- encontrar un compartimento;
+- localizar un arma oculta;
+- descubrir un hilo, campanilla o mecanismo de alarma;
+- examinar a una persona antes de dejarla entrar.
+
+Registro no deduce automáticamente el significado de lo encontrado.
+
+### Vigilancia
+
+Observar una persona, edificio, camino o zona durante un periodo prolongado para conocer rutinas, entradas, horarios, relevos, relaciones o cambios.
+
+También puede utilizarse para seguir discretamente a una persona en un entorno poblado.
+
+Vigilancia no sustituye a **Sigilo** cuando el problema es evitar ser visto ni a **Rastreo** cuando sólo quedan huellas físicas.
+
+### Sigilo
+
+Moverse, permanecer oculto o aproximarse sin ser detectado.
+
+Se utiliza para:
+
+- atravesar una zona vigilada;
+- esconderse;
+- acercarse a un guardia;
+- cambiar de posición sin llamar la atención;
+- reducir el ruido producido por el movimiento.
+
+Sigilo no permite aparentar una identidad legítima. Entrar por la puerta principal vestido como un criado puede depender de **Disfraz, Etiqueta y Engaño**, no de Sigilo.
+
+### Disfraz
+
+Modificar apariencia, vestimenta, peinado, postura y detalles visibles para parecer otra persona o pertenecer a otro grupo social u ocupación.
+
+Un buen disfraz puede evitar que alguien formule preguntas, pero no enseña al personaje cómo comportarse. Mantener una identidad bajo conversación puede exigir **Etiqueta** o **Engaño**.
+
+### Cerrajería `*`
+
+Comprender y manipular cerraduras, cerrojos, mecanismos de cierre y dispositivos semejantes.
+
+Puede utilizarse para abrir, reparar, bloquear o evaluar un mecanismo.
+
+Una puerta simplemente atrancada desde dentro puede exigir otro método: fuerza, herramientas, carpintería o acceso alternativo.
+
+### Trampas `*`
+
+Reconocer, construir, desactivar o improvisar trampas y alarmas mecánicas sencillas.
+
+La detección de una trampa conocida puede utilizar **Percepción + Trampas**. Desactivarla puede requerir **Destreza + Trampas**.
+
+No sustituye a **Ingeniería** para obras grandes ni a **Registro** para buscar de forma general.
+
+### Falsificación `*`
+
+Imitar o alterar documentos, sellos, marcas, firmas, permisos y otros elementos materiales de una identidad o autorización.
+
+No garantiza que el personaje conozca el contenido, formato o tratamiento correcto del documento. Para eso pueden ser necesarias **Escritura y documentos, Administración o Etiqueta**.
+
+## 9.5. Combate
+
+### Espadas `*`
+
+Uso marcial de espadas y armas de hoja semejantes, incluyendo las variantes apropiadas de tachi, katana, uchigatana, wakizashi o tantō según el contexto.
+
+Las Técnicas de una escuela pueden imponer requisitos adicionales aunque la Habilidad permita utilizar el arma.
+
+### Armas de asta `*`
+
+Uso de yari, naginata, bō y otras armas largas cuyo manejo depende principalmente del alcance, la punta, el asta o movimientos amplios de control.
+
+Las armas excepcionalmente particulares pueden exigir una Habilidad propia si el director considera que su manejo se aleja demasiado de esta familia.
+
+### Arco `*`
+
+Uso de yumi y otros arcos.
+
+Incluye disparo, preparación, elección de tiro y manejo ordinario del equipo. El mantenimiento artesanal del arco corresponde a un **Oficio** apropiado.
+
+### Armas de fuego `*`
+
+Uso de teppō y otras armas de pólvora portátiles disponibles en la época de la campaña.
+
+Incluye carga, disparo y mantenimiento ordinario. Fabricar pólvora, reparar mecanismos complejos o producir armas corresponde a Habilidades profesionales.
+
+### Pelea
+
+Combate sin armas: golpes, agarres, forcejeos, proyecciones y control físico.
+
+Las Técnicas marciales pueden ampliar enormemente lo que un personaje entrenado puede conseguir mediante esta Habilidad.
+
+### Táctica `*`
+
+Comprender y dirigir situaciones militares inmediatas: despliegues, emboscadas, campos de tiro, uso del terreno, marchas, defensa de posiciones y coordinación de pequeñas unidades.
+
+No sustituye a **Liderazgo** para conseguir que personas desmoralizadas obedezcan ni a **Administración** para abastecer un ejército.
+
+## 9.6. Interacción social
+
+### Engaño
+
+Conseguir que otra persona acepte como cierta una afirmación falsa o una interpretación deliberadamente engañosa.
+
+Engaño cubre la mentira y la historia inventada. No sustituye a **Disfraz** para cambiar la apariencia ni a **Etiqueta** para conocer el comportamiento correcto de la identidad adoptada.
+
+### Persuasión
+
+Convencer mediante argumentos, negociación, apelaciones, promesas o intereses compartidos.
+
+No obliga a alguien aterrorizándolo; eso es **Intimidación**. Tampoco representa autoridad sobre subordinados; eso suele ser **Liderazgo**.
+
+### Intimidación
+
+Obtener obediencia inmediata mediante miedo a las consecuencias.
+
+Puede utilizar Presencia, Fortaleza, posición social, reputación o una amenaza concreta según el método.
+
+La intimidación puede conseguir cooperación sin producir lealtad y puede generar resentimiento o deseo de venganza.
+
+### Liderazgo
+
+Dar órdenes, coordinar y mantener la cohesión de personas que reconocen en algún grado la autoridad del personaje o comparten su objetivo.
+
+Es especialmente apropiada bajo peligro, confusión o presión.
+
+No sirve para convencer a una persona ajena de que apoye una causa contra sus intereses; eso corresponde a Persuasión, Engaño o Intimidación.
+
+### Etiqueta
+
+Conocer y ejecutar las formas sociales apropiadas para una situación.
+
+Incluye:
+
+- tratamientos;
+- precedencias;
+- comportamiento ante superiores;
+- recepción de invitados;
+- intercambio de regalos;
+- códigos de cortesía;
+- expectativas asociadas a una posición.
+
+También puede permitir advertir que otra persona se comporta de manera impropia para el rango que afirma poseer.
+
+Etiqueta no concede automáticamente acceso. Una persona puede saber perfectamente cómo comportarse ante un daimyō y carecer de cualquier motivo para ser recibida.
+
+### Interrogatorio
+
+Obtener información de una persona que no desea proporcionarla o que intenta ocultar parte de lo que sabe.
+
+Puede combinarse con Presencia para dirigir la conversación, Inteligencia para encontrar contradicciones o Percepción para observar reacciones.
+
+Interrogatorio no implica necesariamente violencia. Persuasión, engaño, presión, silencios, confrontación de versiones y amenazas pueden formar parte del método.
+
+### Perspicacia
+
+Interpretar emociones, intenciones inmediatas, dudas, hostilidad, miedo y cambios de comportamiento.
+
+No es un detector automático de mentiras. Puede indicar que una persona está incómoda o evitando un tema sin revelar por qué.
+
+### Templanza
+
+Disciplina aprendida para mantener el autocontrol bajo miedo, dolor, provocación, presión o agotamiento emocional.
+
+Se combina habitualmente con Voluntad.
+
+Templanza no elimina la Tensión acumulada, pero puede permitir actuar con eficacia ante una causa concreta de estrés.
+
+## 9.7. Conocimientos, administración y oficios
+
+### Administración `*`
+
+Gestionar registros, impuestos, inventarios, órdenes, correspondencia oficial, almacenes, pagos, obligaciones y procedimientos de una organización.
+
+También permite comprender qué documento, funcionario o autoridad interviene normalmente en un trámite.
+
+No sustituye a **Comercio** para valorar mercancías ni a **Etiqueta** para comportarse adecuadamente ante una autoridad.
+
+### Comercio
+
+Conocer precios, calidades, rutas mercantiles, prácticas de compraventa, crédito, abastecimiento y disponibilidad de bienes.
+
+Puede utilizarse para valorar mercancías o detectar condiciones comerciales anormales.
+
+Negociar personalmente un precio puede combinar Comercio con Presencia o utilizar Persuasión según el enfoque.
+
+### Escritura y documentos `*`
+
+Leer, escribir y producir textos adecuados al nivel cultural del personaje.
+
+Incluye reconocer formatos ordinarios, copiar textos, redactar cartas y trabajar con documentos cuando la dificultad procede de la escritura misma.
+
+No implica conocer todos los procedimientos administrativos; para eso se utiliza **Administración**.
+
+Los textos especialmente eruditos, antiguos, técnicos o escritos en otra lengua pueden requerir además Historia, Religión, Idiomas u otra Habilidad.
+
+### Historia
+
+Conocimiento de acontecimientos, casas, guerras, personajes, lugares, precedentes, linajes y tradiciones del pasado.
+
+Puede especializarse por región o tema.
+
+Reconocer un mon famoso o recordar la relación entre dos casas puede utilizar Historia. Saber cómo dirigirse correctamente a su representante utiliza Etiqueta.
+
+### Idiomas `*`
+
+Cada idioma ajeno o competencia lingüística excepcional puede adquirirse como Habilidad separada o especialidad según la campaña.
+
+Permite comprender, hablar, traducir o interpretar textos cuando la barrera principal es lingüística.
+
+No sustituye a Escritura y documentos cuando el problema consiste en redactar correctamente un documento formal.
+
+### Ingeniería `*`
+
+Diseño y comprensión práctica de fortificaciones, edificios, puentes, defensas, obras de tierra, máquinas y problemas estructurales.
+
+Puede utilizarse para encontrar un punto débil físico o planificar una obra.
+
+Construirla realmente puede requerir trabajadores, materiales, tiempo y Oficios apropiados.
+
+### Medicina `*`
+
+Diagnosticar enfermedades y lesiones, establecer pronósticos, aplicar tratamientos complejos y utilizar los conocimientos médicos disponibles en la época.
+
+Medicina no hace posible un tratamiento que los medios históricos no permiten realizar.
+
+Detener una hemorragia o vendar una herida inmediata puede utilizar **Primeros auxilios**.
+
+### Primeros auxilios
+
+Atención inmediata a heridas y accidentes: presión sobre hemorragias, vendajes, inmovilización básica, limpieza y traslado seguro.
+
+Puede estabilizar ciertas lesiones, pero no sustituye a Medicina para diagnóstico, cirugía, enfermedades o tratamientos prolongados.
+
+### Religión `*`
+
+Conocimiento de doctrinas, instituciones, prácticas, sectas, rituales, jerarquías y costumbres religiosas.
+
+No concede poderes sobrenaturales.
+
+Puede servir para reconocer un templo, comprender la posición de un monje, identificar prácticas religiosas o comportarse adecuadamente dentro de una institución.
+
+### Oficio `*`
+
+Representa una profesión artesanal o técnica concreta y debe especificarse.
+
+Ejemplos:
+
+- herrería;
+- carpintería;
+- fabricación de armas;
+- construcción;
+- cerámica;
+- tejido;
+- agricultura especializada;
+- cocina;
+- construcción naval.
+
+Un Oficio permite realizar el trabajo cotidiano correspondiente y resolver situaciones técnicas relacionadas con él.
+
+### Venenos `*`
+
+Conocimiento práctico de sustancias tóxicas, preparación, conservación, dosis, síntomas y medidas de emergencia conocidas.
+
+No permite fabricar sustancias inexistentes ni garantiza que un veneno concreto esté disponible.
+
+Medicina puede reconocer síntomas generales; Venenos se utiliza cuando el problema depende específicamente de identificar, preparar o emplear una sustancia tóxica.
+
+## 9.8. Elegir entre Habilidades parecidas
+
+Cuando varias Habilidades parecen posibles, debe utilizarse la que corresponde al **problema real** que intenta resolver el personaje.
+
+Ejemplos:
+
+- **Alerta** para advertir a un guardia oculto; **Registro** para buscarlo deliberadamente.
+- **Vigilancia** para estudiar durante días los relevos de una fortaleza; **Sigilo** para cruzar después la zona sin ser visto.
+- **Rastreo** para seguir huellas en barro; **Vigilancia** para seguir a un mensajero por una ciudad.
+- **Disfraz** para parecer un monje; **Etiqueta** para comportarse como uno; **Engaño** para responder cuando alguien pregunta por qué está allí.
+- **Perspicacia** para notar que un prisionero evita un tema; **Interrogatorio** para conseguir que hable.
+- **Administración** para saber qué autorización necesita una caravana; **Falsificación** para fabricar el documento; **Escritura y documentos** para redactarlo correctamente.
+- **Primeros auxilios** para detener una hemorragia; **Medicina** para determinar si la lesión puede sobrevivirse y cómo tratarla.
+- **Táctica** para elegir dónde colocar una emboscada; **Liderazgo** para conseguir que una unidad mantenga la posición cuando comienza el combate.
+
+# 5. Creación de personajes
+
+El director determina el nivel general de capacidad apropiado para la campaña.
+
+## 8.1. Coste de las Habilidades
+
+Las Habilidades comienzan como **no adquiridas**, salvo las concedidas gratuitamente por ocupación y origen.
+
+Durante la creación:
+
+| Nivel inicial | Coste desde no adquirida |
+|---:|---:|
+| +0 | 1 punto |
+| +1 | 2 puntos |
+| +2 | 3 puntos |
+| +3 | 4 puntos |
+
+Cada punto compra un paso.
+
+Si la ocupación u origen conceden gratuitamente una Habilidad, sólo se pagan los pasos adicionales.
+
+## 8.2. Personaje ordinario
+
+Representa a la mayoría de las personas y es una buena referencia para PNJ comunes.
+
+### Características
+
+- 3 puntos de Características;
+- todas comienzan en 0;
+- una sola puede alcanzar +2;
+- las demás no pueden superar +1.
+
+Distribuciones habituales:
+
+- `+2, +1, 0, 0, 0, 0`
+- `+1, +1, +1, 0, 0, 0`
+
+### Habilidades
+
+- 5 puntos de Habilidad;
+- ninguna puede comenzar por encima de +2.
+
+## 8.3. Personaje excepcional
+
+Representa a protagonistas especialmente capaces, veteranos destacados, especialistas y antagonistas importantes.
+
+Salvo que la campaña busque personajes deliberadamente modestos, ésta es la categoría recomendada para personajes jugadores.
+
+### Características
+
+- 4 puntos de Características;
+- todas comienzan en 0;
+- hasta dos pueden alcanzar +2;
+- las demás no pueden superar +1.
+
+Distribuciones habituales:
+
+- `+2, +2, 0, 0, 0, 0`
+- `+2, +1, +1, 0, 0, 0`
+- `+1, +1, +1, +1, 0, 0`
+
+### Habilidades
+
+- 10 puntos de Habilidad;
+- una sola puede comenzar a +3;
+- las demás no pueden superar +2.
+
+## 8.4. Deficiencias
+
+Durante la creación puede reducirse una Característica de 0 a −1.
+
+Cada reducción proporciona **1 punto adicional de Característica**.
+
+La deficiencia debe describirse y sus consecuencias físicas o psicológicas se aplican siempre que sean relevantes.
+
+## 8.5. Ocupación
+
+La **Ocupación** describe la actividad principal para la que el personaje ha sido formado o mediante la que se gana habitualmente la vida.
+
+Ejemplos:
+
+- samurái al servicio de una casa;
+- ashigaru veterano;
+- campesino;
+- mercader;
+- artesano;
+- marinero;
+- monje;
+- administrador;
+- médico;
+- mensajero;
+- ladrón;
+- bandido;
+- criado;
+- artista o entretenedor.
+
+La ocupación concede gratuitamente:
+
+- una Habilidad coherente a **+1**;
+- otra Habilidad coherente a **+0**.
+
+La ocupación no determina la posición social por sí sola.
+
+## 8.6. Origen
+
+El Origen representa la formación anterior y el ambiente donde creció el personaje.
+
+Concede gratuitamente una Habilidad coherente a **+0**.
+
+Ejemplos:
+
+- aldea agrícola;
+- ciudad portuaria;
+- familia guerrera;
+- monasterio;
+- taller artesanal;
+- comunidad marinera;
+- séquito de una casa;
+- familia mercantil;
+- región montañosa.
+
+Origen y Ocupación pueden ser muy diferentes.
+
+## 8.7. Posición social
+
+La posición social se elige de acuerdo con el concepto y la campaña y debe ser aprobada por el director.
+
+No se compra con puntos y no pretende estar «equilibrada» numéricamente.
+
+Ser miembro reconocido de una casa guerrera puede proporcionar acceso, autoridad y obligaciones. Ser un mercader rico puede proporcionar recursos sin conceder autoridad militar. Ser un campesino puede facilitar la integración en una aldea y dificultar el acceso a determinados espacios.
+
+Las reglas y ejemplos completos se desarrollan en el capítulo de Sociedad.
+
+## 8.8. Rasgos
+
+El personaje comienza normalmente con **dos a cuatro Rasgos**.
+
+Los Rasgos no cuestan puntos.
+
+Deben ser suficientemente concretos para poder influir en decisiones y relaciones durante la partida.
+
+## 8.9. Suerte y estado inicial
+
+Todo personaje comienza normalmente con:
+
+- **4 puntos de Suerte**;
+- Salud perdida 0;
+- Fatiga perdida 0;
+- Tensión perdida 0;
+- ninguna Herida.
+
+## 8.10. Técnicas marciales iniciales
+
+Las Técnicas no se compran con puntos de Habilidad.
+
+El acceso inicial depende de la formación marcial real del personaje, de los maestros o escuela a los que haya tenido acceso y del nivel de campaña.
+
+El director determina qué Técnicas iniciales son coherentes con el personaje. Una persona que posee una Habilidad de combate elevada no adquiere automáticamente Técnicas de una escuela que nunca ha estudiado.
+
+# 6. Combate
 
 El combate de **Sengoku Jidai** utiliza los mismos principios generales que el resto del juego, pero los enfrentamientos importantes entre combatientes capaces se resuelven mediante **Intercambios**.
 
 El sistema no pretende reconstruir cada golpe, paso o parada de forma individual. Un Intercambio resume varios segundos de combate y concentra la resolución en las decisiones que realmente cambian la situación: ganar una apertura, perder la Guardia, herir, recuperar el control, modificar la distancia, derribar, desarmar o romper el contacto.
 
-## 4.1. Principios del combate
+## 9.1. Principios del combate
 
 El combate se rige por los siguientes principios:
 
@@ -304,7 +1062,7 @@ El combate se rige por los siguientes principios:
 
 Un personaje no tiene ninguna obligación de ofrecer a un enemigo superior un combate justo. Emboscar, sorprender, elegir el terreno, atacar desde la oscuridad, separar a un adversario de sus aliados o forzarle a utilizar un arma inadecuada son decisiones legítimas y pueden resultar decisivas.
 
-## 4.2. Ataques simples e Intercambios
+## 9.2. Ataques simples e Intercambios
 
 No todos los ataques necesitan un Intercambio.
 
@@ -322,7 +1080,7 @@ Atacar a una persona dormida, apuñalar por la espalda a un enemigo completament
 
 Del mismo modo, si durante el combate la situación llega a ser tan desigual que uno de los participantes ya no puede ofrecer una defensa efectiva, el director puede dejar de utilizar Intercambios y resolver directamente la acción correspondiente.
 
-## 4.3. Resultado de un Intercambio
+## 9.3. Resultado de un Intercambio
 
 Cada combatiente calcula normalmente:
 
@@ -338,7 +1096,7 @@ Los dos resultados se comparan simultáneamente:
 
 En combate el margen importa porque determina si la victoria es un Éxito o un Crítico.
 
-## 4.4. Modificador narrativo
+## 9.4. Modificador narrativo
 
 El modificador narrativo representa ventajas y desventajas reales creadas por la situación y por las decisiones de los jugadores.
 
@@ -377,7 +1135,7 @@ Por ejemplo, una situación puede:
 
 Estas consecuencias son distintas y pueden coexistir cuando la ficción las justifica.
 
-## 4.5. Guardia
+## 9.5. Guardia
 
 La **Guardia** representa la capacidad inmediata del personaje para defenderse eficazmente.
 
@@ -406,7 +1164,7 @@ No toda desventaja compromete Guardia. Algunas situaciones sólo aplican un modi
 
 Una causa persistente puede impedir recuperar Guardia Firme. Si la causa desaparece y ya no existe presión inmediata, el personaje puede recomponerse sin necesidad de ganar un Intercambio.
 
-## 4.6. Resultado y efecto
+## 9.6. Resultado y efecto
 
 **Resultado** y **efecto** son conceptos distintos.
 
@@ -434,7 +1192,7 @@ Un Crítico permite elegir:
 - un efecto estándar exclusivo de Crítico;
 - cualquier efecto especial cuyo requisito sea obtener un Crítico.
 
-## 4.7. Efectos estándar
+## 9.7. Efectos estándar
 
 ### Efectos de Éxito
 
@@ -480,7 +1238,7 @@ En combate sin armas este efecto se sustituye por **Golpe crítico**.
 
 No existe una categoría de **Herida crítica**.
 
-## 4.8. Elegir entre atacar y recuperar
+## 9.8. Elegir entre atacar y recuperar
 
 Cuando existen varios efectos legales, el vencedor decide cuál aplicar.
 
@@ -493,7 +1251,7 @@ La primera opción reduce el riesgo futuro. La segunda intenta terminar antes el
 
 Con un Crítico contra un rival Comprometido puede elegir una Herida mortal en lugar de los efectos anteriores.
 
-## 4.9. Distancias de combate
+## 9.9. Distancias de combate
 
 El combate cuerpo a cuerpo utiliza tres distancias abstractas.
 
@@ -513,7 +1271,7 @@ Cerrar distancia significa pasar a una categoría más próxima cuando una regla
 
 La distancia no sustituye al terreno. Es posible combatir a distancia Corta en un campo abierto o a distancia Larga dentro de un espacio suficientemente amplio.
 
-## 4.10. Ceder terreno
+## 9.10. Ceder terreno
 
 **Ceder terreno** significa retroceder lo suficiente para quedar fuera del alcance inmediato del rival.
 
@@ -532,7 +1290,7 @@ Ceder terreno puede ser:
 
 Si no existe terreno suficiente, no puede elegirse un efecto o Técnica que exija cederlo.
 
-## 4.11. Terreno y espacio
+## 9.11. Terreno y espacio
 
 El terreno forma parte de la situación de combate aunque no se mida mediante casillas.
 
@@ -548,7 +1306,7 @@ Puede determinar:
 
 El director describe estas limitaciones antes de que resulten relevantes siempre que sean evidentes para los personajes.
 
-## 4.12. Combatir desarmado frente a un adversario armado
+## 9.12. Combatir desarmado frente a un adversario armado
 
 Un personaje desarmado que combate cuerpo a cuerpo contra un adversario armado capaz de utilizar eficazmente su arma se encuentra en una situación extremadamente desfavorable.
 
@@ -570,7 +1328,7 @@ Puede desaparecer si:
 
 Dos personajes desarmados no sufren estas penalizaciones simplemente por carecer de arma.
 
-## 4.13. Combate sin armas y Golpes
+## 9.13. Combate sin armas y Golpes
 
 El combate sin armas causa **Golpes**, no Heridas, salvo que una regla indique expresamente lo contrario.
 
@@ -592,7 +1350,7 @@ Una Técnica puede aumentar el daño de un Golpe o hacer que produzca también S
 
 La regla de Golpes presupone un combate desarmado normal. Si la ficción convierte una acción en algo claramente letal —por ejemplo arrojar a alguien desde una altura o golpear su cabeza contra una superficie mortal— el director resuelve las consecuencias de acuerdo con la situación real, no como un simple puñetazo.
 
-## 4.14. Derribado
+## 9.14. Derribado
 
 Un personaje **Derribado** está en el suelo y no puede combatir con normalidad.
 
@@ -617,7 +1375,7 @@ Levantarse:
 
 Si ya no existe presión inmediata, puede levantarse sin ganar un Intercambio.
 
-## 4.15. Desarmar
+## 9.15. Desarmar
 
 **Desarmar** significa quitar al adversario el arma que está utilizando.
 
@@ -629,7 +1387,7 @@ Si dispone de otra arma, el personaje puede utilizarla cuando la situación perm
 
 Un personaje que queda desarmado frente a un adversario armado pasa inmediatamente a estar sujeto a las reglas de combate desarmado contra armado si se cumplen sus condiciones.
 
-## 4.16. Suerte en combate
+## 9.16. Suerte en combate
 
 La Suerte se utiliza durante los Intercambios mediante **cartas de Suerte**.
 
@@ -668,7 +1426,7 @@ La Suerte puede:
 
 Si la Suerte crea un margen final de +2 o más cuando antes no existía, el resultado sigue siendo **Éxito**, no Crítico.
 
-## 4.17. Elección secreta
+## 9.17. Elección secreta
 
 Al comienzo de cada Intercambio cada combatiente realiza una elección secreta:
 
@@ -682,9 +1440,9 @@ No puede utilizarse una Técnica activa y una carta de Suerte en el mismo Interc
 
 Las Técnicas pasivas no ocupan esta elección y pueden activarse cuando se cumplan sus condiciones.
 
-Las reglas completas de las Técnicas y su catálogo se encuentran fuera de este capítulo.
+Las reglas generales de Técnicas se encuentran en el capítulo 8 y el catálogo de Técnicas permanece al final del manual.
 
-## 4.18. Secuencia de un Intercambio
+## 9.18. Secuencia de un Intercambio
 
 Cada Intercambio se resuelve en este orden:
 
@@ -710,160 +1468,7 @@ Un efecto no cancela otro únicamente porque proceda de un Empate, una Técnica 
 
 Por ejemplo, si un Empate permite a un combatiente Derribar y al otro Comprometer Guardia, ambos efectos se aplican.
 
-## 4.19. Fatiga
-
-La Fatiga representa cansancio, dolor, conmoción y pérdida inmediata de capacidad.
-
-| Fatiga perdida | Estado | Penalización |
-|---:|---|---:|
-| 0 | Normal | 0 |
-| 1 | Aturdido | 0 |
-| 2 | Estresado | −1 |
-| 3 | Agotado | −2 |
-| 4 | Exhausto | −3 |
-| 5 | Inconsciente | No puede actuar |
-
-La penalización se aplica a todas las acciones que requieran esfuerzo, concentración o coordinación, incluidos los Intercambios.
-
-Al alcanzar **Fatiga 3**, la Guardia pasa a estar **Comprometida** y no puede Recomponerse mientras el personaje permanezca en Fatiga 3 o superior.
-
-Una regla específica puede retrasar este umbral.
-
-La Fatiga máxima es 5.
-
-Cada nivel que exceda Fatiga 5 se convierte en **1 nivel de Salud perdido**. Esta pérdida de Salud no genera nueva Fatiga.
-
-Como orientación, se recupera **1 Fatiga por cada media hora de descanso adecuado**. El director modifica el ritmo según la causa y las circunstancias.
-
-## 4.20. Tensión
-
-La **Tensión** representa desgaste mental inmediato: miedo, presión, frustración, dolor contenido, esfuerzo de autocontrol y sobrecarga emocional.
-
-No representa por sí misma una enfermedad mental ni una secuela permanente.
-
-| Tensión perdida | Penalización |
-|---:|---:|
-| 0 | 0 |
-| 1 | 0 |
-| 2 | −1 |
-| 3 | −2 |
-| 4 | −3 |
-| 5 | −4 |
-
-La penalización se aplica a acciones que requieran concentración, autocontrol, precisión o capacidad para actuar bajo presión, incluidos normalmente los Intercambios.
-
-La Tensión puede aumentar por:
-
-- miedo intenso;
-- amenazas inmediatas;
-- presión prolongada;
-- dolor;
-- situaciones emocionalmente extremas;
-- costes de determinadas reglas.
-
-A Tensión 5 el personaje continúa pudiendo actuar, pero con **−4**.
-
-Como orientación, recupera **1 Tensión por cada hora de descanso real en un lugar que considere razonablemente seguro**.
-
-Dormir adecuadamente permite recuperar toda la Tensión no sostenida por una causa persistente.
-
-## 4.21. Salud
-
-La Salud representa daño corporal real.
-
-| Salud perdida | Estado |
-|---:|---|
-| 0 | Ileso |
-| 1 | Lastimado |
-| 2 | Lesionado |
-| 3 | Herido |
-| 4 | Gravemente herido |
-| 5 | Incapacitado |
-| 6 | Muerto |
-
-Con Salud 5 el personaje no puede actuar de forma normal.
-
-Al alcanzar Salud 6 muere.
-
-La naturaleza concreta de una lesión puede producir consecuencias narrativas adicionales antes de alcanzar esos niveles.
-
-## 4.22. Heridas
-
-Toda pérdida de Salud debe describirse mediante una **Herida concreta**.
-
-Una Herida indica:
-
-- qué parte del cuerpo ha sido afectada;
-- qué lesión se ha producido;
-- si puede empeorar;
-- qué tratamiento requiere;
-- qué acciones puede impedir.
-
-Los efectos estándar del combate producen:
-
-| Herida | Salud | Fatiga |
-|---|---:|---:|
-| **Leve** | 1 | 1 |
-| **Grave** | 3 | 3 |
-| **Mortal** | 4 | 4 |
-
-No existe Herida crítica.
-
-### Herida mortal
-
-Una Herida mortal implica una probabilidad muy alta de morir, pero no muerte automática.
-
-En el Japón feudal muchas lesiones de esta gravedad son imposibles de tratar eficazmente.
-
-El director decide si la supervivencia es médicamente posible de acuerdo con:
-
-- la naturaleza de la lesión;
-- la hemorragia;
-- los órganos afectados;
-- contaminación e infección;
-- tiempo hasta recibir ayuda;
-- conocimientos disponibles;
-- recursos y condiciones del lugar.
-
-Una Herida mortal puede ser simplemente intratable.
-
-Esta decisión es narrativa y no exige que todas las Heridas de la misma categoría tengan la misma posibilidad de supervivencia.
-
-Una lesión puede empeorar y provocar Salud adicional.
-
-La muerte inmediata sigue siendo posible cuando la ficción la hace inequívoca, como una decapitación o una destrucción corporal incompatible con la vida.
-
-## 4.23. Fortaleza y daño
-
-La Fortaleza reduce de forma natural parte del daño recibido.
-
-### Reducción de Fatiga
-
-Se reduce 1 punto de Fatiga por cada 2 puntos completos de Fortaleza positiva.
-
-| Fortaleza | Reducción |
-|---:|---:|
-| −1 a +1 | 0 |
-| +2 a +3 | 1 |
-| +4 a +5 | 2 |
-| +6 a +7 | 3 |
-
-### Reducción de Salud
-
-Se reduce 1 punto de Salud por cada 3 puntos completos de Fortaleza positiva.
-
-| Fortaleza | Reducción |
-|---:|---:|
-| −1 a +2 | 0 |
-| +3 a +5 | 1 |
-| +6 a +8 | 2 |
-| +9 a +11 | 3 |
-
-La reducción de Salud y la reducción de Fatiga se calculan por separado.
-
-Fortaleza representa capacidad para soportar dolor, conmoción y trauma físico, pero no convierte al cuerpo humano en una armadura.
-
-## 4.24. Fin del combate
+## 9.19. Fin del combate
 
 Un combate termina cuando deja de existir oposición efectiva.
 
@@ -880,9 +1485,255 @@ Puede ocurrir porque un combatiente:
 
 El director no debe seguir resolviendo Intercambios cuando el resultado de la situación ya no sea incierto.
 
-# 5. Técnicas marciales
+# 7. Salud, Fatiga y Tensión
 
-## 5.1. Función de las Técnicas
+Este capítulo reúne las reglas generales sobre daño corporal, cansancio, heridas, recuperación y desgaste emocional.
+
+## 10.1. Salud
+
+La **Salud** representa daño corporal real.
+
+| Salud perdida | Estado |
+|---:|---|
+| 0 | Ileso |
+| 1 | Lastimado |
+| 2 | Lesionado |
+| 3 | Herido |
+| 4 | Gravemente herido |
+| 5 | Incapacitado |
+| 6 | Muerto |
+
+Con Salud 5 el personaje no puede actuar normalmente. Puede permanecer consciente, hablar o percibir lo que ocurre si la naturaleza de sus lesiones lo permite.
+
+Al alcanzar Salud 6 muere.
+
+La escala no sustituye a la descripción concreta de las lesiones. Una mano destruida puede impedir utilizar un arma mucho antes de que la Salud total incapacite al personaje.
+
+## 10.2. Heridas
+
+Toda pérdida de Salud debe describirse mediante una **Herida concreta**.
+
+La Herida determina:
+
+- qué parte del cuerpo ha sido afectada;
+- qué lesión existe;
+- si puede empeorar;
+- qué tratamiento necesita;
+- qué acciones son imposibles o peligrosas.
+
+En combate cuerpo a cuerpo los efectos estándar producen:
+
+| Herida | Salud | Fatiga |
+|---|---:|---:|
+| **Leve** | 1 | 1 |
+| **Grave** | 3 | 3 |
+| **Mortal** | 4 | 4 |
+
+No existe una categoría de Herida crítica.
+
+Una **Herida mortal** implica una probabilidad muy alta de morir, pero no muerte automática.
+
+En el Japón feudal muchas lesiones de esta gravedad pueden ser imposibles de tratar eficazmente. El director decide si la supervivencia es posible según:
+
+- la lesión concreta;
+- órganos y vasos afectados;
+- hemorragia;
+- suciedad y riesgo de infección;
+- tiempo transcurrido;
+- ayuda disponible;
+- conocimientos y recursos médicos presentes.
+
+Una lesión mortal puede ser sencillamente intratable.
+
+La muerte inmediata sigue siendo posible cuando la ficción la hace inequívoca: decapitación, destrucción cerebral, desmembramiento masivo u otra lesión incompatible con la vida.
+
+## 10.3. Empeoramiento de las Heridas
+
+Una Herida puede ser:
+
+- **estable:** no empeora por sí sola;
+- **inestable:** puede seguir provocando pérdida de Salud;
+- **mortal:** conducirá probablemente a la muerte si no puede ser estabilizada.
+
+El director determina el ritmo de empeoramiento.
+
+Una Herida puede provocar 1 nivel adicional de Salud:
+
+- después de varios minutos;
+- al terminar una escena;
+- tras un esfuerzo intenso;
+- durante un traslado peligroso;
+- cuando pasa demasiado tiempo sin atención.
+
+La Salud perdida por empeoramiento no genera automáticamente nueva Fatiga.
+
+## 10.4. Fatiga
+
+La **Fatiga** representa cansancio, dolor, conmoción y pérdida inmediata de capacidad.
+
+| Fatiga perdida | Estado | Penalización |
+|---:|---|---:|
+| 0 | Normal | 0 |
+| 1 | Aturdido | 0 |
+| 2 | Estresado físicamente | −1 |
+| 3 | Agotado | −2 |
+| 4 | Exhausto | −3 |
+| 5 | Inconsciente | No puede actuar |
+
+La penalización se aplica a acciones que requieran esfuerzo, concentración o coordinación.
+
+Al alcanzar **Fatiga 3**, la Guardia queda **Comprometida** y no puede Recomponerse mientras el personaje permanezca en Fatiga 3 o superior.
+
+Una regla específica puede retrasar ese umbral.
+
+La Fatiga máxima es 5. Cada nivel que exceda 5 se convierte en **1 Salud perdida**. Esa pérdida de Salud no produce Fatiga adicional.
+
+## 10.5. Tensión
+
+La **Tensión** representa desgaste mental inmediato: miedo, presión, frustración, dolor contenido, esfuerzo de autocontrol y sobrecarga emocional.
+
+No representa locura, enfermedad mental ni deterioro permanente.
+
+| Tensión perdida | Penalización |
+|---:|---:|
+| 0 | 0 |
+| 1 | 0 |
+| 2 | −1 |
+| 3 | −2 |
+| 4 | −3 |
+| 5 | −4 |
+
+La penalización se aplica cuando la acción requiere concentración, autocontrol, precisión o capacidad para actuar bajo presión.
+
+La Tensión puede aumentar por:
+
+- miedo intenso;
+- amenazas inmediatas;
+- interrogatorios o coerción;
+- presión prolongada;
+- dolor;
+- privación de descanso;
+- situaciones emocionalmente extremas;
+- costes de determinadas Técnicas.
+
+A Tensión 5 el personaje **sigue pudiendo actuar** con −4. No existe un estado automático de colapso.
+
+El director puede representar narrativamente temblores, irritabilidad, impulsividad, silencio, miedo u otras reacciones coherentes, pero no retira el control del personaje al jugador por alcanzar un nivel concreto.
+
+## 10.6. Fortaleza y daño
+
+La Fortaleza reduce de forma natural parte del daño.
+
+### Fatiga
+
+Se reduce 1 Fatiga por cada 2 puntos completos de Fortaleza positiva.
+
+| Fortaleza | Reducción de Fatiga |
+|---:|---:|
+| −1 a +1 | 0 |
+| +2 a +3 | 1 |
+| +4 a +5 | 2 |
+| +6 a +7 | 3 |
+
+### Salud
+
+Se reduce 1 Salud por cada 3 puntos completos de Fortaleza positiva.
+
+| Fortaleza | Reducción de Salud |
+|---:|---:|
+| −1 a +2 | 0 |
+| +3 a +5 | 1 |
+| +6 a +8 | 2 |
+| +9 a +11 | 3 |
+
+Ambas reducciones se calculan por separado.
+
+Fortaleza ayuda a soportar trauma y conmoción, pero no convierte al cuerpo en una armadura.
+
+## 10.7. Estabilización y medicina
+
+Una Herida puede necesitar ser estabilizada para evitar que continúe empeorando.
+
+Según la lesión, estabilizar puede significar:
+
+- detener una hemorragia;
+- aplicar presión o un torniquete;
+- limpiar y vendar;
+- inmovilizar una fractura;
+- extraer un cuerpo extraño cuando resulte razonable;
+- mantener al herido inmóvil;
+- realizar una intervención disponible para la medicina del periodo.
+
+La atención inmediata suele utilizar:
+
+> **Destreza/Inteligencia + Primeros auxilios**
+
+Los tratamientos complejos utilizan normalmente:
+
+> **Destreza/Inteligencia + Medicina**
+
+Estabilizar:
+
+- detiene o reduce el empeoramiento cuando el tratamiento puede hacerlo;
+- no recupera automáticamente Salud;
+- no elimina las consecuencias físicas de la Herida.
+
+El director puede declarar que una lesión no puede estabilizarse con los medios disponibles.
+
+## 10.8. Límites de la medicina
+
+La medicina disponible depende del lugar, conocimientos, recursos, limpieza, tiempo y naturaleza de la lesión.
+
+No existe una garantía mecánica de supervivencia por poseer Medicina elevada.
+
+Una lesión puede estar fuera de las posibilidades reales del periodo.
+
+La infección, la pérdida de sangre y las complicaciones posteriores pueden convertir una herida inicialmente sobrevivible en mortal.
+
+## 10.9. Recuperación de Fatiga
+
+Como orientación:
+
+> **1 nivel de Fatiga por cada media hora de descanso adecuado**
+
+El director modifica el ritmo según la causa.
+
+Un personaje que continúa corriendo, combatiendo, trabajando bajo presión o sufriendo dolor intenso no recupera Fatiga normalmente.
+
+## 10.10. Recuperación de Tensión
+
+Como orientación:
+
+> **1 nivel de Tensión por cada hora de descanso real en un entorno razonablemente seguro**
+
+Dormir adecuadamente permite recuperar toda la Tensión que no esté sostenida por una causa persistente.
+
+Una amenaza todavía presente, dolor intenso, vigilancia continua, hambre extrema o miedo razonable pueden impedir la recuperación.
+
+## 10.11. Recuperación de Salud
+
+Como orientación general:
+
+> **1 nivel de Salud por semana**
+
+La recuperación sólo comienza cuando las Heridas han sido estabilizadas y tratadas en la medida de lo posible.
+
+La cifra es una referencia, no una garantía.
+
+El director puede:
+
+- acelerar lesiones leves;
+- retrasar heridas profundas;
+- exigir semanas o meses de reposo;
+- imponer pérdida funcional temporal;
+- establecer secuelas permanentes;
+- declarar que una Herida mortal no puede curarse con los medios disponibles.
+
+La recuperación de Salud no significa que los tejidos se regeneren de forma abstracta. Debe corresponder a la evolución real de las Heridas descritas.
+
+# 8. Técnicas marciales
+
+## 8.1. Función de las Técnicas
 
 Las **Técnicas** representan entrenamiento marcial concreto: métodos aprendidos, principios tácticos, respuestas practicadas y capacidades especiales desarrolladas mediante instrucción y experiencia.
 
@@ -906,7 +1757,7 @@ No todas las Técnicas proporcionan bonificaciones numéricas.
 
 Las Técnicas que alteran reglas, abren posibilidades o dependen del contexto son preferibles a convertir el sistema en una acumulación de modificadores.
 
-## 5.2. Técnicas activas
+## 8.2. Técnicas activas
 
 Una Técnica **activa** debe elegirse expresamente como la elección secreta del personaje durante un Intercambio.
 
@@ -927,7 +1778,7 @@ Una Técnica activa puede tener:
 - efectos condicionados al resultado;
 - interacciones con Técnicas del adversario.
 
-## 5.3. Técnicas pasivas
+## 8.3. Técnicas pasivas
 
 Una Técnica **pasiva** forma permanentemente parte de las capacidades disponibles del personaje.
 
@@ -948,7 +1799,7 @@ Puede poseer:
 
 El personaje decide si desea utilizarla cuando se produzca la situación correspondiente, salvo que la propia Técnica indique expresamente que su efecto es automático.
 
-## 5.4. Costes
+## 8.4. Costes
 
 Una Técnica puede exigir un coste al utilizarse.
 
@@ -969,7 +1820,7 @@ Una Técnica no debe considerarse equilibrada simplemente porque exista alguna T
 
 Especialmente, una Técnica activa que conceda un modificador numérico incondicional necesita una limitación significativa, como coste, Cooldown, riesgo o requisito restrictivo. De otro modo se convertiría en la elección automática de todos los Intercambios.
 
-## 5.5. Cooldown
+## 8.5. Cooldown
 
 Cuando una Técnica con **Cooldown** se utiliza durante un Intercambio, no puede utilizarse durante el Intercambio siguiente.
 
@@ -981,7 +1832,7 @@ El Cooldown representa la imposibilidad de repetir inmediatamente una misma mani
 
 Como criterio general de diseño, **la mayoría de las Técnicas activas deben tener Cooldown**. La ausencia de Cooldown debe justificarse por un coste acumulativo, un riesgo importante o una limitación equivalente que impida convertir la Técnica en la elección automática de todos los Intercambios.
 
-## 5.6. Contexto y requisitos
+## 8.6. Contexto y requisitos
 
 Una Técnica sólo puede utilizarse cuando se cumplen sus requisitos físicos y narrativos.
 
@@ -1002,7 +1853,7 @@ Ejemplos:
 
 Si el entorno hace imposible cumplir el requisito, la Técnica no puede utilizarse.
 
-## 5.7. Duración
+## 8.7. Duración
 
 Una Técnica activa se declara en un Intercambio concreto, pero su efecto puede durar más de ese Intercambio si así lo especifica.
 
@@ -1013,7 +1864,7 @@ La Técnica debe indicar claramente:
 - qué condiciones pueden finalizarlo;
 - si sigue contando como utilizada a efectos de Cooldown.
 
-## 5.8. Etiquetas funcionales
+## 8.8. Etiquetas funcionales
 
 Las Técnicas pueden utilizar etiquetas descriptivas para facilitar interacciones generales.
 
@@ -1038,7 +1889,7 @@ Por ejemplo, una Técnica puede indicar:
 
 > Si el adversario juega una Técnica de Movimiento, obtienes +2.
 
-## 5.9. Criterio de equilibrio
+## 8.9. Criterio de equilibrio
 
 Una Técnica poderosa no es necesariamente problemática.
 
@@ -1070,7 +1921,7 @@ Existe una diferencia fundamental entre:
 
 Una Técnica que evita perder puede mantener un combate vivo. Una Técnica que fuerza automáticamente una victoria puede Comprometer Guardia, causar Heridas o terminar un duelo sin dar al adversario una respuesta suficiente.
 
-## 5.10. Técnicas y efectos de resultado
+## 8.10. Técnicas y efectos de resultado
 
 Las Técnicas pueden utilizar Empate, Éxito y Crítico como condiciones.
 
@@ -1085,7 +1936,7 @@ Ejemplos:
 
 Un Crítico incluye todas las posibilidades de un Éxito, además de las opciones exclusivas de Crítico.
 
-## 5.11. Técnicas de supervivencia
+## 8.11. Técnicas de supervivencia
 
 Algunas Técnicas pueden actuar como último recurso después de que el personaje haya perdido un Intercambio.
 
@@ -1105,13 +1956,13 @@ Estas Técnicas no deberían:
 - recuperar gratuitamente Guardia;
 - eliminar todos los costes sufridos.
 
-# 6. Armas y requisitos de las Técnicas
+# 9. Armas y requisitos de las Técnicas
 
 Las reglas generales de terreno, distancia, combate desarmado y Desarmar se encuentran en el capítulo de **Combate**.
 
 Este capítulo define únicamente cómo pueden utilizar esas propiedades las Técnicas.
 
-## 6.1. Propiedades funcionales de las armas
+## 9.1. Propiedades funcionales de las armas
 
 Las armas pueden poseer propiedades funcionales utilizadas como requisitos de Técnicas.
 
@@ -1131,7 +1982,7 @@ Estas propiedades no proporcionan bonificadores permanentes por sí mismas.
 
 Indican qué acciones y Técnicas resultan físicamente posibles.
 
-## 6.2. Requisito mínimo y propiedades adicionales
+## 9.2. Requisito mínimo y propiedades adicionales
 
 Una Técnica puede distinguir entre:
 
@@ -1142,11 +1993,11 @@ Una Técnica nunca crea una propiedad que el arma no posee realmente.
 
 El arma utilizada y las circunstancias de la escena deben justificar siempre el efecto.
 
-# 7. Escuelas marciales — planificación provisional
+# 10. Escuelas marciales — planificación provisional
 
 > Este capítulo define la identidad mecánica prevista para las primeras escuelas. No pretende afirmar que las escuelas históricas utilizaran literalmente las reglas o Técnicas descritas. Se distingue entre la base histórica conocida y la interpretación creada para el juego.
 
-## 7.1. Tenshin Shōden Katori Shintō-ryū
+## 10.1. Tenshin Shōden Katori Shintō-ryū
 
 **Base histórica:** tradición de amplio currículo marcial, con entrenamiento en distintas armas y disciplinas.
 
@@ -1166,7 +2017,7 @@ Idea central:
 
 > **Sé explotar armas distintas de formas distintas.**
 
-## 7.2. Kashima-Shinryū
+## 10.2. Kashima-Shinryū
 
 **Base histórica:** tradición marcial asociada a principios que integran movimiento y quietud, ataque y defensa, y conceptos de apariencia y realidad.
 
@@ -1184,7 +2035,7 @@ Idea central:
 
 > **Defender y atacar pueden formar parte de una misma acción.**
 
-## 7.3. Shinkage-ryū / Yagyū Shinkage-ryū
+## 10.3. Shinkage-ryū / Yagyū Shinkage-ryū
 
 **Base histórica:** tradición surgida durante el siglo XVI y posteriormente desarrollada por la línea Yagyū, con fuerte énfasis en adaptación, lectura e interacción con la iniciativa del adversario.
 
@@ -1203,7 +2054,7 @@ Idea central:
 
 > **Dejo que reveles tu intención y utilizo esa decisión contra ti.**
 
-## 7.4. Hōzōin-ryū Sōjutsu
+## 10.4. Hōzōin-ryū Sōjutsu
 
 **Base histórica:** tradición de sōjutsu del siglo XVI vinculada al uso de yari y especialmente formas de kamayari o jūmonji-yari capaces de estocar, barrer, enganchar y controlar.
 
@@ -1223,7 +2074,7 @@ Idea central:
 
 > **Yo decido a qué distancia se combate.**
 
-## 7.5. Takenouchi-ryū
+## 10.5. Takenouchi-ryū
 
 **Base histórica:** tradición fundada en el siglo XVI asociada a kogusoku, armas cortas, agarres, captura y combate a distancia muy corta.
 
@@ -1245,7 +2096,7 @@ Idea central:
 
 > **Quiero estar demasiado cerca para que utilices tu arma como deseas.**
 
-## 7.6. Taisha-ryū
+## 10.6. Taisha-ryū
 
 **Base histórica:** tradición surgida hacia el final del Sengoku, vinculada a Shinkage y conocida por un repertorio marcial pragmático que incluye movimientos engañosos y recursos diversos.
 
@@ -1264,7 +2115,7 @@ Idea central:
 
 > **Te presiono hasta que dejas una apertura.**
 
-## 7.7. Tradición clandestina de Iga
+## 10.7. Tradición clandestina de Iga
 
 **Base histórica:** Iga no se trata como una única «escuela ninja». La región reunió familias, guerreros y comunidades con experiencia en guerra irregular, infiltración, operaciones nocturnas, uso del terreno y otras funciones que posteriormente contribuyeron a su reputación.
 
@@ -1288,7 +2139,7 @@ Idea central:
 
 > **Si estoy obligado a combatir limpiamente, mi plan ya ha fallado.**
 
-## 7.8. Equilibrio entre escuelas
+## 10.8. Equilibrio entre escuelas
 
 Las escuelas se equilibran como **conjuntos de opciones**, no necesariamente Técnica por Técnica.
 
@@ -1300,7 +2151,7 @@ Las combinaciones especialmente poderosas pueden mantenerse separadas mediante e
 
 Los counters importantes deben poder aparecer en varias escuelas o depender también de recursos universales como terreno, distancia, Fatiga, Suerte o lectura del adversario.
 
-## 7.9. Cronología
+## 10.9. Cronología
 
 No todas las escuelas existen durante todo el periodo Sengoku.
 
@@ -1313,17 +2164,17 @@ La disponibilidad debe depender de:
 
 El manual definitivo deberá incluir cronologías y condiciones de acceso suficientemente precisas para cada tradición.
 
-# 8. Técnicas marciales
+# 11. Técnicas marciales
 
 Este capítulo reúne el catálogo de Técnicas disponibles para los personajes.
 
-Las reglas generales que determinan cómo funcionan las Técnicas —tipos, elección secreta, costes, Cooldown, etiquetas, requisitos y duración— se explican en el capítulo correspondiente. Las Técnicas de este catálogo modifican o amplían esas reglas cuando su descripción lo indica expresamente.
+Las reglas generales que determinan cómo funcionan las Técnicas —tipos, elección secreta, costes, Cooldown, etiquetas, requisitos y duración— se explican en el capítulo 8. Las Técnicas de este catálogo modifican o amplían esas reglas cuando su descripción lo indica expresamente.
 
 El catálogo debe permanecer como **capítulo final del manual**. Si se añaden nuevos capítulos de reglas, equipo, ambientación, sociedad, viaje u otros subsistemas, se insertarán antes de éste. De este modo pueden añadirse nuevas Técnicas sin reorganizar el cuerpo principal del reglamento.
 
 Salvo que una Técnica indique lo contrario, se aplican todas las reglas normales de Combate. Cuando una Técnica contradice expresamente una regla general, prevalece la excepción indicada por la Técnica.
 
-## 8.1. Técnicas generales
+## 11.1. Técnicas generales
 
 ### Defensa Activa
 
@@ -1421,7 +2272,7 @@ La derrota permanece y la Guardia no mejora.
 **Coste:** 2 Suerte.  
 **Cooldown:** sí.
 
-## 8.2. Katori Shintō-ryū
+## 11.2. Katori Shintō-ryū
 
 ### Control de alcance
 
@@ -1456,7 +2307,7 @@ La derrota permanece y la Guardia no mejora.
 **Efecto:** si el rival utiliza una Técnica activa con la etiqueta **Ataque** y, antes de aplicar el efecto de Dos hojas, el personaje perdería el Intercambio, obtiene **+2 al resultado**. Si no se cumplen ambas condiciones, Dos hojas no concede bonificación.  
 **Cooldown:** sí.
 
-## 8.3. Kashima-Shinryū
+## 11.3. Kashima-Shinryū
 
 ### Ataque y defensa como uno
 
@@ -1493,7 +2344,7 @@ Si gana el Intercambio, obtiene **+1 al resultado del siguiente Intercambio** co
 **Efecto:** puede ceder terreno para impedir que el rival utilice **Comprometer Guardia** contra él. La victoria del rival no desaparece y cualquier otro efecto legal se resuelve normalmente. En particular, si el rival obtuvo un Crítico puede seguir eligiendo **Herida leve**.  
 **Cooldown:** sí.
 
-## 8.4. Shinkage-ryū
+## 11.4. Shinkage-ryū
 
 ### Leer la intención
 
@@ -1529,7 +2380,7 @@ Si gana el Intercambio, obtiene **+1 al resultado del siguiente Intercambio** co
 
 Muto no convierte el enfrentamiento en una situación favorable ni permite recuperar Guardia Firme. Su función es reducir la enorme desventaja normal de combatir desarmado, manteniendo el riesgo de sufrir una Herida grave con cualquier Éxito del adversario.
 
-## 8.5. Hōzōin-ryū
+## 11.5. Hōzōin-ryū
 
 ### Mantener a raya
 
@@ -1570,7 +2421,7 @@ Por tanto, contra un rival con Guardia Firme normalmente necesita un **Crítico*
 **Efecto:** el personaje puede avanzar con él. El rival paga el coste de ceder terreno, pero no aumenta automáticamente la distancia.  
 **Cooldown:** sí.
 
-## 8.6. Takenouchi-ryū
+## 11.6. Takenouchi-ryū
 
 ### Entrar bajo el arma
 
@@ -1632,7 +2483,7 @@ Si la Técnica no consigue Derribar al rival, el personaje sufre **−1 al resul
 **Efecto:** sufrir 1 Fatiga permite impedir que ese desplazamiento, por sí solo, rompa el contacto.  
 **Cooldown:** sí.
 
-## 8.7. Taisha-ryū
+## 11.7. Taisha-ryū
 
 ### Asalto temerario
 
@@ -1668,7 +2519,7 @@ Si la Técnica no consigue Derribar al rival, el personaje sufre **−1 al resul
 **Limitación:** si el personaje gana el Intercambio, el resultado se considera **Empate**. Por tanto, la Técnica puede impedir que un rival comprometido se recomponga, pero no puede utilizarse para obtener progreso ofensivo ni causar una Herida.  
 **Cooldown:** sí.
 
-## 8.8. Tradición clandestina de Iga
+## 11.8. Tradición clandestina de Iga
 
 ### Golpe oportunista
 
