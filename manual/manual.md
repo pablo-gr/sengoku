@@ -1235,7 +1235,7 @@ Principios de diseño:
 - entrar dentro de su alcance útil;
 - agarrar o controlar armas;
 - derribar;
-- inmovilizar;
+- desarmar y capturar mediante control físico;
 - combatir eficazmente en espacios reducidos;
 - utilizar armas cortas;
 - causar lesiones reales mediante combate sin armas entrenado;
@@ -1313,11 +1313,15 @@ La disponibilidad debe depender de:
 
 El manual definitivo deberá incluir cronologías y condiciones de acceso suficientemente precisas para cada tradición.
 
-# 8. Técnicas provisionales de prueba
+# 8. Técnicas marciales
 
-> **Ubicación estructural:** el catálogo de Técnicas debe permanecer siempre como **capítulo final del manual**. Si se añaden nuevos capítulos de reglas, equipo, ambientación, sociedad, viaje u otros subsistemas, deberán insertarse antes de este capítulo. De este modo, las nuevas Técnicas pueden añadirse al final del libro sin reorganizar el cuerpo principal del reglamento.
+Este capítulo reúne el catálogo de Técnicas disponibles para los personajes.
 
-> **Todo el contenido de este capítulo es provisional.** Estas Técnicas existen para probar el motor de combate y las identidades de escuela. Sus valores, costes, Cooldowns, nombres y efectos se revisarán antes de considerarlas definitivas.
+Las reglas generales que determinan cómo funcionan las Técnicas —tipos, elección secreta, costes, Cooldown, etiquetas, requisitos y duración— se explican en el capítulo correspondiente. Las Técnicas de este catálogo modifican o amplían esas reglas cuando su descripción lo indica expresamente.
+
+El catálogo debe permanecer como **capítulo final del manual**. Si se añaden nuevos capítulos de reglas, equipo, ambientación, sociedad, viaje u otros subsistemas, se insertarán antes de éste. De este modo pueden añadirse nuevas Técnicas sin reorganizar el cuerpo principal del reglamento.
+
+Salvo que una Técnica indique lo contrario, se aplican todas las reglas normales de Combate. Cuando una Técnica contradice expresamente una regla general, prevalece la excepción indicada por la Técnica.
 
 ## 8.1. Técnicas generales
 
@@ -1417,14 +1421,14 @@ La derrota permanece y la Guardia no mejora.
 **Coste:** 2 Suerte.  
 **Cooldown:** sí.
 
-## 8.2. Primeras Técnicas de Katori Shintō-ryū
+## 8.2. Katori Shintō-ryū
 
 ### Control de alcance
 
 **Tipo:** Activa  
 **Etiquetas:** Defensa, Control  
 **Requisito:** arma Larga.  
-**Efecto provisional:** no proporciona bonificación al resultado. Si el personaje obtiene Éxito o Crítico, puede elegir **obligar al rival a ceder terreno** como efecto de la victoria.  
+**Efecto:** no proporciona bonificación al resultado. Si el personaje obtiene Éxito o Crítico, puede elegir **obligar al rival a ceder terreno** como efecto de la victoria.  
 **Cooldown:** sí.
 
 ### Enganche de Katori
@@ -1432,7 +1436,7 @@ La derrota permanece y la Guardia no mejora.
 **Tipo:** Activa  
 **Etiquetas:** Control  
 **Requisito:** arma con Gancho.  
-**Efecto provisional:** no proporciona bonificación al resultado. Si el personaje obtiene un **Crítico**, puede elegir **Desarmar** como efecto de la victoria.  
+**Efecto:** no proporciona bonificación al resultado. Si el personaje obtiene un **Crítico**, puede elegir **Desarmar** como efecto de la victoria.  
 **Cooldown:** sí.
 
 ### Guardia de dos armas
@@ -1441,7 +1445,7 @@ La derrota permanece y la Guardia no mejora.
 **Etiquetas:** Defensa, Control  
 **Requisito:** dos armas apropiadas.  
 **Contexto:** el rival utiliza una Técnica con las etiquetas **Ataque** o **Presión**.  
-**Efecto provisional:** si el resultado final del Intercambio es **Empate**, el personaje puede **Comprometer la Guardia** del rival pese a no haber obtenido una victoria.  
+**Efecto:** si el resultado final del Intercambio es **Empate**, el personaje puede **Comprometer la Guardia** del rival pese a no haber obtenido una victoria.  
 **Cooldown:** sí.
 
 ### Dos hojas
@@ -1449,17 +1453,17 @@ La derrota permanece y la Guardia no mejora.
 **Tipo:** Activa  
 **Etiquetas:** Defensa, Ataque  
 **Requisito:** dos armas apropiadas.  
-**Efecto provisional:** si el rival utiliza una Técnica activa de Ataque y, antes de aplicar el efecto de Dos hojas, el personaje perdería el Intercambio, obtiene **+2 al resultado**. Si no se cumplen ambas condiciones, Dos hojas no concede bonificación.  
+**Efecto:** si el rival utiliza una Técnica activa con la etiqueta **Ataque** y, antes de aplicar el efecto de Dos hojas, el personaje perdería el Intercambio, obtiene **+2 al resultado**. Si no se cumplen ambas condiciones, Dos hojas no concede bonificación.  
 **Cooldown:** sí.
 
-## 8.3. Primeras Técnicas de Kashima-Shinryū
+## 8.3. Kashima-Shinryū
 
 ### Ataque y defensa como uno
 
 **Tipo:** Activa  
 **Etiquetas:** Defensa, Counter  
 **Contexto:** cualquier Intercambio.  
-**Efecto provisional:** el personaje obtiene **+2 al resultado**, pero durante este Intercambio no puede elegir ningún efecto ofensivo aunque gane.
+**Efecto:** el personaje obtiene **+2 al resultado**, pero durante este Intercambio no puede elegir ningún efecto ofensivo aunque gane.
 
 Si gana el Intercambio, obtiene **+1 al resultado del siguiente Intercambio** contra el mismo rival. Este +1 es un efecto diferido de Ataque y defensa como uno y no ocupa por sí mismo la elección secreta del siguiente Intercambio, pero durante ese siguiente Intercambio el personaje **no puede utilizar ninguna otra Técnica activa o pasiva**. Puede utilizar Suerte si las reglas normales se lo permiten.  
 **Cooldown:** sí.
@@ -1469,7 +1473,7 @@ Si gana el Intercambio, obtiene **+1 al resultado del siguiente Intercambio** co
 **Tipo:** Activa  
 **Etiquetas:** Engaño, Counter  
 **Contexto:** cualquier Intercambio.  
-**Efecto provisional:** si el rival utiliza una Técnica con las etiquetas **Ataque** o **Presión**, el personaje obtiene **+1 al resultado**. Si utiliza otra Técnica, el personaje sufre **−1 al resultado**. Si el rival juega Suerte o ninguna carta, Vacío y realidad no modifica el resultado.  
+**Efecto:** si el rival utiliza una Técnica con las etiquetas **Ataque** o **Presión**, el personaje obtiene **+1 al resultado**. Si utiliza otra Técnica, el personaje sufre **−1 al resultado**. Si el rival juega Suerte o ninguna carta, Vacío y realidad no modifica el resultado.  
 **Cooldown:** sí.
 
 ### Movimiento y quietud
@@ -1486,32 +1490,32 @@ Si gana el Intercambio, obtiene **+1 al resultado del siguiente Intercambio** co
 **Tipo:** Pasiva  
 **Etiquetas:** Defensa, Movimiento  
 **Contexto:** Guardia Firme; el personaje pierde un Intercambio por **1 o 2**.  
-**Efecto provisional:** puede ceder terreno para impedir que el rival utilice **Comprometer Guardia** contra él. La victoria del rival no desaparece y cualquier otro efecto legal se resuelve normalmente. En particular, si el rival obtuvo un Crítico puede seguir eligiendo **Herida leve**.  
+**Efecto:** puede ceder terreno para impedir que el rival utilice **Comprometer Guardia** contra él. La victoria del rival no desaparece y cualquier otro efecto legal se resuelve normalmente. En particular, si el rival obtuvo un Crítico puede seguir eligiendo **Herida leve**.  
 **Cooldown:** sí.
 
-## 8.4. Primeras Técnicas de Shinkage-ryū
+## 8.4. Shinkage-ryū
 
 ### Leer la intención
 
 **Tipo:** Activa  
 **Etiquetas:** Counter  
 **Declaración:** al jugarla se elige en secreto una etiqueta entre Ataque, Defensa, Movimiento o Engaño.  
-**Efecto provisional:** si la Técnica rival posee esa etiqueta, el personaje obtiene **+1 al resultado**. Si no, sufre **−1 al resultado**. Suerte o ninguna carta cuentan como predicción fallida.  
+**Efecto:** si la Técnica rival posee esa etiqueta, el personaje obtiene **+1 al resultado**. Si no, sufre **−1 al resultado**. Suerte o ninguna carta cuentan como predicción fallida.  
 **Cooldown:** no.
 
 ### Reconocer el patrón
 
 **Tipo:** Pasiva  
 **Contexto:** el rival utiliza una Técnica activa que **ya había utilizado anteriormente durante el mismo combate**.  
-**Efecto provisional:** el personaje obtiene **+1 al resultado** contra esa Técnica.
+**Efecto:** el personaje obtiene **+1 al resultado** contra esa Técnica.
 
 ### Ceder sin quebrarse
 
 **Tipo:** Pasiva  
 **Etiquetas:** Defensa, Movimiento  
 **Contexto:** Guardia Firme; pierde por 1.  
-**Efecto provisional:** cede terreno y conserva Guardia Firme.  
-**Coste provisional:** 1 Tensión si ya se utilizó anteriormente durante el mismo combate.  
+**Efecto:** cede terreno y conserva Guardia Firme.  
+**Coste:** 1 Tensión si ya se utilizó anteriormente durante el mismo combate.  
 **Cooldown:** sí.
 
 ### Muto
@@ -1519,13 +1523,13 @@ Si gana el Intercambio, obtiene **+1 al resultado del siguiente Intercambio** co
 **Tipo:** Pasiva  
 **Etiquetas:** Counter, Control  
 **Contexto:** el personaje está desarmado frente a un adversario armado en combate cuerpo a cuerpo.  
-**Efecto provisional:** elimina el **+2 al resultado** que normalmente recibe el adversario por combatir armado contra un personaje desarmado. La Guardia del personaje que utiliza Muto continúa **Comprometida** mientras siga desarmado frente a un adversario armado.  
+**Efecto:** elimina el **+2 al resultado** que normalmente recibe el adversario por combatir armado contra un personaje desarmado. La Guardia del personaje que utiliza Muto continúa **Comprometida** mientras siga desarmado frente a un adversario armado.  
 **Bonificación propia:** ninguna.  
 **Cooldown:** no.
 
 Muto no convierte el enfrentamiento en una situación favorable ni permite recuperar Guardia Firme. Su función es reducir la enorme desventaja normal de combatir desarmado, manteniendo el riesgo de sufrir una Herida grave con cualquier Éxito del adversario.
 
-## 8.5. Primeras Técnicas de Hōzōin-ryū
+## 8.5. Hōzōin-ryū
 
 ### Mantener a raya
 
@@ -1533,7 +1537,7 @@ Muto no convierte el enfrentamiento en una situación favorable ni permite recup
 **Etiquetas:** Control, Defensa  
 **Requisito:** Arma de asta o arma Larga.  
 **Contexto:** existe espacio suficiente para aprovechar correctamente el alcance del arma.  
-**Efecto provisional:** si el rival utiliza una Técnica con las etiquetas **Ataque** o **Presión**, el personaje obtiene **+1 al resultado**. Si el rival no utiliza una Técnica con ninguna de esas etiquetas, no obtiene bonificación y, si gana el Intercambio, su resultado se considera **Empate**.  
+**Efecto:** si el rival utiliza una Técnica con las etiquetas **Ataque** o **Presión**, el personaje obtiene **+1 al resultado**. Si el rival no utiliza una Técnica con ninguna de esas etiquetas, no obtiene bonificación y, si gana el Intercambio, su resultado se considera **Empate**.  
 **Cooldown:** sí.
 
 ### Barrido
@@ -1541,7 +1545,7 @@ Muto no convierte el enfrentamiento en una situación favorable ni permite recup
 **Tipo:** Activa  
 **Etiquetas:** Control, Movimiento  
 **Requisito:** yari.  
-**Efecto provisional:** si obtiene Éxito o Crítico, puede elegir **obligar al rival a ceder terreno** como efecto de la victoria.
+**Efecto:** si obtiene Éxito o Crítico, puede elegir **obligar al rival a ceder terreno** como efecto de la victoria.
 
 Si utiliza una **kamayari** o un yari con propiedad **Gancho**, un Crítico permite elegir **Desarmar** en lugar de obligar a ceder terreno.  
 **Cooldown:** sí.
@@ -1552,7 +1556,7 @@ Si utiliza una **kamayari** o un yari con propiedad **Gancho**, un Crítico perm
 **Etiquetas:** Control  
 **Requisito:** arma con Gancho o Kama.  
 **Contexto:** el resultado obtenido permitiría causar una Herida al rival.  
-**Efecto provisional:** el personaje puede elegir **Desarmar** en lugar de causar la Herida.
+**Efecto:** el personaje puede elegir **Desarmar** en lugar de causar la Herida.
 
 Por tanto, contra un rival con Guardia Firme normalmente necesita un **Crítico** para Desarmar; contra un rival con Guardia Comprometida basta normalmente un **Éxito**.  
 **Cooldown:** sí.
@@ -1563,17 +1567,17 @@ Por tanto, contra un rival con Guardia Firme normalmente necesita un **Crítico*
 **Etiquetas:** Control, Movimiento  
 **Requisito:** Arma de asta y espacio suficiente.  
 **Contexto:** el rival utiliza una Técnica cuyo coste sea ceder terreno.  
-**Efecto provisional:** el personaje puede avanzar con él. El rival paga el coste de ceder terreno, pero no aumenta automáticamente la distancia.  
+**Efecto:** el personaje puede avanzar con él. El rival paga el coste de ceder terreno, pero no aumenta automáticamente la distancia.  
 **Cooldown:** sí.
 
-## 8.6. Primeras Técnicas de Takenouchi-ryū
+## 8.6. Takenouchi-ryū
 
 ### Entrar bajo el arma
 
 **Tipo:** Activa  
 **Etiquetas:** Movimiento, Counter  
-**Contexto:** el rival utiliza un arma larga y controla una distancia favorable.  
-**Efecto provisional:** si el rival juega una Técnica de Control basada en esa arma, el personaje obtiene **+1 al resultado**. Si gana puede disponer del efecto especial Cerrar distancia.  
+**Contexto:** el rival utiliza un arma Larga a distancia **Larga**.  
+**Efecto:** si el rival juega una Técnica con la etiqueta **Control** basada en esa arma, el personaje obtiene **+1 al resultado**. Si gana puede elegir **Cerrar distancia** como efecto de la victoria, reduciendo la distancia en una categoría.  
 **Cooldown:** sí.
 
 ### Kogusoku
@@ -1581,8 +1585,8 @@ Por tanto, contra un rival con Guardia Firme normalmente necesita un **Crítico*
 **Tipo:** Pasiva  
 **Etiquetas:** Control  
 **Requisito:** combatir desarmado o utilizar un arma corta apropiada para agarre y control.  
-**Contexto:** distancia **Corta**; el resultado obtenido permitiría causar una **Herida o un Golpe** al rival.  
-**Efecto provisional:** en lugar de causar la Herida o el Golpe, el personaje puede elegir **Desarmar** o **Derribar** al rival, siempre que el efecto elegido sea físicamente posible.
+**Contexto:** distancia **Corta**; el resultado obtenido permite elegir una **Herida o un Golpe**.  
+**Efecto:** puede sustituir esa Herida o Golpe por **Desarmar** o **Derribar**, siempre que el efecto elegido sea físicamente posible.
 
 Kogusoku puede utilizarse también en combate completamente desarmado. En ese caso permite sustituir una oportunidad de causar un Golpe por **Derribar**, facilitando una resolución rápida y no letal del enfrentamiento.  
 **Cooldown:** sí.
@@ -1613,7 +1617,7 @@ Atemi representa entrenamiento para golpear, proyectar o manipular el cuerpo de 
 **Tipo:** Activa  
 **Etiquetas:** Control  
 **Contexto:** distancia **Corta**.  
-**Efecto provisional:** no concede bonificación al resultado.
+**Efecto:** no concede bonificación al resultado.
 - Si el rival tiene **Guardia Firme**, sólo puede ser Derribado si el personaje obtiene un **Crítico**.
 - Si el rival tiene **Guardia Comprometida**, basta con obtener **Empate o un resultado superior** para Derribarlo.
 
@@ -1625,17 +1629,17 @@ Si la Técnica no consigue Derribar al rival, el personaje sufre **−1 al resul
 **Tipo:** Pasiva  
 **Etiquetas:** Control  
 **Contexto:** el rival intenta ceder terreno para romper el contacto a distancia Corta.  
-**Efecto provisional:** sufrir 1 Fatiga permite impedir que ese desplazamiento, por sí solo, rompa el contacto.  
+**Efecto:** sufrir 1 Fatiga permite impedir que ese desplazamiento, por sí solo, rompa el contacto.  
 **Cooldown:** sí.
 
-## 8.7. Primeras Técnicas de Taisha-ryū
+## 8.7. Taisha-ryū
 
 ### Asalto temerario
 
 **Tipo:** Activa  
 **Etiquetas:** Ataque  
 **Contexto:** cualquier Intercambio en el que el personaje pueda atacar normalmente.  
-**Efecto provisional:** el personaje obtiene **+1 al resultado**.  
+**Efecto:** el personaje obtiene **+1 al resultado**.  
 **Riesgo:** si termina el Intercambio en Empate o Derrota, su Guardia queda o pasa a estar **Comprometida**. Si ya estaba Comprometida, permanece así. Si gana, conserva su estado de Guardia normal y resuelve el efecto de su victoria.  
 **Cooldown:** sí.
 
@@ -1644,7 +1648,7 @@ Si la Técnica no consigue Derribar al rival, el personaje sufre **−1 al resul
 **Tipo:** Activa  
 **Etiquetas:** Ataque, Engaño  
 **Contexto:** cualquier Intercambio.  
-**Efecto provisional:** si el rival utiliza una Técnica de Defensa o Counter, el personaje obtiene **+1 al resultado**. Si el rival utiliza cualquier otra Técnica, Suerte o ninguna carta, sufre **−1 al resultado**.  
+**Efecto:** si el rival utiliza una Técnica de Defensa o Counter, el personaje obtiene **+1 al resultado**. Si el rival utiliza cualquier otra Técnica, Suerte o ninguna carta, sufre **−1 al resultado**.  
 **Cooldown:** sí.
 
 ### Sin respiro
@@ -1652,7 +1656,7 @@ Si la Técnica no consigue Derribar al rival, el personaje sufre **−1 al resul
 **Tipo:** Activa  
 **Etiquetas:** Ataque, Presión  
 **Contexto:** el rival utilizó el efecto de su victoria en el Intercambio inmediatamente anterior para Recomponer Guardia.  
-**Efecto provisional:** el personaje obtiene **+1 al resultado** del presente Intercambio. La Técnica sólo puede utilizarse inmediatamente después de que el rival se haya recompuesto; si no se utiliza entonces, la oportunidad se pierde.  
+**Efecto:** el personaje obtiene **+1 al resultado** del presente Intercambio. La Técnica sólo puede utilizarse inmediatamente después de que el rival se haya recompuesto; si no se utiliza entonces, la oportunidad se pierde.  
 **Cooldown:** sí.
 
 ### Mantener la presión
@@ -1660,11 +1664,11 @@ Si la Técnica no consigue Derribar al rival, el personaje sufre **−1 al resul
 **Tipo:** Activa  
 **Etiquetas:** Ataque, Presión, Counter  
 **Contexto:** el rival tiene la Guardia **Comprometida**.  
-**Efecto provisional:** el personaje obtiene **+2 al resultado** y el rival **no puede recuperar Guardia de ninguna forma durante este Intercambio**, ya sea mediante un efecto estándar, una Técnica activa o pasiva, una recuperación automática o cualquier otro recurso.  
+**Efecto:** el personaje obtiene **+2 al resultado** y el rival **no puede recuperar Guardia de ninguna forma durante este Intercambio**, ya sea mediante un efecto estándar, una Técnica activa o pasiva, una recuperación automática o cualquier otro recurso.  
 **Limitación:** si el personaje gana el Intercambio, el resultado se considera **Empate**. Por tanto, la Técnica puede impedir que un rival comprometido se recomponga, pero no puede utilizarse para obtener progreso ofensivo ni causar una Herida.  
 **Cooldown:** sí.
 
-## 8.8. Primeras Técnicas de la tradición clandestina de Iga
+## 8.8. Tradición clandestina de Iga
 
 ### Golpe oportunista
 
@@ -1676,7 +1680,7 @@ Si la Técnica no consigue Derribar al rival, el personaje sufre **−1 al resul
 - **Golpe grave:** 3 Fatiga.
 - **Golpe crítico:** 4 Fatiga.
 
-Golpe oportunista representa una forma pragmática y poco ortodoxa de combatir: atacar zonas sensibles, aprovechar desequilibrios, golpear cuando el rival está mal colocado y buscar maximizar el dolor y la conmoción sin convertir el ataque en una Herida armada.  
+Golpe oportunista representa una forma pragmática y poco ortodoxa de combatir: atacar zonas sensibles, aprovechar desequilibrios y golpear cuando el rival está mal colocado. La Técnica aumenta únicamente la Fatiga causada y no convierte el Golpe en una Herida.  
 **Cooldown:** no.
 
 ### Romper contacto
@@ -1684,14 +1688,14 @@ Golpe oportunista representa una forma pragmática y poco ortodoxa de combatir: 
 **Tipo:** Activa  
 **Etiquetas:** Defensa, Recuperación, Movimiento  
 **Requisito:** existe una dirección razonable hacia la que retirarse.  
-**Efecto provisional:** renuncia a efectos ofensivos, recupera automáticamente **Guardia Firme** y cede terreno. Si el rival obtiene una victoria durante ese mismo Intercambio, sus efectos se resuelven **contra la Guardia Firme recién recuperada**.  
+**Efecto:** renuncia a efectos ofensivos, recupera automáticamente **Guardia Firme** y cede terreno. Si el rival obtiene una victoria durante ese mismo Intercambio, sus efectos se resuelven **contra la Guardia Firme recién recuperada**.  
 **Cooldown:** sí.
 
 ### Retirada falsa
 
 **Tipo:** Activa  
 **Etiquetas:** Engaño, Movimiento  
-**Efecto provisional:** el personaje cede terreno. Si el rival utiliza una Técnica con las etiquetas **Ataque** o **Presión**, obtiene **+1 al resultado**. En cualquier otro caso sufre **−1 al resultado**.  
+**Efecto:** el personaje cede terreno. Si el rival utiliza una Técnica con las etiquetas **Ataque** o **Presión**, obtiene **+1 al resultado**. En cualquier otro caso sufre **−1 al resultado**.  
 **Cooldown:** sí.
 
 ### Desaparecer entre obstáculos
@@ -1699,7 +1703,7 @@ Golpe oportunista representa una forma pragmática y poco ortodoxa de combatir: 
 **Tipo:** Pasiva  
 **Etiquetas:** Movimiento, Recuperación  
 **Contexto:** oscuridad, vegetación, edificios, humo u otro entorno que permita romper visualmente el contacto.  
-**Efecto provisional:** cuando utiliza un Éxito para **Recomponer Guardia**, puede además terminar el enfrentamiento inmediato si existe una vía real de retirada.
+**Efecto:** cuando utiliza un Éxito para **Recomponer Guardia**, puede además terminar el enfrentamiento inmediato si existe una vía real de retirada.
 
 Esta Técnica es una excepción explícita a la regla general de un único efecto por victoria: permite **Recomponer Guardia y romper el contacto** con el mismo Éxito.  
 **Cooldown:** sí.
@@ -1708,24 +1712,5 @@ Esta Técnica es una excepción explícita a la regla general de un único efect
 
 **Tipo:** Pasiva  
 **Contexto:** se utiliza un objeto improvisado que posee realmente una propiedad física útil.  
-**Efecto provisional:** el objeto puede satisfacer requisitos de Técnicas basados en esa propiedad. Un palo largo puede contar como Arma de asta; una hoz puede proporcionar Gancho; una herramienta pesada puede proporcionar Contundente. No adquiere propiedades que físicamente no posee.  
+**Efecto:** el objeto puede satisfacer requisitos de Técnicas basados en esa propiedad. Un palo largo puede contar como Arma de asta; una hoz puede proporcionar Gancho; una herramienta pesada puede proporcionar Contundente. No adquiere propiedades que físicamente no posee.  
 **Cooldown:** no.
-
-## 8.9. Objetivos de las pruebas
-
-Antes de ampliar el catálogo de Técnicas deben probarse enfrentamientos que permitan responder, entre otras, a las siguientes preguntas:
-
-- ¿Un combatiente claramente superior resulta realmente difícil de derrotar en un duelo justo?
-- ¿Las ventajas narrativas permiten que un personaje inferior pueda vencer mediante preparación inteligente?
-- ¿La Suerte resulta útil sin convertirse en una forma de comprar Críticos?
-- ¿La elección secreta entre Técnica activa y Suerte produce decisiones reales?
-- ¿Las Técnicas pasivas añaden profundidad sin generar combinaciones inevitables?
-- ¿La Guardia cambia de manos con suficiente frecuencia sin convertirse en una barra de puntos de vida?
-- ¿Un personaje con Guardia Comprometida dispone de decisiones interesantes entre recuperar seguridad y atacar?
-- ¿Las defensas fuertes compran tiempo en lugar de garantizar victorias?
-- ¿Las escuelas producen estilos de combate reconociblemente diferentes?
-- ¿Existen respuestas razonables contra las Técnicas más poderosas?
-- ¿El terreno cambia de verdad el valor de las Técnicas?
-- ¿Los costes de Fatiga, Tensión, Suerte y terreno resultan comparables?
-- ¿Aparecen bucles en los que una Técnica se convierta en la opción correcta de todos los Intercambios?
-
