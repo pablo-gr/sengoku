@@ -12,15 +12,23 @@ Cuando existe incertidumbre y el fracaso tendría consecuencias relevantes, el d
 
 El jugador describe qué pretende conseguir y cómo actúa su personaje. Después calcula su resultado:
 
-> **Característica + Habilidad + modificador narrativo + modificador temporal + Suerte**
+> **Característica + Habilidad + modificadores de estado + modificador narrativo + modificador por tiempo + Suerte**
 
-Si el resultado **iguala o supera** la dificultad, el personaje tiene éxito.
+Los **modificadores de estado** proceden de reglas que aplican penalizadores o bonificadores explícitos, como Fatiga o Tensión.
 
-Si el resultado es inferior, fracasa.
+El **modificador por tiempo** representa actuar más deprisa o dedicar más tiempo del habitual y se explica en la sección 1.9.
 
-No se utilizan márgenes de éxito o fracaso. Los puntos que excedan la dificultad no producen automáticamente un resultado mejor, y los puntos que falten no convierten el fracaso en un éxito parcial.
+El resultado se compara con la dificultad:
 
-La calidad, el alcance y las consecuencias del resultado dependen de lo que el personaje intentaba conseguir, del método empleado y de la situación concreta.
+- **Resultado inferior a la dificultad:** fracaso.
+- **Resultado igual o superior a la dificultad:** éxito.
+- **Resultado superior a la dificultad por +2 o más:** Crítico cuando la regla o situación utilice grados de éxito.
+
+Los márgenes pueden importar cuando una regla los utiliza expresamente. En combate determinan Éxito y Crítico. Fuera del combate, el director puede utilizar un fracaso por **2 o más** como indicio de una **pifia** cuando la ficción justifique una consecuencia especialmente mala.
+
+Una pifia no obliga a elegir siempre la peor consecuencia imaginable. Debe seguir siendo coherente con el riesgo existente antes del reto.
+
+La calidad, el alcance y las consecuencias del resultado dependen de lo que el personaje intentaba conseguir, del método empleado, del margen cuando resulte relevante y de la situación concreta.
 
 ## 1.2. Cuándo plantear un reto
 
@@ -111,28 +119,40 @@ El director no la revela antes de que el jugador decida:
 - qué preparación intenta obtener;
 - cuánta Suerte gasta.
 
-Como referencia general:
+La escala normal de dificultad es:
 
-| Dificultad | Categoría |
+| Dificultad | Significado |
 |---:|---|
-| 1–4 | Fácil |
-| 5–8 | Moderada |
-| 9–12 | Difícil |
-| 13 o más | Extraordinaria |
+| **0** | Algo que puede hacer una persona normal |
+| **1** | Requiere un mínimo de talento o experiencia |
+| **2** | Requiere experiencia o talento significativo |
+| **3** | Sólo alguien con capacidades importantes puede conseguirlo de forma razonable |
+| **4** | Requiere un personaje extraordinario |
+| **5** | Está al alcance de alguien casi único en Japón |
+| **6** | Está al límite humano: incluso un personaje único necesita además ayuda de la fortuna o ventajas excepcionales |
 
-Los nombres describen la escala desde una perspectiva humana. Una dificultad elevada puede superarse mediante capacidad excepcional, preparación, tiempo, equipo, circunstancias favorables y Suerte.
+La escala describe la **dificultad base** antes de aplicar modificadores, tiempo y Suerte.
 
-Un reto no debería plantearse sólo porque una acción tenga una dificultad baja. Si una persona competente puede realizarla de forma rutinaria y el fracaso no tendría consecuencias relevantes, simplemente tiene éxito.
+Una dificultad superior a 6 no forma parte de la escala humana normal. Si algo exige capacidades sobrehumanas, normalmente es imposible para un personaje humano salvo que la propia ficción elimine o transforme el problema.
+
+Un reto no debería plantearse sólo porque una acción tenga dificultad 0. Si una persona puede realizarla de forma rutinaria y el fracaso no tendría consecuencias relevantes, simplemente tiene éxito.
 
 ## 1.8. Modificadores
 
 Existen tres fuentes principales de modificación:
 
-1. **modificador narrativo**;
-2. **modificador temporal**;
-3. **Suerte**.
+1. **modificadores de estado**;
+2. **modificador narrativo**;
+3. **modificador por tiempo**;
+4. **Suerte**.
 
 Son independientes y pueden acumularse.
+
+### Modificadores de estado
+
+Fatiga, Tensión, Heridas y otras reglas pueden imponer bonificadores o penalizadores explícitos.
+
+Estos valores se aplican directamente cuando la acción está afectada por ese estado.
 
 ### Modificador narrativo
 
@@ -181,18 +201,50 @@ La ayuda sólo concede una ventaja si cambia realmente las condiciones. El núme
 
 ## 1.9. Tiempo
 
-Toda tarea posee un **tiempo normal** según el método, las herramientas y las circunstancias.
+Toda tarea posee un **tiempo normal**, establecido por el director según el método, las herramientas y las circunstancias.
 
-El personaje puede intentar realizarla más deprisa o dedicar más tiempo cuando pueda aprovecharlo realmente:
+El personaje puede intentar realizarla más deprisa o dedicar más tiempo para mejorar sus posibilidades, siempre que el intervalo elegido y la forma de aprovecharlo tengan una justificación narrativa.
 
-- cada paso hacia un intervalo más corto aplica **−1**;
-- cada paso hacia un intervalo más largo aplica **+1**.
+Se utiliza esta escala:
 
-No existe un límite mecánico universal. La ficción determina si el tiempo declarado resulta físicamente posible y si el personaje puede mantener el acceso necesario.
+```text
+[ 1 s ] [ 3 s ] [ 10 s ] [ 30 s ] [ 1 min ] [ 3 min ] [ 10 min ] [ 30 min ]
+[ 1 h ] [ 3 h ] [ 8 h ] [ 1 día ] [ 3 días ] [ 1 semana ] [ 1 mes ] [ 3 meses ]
+```
 
-Dedicar más tiempo sólo ayuda si se emplea de forma útil: comprobar el trabajo, estudiar el problema, preparar herramientas, observar una rutina, ensayar, corregir errores o buscar un momento más favorable.
+Respecto al tiempo normal:
 
-Una interrupción puede hacer perder parte o todo el progreso según la naturaleza de la tarea.
+- cada intervalo hacia la izquierda aplica **−1**;
+- cada intervalo hacia la derecha aplica **+1**.
+
+Este valor es el **modificador por tiempo**.
+
+Ejemplo: una tarea cuyo tiempo normal es 10 segundos:
+
+- 3 segundos: −1;
+- 1 segundo: −2;
+- 30 segundos: +1;
+- 1 minuto: +2;
+- 3 minutos: +3.
+
+No existe un límite mecánico universal al modificador por tiempo. La ficción determina si el personaje puede realizar físicamente la tarea en menos tiempo o si puede aprovechar realmente el tiempo adicional.
+
+Dedicar más tiempo sólo ayuda si se emplea de forma útil, por ejemplo para:
+
+- estudiar el problema;
+- preparar herramientas;
+- realizar pruebas;
+- comprobar el trabajo;
+- observar una rutina;
+- corregir errores;
+- ensayar;
+- consultar a alguien.
+
+No basta con dejar pasar el tiempo.
+
+Cambiar radicalmente de lugar, herramientas, preparación o procedimiento puede alterar el tiempo normal o convertir la acción en un reto diferente.
+
+Si una acción es interrumpida antes de completar el tiempo comprometido, el director decide cuánto progreso se conserva y qué consecuencias produce la interrupción.
 
 ## 1.10. Retos enfrentados
 
@@ -299,9 +351,11 @@ Puede provocar:
 
 El fracaso no debe significar automáticamente la peor consecuencia imaginable.
 
-Si un personaje intenta cruzar una zona poco vigilada y falla por poco, el resultado puede ser un ruido o una sospecha. No tiene por qué aparecer instantáneamente toda la guarnición.
+Si un personaje intenta cruzar una zona poco vigilada y fracasa, el resultado puede ser un ruido o una sospecha. No tiene por qué aparecer instantáneamente toda la guarnición.
 
-La consecuencia debe corresponder al riesgo que existía antes del reto.
+Un fracaso por 2 o más puede interpretarse como pifia cuando exista una consecuencia peor que resulte razonable en esa situación.
+
+La consecuencia debe corresponder siempre al riesgo que existía antes del reto.
 
 ## 1.15. Dificultades de referencia
 
@@ -309,54 +363,26 @@ Las cifras siguientes sirven como orientación antes de aplicar modificadores, t
 
 | Acción | Dificultad orientativa |
 |---|---:|
-| Saltar un obstáculo bajo durante una persecución | 1 |
-| Encontrar un objeto mal escondido | 1 |
-| Trepar una pendiente sencilla con buenos apoyos | 2 |
-| Abrir un cierre sencillo con herramientas | 2–3 |
-| Convencer a una persona neutral con un argumento razonable | 2–3 |
-| Seguir discretamente a una persona corriente en una población | 3 |
-| Identificar una enfermedad común con síntomas poco claros | 3 |
-| Reconocer una falsificación mediocre | 3 |
-| Abrir una cerradura de buena calidad | 4 |
-| Convencer a una persona claramente reacia | 4 |
-| Mantener una identidad falsa ante desconocidos atentos | 4 |
-| Cruzar un río peligroso | 4–5 |
-| Realizar un tratamiento médico complejo disponible en la época | 5 |
-| Seguir un rastro antiguo bajo lluvia | 5–6 |
-| Falsificar una orden que será revisada por un funcionario competente | 6 |
-| Escalar de noche un muro difícil con poco equipo | 6–7 |
-| Atravesar sin ser detectado una zona militar muy vigilada | 7–8 |
-| Suplantar a una persona concreta ante alguien que la conoce bien | 9+ |
+| Saltar un obstáculo bajo durante una persecución | 0 |
+| Encontrar un objeto mal escondido | 0 |
+| Abrir un cierre sencillo con herramientas apropiadas | 1 |
+| Convencer a una persona neutral con un argumento razonable | 1 |
+| Seguir discretamente a una persona corriente en una población | 1–2 |
+| Identificar una enfermedad común con síntomas poco claros | 2 |
+| Reconocer una falsificación mediocre | 2 |
+| Abrir una cerradura de buena calidad | 2–3 |
+| Convencer a una persona claramente reacia | 3 |
+| Mantener una identidad falsa ante desconocidos atentos | 3 |
+| Seguir un rastro antiguo bajo lluvia | 3–4 |
+| Realizar un tratamiento médico muy complejo disponible en la época | 4 |
+| Falsificar una orden destinada a superar una revisión competente | 4 |
+| Escalar de noche un muro extremadamente difícil con poco equipo | 4–5 |
+| Suplantar a una persona concreta ante alguien que la conoce bien | 5 |
+| Realizar una hazaña situada en el límite de la capacidad humana | 6 |
 
 Una tarea puede ser imposible sin la formación o medios adecuados aunque su dificultad numérica parezca alcanzable.
 
 Una persona que no sabe leer no puede interpretar un documento únicamente gastando Suerte. Un personaje sin conocimientos médicos no puede realizar una intervención compleja porque posea Destreza elevada.
-
-## 1.16. Obtención de información
-
-**Sengoku Jidai no utiliza un subsistema de investigación.**
-
-Obtener información se resuelve mediante narración y, cuando existe incertidumbre relevante, mediante las Habilidades normales.
-
-El director debe distinguir entre:
-
-- información evidente;
-- información que el personaje conoce por su experiencia;
-- información que puede obtener preguntando, observando o consultando una fuente;
-- información cuya obtención implica un riesgo real.
-
-La información necesaria para que una situación pueda seguir avanzando no debería desaparecer simplemente porque un personaje falle un único reto.
-
-Un fracaso puede significar:
-
-- necesitar más tiempo;
-- obtener información incompleta;
-- llamar la atención;
-- tener que recurrir a otra persona;
-- no poder confirmar una sospecha;
-- pagar un coste para conseguir la respuesta.
-
-La investigación, cuando exista en una aventura, es una actividad narrativa, no una fase mecánica separada.
 
 # 2. Personajes
 
@@ -1580,7 +1606,7 @@ Los ataques con arco, armas de fuego y otros proyectiles se resuelven normalment
 
 Un ataque utiliza habitualmente:
 
-> **Destreza + Habilidad de arma + modificadores narrativos + modificador temporal + Suerte**
+> **Destreza + Habilidad de arma + modificadores narrativos + modificador por tiempo + Suerte**
 
 La dificultad depende de circunstancias como:
 
