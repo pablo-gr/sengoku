@@ -1250,6 +1250,8 @@ La Clase social determina los Oficios normalmente accesibles y algunas Habilidad
 
 **La Clase social no concede nunca niveles gratuitos de Habilidad.**
 
+Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. Por ejemplo, **Mercader** como Clase describe el entorno social del personaje, mientras que **Mercader** como Oficio indica que se dedica efectivamente al comercio. Un personaje de Clase Mercader puede ejercer como escribano, administrador o marinero, y un personaje de otra Clase puede llegar a ejercer un oficio mercantil si la campaña lo permite.
+
 ### Campesino
 
 **Habilidades habilitadas por la Clase:**
@@ -1310,7 +1312,7 @@ La Clase social determina los Oficios normalmente accesibles y algunas Habilidad
 - Vigilancia;
 - Primeros auxilios.
 
-**Oficios habituales:** Samurai de armas, Oficial militar, Administrador, Guardia, Mensajero, Mercenario, Escribano, Médico, Monje, Yamabushi, Espía o agente clandestino, Cortesano, Emisario.
+**Oficios habituales:** Samurái de armas, Oficial militar, Administrador, Guardia, Mensajero, Mercenario, Escribano, Médico, Monje, Yamabushi, Espía o agente clandestino, Cortesano, Emisario.
 
 Además de habilitar estas Habilidades, la Clase **Samurái** permite que el personaje tenga acceso inicial a una **escuela marcial** cuando su origen, maestro, región y fecha lo hagan plausible.
 
@@ -1331,7 +1333,7 @@ Un samurái sin señor puede conservar esta Clase social aunque su situación co
 - Religión;
 - Equitación.
 
-**Oficios habituales:** Cortesano, Emisario, Oficial militar, Administrador, Samurai de armas, Escribano, Médico, Monje.
+**Oficios habituales:** Cortesano, Emisario, Oficial militar, Administrador, Samurái de armas, Escribano, Médico, Monje.
 
 La Clase Noble representa personajes procedentes de la élite aristocrática o de familias situadas en la cúspide política de la campaña. No implica gobernar personalmente un territorio.
 
@@ -1520,7 +1522,7 @@ Esas Habilidades quedan habilitadas por el Oficio. Las demás armas sólo estar�
 **Otras Habilidades profesionales:** Atletismo, Supervivencia, Alerta, Intimidación, Táctica, Primeros auxilios.  
 **Bonificaciones gratuitas:** una de las Habilidades de arma elegidas +1, Supervivencia +1, Alerta +1.
 
-### Samurai de armas
+### Samurái de armas
 
 **Clases:** Samurái, Noble.  
 **Habilidades profesionales:** Espadas, Cuchillos, Lanzas, Naginata, Bastones, Arco, Equitación, Táctica, Templanza, Liderazgo, Etiqueta, Armas de fuego.  
