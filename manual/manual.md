@@ -433,9 +433,11 @@ Su acceso procede de tres fuentes:
 2. **Habilidades de Clase social**.
 3. **Habilidades profesionales de su Oficio**.
 
-Tener acceso a una Habilidad permite comprarla con puntos de creación. **No concede ningún nivel gratuito por sí mismo.**
+Tener acceso a una Habilidad significa únicamente que el personaje **puede comprarla con sus puntos de creación**.
 
-El Oficio puede conceder además niveles gratuitos concretos, como se explica en el capítulo 5.
+La Clase social **nunca concede niveles gratuitos de Habilidad**.
+
+El Oficio también habilita Habilidades que pueden comprarse y, además, puede conceder niveles gratuitos concretos, como se explica en el capítulo 5.
 
 Después de comenzar la campaña, un personaje puede acceder a Habilidades nuevas si la ficción justifica cómo aprende: entrenamiento militar, un maestro, cambio de oficio, ingreso en una institución, experiencia prolongada u otra oportunidad equivalente.
 
@@ -886,25 +888,61 @@ Hurto no sustituye a **Sigilo** para desplazarse sin ser visto, a **Cerrajería*
 
 ## 4.5. Combate
 
-### Espadas `*`
+Las Habilidades de arma de esta sección representan **entrenamiento práctico genérico**, no pertenencia a una escuela marcial.
 
-Uso marcial de espadas y armas de hoja semejantes, incluyendo las variantes apropiadas de tachi, katana, uchigatana, wakizashi o tantō según el contexto.
+Permiten utilizar el arma con competencia en combate ordinario e Intercambios.
 
-Las Técnicas de una escuela pueden imponer requisitos adicionales aunque la Habilidad permita utilizar el arma.
+Por sí solas **no conceden Técnicas marciales**.
 
-### Armas de asta `*`
+Es perfectamente posible que un personaje posea **Lanzas +3** después de décadas de servicio militar y no conozca ninguna Técnica de escuela.
 
-Uso de yari, naginata, bō y otras armas largas cuyo manejo depende principalmente del alcance, la punta, el asta o movimientos amplios de control.
+Del mismo modo, aprender una Técnica de una escuela no sustituye a la Habilidad de arma correspondiente: el personaje sigue utilizando su Habilidad genérica para calcular sus resultados.
 
-Las armas excepcionalmente particulares pueden exigir una Habilidad propia si el director considera que su manejo se aleja demasiado de esta familia.
+Un personaje sin la Habilidad apropiada puede intentar utilizar un arma físicamente sencilla, pero no añade bonificación de Habilidad. La falta de entrenamiento puede además limitar maniobras complejas cuando la ficción lo justifique.
 
-### Arco `*`
+### Espadas
+
+Uso práctico de tachi, katana, uchigatana, wakizashi y otras espadas.
+
+Representa guardias básicas, cortes, estocadas, distancia y experiencia real con estas armas.
+
+No incluye automáticamente cuchillos o armas de asta.
+
+### Cuchillos
+
+Uso de tantō, cuchillos y otras armas cortas de mano semejantes.
+
+Incluye ataque, defensa y control básico de la distancia Corta.
+
+Una persona puede apuñalar sin entrenamiento; esta Habilidad representa hacerlo con competencia adquirida.
+
+### Lanzas
+
+Uso de yari y variantes de lanza.
+
+Incluye controlar alcance, estocar, mantener distancia y combatir en formación o individualmente según la experiencia del personaje.
+
+**Lanzas** no concede acceso a las Técnicas de una escuela de sōjutsu.
+
+### Naginata
+
+Uso práctico de naginata y armas semejantes cuya técnica combina asta, filo y movimientos amplios.
+
+No se considera automáticamente equivalente a Lanzas.
+
+### Bastones
+
+Uso marcial de bō, jō y otros bastones.
+
+También puede aplicarse a objetos de forma muy semejante cuando su tamaño y equilibrio lo permiten.
+
+### Arco
 
 Uso de yumi y otros arcos.
 
 Incluye disparo, preparación, elección de tiro y manejo ordinario del equipo. El mantenimiento artesanal del arco corresponde a un **Oficio** apropiado.
 
-### Armas de fuego `*`
+### Armas de fuego
 
 Uso de teppō y otras armas de pólvora portátiles disponibles en la época de la campaña.
 
@@ -914,7 +952,9 @@ Incluye carga, disparo y mantenimiento ordinario. Fabricar pólvora, reparar mec
 
 Combate sin armas: golpes, agarres, forcejeos, proyecciones y control físico.
 
-Las Técnicas marciales pueden ampliar enormemente lo que un personaje entrenado puede conseguir mediante esta Habilidad.
+Puede existir una enorme diferencia entre una persona que simplemente sabe pelear y otra que ha recibido enseñanza marcial formal.
+
+Las Técnicas de escuela sólo están disponibles cuando el personaje las ha aprendido expresamente.
 
 ### Táctica `*`
 
@@ -1151,9 +1191,21 @@ Ejemplos:
 
 Los máximos de la categoría de personaje siguen aplicándose.
 
-## 5.3. Habilidades generales
+## 5.3. Acceso a Habilidades
 
-Las siguientes Habilidades pueden comprarse durante la creación independientemente de Clase u Oficio:
+Durante la creación, un personaje sólo puede gastar puntos en Habilidades que tenga **habilitadas**.
+
+Una Habilidad puede quedar habilitada por:
+
+1. su **Clase social**;
+2. su **Oficio**;
+3. una excepción narrativa autorizada por el director.
+
+Que una Habilidad esté habilitada **no concede ningún nivel gratuito**.
+
+Los únicos niveles gratuitos ordinarios proceden del Oficio.
+
+Las siguientes Habilidades se consideran generales y están habilitadas para cualquier personaje:
 
 - Alerta;
 - Registro;
@@ -1164,7 +1216,19 @@ Las siguientes Habilidades pueden comprarse durante la creación independienteme
 - Templanza;
 - Pelea.
 
-Las demás deben estar disponibles por Clase social, por Oficio o mediante una excepción justificada por el Origen y aceptada por el director.
+No poseer acceso durante la creación no significa que la Habilidad sea imposible de aprender para siempre. Durante la campaña, la experiencia, un maestro, el servicio militar, un nuevo Oficio o una institución pueden abrir nuevas posibilidades de aprendizaje.
+
+### Regla opcional: excepciones del director
+
+Si el director considera que el concepto del personaje, su historia previa o las circunstancias concretas de la campaña lo justifican, puede:
+
+- habilitar una Habilidad adicional durante la creación;
+- conceder gratuitamente un nivel de Habilidad;
+- permitir un Oficio que normalmente no correspondería a la Clase social.
+
+Esta regla es **opcional** y depende por completo del criterio del director.
+
+Debe utilizarse para representar una historia concreta, no como una forma general de evitar las restricciones de Clase y Oficio.
 
 ## 5.4. Clase social
 
@@ -1184,16 +1248,18 @@ La tabla sirve como herramienta de generación, no como censo exacto de la pobla
 
 La Clase social determina los Oficios normalmente accesibles y algunas Habilidades adicionales que pueden comprarse durante la creación.
 
+**La Clase social no concede nunca niveles gratuitos de Habilidad.**
+
 ### Campesino
 
-**Habilidades de Clase:**
+**Habilidades habilitadas por la Clase:**
 
 - Atletismo;
 - Natación;
 - Supervivencia;
 - Rastreo;
 - Vigilancia;
-- Armas de asta;
+- Lanzas;
 - Arco;
 - Primeros auxilios;
 - Oficio relacionado con actividades rurales.
@@ -1202,7 +1268,7 @@ La Clase social determina los Oficios normalmente accesibles y algunas Habilidad
 
 ### Artesano
 
-**Habilidades de Clase:**
+**Habilidades habilitadas por la Clase:**
 
 - Oficio relacionado con una artesanía;
 - Comercio;
@@ -1215,7 +1281,7 @@ La Clase social determina los Oficios normalmente accesibles y algunas Habilidad
 
 ### Mercader
 
-**Habilidades de Clase:**
+**Habilidades habilitadas por la Clase:**
 
 - Comercio;
 - Administración;
@@ -1228,10 +1294,10 @@ La Clase social determina los Oficios normalmente accesibles y algunas Habilidad
 
 ### Samurái
 
-**Habilidades de Clase:**
+**Habilidades habilitadas por la Clase:**
 
 - Espadas;
-- Armas de asta;
+- Lanzas;
 - Arco;
 - Equitación;
 - Táctica;
@@ -1244,11 +1310,15 @@ La Clase social determina los Oficios normalmente accesibles y algunas Habilidad
 
 **Oficios habituales:** Samurai de armas, Oficial militar, Administrador, Guardia, Mensajero, Mercenario, Escribano, Médico, Monje, Yamabushi, Agente clandestino.
 
+Además de habilitar estas Habilidades, la Clase **Samurái** permite que el personaje tenga acceso inicial a una **escuela marcial** cuando su origen, maestro, región y fecha lo hagan plausible.
+
+Ese acceso no concede Técnicas gratuitamente por sí mismo. Sólo permite aprender las Técnicas de la escuela conforme a las reglas de formación marcial.
+
 Un samurái sin señor puede conservar esta Clase social aunque su situación concreta sea la de rōnin.
 
 ### Noble
 
-**Habilidades de Clase:**
+**Habilidades habilitadas por la Clase:**
 
 - Administración;
 - Escritura y documentos;
@@ -1286,7 +1356,7 @@ Las bonificaciones gratuitas no se diseñan mediante un presupuesto uniforme. Re
 ### Agricultor
 
 **Clases:** Campesino.  
-**Habilidades profesionales:** Oficio (agricultura), Atletismo, Supervivencia, Alerta, Primeros auxilios, Armas de asta.  
+**Habilidades profesionales:** Oficio (agricultura), Atletismo, Supervivencia, Alerta, Primeros auxilios, Lanzas.  
 **Bonificaciones gratuitas:** Oficio (agricultura) +2, Atletismo +1, Supervivencia +1, Alerta +1.
 
 ### Pescador
@@ -1304,7 +1374,7 @@ Las bonificaciones gratuitas no se diseñan mediante un presupuesto uniforme. Re
 ### Leñador o carbonero
 
 **Clases:** Campesino.  
-**Habilidades profesionales:** Oficio (trabajo forestal), Atletismo, Supervivencia, Rastreo, Alerta, Armas de asta.  
+**Habilidades profesionales:** Oficio (trabajo forestal), Atletismo, Supervivencia, Rastreo, Alerta, Bastones.  
 **Bonificaciones gratuitas:** Oficio (trabajo forestal) +2, Atletismo +1, Supervivencia +1, Alerta +1.
 
 ### Artesano
@@ -1317,7 +1387,7 @@ Las bonificaciones gratuitas no se diseñan mediante un presupuesto uniforme. Re
 ### Herrero o armero
 
 **Clases:** Artesano.  
-**Habilidades profesionales:** Oficio (herrería o fabricación de armas), Ingeniería, Comercio, Registro, Armas de asta, Espadas.  
+**Habilidades profesionales:** Oficio (herrería o fabricación de armas), Ingeniería, Comercio, Registro, Espadas, Cuchillos, Lanzas, Naginata.  
 **Bonificaciones gratuitas:** Oficio (herrería o fabricación de armas) +2, Ingeniería +1, Registro +1.
 
 ### Carpintero o constructor
@@ -1365,39 +1435,50 @@ Las bonificaciones gratuitas no se diseñan mediante un presupuesto uniforme. Re
 ### Bandido
 
 **Clases:** Campesino, Artesano, Mercader, Samurái.  
-**Habilidades profesionales:** Armas de asta, Arco, Espadas, Atletismo, Supervivencia, Rastreo, Sigilo, Alerta, Intimidación, Táctica.  
-**Bonificaciones gratuitas:** una entre Armas de asta, Arco o Espadas +1; Supervivencia +1; Intimidación +1.
+**Habilidades profesionales:** Lanzas, Arco, Espadas, Cuchillos, Atletismo, Supervivencia, Rastreo, Sigilo, Alerta, Intimidación, Táctica.  
+**Bonificaciones gratuitas:** una entre Lanzas, Arco, Espadas o Cuchillos +1; Supervivencia +1; Intimidación +1.
 
 ### Ashigaru
 
-**Clases:** Campesino, Artesano, Mercader.  
-**Habilidades profesionales:** Armas de asta, Arco, Armas de fuego, Atletismo, Alerta, Templanza, Táctica, Supervivencia, Primeros auxilios.  
-**Bonificaciones gratuitas:** una entre Armas de asta, Arco o Armas de fuego +1; Atletismo +1; Templanza +1.
+**Clases:** Campesino, Artesano, Mercader.
 
-La opción de Armas de fuego sólo está disponible cuando la fecha y región de la campaña hacen plausible ese entrenamiento.
+Al elegir este Oficio se elige una especialidad militar:
+
+- **Lancero:** habilita Lanzas.
+- **Arquero:** habilita Arco.
+- **Teppō:** habilita Armas de fuego.
+
+La especialidad elegida es la **única Habilidad de arma que el Oficio Ashigaru habilita por sí mismo**.
+
+**Otras Habilidades profesionales:** Atletismo, Alerta, Templanza, Táctica, Supervivencia, Primeros auxilios.  
+**Bonificaciones gratuitas:** Habilidad de arma de la especialidad +1, Atletismo +1, Templanza +1.
+
+La especialidad Teppō sólo está disponible cuando la fecha y región de la campaña hacen plausible ese entrenamiento.
+
+Un ashigaru puede alcanzar niveles muy elevados en su arma mediante experiencia sin haber estudiado ninguna escuela marcial.
 
 ### Guardia
 
 **Clases:** Campesino, Artesano, Mercader, Samurái.  
-**Habilidades profesionales:** Alerta, Vigilancia, Templanza, Intimidación, Atletismo, Armas de asta, Arco, Espadas, Armas de fuego.  
+**Habilidades profesionales:** Alerta, Vigilancia, Templanza, Intimidación, Atletismo, Lanzas, Arco, Espadas, Cuchillos, Armas de fuego.  
 **Bonificaciones gratuitas:** Alerta +1, Templanza +1 y una Habilidad de arma apropiada +1.
 
 ### Mercenario
 
 **Clases:** Campesino, Artesano, Mercader, Samurái.  
-**Habilidades profesionales:** Armas de asta, Arco, Espadas, Armas de fuego, Atletismo, Supervivencia, Alerta, Intimidación, Táctica, Primeros auxilios.  
+**Habilidades profesionales:** Lanzas, Arco, Espadas, Cuchillos, Armas de fuego, Atletismo, Supervivencia, Alerta, Intimidación, Táctica, Primeros auxilios.  
 **Bonificaciones gratuitas:** una Habilidad de arma apropiada +1, Supervivencia +1, Alerta +1.
 
 ### Samurai de armas
 
 **Clases:** Samurái, Noble.  
-**Habilidades profesionales:** Espadas, Armas de asta, Arco, Equitación, Táctica, Templanza, Liderazgo, Etiqueta, Armas de fuego.  
-**Bonificaciones gratuitas:** una entre Espadas, Armas de asta o Arco +1; Etiqueta +1; Equitación +1.
+**Habilidades profesionales:** Espadas, Cuchillos, Lanzas, Naginata, Bastones, Arco, Equitación, Táctica, Templanza, Liderazgo, Etiqueta, Armas de fuego.  
+**Bonificaciones gratuitas:** una entre Espadas, Lanzas, Naginata o Arco +1; Etiqueta +1; Equitación +1.
 
 ### Oficial militar
 
 **Clases:** Samurái, Noble.  
-**Habilidades profesionales:** Táctica, Liderazgo, Administración, Etiqueta, Escritura y documentos, Equitación, Espadas, Armas de asta, Arco, Armas de fuego.  
+**Habilidades profesionales:** Táctica, Liderazgo, Administración, Etiqueta, Escritura y documentos, Equitación, Espadas, Lanzas, Arco, Armas de fuego.  
 **Bonificaciones gratuitas:** Táctica +1, Liderazgo +1, Etiqueta +1.
 
 ### Administrador
@@ -1427,7 +1508,7 @@ La opción de Armas de fuego sólo está disponible cuando la fecha y región de
 ### Yamabushi
 
 **Clases:** cualquiera.  
-**Habilidades profesionales:** Religión, Supervivencia, Atletismo, Templanza, Rastreo, Primeros auxilios, Armas de asta.  
+**Habilidades profesionales:** Religión, Supervivencia, Atletismo, Templanza, Rastreo, Primeros auxilios, Bastones, Naginata.  
 **Bonificaciones gratuitas:** Religión +1, Supervivencia +1, Templanza +1.
 
 ### Artista o entretenedor
@@ -1544,15 +1625,30 @@ Todo personaje comienza normalmente con:
 - Tensión perdida 0;
 - ninguna Herida.
 
-## 5.13. Técnicas marciales iniciales
+## 5.13. Habilidades de arma y Técnicas marciales iniciales
 
-Las Técnicas no se compran con puntos de Habilidad.
+Las Habilidades **Espadas, Cuchillos, Lanzas, Naginata, Bastones, Arco y Armas de fuego** representan experiencia práctica con esas armas.
 
-El acceso inicial depende de la formación marcial real del personaje, de los maestros o escuela a los que haya tenido acceso y del nivel de campaña.
+No requieren pertenecer a una escuela y **no conceden Técnicas marciales**.
 
-El director determina qué Técnicas iniciales son coherentes con el personaje.
+Un ashigaru veterano, mercenario, bandido o asesino puede alcanzar +2 o +3 en una Habilidad de arma sin haber recibido jamás enseñanza formal de una escuela.
 
-Poseer una Habilidad de combate elevada no concede automáticamente Técnicas de una escuela que el personaje nunca haya estudiado.
+Las Técnicas son una capa diferente de formación.
+
+Para comenzar la campaña con Técnicas de una escuela, el personaje necesita:
+
+- acceso a esa escuela;
+- una historia coherente de aprendizaje;
+- un maestro, tradición o institución apropiada;
+- cualquier requisito adicional que establezca la campaña.
+
+La Clase **Samurái** habilita normalmente el acceso inicial a escuelas marciales, siempre que la escuela concreta sea plausible para la fecha, región y formación del personaje.
+
+Otros personajes no obtienen acceso a una escuela sólo por poseer una Habilidad de arma elevada.
+
+El director puede conceder acceso excepcional a una escuela cuando la historia del personaje lo justifique, utilizando la regla opcional de excepciones del director.
+
+El director determina qué Técnicas iniciales ha aprendido realmente el personaje.
 
 # 6. Combate
 
@@ -2705,7 +2801,7 @@ Es muy eficaz entrando en edificios y observando rutinas, pero no posee entrenam
 **Categoría:** excepcional.  
 **Posición:** guerrero al servicio de una casa.  
 **Características destacadas:** Destreza +2, Voluntad +1, Percepción +1.  
-**Habilidades:** Espadas +3, Armas de asta +2, Táctica +1, Equitación +1, Etiqueta +0.  
+**Habilidades:** Espadas +3, Lanzas +2, Táctica +1, Equitación +1, Etiqueta +0.  
 **Rasgos:** disciplinado; reputación de duelista.
 
 Es un adversario formidable en combate, pero sus competencias administrativas o clandestinas pueden ser mediocres.
@@ -2775,7 +2871,7 @@ Su competencia técnica puede convertirlo en una persona valiosa incluso ante cl
 **Categoría:** excepcional.  
 **Posición:** fuera de la ley; depende de una banda y de apoyos locales.  
 **Características destacadas:** Fortaleza +1, Destreza +2, Percepción +1.  
-**Habilidades:** Armas de asta +2, Sigilo +1, Supervivencia +1, Táctica +1, Intimidación +0.  
+**Habilidades:** Lanzas +2, Sigilo +1, Supervivencia +1, Táctica +1, Intimidación +0.  
 **Rasgos:** conoce pasos de montaña; perseguido por una autoridad local.
 
 Es peligroso porque combina experiencia violenta, conocimiento del terreno y ausencia de obligaciones legales, no porque pertenezca a una «clase de bandido» especial.
