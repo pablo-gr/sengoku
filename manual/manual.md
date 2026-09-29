@@ -695,12 +695,12 @@ Por defecto, un puñetazo, patada, proyección o golpe semejante no causa pérdi
 
 Las escuelas especializadas en combate sin armas pueden poseer Técnicas pasivas que hagan sus Golpes más peligrosos.
 
-Ejemplos de posibles mejoras:
+Dos ejemplos presentes en las Técnicas iniciales son:
 
-- aumentar el daño de Fatiga a **1 / 3 / 4** para Golpe leve / grave / crítico;
-- mantener **1 / 2 / 3** de Fatiga y añadir **1 nivel de Salud** a los Golpes graves y críticos.
+- **Takenouchi-ryū:** mantiene **1 / 2 / 3** de Fatiga y añade **1 nivel de Salud** a los Golpes graves y críticos;
+- **tradición clandestina de Iga:** aumenta la Fatiga a **1 / 3 / 4** para Golpe leve / grave / crítico.
 
-Estas mejoras no forman parte de la regla general: deben proceder de una Técnica concreta.
+Estas mejoras no forman parte de la regla general: proceden de Técnicas concretas.
 
 ### Fortaleza
 
@@ -1145,6 +1145,7 @@ Principios de diseño:
 - inmovilizar;
 - combatir eficazmente en espacios reducidos;
 - utilizar armas cortas;
+- causar lesiones reales mediante combate sin armas entrenado;
 - ser especialmente peligrosa cuando ya se ha cerrado la distancia.
 
 Idea central:
@@ -1187,6 +1188,7 @@ Principios de diseño:
 - retirarse y romper contacto;
 - engañar durante una retirada;
 - improvisar herramientas;
+- utilizar golpes oportunistas contra puntos vulnerables cuando el combate se vuelve físico;
 - evitar enfrentamientos frontales desfavorables.
 
 Idea central:
@@ -1498,6 +1500,19 @@ Kogusoku puede utilizarse también en combate completamente desarmado. En ese ca
 **Efecto:** el personaje ignora el **−1 por distancia Corta** que sufriría por el arma que está utilizando.  
 **Cooldown:** no.
 
+### Atemi
+
+**Tipo:** Pasiva  
+**Etiquetas:** Ataque  
+**Contexto:** combate sin armas.  
+**Efecto:** los Golpes del personaje causan:
+- **Golpe leve:** 1 Fatiga.
+- **Golpe grave:** 2 Fatiga y 1 Salud.
+- **Golpe crítico:** 3 Fatiga y 1 Salud.
+
+Atemi representa entrenamiento para golpear, proyectar o manipular el cuerpo de forma que un ataque desarmado pueda producir una lesión real.  
+**Cooldown:** no.
+
 ### Derribo
 
 **Tipo:** Activa  
@@ -1555,6 +1570,19 @@ Si la Técnica no consigue Derribar al rival, el personaje sufre **−1 al resul
 **Cooldown:** sí.
 
 ## 8.8. Primeras Técnicas de la tradición clandestina de Iga
+
+### Golpe oportunista
+
+**Tipo:** Pasiva  
+**Etiquetas:** Ataque  
+**Contexto:** combate sin armas.  
+**Efecto:** los Golpes del personaje causan:
+- **Golpe leve:** 1 Fatiga.
+- **Golpe grave:** 3 Fatiga.
+- **Golpe crítico:** 4 Fatiga.
+
+Golpe oportunista representa una forma pragmática y poco ortodoxa de combatir: atacar zonas sensibles, aprovechar desequilibrios, golpear cuando el rival está mal colocado y buscar maximizar el dolor y la conmoción sin convertir el ataque en una Herida armada.  
+**Cooldown:** no.
 
 ### Romper contacto
 
