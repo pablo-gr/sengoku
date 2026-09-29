@@ -1222,6 +1222,8 @@ El manual definitivo deberá incluir cronologías y condiciones de acceso sufici
 
 # 8. Técnicas provisionales de prueba
 
+> **Ubicación estructural:** el catálogo de Técnicas debe permanecer siempre como **capítulo final del manual**. Si se añaden nuevos capítulos de reglas, equipo, ambientación, sociedad, viaje u otros subsistemas, deberán insertarse antes de este capítulo. De este modo, las nuevas Técnicas pueden añadirse al final del libro sin reorganizar el cuerpo principal del reglamento.
+
 > **Todo el contenido de este capítulo es provisional.** Estas Técnicas existen para probar el motor de combate y las identidades de escuela. Sus valores, costes, Cooldowns, nombres y efectos se revisarán antes de considerarlas definitivas.
 
 ## 8.1. Técnicas generales
