@@ -864,6 +864,23 @@ Un practicante especializado puede utilizar:
 
 El arma ideal debe desbloquear capacidades, no limitarse a conceder números mayores.
 
+## 6.4. Combatir desarmado contra un adversario armado
+
+Un personaje desarmado que combate cuerpo a cuerpo contra un adversario armado y capaz de utilizar eficazmente su arma se encuentra en una situación extremadamente desfavorable.
+
+Mientras se mantenga esta situación:
+
+- la Guardia del personaje desarmado está **Comprometida**;
+- el adversario armado obtiene normalmente **+2 al resultado** por la superioridad que proporciona el arma.
+
+La Guardia permanece Comprometida mientras continúe la causa que la compromete. Por tanto, un personaje desarmado no puede Recomponer Guardia hasta Firme mientras siga enfrentándose en esas condiciones a un adversario armado, salvo que una regla o Técnica indique expresamente lo contrario.
+
+Si el personaje ya tenía Guardia Comprometida, no existe un estado adicional de Guardia: simplemente continúa Comprometida.
+
+El +2 presupone que el adversario puede utilizar eficazmente su arma. El entorno o la situación pueden reducir o eliminar esta ventaja si el arma deja de proporcionar realmente esa superioridad, por ejemplo porque se ha neutralizado su alcance, se controla físicamente el arma o el espacio impide utilizarla correctamente.
+
+Esta regla representa simultáneamente la dificultad de defenderse sin arma y la gravedad de cualquier apertura cuando el adversario dispone de un medio eficaz para herir.
+
 # 7. Escuelas marciales — planificación provisional
 
 > Este capítulo define la identidad mecánica prevista para las primeras escuelas. No pretende afirmar que las escuelas históricas utilizaran literalmente las reglas o Técnicas descritas. Se distingue entre la base histórica conocida y la interpretación creada para el juego.
@@ -1236,9 +1253,12 @@ La Técnica amplía las opciones disponibles si el personaje consigue imponerse,
 
 **Tipo:** Pasiva  
 **Etiquetas:** Counter, Control  
-**Contexto:** el personaje está desarmado frente a un adversario con espada y puede físicamente entrar en contacto con él.  
-**Efecto provisional:** puede participar normalmente en el Intercambio en lugar de considerarse automáticamente indefenso. Si obtiene un Crítico, puede aparecer como efecto especial Desarmar.  
-**Bonificación:** ninguna.
+**Contexto:** el personaje está desarmado frente a un adversario armado en combate cuerpo a cuerpo.  
+**Efecto provisional:** elimina el **+2 al resultado** que normalmente recibe el adversario por combatir armado contra un personaje desarmado. La Guardia del personaje que utiliza Muto continúa **Comprometida** mientras siga desarmado frente a un adversario armado.  
+**Bonificación propia:** ninguna.  
+**Cooldown:** no.
+
+Muto no convierte el enfrentamiento en una situación favorable ni permite recuperar Guardia Firme. Su función es reducir la enorme desventaja normal de combatir desarmado, manteniendo el riesgo de sufrir una Herida grave con cualquier Éxito del adversario.
 
 ## 8.5. Primeras Técnicas de Hōzōin-ryū
 
