@@ -484,7 +484,7 @@ El adversario recibe una **Herida leve** sin necesidad de comprometer previament
 
 El adversario recibe una **Herida mortal**.
 
-El término Herida mortal identifica el nivel de gravedad de la lesión. Sus consecuencias exactas se definirán con las reglas de Heridas y no implican necesariamente que la muerte sea instantánea.
+Una Herida mortal provoca normalmente **4 niveles de Salud y 4 de Fatiga**. Representa una lesión con una probabilidad muy alta de causar la muerte, pero no implica muerte automática. La posibilidad de estabilizarla o sobrevivir depende de la lesión concreta y de los medios disponibles, según determine el director.
 
 ## 4.9. Condiciones de control
 
@@ -652,6 +652,59 @@ La Tensión puede aumentar por miedo intenso, amenazas inmediatas, presión prol
 Al alcanzar Tensión 5 el personaje **continúa pudiendo actuar**, pero sufre **−4** mientras permanezca en ese nivel.
 
 Como orientación provisional, un personaje recupera **1 nivel de Tensión por cada hora de descanso real en un entorno que considere razonablemente seguro**. Dormir adecuadamente permite recuperar toda la Tensión que no esté sostenida por una causa persistente. El director puede retrasar la recuperación mientras continúen presentes miedo, amenaza, dolor intenso u otras fuentes de presión.
+
+## 4.16. Salud, Heridas y Golpes
+
+Sengoku Jidai conserva de **Active Cthulhu** la idea de que el daño físico real se registra mediante **Salud**, mientras que la conmoción, el dolor y el agotamiento inmediato se reflejan mediante **Fatiga**.
+
+### Heridas causadas por armas
+
+Las armas capaces de producir daño letal causan simultáneamente pérdida de **Salud** y de **Fatiga**.
+
+Los efectos estándar del combate se traducen así:
+
+| Efecto | Salud perdida | Fatiga perdida |
+|---|---:|---:|
+| **Herida leve** | 1 | 1 |
+| **Herida grave** | 3 | 3 |
+| **Herida mortal** | 4 | 4 |
+
+No existe una categoría separada de **Herida crítica**.
+
+Una **Herida mortal** representa una lesión con una probabilidad muy alta de causar la muerte si no recibe tratamiento adecuado, pero **no implica muerte automática**.
+
+En el Japón feudal muchas Heridas mortales pueden resultar imposibles de tratar eficazmente con los medios disponibles. El director decide, según la naturaleza concreta de la lesión, el lugar, los recursos, el tiempo transcurrido y la ayuda disponible, si existe una posibilidad realista de estabilizarla o salvar al personaje.
+
+Esta decisión es narrativa. Una perforación abdominal profunda, una hemorragia interna, una lesión vascular importante o una infección posterior pueden resultar prácticamente incurables en determinadas circunstancias, mientras que otras lesiones de gravedad similar pueden admitir alguna posibilidad de supervivencia.
+
+Una Herida mortal puede empeorar y provocar pérdida adicional de Salud. La muerte se produce cuando el daño acumulado o la naturaleza concreta de la lesión hacen inviable la supervivencia.
+
+### Golpes y combate sin armas
+
+El combate sin armas utiliza **Golpes**, no Heridas, salvo que una Técnica indique expresamente lo contrario.
+
+Los Golpes causan únicamente Fatiga:
+
+| Golpe | Fatiga perdida |
+|---|---:|
+| **Leve** | 1 |
+| **Grave** | 2 |
+| **Crítico** | 3 |
+
+Por defecto, un puñetazo, patada, proyección o golpe semejante no causa pérdida directa de Salud, aunque el director puede considerar imposible aplicar esta regla cuando la ficción implique una fuente claramente letal, como arrojar a alguien desde una gran altura o golpear repetidamente su cabeza contra una superficie peligrosa.
+
+Las escuelas especializadas en combate sin armas pueden poseer Técnicas pasivas que hagan sus Golpes más peligrosos.
+
+Ejemplos de posibles mejoras:
+
+- aumentar el daño de Fatiga a **1 / 3 / 4** para Golpe leve / grave / crítico;
+- mantener **1 / 2 / 3** de Fatiga y añadir **1 nivel de Salud** a los Golpes graves y críticos.
+
+Estas mejoras no forman parte de la regla general: deben proceder de una Técnica concreta.
+
+### Fortaleza
+
+Como en **Active Cthulhu**, la Fortaleza puede reducir la Fatiga y la Salud perdidas. Las reglas exactas de reducción se conservarán salvo que una regla específica de Sengoku Jidai indique lo contrario.
 
 # 5. Técnicas marciales
 
@@ -982,7 +1035,7 @@ Esta regla representa simultáneamente la dificultad de defenderse sin arma y la
 
 ### Golpes sin armas
 
-El combate sin armas **no causa Heridas** mediante los efectos normales de combate. En su lugar causa **Golpes**, cuyas consecuencias y daño exactos se definirán junto con el sistema definitivo de daño.
+El combate sin armas **no causa Heridas** mediante los efectos normales de combate. En su lugar causa **Golpes**: leve 1 Fatiga, grave 2 Fatiga y crítico 3 Fatiga, salvo que una Técnica modifique estos valores o añada pérdida de Salud.
 
 Cuando una Técnica permita sustituir una Herida por otro efecto —por ejemplo Desarmar o Derribar—, en combate sin armas puede utilizarse del mismo modo si el resultado obtenido permitiría causar un **Golpe**.
 
