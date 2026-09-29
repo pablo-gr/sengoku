@@ -1300,6 +1300,7 @@ La Clase social determina los Oficios normalmente accesibles y algunas Habilidad
 - Naginata;
 - Bastones;
 - Arco;
+- Armas de fuego, cuando la fecha y región lo permitan;
 - Equitación;
 - Táctica;
 - Liderazgo;
@@ -1445,9 +1446,20 @@ El cazador puede comprar Arco, Supervivencia, Sigilo y las demás Habilidades pr
 
 ### Bandido
 
-**Clases:** Campesino, Artesano, Mercader, Samurái.  
-**Habilidades profesionales:** Lanzas, Arco, Espadas, Cuchillos, Atletismo, Supervivencia, Rastreo, Sigilo, Alerta, Intimidación, Táctica.  
-**Bonificaciones gratuitas:** una entre Lanzas, Arco, Espadas o Cuchillos +1; Supervivencia +1; Intimidación +1.
+**Clases:** Campesino, Artesano, Mercader, Samurái.
+
+Al elegir este Oficio se escoge una **Habilidad de arma** coherente con la historia del personaje:
+
+- Espadas;
+- Cuchillos;
+- Lanzas;
+- Arco;
+- Armas de fuego, si la fecha y región lo permiten.
+
+El Oficio Bandido habilita por sí mismo únicamente el arma elegida. Un personaje cuya Clase ya habilite otras armas conserva naturalmente ese acceso.
+
+**Otras Habilidades profesionales:** Atletismo, Supervivencia, Rastreo, Sigilo, Alerta, Intimidación, Táctica.  
+**Bonificaciones gratuitas:** Habilidad de arma elegida +1, Supervivencia +1, Intimidación +1.
 
 ### Ashigaru
 
@@ -1470,15 +1482,37 @@ Un ashigaru puede alcanzar niveles muy elevados en su arma mediante experiencia 
 
 ### Guardia
 
-**Clases:** Campesino, Artesano, Mercader, Samurái.  
-**Habilidades profesionales:** Alerta, Vigilancia, Templanza, Intimidación, Atletismo, Lanzas, Arco, Espadas, Cuchillos, Armas de fuego.  
-**Bonificaciones gratuitas:** Alerta +1, Templanza +1 y una Habilidad de arma apropiada +1.
+**Clases:** Campesino, Artesano, Mercader, Samurái.
+
+Al elegir este Oficio se escoge una **Habilidad de arma de servicio** apropiada:
+
+- Lanzas;
+- Arco;
+- Espadas;
+- Cuchillos;
+- Armas de fuego, cuando sean plausibles.
+
+El Oficio Guardia habilita por sí mismo únicamente esa Habilidad de arma.
+
+**Otras Habilidades profesionales:** Alerta, Vigilancia, Templanza, Intimidación, Atletismo.  
+**Bonificaciones gratuitas:** Alerta +1, Templanza +1, Habilidad de arma de servicio +1.
 
 ### Mercenario
 
-**Clases:** Campesino, Artesano, Mercader, Samurái.  
-**Habilidades profesionales:** Lanzas, Arco, Espadas, Cuchillos, Armas de fuego, Atletismo, Supervivencia, Alerta, Intimidación, Táctica, Primeros auxilios.  
-**Bonificaciones gratuitas:** una Habilidad de arma apropiada +1, Supervivencia +1, Alerta +1.
+**Clases:** Campesino, Artesano, Mercader, Samurái.
+
+El personaje elige hasta **dos Habilidades de arma** coherentes con su historial de servicio:
+
+- Espadas;
+- Cuchillos;
+- Lanzas;
+- Arco;
+- Armas de fuego, cuando sean plausibles.
+
+Esas Habilidades quedan habilitadas por el Oficio. Las demás armas sólo estarán disponibles si las habilita también la Clase u otra fuente.
+
+**Otras Habilidades profesionales:** Atletismo, Supervivencia, Alerta, Intimidación, Táctica, Primeros auxilios.  
+**Bonificaciones gratuitas:** una de las Habilidades de arma elegidas +1, Supervivencia +1, Alerta +1.
 
 ### Samurai de armas
 
