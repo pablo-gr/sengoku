@@ -271,6 +271,15 @@ Todo personaje comienza normalmente con **4 puntos de Suerte**.
 
 El director puede conceder 1 punto de Suerte cuando un Rasgo importante del personaje provoque una complicación, sacrificio o decisión significativa, o cuando su interpretación contribuya de forma especialmente coherente a la partida.
 
+El director también puede definir **objetivos secretos** para una aventura. Los jugadores no necesitan conocerlos de antemano.
+
+Como referencia:
+
+- objetivo secundario completado: **+1 punto de Suerte**;
+- objetivo principal completado: **+2 puntos de Suerte**.
+
+El director decide qué personajes reciben la recompensa y si corresponde a todo el grupo o sólo a quienes hayan contribuido de forma decisiva.
+
 # 2. Personajes
 
 ## 2.1. Personas del periodo Sengoku
@@ -2883,7 +2892,7 @@ El arco también puede utilizarse desde posiciones preparadas o a caballo cuando
 
 Las armas de mecha utilizan **Armas de fuego**.
 
-Su disponibilidad depende fuertemente de la fecha y región de la campaña. Las armas de fuego portuguesas llegaron a Japón a mediados del siglo XVI y se difundieron con rapidez en las décadas posteriores. citeturn112031search2turn112031search1
+Su disponibilidad depende fuertemente de la fecha y región de la campaña. Las armas de fuego portuguesas llegaron a Japón a mediados del siglo XVI y se difundieron con rapidez en las décadas posteriores.
 
 Características principales:
 
@@ -2942,7 +2951,7 @@ Sólo concede protección cuando el ataque afecta razonablemente a la zona cubie
 
 Una armadura militar completa o casi completa proporciona protección contra una gama mucho mayor de ataques.
 
-Las armaduras del siglo XVI evolucionaron hacia configuraciones adecuadas para combates a pie y para la guerra de grandes contingentes. citeturn406736search2turn406736search1
+Las armaduras del siglo XVI evolucionaron hacia configuraciones adecuadas para combates a pie y para la guerra de grandes contingentes.
 
 Puede perjudicar acciones donde importen:
 
