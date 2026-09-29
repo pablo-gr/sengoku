@@ -487,7 +487,7 @@ Un oficio cuya Habilidad principal es especialmente útil puede conceder un paqu
 
 Por ejemplo:
 
-- un agricultor puede recibir **Oficio (agricultura) +2** y varias Habilidades adicionales a +1;
+- un agricultor puede recibir **Profesión (agricultura) +2** y varias Habilidades adicionales a +1;
 - un ladrón recibe **Hurto +2**, mientras que Sigilo, Atletismo o Cerrajería forman parte de sus Habilidades profesionales y debe comprarlas con sus puntos normales si las desea.
 
 El Oficio no determina por sí solo la Clase social.
@@ -970,7 +970,7 @@ También puede aplicarse a objetos de forma muy semejante cuando su tamaño y eq
 
 Uso de yumi y otros arcos.
 
-Incluye disparo, preparación, elección de tiro y manejo ordinario del equipo. El mantenimiento artesanal del arco corresponde a un **Oficio** apropiado.
+Incluye disparo, preparación, elección de tiro y manejo ordinario del equipo. El mantenimiento artesanal del arco corresponde a una **Profesión** apropiada.
 
 ### Armas de fuego
 
@@ -1064,7 +1064,7 @@ Si otra capacidad es realmente esencial para el método empleado, el director pu
 
 Templanza no elimina la Tensión acumulada, pero puede permitir actuar con eficacia ante una causa concreta de estrés.
 
-## 4.7. Conocimientos, administración y oficios
+## 4.7. Conocimientos, administración y profesiones
 
 ### Administración `*`
 
@@ -1114,7 +1114,7 @@ Diseño y comprensión práctica de fortificaciones, edificios, puentes, defensa
 
 Puede utilizarse para encontrar un punto débil físico o planificar una obra.
 
-Construirla realmente puede requerir trabajadores, materiales, tiempo y Oficios apropiados.
+Construirla realmente puede requerir trabajadores, materiales, tiempo y Profesiones apropiadas.
 
 ### Medicina `*`
 
@@ -1138,7 +1138,7 @@ No concede poderes sobrenaturales.
 
 Puede servir para reconocer un templo, comprender la posición de un monje, identificar prácticas religiosas o comportarse adecuadamente dentro de una institución.
 
-### Oficio `*`
+### Profesión `*`
 
 Representa una profesión artesanal o técnica concreta y debe especificarse.
 
@@ -1154,7 +1154,7 @@ Ejemplos:
 - cocina;
 - construcción naval.
 
-Un Oficio permite realizar el trabajo cotidiano correspondiente y resolver situaciones técnicas relacionadas con él.
+Una Profesión permite realizar el trabajo cotidiano correspondiente y resolver situaciones técnicas relacionadas con él.
 
 ### Venenos `*`
 
@@ -1299,7 +1299,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Rastreo;
 - Vigilancia;
 - Primeros auxilios;
-- Oficio relacionado con actividades rurales.
+- Profesión relacionada con actividades rurales.
 
 **Oficios habituales:** Agricultor, Pescador, Cazador, Leñador o carbonero, Criado, Porteador, Marinero, Mensajero, Posadero, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Curandero o herbolario, Monje, Yamabushi, Artista o entretenedor, Prostituta/o, Espía o agente clandestino.
 
@@ -1307,7 +1307,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 
 **Habilidades habilitadas por la Clase:**
 
-- Oficio relacionado con una artesanía;
+- Profesión relacionada con una artesanía;
 - Comercio;
 - Registro;
 - Cerrajería;
@@ -1405,14 +1405,14 @@ Estas pautas no son una fórmula obligatoria.
 ### Agricultor
 
 **Clases:** Campesino.  
-**Habilidades profesionales:** Oficio (agricultura), Atletismo, Supervivencia, Alerta, Primeros auxilios.  
-**Bonificaciones gratuitas:** Oficio (agricultura) +2, Atletismo +1, Supervivencia +1, Alerta +1.
+**Habilidades profesionales:** Profesión (agricultura), Atletismo, Supervivencia, Alerta, Primeros auxilios.  
+**Bonificaciones gratuitas:** Profesión (agricultura) +2, Atletismo +1, Supervivencia +1, Alerta +1.
 
 ### Pescador
 
 **Clases:** Campesino.  
-**Habilidades profesionales:** Oficio (pesca), Marinería, Natación, Navegación, Alerta, Supervivencia.  
-**Bonificaciones gratuitas:** Oficio (pesca) +2, Marinería +1, Natación +1, Alerta +1.
+**Habilidades profesionales:** Profesión (pesca), Marinería, Natación, Navegación, Alerta, Supervivencia.  
+**Bonificaciones gratuitas:** Profesión (pesca) +2, Marinería +1, Natación +1, Alerta +1.
 
 ### Cazador
 
@@ -1425,27 +1425,27 @@ El cazador puede comprar Arco, Supervivencia, Sigilo y las demás Habilidades pr
 ### Leñador o carbonero
 
 **Clases:** Campesino.  
-**Habilidades profesionales:** Oficio (trabajo forestal), Atletismo, Supervivencia, Rastreo, Alerta.  
-**Bonificaciones gratuitas:** Oficio (trabajo forestal) +2, Atletismo +1, Supervivencia +1, Alerta +1.
+**Habilidades profesionales:** Profesión (trabajo forestal), Atletismo, Supervivencia, Rastreo, Alerta.  
+**Bonificaciones gratuitas:** Profesión (trabajo forestal) +2, Atletismo +1, Supervivencia +1, Alerta +1.
 
 ### Artesano
 
 **Clases:** Campesino, Artesano.  
 **Especialidad:** herrería, cerámica, tejido, fabricación de papel, cocina, construcción naval u otra apropiada.  
-**Habilidades profesionales:** Oficio de la especialidad, Comercio, Registro, Perspicacia y las Habilidades técnicas coherentes con el oficio.  
-**Bonificaciones gratuitas:** Oficio de la especialidad +2, Comercio +1, Registro +1.
+**Habilidades profesionales:** Profesión de la especialidad, Comercio, Registro, Perspicacia y las Habilidades técnicas coherentes con el oficio.  
+**Bonificaciones gratuitas:** Profesión de la especialidad +2, Comercio +1, Registro +1.
 
 ### Herrero o armero
 
 **Clases:** Artesano.  
-**Habilidades profesionales:** Oficio (herrería o fabricación de armas), Ingeniería, Comercio, Registro.  
-**Bonificaciones gratuitas:** Oficio (herrería o fabricación de armas) +2, Ingeniería +1, Registro +1.
+**Habilidades profesionales:** Profesión (herrería o fabricación de armas), Ingeniería, Comercio, Registro.  
+**Bonificaciones gratuitas:** Profesión (herrería o fabricación de armas) +2, Ingeniería +1, Registro +1.
 
 ### Carpintero o constructor
 
 **Clases:** Campesino, Artesano.  
-**Habilidades profesionales:** Oficio (carpintería o construcción), Ingeniería, Atletismo, Registro, Trampas.  
-**Bonificaciones gratuitas:** Oficio (carpintería o construcción) +2, Ingeniería +1, Atletismo +1.
+**Habilidades profesionales:** Profesión (carpintería o construcción), Ingeniería, Atletismo, Registro, Trampas.  
+**Bonificaciones gratuitas:** Profesión (carpintería o construcción) +2, Ingeniería +1, Atletismo +1.
 
 ### Mercader
 
@@ -1456,7 +1456,7 @@ El cazador puede comprar Arco, Supervivencia, Sigilo y las demás Habilidades pr
 ### Criado
 
 **Clases:** Campesino, Artesano, Mercader.  
-**Habilidades profesionales:** Etiqueta, Alerta, Perspicacia, Vigilancia, Sigilo, Oficio (servicio doméstico), Administración.  
+**Habilidades profesionales:** Etiqueta, Alerta, Perspicacia, Vigilancia, Sigilo, Profesión (servicio doméstico), Administración.  
 **Bonificaciones gratuitas:** Etiqueta +1, Alerta +1, Perspicacia +1.
 
 ### Porteador
@@ -1480,8 +1480,8 @@ El cazador puede comprar Arco, Supervivencia, Sigilo y las demás Habilidades pr
 ### Posadero
 
 **Clases:** Campesino, Artesano, Mercader.  
-**Habilidades profesionales:** Oficio (hostelería), Comercio, Perspicacia, Persuasión, Alerta, Vigilancia, Engaño.  
-**Bonificaciones gratuitas:** Oficio (hostelería) +2, Perspicacia +1, Comercio +1.
+**Habilidades profesionales:** Profesión (hostelería), Comercio, Perspicacia, Persuasión, Alerta, Vigilancia, Engaño.  
+**Bonificaciones gratuitas:** Profesión (hostelería) +2, Perspicacia +1, Comercio +1.
 
 ### Ladrón
 
@@ -1615,8 +1615,8 @@ Este Oficio representa formación médica especializada. Escritura y documentos,
 ### Curandero o herbolario
 
 **Clases:** Campesino, Artesano.  
-**Habilidades profesionales:** Primeros auxilios, Medicina, Venenos, Supervivencia, Oficio (herbolaria), Religión.  
-**Bonificaciones gratuitas:** Primeros auxilios +2, Oficio (herbolaria) +1.
+**Habilidades profesionales:** Primeros auxilios, Medicina, Venenos, Supervivencia, Profesión (herbolaria), Religión.  
+**Bonificaciones gratuitas:** Primeros auxilios +2, Profesión (herbolaria) +1.
 
 El Curandero puede comprar Medicina, pero su Oficio no presupone automáticamente la misma formación teórica o institucional que un Médico.
 
@@ -1635,8 +1635,8 @@ El Curandero puede comprar Medicina, pero su Oficio no presupone automáticament
 ### Artista o entretenedor
 
 **Clases:** Campesino, Artesano, Mercader.  
-**Habilidades profesionales:** Oficio (música, danza, teatro u otra especialidad), Persuasión, Engaño, Disfraz, Perspicacia, Etiqueta, Vigilancia.  
-**Bonificaciones gratuitas:** Oficio artístico +2, Persuasión +1, Perspicacia +1.
+**Habilidades profesionales:** Profesión (música, danza, teatro u otra especialidad), Persuasión, Engaño, Disfraz, Perspicacia, Etiqueta, Vigilancia.  
+**Bonificaciones gratuitas:** Profesión artística +2, Persuasión +1, Perspicacia +1.
 
 ### Prostituta/o
 
@@ -2970,7 +2970,7 @@ Puede detectar irregularidades en inventarios, permisos o suministros sin poseer
 **Categoría:** ordinario.  
 **Posición:** miembro de una comunidad rural.  
 **Características destacadas:** Fortaleza +1, Agilidad +1, Percepción +1.  
-**Habilidades:** Supervivencia +1, Oficio (agricultura) +1, Atletismo +0.  
+**Habilidades:** Supervivencia +1, Profesión (agricultura) +1, Atletismo +0.  
 **Rasgos:** conoce cada camino de su valle; familia extensa en aldeas próximas.
 
 Dentro de su región puede poseer información y contactos que ningún guerrero forastero tiene.
@@ -3000,7 +3000,7 @@ Puede conseguir bienes, financiación e información que un guerrero no sabría 
 **Categoría:** ordinario.  
 **Posición:** profesional especializado.  
 **Características destacadas:** Destreza +2, Inteligencia +1.  
-**Habilidades:** Oficio (herrería) +2, Comercio +0, Ingeniería +0.  
+**Habilidades:** Profesión (herrería) +2, Comercio +0, Ingeniería +0.  
 **Rasgos:** trabaja ocasionalmente para una casa guerrera.
 
 Su competencia técnica puede convertirlo en una persona valiosa incluso ante clientes de rango mucho mayor.
@@ -3379,7 +3379,7 @@ El reto aparece cuando existen dificultades:
 
 Según el problema pueden utilizarse:
 
-- Oficio;
+- Profesión;
 - Ingeniería;
 - Trampas;
 - Armas de fuego;
