@@ -498,7 +498,7 @@ Mientras permanezca Derribado:
 
 - su Guardia está **Comprometida**;
 - no puede Recomponer Guardia hasta Firme;
-- no puede realizar ataques ni utilizar Técnicas ofensivas, salvo que una Técnica indique expresamente que puede utilizarse desde el suelo;
+- no puede realizar ataques ni utilizar Técnicas con las etiquetas **Ataque** o **Presión**, salvo que una Técnica indique expresamente que puede utilizarse desde el suelo;
 - no puede ceder terreno ni utilizar Técnicas que requieran desplazamiento o juego de pies incompatibles con estar en el suelo.
 
 El personaje continúa participando en los Intercambios para defenderse e intentar recuperar la posición.
@@ -539,6 +539,16 @@ El conjunto de prueba utiliza cartas de:
 La carta representa cuántos puntos de Suerte desea gastar el personaje durante ese Intercambio.
 
 Para jugar una carta debe disponer de suficientes puntos de Suerte. Los puntos indicados se gastan al utilizarla.
+
+La economía de Suerte conserva las reglas generales de **Active Cthulhu**:
+
+- cada punto de Suerte gastado proporciona **+1**;
+- los puntos gastados se pierden aunque finalmente no permitan obtener el resultado deseado;
+- la Suerte nunca puede bajar de 0;
+- no existe un máximo acumulable;
+- los puntos de Suerte se conservan entre aventuras.
+
+Fuera de los Intercambios, el jugador decide cuánta Suerte gasta antes de conocer la dificultad, siguiendo la resolución general de retos. Dentro de un Intercambio, esa decisión queda representada por la carta de Suerte elegida en secreto.
 
 ### La Suerte y los Críticos
 
@@ -594,6 +604,48 @@ La secuencia de resolución es:
 11. **Actualizar la situación.** Guardia, terreno, Fatiga, Estrés, Heridas, posición, duración de efectos y Cooldowns pasan a definir el siguiente Intercambio.
 
 Algunas Técnicas pueden alterar este orden mediante una excepción explícita.
+
+### Efectos simultáneos
+
+Si un mismo Intercambio activa efectos para ambos combatientes, **todos los efectos aplicables se resuelven**. Un efecto no cancela otro simplemente por proceder de una Técnica activa, pasiva o de un Empate, salvo que una regla indique expresamente lo contrario.
+
+Por ejemplo, si un Empate permite a un combatiente Derribar y al otro Comprometer Guardia mediante una Técnica, ambos efectos se aplican.
+
+## 4.14. Fatiga
+
+La Fatiga conserva la escala y las penalizaciones de **Active Cthulhu**.
+
+| Fatiga perdida | Estado | Penalización |
+|---:|---|---:|
+| 0 | Normal | 0 |
+| 1 | Aturdido | 0 |
+| 2 | Estresado | −1 |
+| 3 | Agotado | −2 |
+| 4 | Exhausto | −3 |
+| 5 | Inconsciente | No puede actuar |
+
+La penalización de Fatiga se aplica a todas las acciones que requieran esfuerzo, concentración o coordinación, incluidos los Intercambios de combate.
+
+La Fatiga máxima es 5. Como en **Active Cthulhu**, cualquier nivel de Fatiga que exceda ese máximo se convierte en 1 nivel de Salud perdido. La integración definitiva entre Salud y el sistema de Heridas de **Sengoku Jidai** se concretará en el capítulo de daño.
+
+Como orientación, se recupera **1 nivel de Fatiga por cada media hora de descanso adecuado**. El director puede modificar este ritmo según la causa del cansancio y las circunstancias. Un personaje que continúa combatiendo, corriendo o trabajando bajo presión no recupera Fatiga.
+
+## 4.15. Estrés
+
+**Estrés** es el nombre provisional de la escala de desgaste mental utilizada por estas reglas.
+
+Sus penalizaciones siguen la misma progresión numérica utilizada como referencia en el sistema base, pero alcanzar el último nivel **no impide actuar ni provoca por sí mismo un colapso total**. En su lugar aplica un penalizador mayor.
+
+| Estrés perdido | Penalización |
+|---:|---:|
+| 0 | 0 |
+| 1 | 0 |
+| 2 | −1 |
+| 3 | −2 |
+| 4 | −3 |
+| 5 | −4 |
+
+Las reglas completas sobre fuentes, recuperación y consecuencias narrativas del Estrés se desarrollarán en su capítulo correspondiente.
 
 # 5. Técnicas marciales
 
@@ -745,6 +797,8 @@ Etiquetas provisionales:
 
 Las etiquetas no proporcionan efectos por sí mismas.
 
+A efectos de reglas, una **Técnica ofensiva** es cualquier Técnica que posea la etiqueta **Ataque** o **Presión**. Cuando una regla reaccione a una Técnica ofensiva, debe entenderse siempre en este sentido.
+
 Permiten que una Técnica pueda reaccionar a una familia completa de comportamientos sin necesitar una excepción contra cada carta individual.
 
 Por ejemplo, una Técnica puede indicar:
@@ -836,13 +890,29 @@ Una Técnica puede exigir:
 - contar con obstáculos próximos;
 - conservar una distancia favorable.
 
-Ceder terreno es un coste real dentro de la ficción.
+**Ceder terreno** significa retroceder lo suficiente para quedar fuera del alcance inmediato del rival. No equivale a cambiar entre las categorías de distancia Corta, Media y Larga.
 
-Puede ser trivial en un campo abierto y extremadamente peligroso junto a una pared, una puerta que se intenta defender, una persona que debe protegerse, un precipicio o un espacio reducido.
+El director decide cuánto terreno puede cederse según la escena. En un campo abierto puede existir terreno prácticamente ilimitado. En una habitación, junto a una pared, defendiendo una puerta, junto a un precipicio o protegiendo a otra persona, el espacio disponible puede agotarse muy deprisa o no existir.
 
-Una escuela basada en movilidad puede ser muy poderosa al aire libre y perder gran parte de su repertorio dentro de una habitación estrecha.
+Una Técnica puede impedir que ceder terreno rompa el contacto, permitir perseguir al adversario o exigir precisamente que exista espacio disponible para retroceder.
 
-## 6.2. Propiedades funcionales de las armas
+## 6.2. Distancias de combate
+
+El combate cuerpo a cuerpo utiliza tres categorías abstractas de distancia. No representan una medida exacta en metros, sino qué clase de arma puede utilizarse con comodidad en la situación actual.
+
+| Distancia | Armas apropiadas | Resto de armas |
+|---|---|---:|
+| **Corta** | combate sin armas y armas pequeñas | −1 |
+| **Media** | espadas y armas de longitud semejante | −1 |
+| **Larga** | yari, naginata y otras armas de asta | −1 |
+
+El penalizador de distancia es **−1 al resultado** y se aplica cuando el arma utilizada no pertenece a la categoría apropiada para la distancia actual.
+
+El director determina la distancia inicial según la ficción. Las Técnicas pueden modificarla, cerrarla o impedir que el rival la cambie.
+
+Una escuela cuyo estilo dependa de combatir deliberadamente a distancia Corta puede incluir una Técnica pasiva que elimine el −1 provocado por esa distancia.
+
+## 6.3. Propiedades funcionales de las armas
 
 Las armas pueden poseer propiedades funcionales utilizadas como requisitos de Técnicas.
 
@@ -862,7 +932,7 @@ No es necesario convertir estas propiedades en una colección de bonificadores p
 
 Su principal función es indicar qué Técnicas y opciones físicas resultan posibles.
 
-## 6.3. Requisito mínimo y mejoras por arma
+## 6.4. Requisito mínimo y mejoras por arma
 
 Una Técnica puede separar:
 
@@ -887,7 +957,7 @@ Un practicante especializado puede utilizar:
 
 El arma ideal debe desbloquear capacidades, no limitarse a conceder números mayores.
 
-## 6.4. Combatir desarmado contra un adversario armado
+## 6.5. Combatir desarmado contra un adversario armado
 
 Un personaje desarmado que combate cuerpo a cuerpo contra un adversario armado y capaz de utilizar eficazmente su arma se encuentra en una situación extremadamente desfavorable.
 
@@ -904,6 +974,22 @@ El +2 presupone que el adversario puede utilizar eficazmente su arma. El entorno
 
 Esta regla representa simultáneamente la dificultad de defenderse sin arma y la gravedad de cualquier apertura cuando el adversario dispone de un medio eficaz para herir.
 
+### Golpes sin armas
+
+El combate sin armas **no causa Heridas** mediante los efectos normales de combate. En su lugar causa **Golpes**, cuyas consecuencias y daño exactos se definirán junto con el sistema definitivo de daño.
+
+Cuando una Técnica permita sustituir una Herida por otro efecto —por ejemplo Desarmar o Derribar—, en combate sin armas puede utilizarse del mismo modo si el resultado obtenido permitiría causar un **Golpe**.
+
+Dos personajes desarmados no sufren Guardia Comprometida ni el +2 anterior simplemente por carecer ambos de arma.
+
+## 6.6. Desarmar
+
+**Desarmar** significa quitar al adversario el arma que estaba utilizando.
+
+El director decide, según lo ocurrido en la ficción, dónde queda el arma, si continúa al alcance del personaje y qué tendría que hacer para recuperarla. No existe una regla universal adicional para la posición exacta del arma o su recuperación.
+
+Si el personaje dispone de otra arma, puede intentar utilizarla normalmente cuando la situación lo permita.
+
 # 7. Escuelas marciales — planificación provisional
 
 > Este capítulo define la identidad mecánica prevista para las primeras escuelas. No pretende afirmar que las escuelas históricas utilizaran literalmente las reglas o Técnicas descritas. Se distingue entre la base histórica conocida y la interpretación creada para el juego.
@@ -919,15 +1005,14 @@ Su fortaleza no debe consistir en ser la mejor escuela con cada arma, sino en co
 Principios de diseño:
 
 - gran variedad de requisitos de arma;
-- Técnicas que funcionan con familias amplias;
-- capacidad para cambiar de arma;
-- Técnicas que obtienen posibilidades diferentes según las propiedades del arma;
-- buena adaptación a desarme, espacios distintos y armas improvisadas;
+- Técnicas distintas para armas y configuraciones diferentes;
+- Técnicas que obtienen posibilidades diferentes según las propiedades del arma realmente utilizada;
+- repertorio amplio sin asumir que el personaje posee un arma que no lleva consigo;
 - menor especialización extrema que las escuelas centradas en un arma concreta.
 
 Idea central:
 
-> **Casi siempre existe otra herramienta apropiada.**
+> **Sé explotar armas distintas de formas distintas.**
 
 ## 7.2. Kashima-Shinryū
 
@@ -1201,7 +1286,7 @@ La derrota permanece y la Guardia no mejora.
 **Tipo:** Activa  
 **Etiquetas:** Defensa, Control  
 **Requisito:** dos armas apropiadas.  
-**Contexto:** el rival utiliza una Técnica ofensiva.  
+**Contexto:** el rival utiliza una Técnica con las etiquetas **Ataque** o **Presión**.  
 **Efecto provisional:** si el resultado final del Intercambio es **Empate**, el personaje puede **Comprometer la Guardia** del rival pese a no haber obtenido una victoria.  
 **Cooldown:** sí.
 
@@ -1230,7 +1315,7 @@ Si gana el Intercambio, obtiene **+1 al resultado del siguiente Intercambio** co
 **Tipo:** Activa  
 **Etiquetas:** Engaño, Counter  
 **Contexto:** cualquier Intercambio.  
-**Efecto provisional:** si el rival utiliza una Técnica ofensiva, el personaje obtiene **+1 al resultado**. Si utiliza otra Técnica, el personaje sufre **−1 al resultado**. Si el rival juega Suerte o ninguna carta, Vacío y realidad no modifica el resultado.  
+**Efecto provisional:** si el rival utiliza una Técnica con las etiquetas **Ataque** o **Presión**, el personaje obtiene **+1 al resultado**. Si utiliza otra Técnica, el personaje sufre **−1 al resultado**. Si el rival juega Suerte o ninguna carta, Vacío y realidad no modifica el resultado.  
 **Cooldown:** sí.
 
 ### Movimiento y quietud
@@ -1294,7 +1379,7 @@ Muto no convierte el enfrentamiento en una situación favorable ni permite recup
 **Etiquetas:** Control, Defensa  
 **Requisito:** Arma de asta o arma Larga.  
 **Contexto:** existe espacio suficiente para aprovechar correctamente el alcance del arma.  
-**Efecto provisional:** si el rival utiliza una Técnica ofensiva, el personaje obtiene **+1 al resultado**. Si el rival no utiliza una Técnica ofensiva, no obtiene bonificación y, si gana el Intercambio, su resultado se considera **Empate**.  
+**Efecto provisional:** si el rival utiliza una Técnica con las etiquetas **Ataque** o **Presión**, el personaje obtiene **+1 al resultado**. Si el rival no utiliza una Técnica con ninguna de esas etiquetas, no obtiene bonificación y, si gana el Intercambio, su resultado se considera **Empate**.  
 **Cooldown:** sí.
 
 ### Barrido
@@ -1342,17 +1427,25 @@ Por tanto, contra un rival con Guardia Firme normalmente necesita un **Crítico*
 **Tipo:** Pasiva  
 **Etiquetas:** Control  
 **Requisito:** combatir desarmado o utilizar un arma corta apropiada para agarre y control.  
-**Contexto:** distancia cerrada; el resultado obtenido permitiría causar una Herida al rival.  
-**Efecto provisional:** en lugar de causar la Herida, el personaje puede elegir **Desarmar** o **Derribar** al rival, siempre que el efecto elegido sea físicamente posible.
+**Contexto:** distancia **Corta**; el resultado obtenido permitiría causar una **Herida o un Golpe** al rival.  
+**Efecto provisional:** en lugar de causar la Herida o el Golpe, el personaje puede elegir **Desarmar** o **Derribar** al rival, siempre que el efecto elegido sea físicamente posible.
 
-Kogusoku puede utilizarse también en combate completamente desarmado. En ese caso permite sustituir una oportunidad de causar una Herida por **Derribar**, facilitando una resolución rápida y no letal del enfrentamiento.  
+Kogusoku puede utilizarse también en combate completamente desarmado. En ese caso permite sustituir una oportunidad de causar un Golpe por **Derribar**, facilitando una resolución rápida y no letal del enfrentamiento.  
 **Cooldown:** sí.
+
+### Combate cerrado
+
+**Tipo:** Pasiva  
+**Etiquetas:** Defensa, Movimiento  
+**Contexto:** distancia **Corta**.  
+**Efecto:** el personaje ignora el **−1 por distancia Corta** que sufriría por el arma que está utilizando.  
+**Cooldown:** no.
 
 ### Derribo
 
 **Tipo:** Activa  
 **Etiquetas:** Control  
-**Contexto:** distancia cerrada.  
+**Contexto:** distancia **Corta**.  
 **Efecto provisional:** no concede bonificación al resultado.
 - Si el rival tiene **Guardia Firme**, sólo puede ser Derribado si el personaje obtiene un **Crítico**.
 - Si el rival tiene **Guardia Comprometida**, basta con obtener **Empate o un resultado superior** para Derribarlo.
@@ -1364,7 +1457,7 @@ Si la Técnica no consigue Derribar al rival, el personaje sufre **−1 al resul
 
 **Tipo:** Pasiva  
 **Etiquetas:** Control  
-**Contexto:** el rival intenta ceder terreno para romper la distancia cerrada.  
+**Contexto:** el rival intenta ceder terreno para romper el contacto a distancia Corta.  
 **Efecto provisional:** sufrir 1 Fatiga permite impedir que ese desplazamiento, por sí solo, rompa el contacto.  
 **Cooldown:** sí.
 
@@ -1418,7 +1511,7 @@ Si la Técnica no consigue Derribar al rival, el personaje sufre **−1 al resul
 
 **Tipo:** Activa  
 **Etiquetas:** Engaño, Movimiento  
-**Efecto provisional:** el personaje cede terreno. Si el rival utiliza una Técnica ofensiva, obtiene **+1 al resultado**. En cualquier otro caso sufre **−1 al resultado**.  
+**Efecto provisional:** el personaje cede terreno. Si el rival utiliza una Técnica con las etiquetas **Ataque** o **Presión**, obtiene **+1 al resultado**. En cualquier otro caso sufre **−1 al resultado**.  
 **Cooldown:** sí.
 
 ### Desaparecer entre obstáculos
