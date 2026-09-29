@@ -254,10 +254,10 @@ Cuando una acción se enfrenta directamente a la capacidad de otra persona, el r
 
 Ejemplos:
 
-- Destreza + Sigilo contra Percepción + Alerta;
+- Agilidad + Sigilo contra Percepción + Alerta;
 - Presencia + Engaño contra Percepción + Perspicacia;
-- Percepción + Vigilancia contra Destreza + Sigilo;
-- Presencia + Intimidación contra Voluntad + Templanza.
+- Percepción + Vigilancia contra Agilidad + Sigilo;
+- Presencia + Intimidación contra Templanza.
 
 El personaje activo tiene éxito si iguala o supera la dificultad.
 
@@ -294,7 +294,7 @@ Cuando una acción exige de forma esencial varias Características, se utiliza l
 
 Ejemplos:
 
-- Fortaleza/Destreza + Atletismo para escalar cargando a una persona;
+- Fortaleza/Agilidad + Atletismo para escalar cargando a una persona;
 - Percepción/Destreza + Arco para realizar un disparo especialmente preciso;
 - Destreza/Inteligencia + Medicina para una intervención delicada;
 - Presencia/Inteligencia + Persuasión para defender una propuesta compleja ante una autoridad.
@@ -413,7 +413,7 @@ Un samurái puede ejercer como administrador y ser un espadachín mediocre. Un c
 
 ## 2.2. Características
 
-Las **Características** representan las capacidades naturales del personaje: fuerza, coordinación, percepción, presencia, inteligencia y voluntad.
+Las **Características** representan las capacidades naturales del personaje: fortaleza física, agilidad, destreza manual, percepción, inteligencia y presencia.
 
 Determinan su potencial general, pero no sustituyen al entrenamiento ni a la experiencia.
 
@@ -621,51 +621,73 @@ Una misma Característica puede aplicarse de formas distintas según la acción.
 
 ## 3.1. Fortaleza
 
-**Fortaleza** representa la capacidad física general del personaje: fuerza, constitución, resistencia corporal y capacidad para soportar dolor, esfuerzo y agotamiento.
+**Fortaleza** representa la fuerza, constitución, resistencia corporal y capacidad para realizar o mantener esfuerzos físicos.
 
-No todas las acciones relacionadas con Fortaleza dependen de los mismos factores.
+Puede intervenir al levantar o arrastrar peso, resistir agotamiento físico, mantener un esfuerzo prolongado o aplicar fuerza corporal.
 
-La fuerza necesaria para levantar una carga, la capacidad para soportar una marcha prolongada, la resistencia al cansancio o la potencia aplicada en una acción física pueden utilizar la misma Característica, pero combinarse con Habilidades, equipo o modificadores diferentes según el caso.
+Fortaleza no representa valentía, autocontrol ni capacidad para soportar presión psicológica.
 
-Fortaleza proporciona por tanto una base física común. Las diferencias entre fuerza máxima, resistencia prolongada, tolerancia al esfuerzo u otras capacidades físicas se representan mediante las reglas específicas aplicables a cada situación, no mediante Características separadas.
+## 3.2. Agilidad
 
-## 3.2. Destreza
+**Agilidad** representa la movilidad corporal, equilibrio, rapidez de reacción, coordinación general del cuerpo y capacidad para cambiar de posición con eficacia.
 
-**Destreza** representa la coordinación manual y corporal, la precisión, los reflejos, el equilibrio, la movilidad y el control de los movimientos.
+Puede intervenir en acciones como:
 
-Incluye tanto la destreza fina como la agilidad física general.
+- esquivar;
+- correr o saltar cuando importa la coordinación corporal;
+- conservar el equilibrio;
+- moverse en silencio;
+- desplazarse por espacios difíciles;
+- trepar;
+- cambiar rápidamente de posición;
+- juego de pies en combate.
 
-La Destreza puede intervenir en acciones como manejar un arma, moverse con precisión, conservar el equilibrio, ejecutar una maniobra corporal o realizar una tarea manual delicada.
+Agilidad no representa precisión manual ni manejo fino de herramientas o armas.
 
-## 3.3. Percepción
+## 3.3. Destreza
 
-**Percepción** representa la capacidad para advertir detalles, interpretar estímulos, mantener la atención y detectar cambios o anomalías en el entorno.
+**Destreza** representa la precisión manual, coordinación ojo-mano, control fino de los movimientos y capacidad para manipular objetos con exactitud.
 
-Puede utilizarse para reconocer una amenaza, advertir una emboscada, seguir movimientos, examinar un lugar, leer el terreno o percibir detalles relevantes en la conducta de otra persona.
+Puede intervenir en acciones como:
 
-## 3.4. Presencia
+- manejar un arma;
+- disparar;
+- manipular una cerradura;
+- desactivar un mecanismo;
+- realizar un trabajo manual delicado;
+- ejecutar una intervención médica donde importe la precisión física.
 
-**Presencia** representa el carisma, la seguridad social, la autoridad natural y la capacidad para causar una impresión o influir personalmente en los demás.
+En combate, el uso ordinario de un arma utiliza normalmente **Destreza**. Algunas Técnicas o escuelas pueden permitir utilizar **Agilidad** en su lugar para determinados ataques.
 
-No equivale a posición social, rango, riqueza ni belleza física.
+## 3.4. Percepción
+
+**Percepción** representa la capacidad para advertir detalles, interpretar estímulos sensoriales, mantener la atención y detectar cambios o anomalías en el entorno.
+
+Puede utilizarse para reconocer una amenaza, advertir una emboscada, seguir movimientos, examinar un lugar, leer el terreno o percibir cambios en la conducta de otra persona.
+
+Percibir una señal no equivale necesariamente a comprender su significado. Interpretar emociones, intenciones o comportamiento puede requerir además **Perspicacia** u otra Habilidad apropiada.
+
+## 3.5. Inteligencia
+
+**Inteligencia** representa el razonamiento, la memoria, la comprensión y la capacidad de análisis.
+
+Puede intervenir en planificación, administración, táctica, interpretación de información, resolución de problemas y aplicación de conocimientos especializados.
+
+La velocidad de aprendizaje de Habilidades no depende directamente de Inteligencia. La mejora utiliza las reglas del capítulo 11.
+
+## 3.6. Presencia
+
+**Presencia** representa el carisma, la seguridad social, la autoridad personal y la capacidad para causar una impresión o influir activamente en los demás.
+
+Puede intervenir en Persuasión, Engaño, Intimidación, Liderazgo y otras interacciones donde importe la fuerza de la comunicación o personalidad del personaje.
+
+Presencia no representa la capacidad para resistirse a ser convencido, engañado o intimidado.
+
+Tampoco equivale a posición social, rango, riqueza ni belleza física.
 
 Una persona de baja posición puede poseer una Presencia extraordinaria, del mismo modo que alguien de alto rango puede carecer de autoridad personal.
 
 La posición social puede modificar las circunstancias de una interacción, pero no altera por sí sola la Presencia del personaje.
-
-## 3.5. Inteligencia
-
-**Inteligencia** representa el razonamiento, la memoria, la comprensión, la capacidad de análisis y la facilidad para aprender.
-
-Puede intervenir en planificación, administración, táctica, interpretación de información, aprendizaje, resolución de problemas y aplicación de conocimientos especializados.
-
-## 3.6. Voluntad
-
-**Voluntad** representa la determinación, el autocontrol, la entereza y la capacidad para continuar actuando bajo miedo, dolor, presión, intimidación, agotamiento psicológico o coerción.
-
-También representa la capacidad natural para dominar impulsos, resistir el pánico, soportar situaciones emocionalmente extremas y mantener una decisión cuando las circunstancias empujan al personaje a abandonarla.
-
-Voluntad describe una capacidad natural. El entrenamiento, la experiencia y la disciplina aprendida pueden representarse mediante Habilidades específicas, Rasgos, preparación o modificadores cuando corresponda.
 
 ## 3.7. Escala humana
 
@@ -680,7 +702,7 @@ Un valor de **+2** representa una capacidad realmente excepcional dentro de los 
 
 No describe simplemente a una persona competente, entrenada o experimentada. El entrenamiento pertenece principalmente a las Habilidades.
 
-Un personaje con Destreza 0 y una Habilidad marcial elevada puede ser un combatiente mucho más competente que una persona con Destreza +2 que nunca haya recibido entrenamiento.
+El máximo humano ordinario de **Característica + Habilidad** es **5**: Característica +2 y Habilidad +3.
 
 Las Características no dependen de la posición social. Un campesino puede poseer Fortaleza +2, un mercader Presencia +2 o un criado Inteligencia +2.
 
@@ -693,15 +715,19 @@ Ejemplos orientativos:
 | Característica | Posibles deficiencias |
 |---|---|
 | Fortaleza −1 | Enfermedad crónica grave, debilidad física severa, constitución extremadamente frágil |
-| Destreza −1 | Lesión permanente grave, movilidad muy reducida, temblores severos o falta importante de coordinación |
+| Agilidad −1 | Movilidad muy reducida, problemas graves de equilibrio o coordinación corporal |
+| Destreza −1 | Temblores severos, lesión permanente de las manos o falta importante de coordinación fina |
 | Percepción −1 | Ceguera, sordera profunda o pérdida severa de un sentido esencial |
-| Presencia −1 | Gran dificultad para imponerse, comunicarse o desenvolverse socialmente |
 | Inteligencia −1 | Limitación cognitiva significativa o alteraciones graves de memoria, comprensión o razonamiento |
-| Voluntad −1 | Autocontrol muy pobre, extrema sugestionabilidad o tendencia marcada a quebrarse bajo presión |
+| Presencia −1 | Gran dificultad para imponerse, comunicarse o desenvolverse socialmente |
 
 El valor negativo se aplica numéricamente cuando corresponde, pero sus consecuencias no se limitan al −1.
 
 Una deficiencia puede hacer que ciertas acciones sean imposibles, obligar al personaje a emplear otro método o producir consecuencias adicionales cuando la situación lo justifique.
+
+Cuando una deficiencia afecta sólo a una capacidad concreta, sus consecuencias se aplican de acuerdo con la ficción.
+
+Por ejemplo, la ceguera impide utilizar la vista, pero no impone automáticamente un −1 a un reto basado exclusivamente en el oído.
 
 # 4. Habilidades
 
@@ -729,16 +755,19 @@ Una Habilidad no está ligada a una única Característica.
 
 El método determina la combinación.
 
+Cuando ninguna Característica represente razonablemente la capacidad que se está poniendo a prueba, se utiliza **Característica 0** y se aplica únicamente la Habilidad y los demás modificadores.
+
 Ejemplos:
 
 - **Destreza + Cerrajería:** manipular una cerradura.
+- **Agilidad + Sigilo:** moverse sin ser detectado.
 - **Inteligencia + Cerrajería:** comprender el mecanismo o diagnosticar por qué está bloqueado.
 - **Percepción + Rastreo:** seguir huellas.
 - **Inteligencia + Rastreo:** deducir cuántas personas pasaron y hace cuánto.
 - **Presencia + Interrogatorio:** presionar a un prisionero mediante preguntas.
 - **Inteligencia + Interrogatorio:** detectar contradicciones entre respuestas.
 - **Fortaleza + Intimidación:** amenazar físicamente.
-- **Voluntad + Templanza:** mantener el control bajo miedo o presión.
+- **Templanza** con Característica 0: mantener el autocontrol cuando ninguna otra Característica sea pertinente.
 
 ## 4.3. Movimiento y viaje
 
@@ -1029,7 +1058,9 @@ No es un detector automático de mentiras. Puede indicar que una persona está i
 
 Disciplina aprendida para mantener el autocontrol bajo miedo, dolor, provocación, presión o agotamiento emocional.
 
-Se combina habitualmente con Voluntad.
+Cuando el problema consiste únicamente en mantener el control, **Templanza puede utilizarse con Característica 0**.
+
+Si otra capacidad es realmente esencial para el método empleado, el director puede combinar Templanza con la Característica apropiada.
 
 Templanza no elimina la Tensión acumulada, pero puede permitir actuar con eficacia ante una causa concreta de estrés.
 
@@ -1796,7 +1827,15 @@ Cada combatiente calcula normalmente:
 
 > **Característica + Habilidad de combate + modificador narrativo + modificadores de distancia y estado + otros efectos aplicables**
 
-La combinación más habitual es **Destreza + Habilidad de combate apropiada**, pero el método descrito puede justificar otra Característica.
+La combinación más habitual para atacar, parar o controlar el arma rival es **Destreza + Habilidad de combate apropiada**.
+
+Un combatiente puede declarar que está utilizando una **defensa evasiva** cuando su objetivo principal es evitar el ataque mediante movimiento, juego de pies o esquiva. En ese caso utiliza normalmente:
+
+> **Agilidad + Habilidad de combate apropiada**
+
+Una defensa evasiva no permite elegir como resultado una Herida, Golpe, Comprometer Guardia, Desarmar u otro efecto ofensivo. Si vence el Intercambio puede utilizar efectos defensivos que sean legales, Recomponer Guardia cuando corresponda o romper el contacto si dispone de espacio suficiente para ceder terreno.
+
+Una Técnica o regla de escuela puede permitir expresamente utilizar **Agilidad para atacar** con determinadas armas. En ese caso se resuelve como un ataque normal y puede producir efectos ofensivos.
 
 Los dos resultados se comparan simultáneamente:
 
@@ -2900,7 +2939,7 @@ Es muy eficaz entrando en edificios y observando rutinas, pero no posee entrenam
 
 **Categoría:** excepcional.  
 **Posición:** guerrero al servicio de una casa.  
-**Características destacadas:** Destreza +2, Voluntad +1, Percepción +1.  
+**Características destacadas:** Destreza +2, Agilidad +1, Percepción +1.  
 **Habilidades:** Espadas +3, Lanzas +2, Táctica +1, Equitación +1, Etiqueta +0.  
 **Rasgos:** disciplinado; reputación de duelista.
 
@@ -2930,7 +2969,7 @@ Puede detectar irregularidades en inventarios, permisos o suministros sin poseer
 
 **Categoría:** ordinario.  
 **Posición:** miembro de una comunidad rural.  
-**Características destacadas:** Fortaleza +1, Percepción +1, Voluntad +1.  
+**Características destacadas:** Fortaleza +1, Agilidad +1, Percepción +1.  
 **Habilidades:** Supervivencia +1, Oficio (agricultura) +1, Atletismo +0.  
 **Rasgos:** conoce cada camino de su valle; familia extensa en aldeas próximas.
 
@@ -3060,7 +3099,7 @@ Cada preparación útil puede proporcionar un modificador narrativo posterior o 
 
 Cuando el personaje intenta pasar por una zona vigilada sin ser visto u oído utiliza normalmente:
 
-> **Destreza + Sigilo**
+> **Agilidad + Sigilo**
 
 Si existe un guardia concreto, suele resolverse como reto enfrentado contra:
 
@@ -3106,7 +3145,7 @@ Pueden perjudicar:
 
 Trepar un muro, tejado, árbol, talud o estructura utiliza normalmente:
 
-> **Fortaleza/Destreza + Atletismo**
+> **Fortaleza/Agilidad + Atletismo**
 
 El director considera:
 
@@ -3244,7 +3283,7 @@ Más tiempo puede mejorar las posibilidades, pero también aumenta el riesgo de 
 
 En un entorno poblado se utiliza normalmente:
 
-> **Percepción/Destreza + Vigilancia**
+> **Percepción/Agilidad + Vigilancia**
 
 contra la capacidad del objetivo para advertir o evitar el seguimiento.
 
