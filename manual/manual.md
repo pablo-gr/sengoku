@@ -405,12 +405,12 @@ La Guardia puede comenzar Comprometida o quedar Comprometida como consecuencia d
 - incapacidad para controlar adecuadamente el arma o la distancia;
 - Heridas;
 - Fatiga;
-- Estrés o pérdida severa de concentración;
+- Tensión o pérdida severa de concentración;
 - determinados efectos de Técnicas.
 
 No toda desventaja compromete automáticamente la Guardia. Combatir cuesta arriba, por ejemplo, puede justificar simplemente un modificador narrativo negativo. Encontrarse de rodillas ante un adversario preparado para atacar puede justificar directamente Guardia Comprometida.
 
-Algunas causas pueden impedir recuperar Guardia Firme mientras continúen activas. Los umbrales definitivos de Fatiga, Estrés y Heridas que produzcan este efecto se definirán en sus capítulos correspondientes.
+Algunas causas pueden impedir recuperar Guardia Firme mientras continúen activas. Los umbrales definitivos de Fatiga, Tensión y Heridas que produzcan este efecto se definirán en sus capítulos correspondientes.
 
 Si el enfrentamiento se interrumpe y el personaje dispone de tiempo y condiciones razonables para recomponerse, puede recuperar Guardia Firme sin necesidad de un Intercambio, siempre que ninguna condición persistente lo impida.
 
@@ -601,7 +601,7 @@ La secuencia de resolución es:
 8. **Determinar Empate, Éxito o Crítico.**
 9. **Elegir un efecto.** El vencedor elige un único efecto estándar o proporcionado por una Técnica que resulte legal.
 10. **Resolver Técnicas pasivas y reacciones aplicables.** Se aplican cuando su condición concreta se produce.
-11. **Actualizar la situación.** Guardia, terreno, Fatiga, Estrés, Heridas, posición, duración de efectos y Cooldowns pasan a definir el siguiente Intercambio.
+11. **Actualizar la situación.** Guardia, terreno, Fatiga, Tensión, Heridas, posición, duración de efectos y Cooldowns pasan a definir el siguiente Intercambio.
 
 Algunas Técnicas pueden alterar este orden mediante una excepción explícita.
 
@@ -626,17 +626,17 @@ La Fatiga conserva la escala y las penalizaciones de **Active Cthulhu**.
 
 La penalización de Fatiga se aplica a todas las acciones que requieran esfuerzo, concentración o coordinación, incluidos los Intercambios de combate.
 
+Al alcanzar **Fatiga 3 (Agotado, −2)**, la Guardia pasa a estar **Comprometida** y no puede Recomponerse a Firme mientras el personaje permanezca en Fatiga 3 o superior.
+
 La Fatiga máxima es 5. Como en **Active Cthulhu**, cualquier nivel de Fatiga que exceda ese máximo se convierte en 1 nivel de Salud perdido. La integración definitiva entre Salud y el sistema de Heridas de **Sengoku Jidai** se concretará en el capítulo de daño.
 
 Como orientación, se recupera **1 nivel de Fatiga por cada media hora de descanso adecuado**. El director puede modificar este ritmo según la causa del cansancio y las circunstancias. Un personaje que continúa combatiendo, corriendo o trabajando bajo presión no recupera Fatiga.
 
-## 4.15. Estrés
+## 4.15. Tensión
 
-**Estrés** es el nombre provisional de la escala de desgaste mental utilizada por estas reglas.
+La **Tensión** representa desgaste mental inmediato: miedo, presión, frustración, dolor contenido, esfuerzo de autocontrol y sobrecarga emocional. No representa por sí misma una enfermedad mental ni una pérdida permanente de estabilidad.
 
-Sus penalizaciones siguen la misma progresión numérica utilizada como referencia en el sistema base, pero alcanzar el último nivel **no impide actuar ni provoca por sí mismo un colapso total**. En su lugar aplica un penalizador mayor.
-
-| Estrés perdido | Penalización |
+| Tensión perdida | Penalización |
 |---:|---:|
 | 0 | 0 |
 | 1 | 0 |
@@ -645,7 +645,13 @@ Sus penalizaciones siguen la misma progresión numérica utilizada como referenc
 | 4 | −3 |
 | 5 | −4 |
 
-Las reglas completas sobre fuentes, recuperación y consecuencias narrativas del Estrés se desarrollarán en su capítulo correspondiente.
+La penalización de Tensión se aplica a acciones que requieran concentración, autocontrol, precisión o capacidad para actuar bajo presión, incluidos normalmente los Intercambios de combate.
+
+La Tensión puede aumentar por miedo intenso, amenazas inmediatas, presión prolongada, dolor, situaciones emocionalmente extremas o como coste de determinadas Técnicas.
+
+Al alcanzar Tensión 5 el personaje **continúa pudiendo actuar**, pero sufre **−4** mientras permanezca en ese nivel.
+
+Como orientación provisional, un personaje recupera **1 nivel de Tensión por cada hora de descanso real en un entorno que considere razonablemente seguro**. Dormir adecuadamente permite recuperar toda la Tensión que no esté sostenida por una causa persistente. El director puede retrasar la recuperación mientras continúen presentes miedo, amenaza, dolor intenso u otras fuentes de presión.
 
 # 5. Técnicas marciales
 
@@ -722,7 +728,7 @@ Una Técnica puede exigir un coste al utilizarse.
 Entre los posibles costes se encuentran:
 
 - Fatiga;
-- Estrés;
+- Tensión;
 - Suerte;
 - ceder terreno;
 - renunciar al ataque;
@@ -818,7 +824,7 @@ Una Técnica puede resultar muy fuerte si existen respuestas razonables mediante
 - otras Técnicas;
 - cambios de terreno;
 - distancia;
-- Fatiga o Estrés;
+- Fatiga o Tensión;
 - lectura del adversario;
 - coste;
 - Cooldown;
@@ -1198,7 +1204,7 @@ El manual definitivo deberá incluir cronologías y condiciones de acceso sufici
 **Etiquetas:** Recuperación  
 **Contexto:** Guardia Comprometida.  
 **Efecto:** recupera automáticamente Guardia Firme. Renuncia a efectos ofensivos durante ese Intercambio.  
-**Coste:** 1 Estrés.  
+**Coste:** 1 Tensión.  
 **Cooldown:** sí.
 
 ### Ataque comprometido
@@ -1245,11 +1251,9 @@ Esta Técnica puede utilizarse aunque el personaje haya jugado una Técnica acti
 
 **Tipo:** Pasiva  
 **Contexto:** permanente.  
-**Efecto provisional:** la Fatiga no compromete automáticamente la Guardia hasta alcanzar Agotamiento, en lugar del umbral normal anterior.  
+**Efecto:** la Fatiga no compromete automáticamente la Guardia al alcanzar **Fatiga 3 (−2)**. Con Resiliencia, la Guardia sólo queda automáticamente Comprometida al alcanzar **Fatiga 4 (−3)** o superior.  
 **Coste:** ninguno.  
 **Cooldown:** no.
-
-Los niveles exactos dependerán de las reglas definitivas de Fatiga.
 
 ### Último aliento
 
@@ -1357,7 +1361,7 @@ Si gana el Intercambio, obtiene **+1 al resultado del siguiente Intercambio** co
 **Etiquetas:** Defensa, Movimiento  
 **Contexto:** Guardia Firme; pierde por 1.  
 **Efecto provisional:** cede terreno y conserva Guardia Firme.  
-**Coste provisional:** 1 Estrés si ya se utilizó anteriormente durante el mismo combate.  
+**Coste provisional:** 1 Tensión si ya se utilizó anteriormente durante el mismo combate.  
 **Cooldown:** sí.
 
 ### Muto
@@ -1546,6 +1550,6 @@ Antes de ampliar el catálogo de Técnicas deben probarse enfrentamientos que pe
 - ¿Las escuelas producen estilos de combate reconociblemente diferentes?
 - ¿Existen respuestas razonables contra las Técnicas más poderosas?
 - ¿El terreno cambia de verdad el valor de las Técnicas?
-- ¿Los costes de Fatiga, Estrés, Suerte y terreno resultan comparables?
+- ¿Los costes de Fatiga, Tensión, Suerte y terreno resultan comparables?
 - ¿Aparecen bucles en los que una Técnica se convierta en la opción correcta de todos los Intercambios?
 
