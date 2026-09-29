@@ -284,157 +284,147 @@ Una deficiencia puede hacer que ciertas acciones sean imposibles, obligar al per
 
 # 4. Combate
 
-> **Estado de estas reglas:** el sistema de combate se encuentra todavía en desarrollo. Este capítulo recoge las decisiones de diseño adoptadas hasta el momento. Las reglas fundamentales de Intercambios, Guardia, Éxito, Crítico, Suerte y Técnicas constituyen la base actual del sistema; el catálogo de Técnicas y algunos efectos concretos seguirán revisándose mediante pruebas de juego.
+El combate de **Sengoku Jidai** utiliza los mismos principios generales que el resto del juego, pero los enfrentamientos importantes entre combatientes capaces se resuelven mediante **Intercambios**.
+
+El sistema no pretende reconstruir cada golpe, paso o parada de forma individual. Un Intercambio resume varios segundos de combate y concentra la resolución en las decisiones que realmente cambian la situación: ganar una apertura, perder la Guardia, herir, recuperar el control, modificar la distancia, derribar, desarmar o romper el contacto.
 
 ## 4.1. Principios del combate
 
-El combate de **Sengoku Jidai** utiliza los mismos principios generales que el resto del juego, pero los enfrentamientos importantes entre combatientes capaces requieren una resolución más detallada.
+El combate se rige por los siguientes principios:
 
-El sistema pretende mantener los siguientes principios:
+- es peligroso y potencialmente letal;
+- una Herida grave puede decidir un enfrentamiento;
+- una Herida mortal representa una amenaza extrema para la vida;
+- un combatiente muy superior es difícil de derrotar en un enfrentamiento justo;
+- una buena preparación puede superar diferencias importantes de capacidad;
+- terreno, distancia, visibilidad, sorpresa, armas y posición importan tanto como los valores del personaje;
+- la Suerte puede salvar una situación o aprovechar una oportunidad, pero no puede fabricar por sí sola un Crítico;
+- las Técnicas modifican las reglas normales del combate, pero no sustituyen el motor básico;
+- el sistema representa posición y distancia sin casillas, hexágonos ni medidas exactas obligatorias.
 
-- El combate debe ser peligroso y potencialmente letal.
-- Una Herida grave puede decidir un enfrentamiento y una Herida mortal representa una amenaza extrema para la vida del personaje.
-- Un combatiente muy superior debe ser difícil de derrotar en un enfrentamiento justo.
-- Las decisiones del jugador deben poder superar diferencias importantes de capacidad cuando crean ventajas narrativas reales.
-- El terreno, la visibilidad, la preparación, la sorpresa, las armas y la posición pueden ser tan importantes como las capacidades del personaje.
-- La Suerte puede ayudar a sobrevivir o aprovechar una oportunidad ya existente, pero no debe permitir comprar automáticamente una oportunidad mortal.
-- Las Técnicas proporcionan la mayor parte de la profundidad táctica del sistema.
-- Las reglas deben representar posición, presión, distancia y terreno sin convertir el combate en un juego de casillas o hexágonos.
-
-Un jugador no está obligado a conceder a un adversario superior un combate justo. Preparar una emboscada, elegir el terreno, atacar desde la oscuridad, separar a un enemigo de sus aliados o utilizar un arma apropiada pueden ser decisiones mucho más importantes que enfrentarse directamente a él.
+Un personaje no tiene ninguna obligación de ofrecer a un enemigo superior un combate justo. Emboscar, sorprender, elegir el terreno, atacar desde la oscuridad, separar a un adversario de sus aliados o forzarle a utilizar un arma inadecuada son decisiones legítimas y pueden resultar decisivas.
 
 ## 4.2. Ataques simples e Intercambios
 
-No todos los ataques se resuelven mediante Intercambios.
+No todos los ataques necesitan un Intercambio.
 
-Un **Intercambio** se utiliza cuando dos combatientes:
+Se utiliza un **Intercambio** cuando dos combatientes:
 
-- son conscientes de la presencia del otro;
+- son conscientes el uno del otro;
 - pueden reaccionar de forma efectiva;
 - disputan activamente la posición, la distancia y el control del enfrentamiento.
 
-Un Intercambio representa varios segundos de combate: movimientos, cambios de guardia, amenazas, fintas, ataques abortados, paradas, control de la distancia, desplazamientos y búsqueda de una apertura.
+Un Intercambio representa movimientos, guardias, amenazas, fintas, paradas, ataques abortados, intentos de ganar ángulo, control de distancia y búsqueda de una apertura.
 
-Cuando no existe una oposición efectiva no es necesario iniciar un Intercambio.
+Cuando no existe oposición efectiva, se utiliza la resolución normal del juego.
 
-Atacar a una persona dormida, apuñalar por la espalda a un enemigo completamente desprevenido o ejecutar a alguien que se encuentra físicamente a merced del personaje puede resolverse como una acción o reto normal.
+Atacar a una persona dormida, apuñalar por la espalda a un enemigo completamente desprevenido, ejecutar a alguien que está físicamente a merced del personaje o atacar a un adversario incapaz de defenderse no requiere mantener artificialmente un Intercambio.
 
-Del mismo modo, si durante un combate la superioridad narrativa de uno de los participantes llega a ser tan absoluta que el adversario ya no puede ofrecer una defensa efectiva, el director puede dejar de utilizar Intercambios y resolver directamente la situación resultante.
+Del mismo modo, si durante el combate la situación llega a ser tan desigual que uno de los participantes ya no puede ofrecer una defensa efectiva, el director puede dejar de utilizar Intercambios y resolver directamente la acción correspondiente.
 
 ## 4.3. Resultado de un Intercambio
 
-Cada combatiente obtiene un resultado utilizando normalmente:
+Cada combatiente calcula normalmente:
 
-> **Característica + Habilidad de combate + modificador narrativo + efectos aplicables**
+> **Característica + Habilidad de combate + modificador narrativo + modificadores de distancia y estado + otros efectos aplicables**
 
-La combinación habitual puede ser Destreza más la Habilidad correspondiente al arma utilizada, pero el método concreto puede justificar otra combinación.
+La combinación más habitual es **Destreza + Habilidad de combate apropiada**, pero el método descrito puede justificar otra Característica.
 
-Ambos combatientes actúan simultáneamente. Por tanto, a diferencia de un reto enfrentado ordinario, un empate no favorece automáticamente a un personaje activo.
-
-El resultado puede ser:
+Los dos resultados se comparan simultáneamente:
 
 - **Empate:** ambos resultados son iguales.
-- **Éxito:** un combatiente supera al otro por exactamente +1.
-- **Crítico:** un combatiente supera al otro por +2 o más y se cumplen además las reglas de Crítico respecto a la Suerte.
+- **Éxito:** un combatiente supera al otro por exactamente **+1**.
+- **Crítico:** un combatiente supera al otro por **+2 o más** y cumple además las reglas relativas a la Suerte.
 
-En combate, a diferencia de los retos ordinarios, el margen es relevante porque determina si la victoria constituye un Éxito o un Crítico.
+En combate el margen importa porque determina si la victoria es un Éxito o un Crítico.
 
-## 4.4. Modificador narrativo en combate
+## 4.4. Modificador narrativo
 
-El modificador narrativo representa las ventajas y desventajas reales creadas por la situación y por las decisiones de los jugadores.
+El modificador narrativo representa ventajas y desventajas reales creadas por la situación y por las decisiones de los jugadores.
 
 No existe un límite mecánico al modificador narrativo total.
 
-Una circunstancia individual puede producir de forma orientativa:
+Como orientación:
 
 - **+1:** ventaja significativa;
 - **+2:** ventaja fuerte;
 - **+3:** ventaja extrema;
 - **+4 o más:** circunstancia excepcionalmente dominante.
 
-Varias ventajas independientes pueden acumularse.
+Varias ventajas independientes pueden acumularse. Varias descripciones de la misma ventaja no.
 
-No deben acumularse varias descripciones de una misma ventaja cuando representan en realidad la misma causa.
+Pueden modificar el resultado, entre otras circunstancias:
 
-Pueden producir modificadores narrativos, entre otras cosas:
-
-- terreno elegido deliberadamente;
-- oscuridad o iluminación favorable;
-- una distracción;
-- una posición elevada;
-- un ataque desde un ángulo difícil;
+- terreno favorable;
+- oscuridad o iluminación;
+- distracciones;
+- altura;
+- ángulos de ataque;
 - superioridad numérica cuando los aliados pueden intervenir realmente;
-- un arma especialmente apropiada para la situación;
 - preparación previa;
-- conocimiento del enemigo;
-- miedo, confusión o pérdida de concentración;
+- conocimiento del adversario;
+- miedo o confusión;
+- obstáculos;
 - limitaciones físicas del entorno.
 
-El modificador narrativo no debe confundirse con otros efectos de la situación.
+Una misma circunstancia no debe contarse varias veces salvo que produzca consecuencias distintas.
 
-Una circunstancia puede:
+Por ejemplo, una situación puede:
 
-1. modificar numéricamente el resultado;
-2. afectar al estado de Guardia;
-3. impedir o permitir determinadas acciones o Técnicas.
+1. proporcionar un modificador numérico;
+2. afectar a la Guardia;
+3. impedir físicamente una acción.
 
-No debe aplicarse varias veces la misma circunstancia sin que existan consecuencias claramente diferentes.
-
-La ausencia de límite al modificador narrativo es deliberada. Permite que la calidad de las decisiones del jugador pueda superar diferencias importantes entre los valores de los personajes.
+Estas consecuencias son distintas y pueden coexistir cuando la ficción las justifica.
 
 ## 4.5. Guardia
 
-La **Guardia** representa de forma abstracta la capacidad inmediata del personaje para defenderse eficazmente.
+La **Guardia** representa la capacidad inmediata del personaje para defenderse eficazmente.
 
-Incluye postura, equilibrio, posición, atención, control del arma, gestión de la distancia, capacidad de reacción y otros factores semejantes.
+Incluye postura, equilibrio, posición, atención, control del arma, distancia y capacidad de reacción.
 
-La Guardia sólo tiene dos estados:
+Sólo existen dos estados:
 
 - **Guardia Firme**
 - **Guardia Comprometida**
 
-No existen niveles intermedios de Guardia.
-
 Dos combatientes entrenados, conscientes el uno del otro y en condiciones normales comienzan habitualmente con Guardia Firme.
 
-La Guardia puede comenzar Comprometida o quedar Comprometida como consecuencia de la situación. Entre las posibles causas se encuentran:
+La Guardia puede comenzar o quedar Comprometida por causas como:
 
 - sorpresa;
-- una posición extremadamente desfavorable;
 - desequilibrio;
-- incapacidad para controlar adecuadamente el arma o la distancia;
-- Heridas;
+- una posición extremadamente mala;
+- pérdida del control de la distancia;
+- combatir desarmado frente a un rival armado;
+- estar Derribado;
 - Fatiga;
-- Tensión o pérdida severa de concentración;
-- determinados efectos de Técnicas.
+- una Herida o limitación física;
+- efectos de una Técnica.
 
-No toda desventaja compromete automáticamente la Guardia. Combatir cuesta arriba, por ejemplo, puede justificar simplemente un modificador narrativo negativo. Encontrarse de rodillas ante un adversario preparado para atacar puede justificar directamente Guardia Comprometida.
+No toda desventaja compromete Guardia. Algunas situaciones sólo aplican un modificador.
 
-Algunas causas pueden impedir recuperar Guardia Firme mientras continúen activas. Los umbrales definitivos de Fatiga, Tensión y Heridas que produzcan este efecto se definirán en sus capítulos correspondientes.
+Una causa persistente puede impedir recuperar Guardia Firme. Si la causa desaparece y ya no existe presión inmediata, el personaje puede recomponerse sin necesidad de ganar un Intercambio.
 
-Si el enfrentamiento se interrumpe y el personaje dispone de tiempo y condiciones razonables para recomponerse, puede recuperar Guardia Firme sin necesidad de un Intercambio, siempre que ninguna condición persistente lo impida.
+## 4.6. Resultado y efecto
 
-## 4.6. Resultado y efecto son conceptos distintos
+**Resultado** y **efecto** son conceptos distintos.
 
-Obtener un Éxito o un Crítico no produce automáticamente una consecuencia concreta.
+Obtener un Éxito o un Crítico no produce automáticamente una consecuencia concreta. Determina qué efectos puede elegir el vencedor.
 
-El resultado determina qué **efectos** puede elegir el vencedor.
-
-Por defecto, una victoria permite elegir **un único efecto**.
+Por defecto, una victoria permite elegir **un solo efecto**.
 
 Un Crítico amplía las opciones disponibles, pero no concede automáticamente dos efectos.
 
-Las Técnicas pueden añadir nuevos efectos, alterar sus requisitos o permitir combinaciones que normalmente no serían posibles.
-
 ### Empate
 
-Un Empate no concede ningún efecto estándar.
+Un Empate no concede efectos estándar.
 
-Las Técnicas pueden crear efectos que se activen o puedan elegirse después de un Empate.
+Algunas reglas o Técnicas pueden activar efectos expresamente mediante un Empate.
 
 ### Éxito
 
-Un Éxito permite elegir un efecto estándar de Éxito que sea aplicable o un efecto proporcionado por una Técnica cuyo requisito sea haber obtenido un Éxito.
+Un Éxito permite elegir un efecto estándar de Éxito que sea legal.
 
 ### Crítico
 
@@ -442,93 +432,208 @@ Un Crítico permite elegir:
 
 - cualquier efecto disponible mediante un Éxito;
 - un efecto estándar exclusivo de Crítico;
-- un efecto proporcionado por una Técnica cuyo requisito sea haber obtenido un Crítico.
+- cualquier efecto especial cuyo requisito sea obtener un Crítico.
 
-## 4.7. Efectos estándar de Éxito
+## 4.7. Efectos estándar
 
-### Recomponer Guardia
+### Efectos de Éxito
 
-**Requisito:** la Guardia propia está Comprometida.
+#### Recomponer Guardia
 
-La Guardia propia pasa a estar **Firme**.
+**Requisito:** Guardia propia Comprometida.
 
-### Comprometer Guardia
+La Guardia pasa a estar **Firme**, siempre que ninguna causa persistente impida recuperarla.
 
-**Requisito:** la Guardia del adversario está Firme.
+#### Comprometer Guardia
 
-La Guardia del adversario pasa a estar **Comprometida**.
+**Requisito:** Guardia rival Firme.
 
-### Herida grave
+La Guardia rival pasa a estar **Comprometida**.
 
-**Requisito:** la Guardia del adversario está Comprometida.
+#### Herida grave
 
-El adversario recibe una **Herida grave**.
+**Requisito:** Guardia rival Comprometida y un medio capaz de causar Heridas.
 
-Las consecuencias médicas y mecánicas completas de las Heridas se definirán en el capítulo correspondiente.
+El rival recibe una **Herida grave**.
 
-## 4.8. Efectos estándar de Crítico
+En combate sin armas este efecto se sustituye por **Golpe grave**.
 
-Un Crítico permite utilizar también todos los efectos de Éxito.
+### Efectos exclusivos de Crítico
 
-Además, proporciona los siguientes efectos exclusivos.
+Un Crítico también puede elegir cualquiera de los efectos de Éxito.
 
-### Herida leve
+#### Herida leve
 
-**Requisito:** la Guardia del adversario está Firme.
+**Requisito:** Guardia rival Firme y un medio capaz de causar Heridas.
 
-El adversario recibe una **Herida leve** sin necesidad de comprometer previamente su Guardia.
+El rival recibe una **Herida leve** sin necesidad de comprometer previamente su Guardia.
 
-### Herida mortal
+En combate sin armas este efecto se sustituye por **Golpe leve**.
 
-**Requisito:** la Guardia del adversario está Comprometida.
+#### Herida mortal
 
-El adversario recibe una **Herida mortal**.
+**Requisito:** Guardia rival Comprometida y un medio capaz de causar Heridas.
 
-Una Herida mortal provoca normalmente **4 niveles de Salud y 4 de Fatiga**. Representa una lesión con una probabilidad muy alta de causar la muerte, pero no implica muerte automática. La posibilidad de estabilizarla o sobrevivir depende de la lesión concreta y de los medios disponibles, según determine el director.
+El rival recibe una **Herida mortal**.
 
-## 4.9. Condiciones de control
+En combate sin armas este efecto se sustituye por **Golpe crítico**.
 
-Algunas Técnicas pueden imponer condiciones físicas que restringen las opciones normales de un combatiente. Estas condiciones no añaden nuevos estados de Guardia: la Guardia continúa siendo únicamente Firme o Comprometida.
+No existe una categoría de **Herida crítica**.
 
-### Derribado
+## 4.8. Elegir entre atacar y recuperar
 
-Un personaje **Derribado** se encuentra en el suelo y no puede combatir con normalidad.
+Cuando existen varios efectos legales, el vencedor decide cuál aplicar.
+
+Si ambos combatientes tienen Guardia Comprometida y uno obtiene un Éxito, puede por ejemplo:
+
+- Recomponer su propia Guardia;
+- causar una Herida grave al rival.
+
+La primera opción reduce el riesgo futuro. La segunda intenta terminar antes el enfrentamiento, pero deja al vencedor con Guardia Comprometida.
+
+Con un Crítico contra un rival Comprometido puede elegir una Herida mortal en lugar de los efectos anteriores.
+
+## 4.9. Distancias de combate
+
+El combate cuerpo a cuerpo utiliza tres distancias abstractas.
+
+No representan metros exactos, sino qué clase de arma puede utilizarse con comodidad.
+
+| Distancia | Armas apropiadas | Otras armas |
+|---|---|---:|
+| **Corta** | combate sin armas y armas pequeñas | −1 |
+| **Media** | espadas y armas de longitud semejante | −1 |
+| **Larga** | yari, naginata y otras armas de asta | −1 |
+
+Un arma utilizada fuera de su distancia apropiada sufre **−1 al resultado**.
+
+El director determina la distancia inicial a partir de la ficción.
+
+Cerrar distancia significa pasar a una categoría más próxima cuando una regla, acción o Técnica lo permita. Alejarse puede producir el efecto contrario.
+
+La distancia no sustituye al terreno. Es posible combatir a distancia Corta en un campo abierto o a distancia Larga dentro de un espacio suficientemente amplio.
+
+## 4.10. Ceder terreno
+
+**Ceder terreno** significa retroceder lo suficiente para quedar fuera del alcance inmediato del rival.
+
+No equivale automáticamente a pasar de una categoría de distancia a otra.
+
+El director determina cuánto terreno existe.
+
+En campo abierto puede haber terreno prácticamente ilimitado. En una habitación, junto a una pared, defendiendo una puerta, junto a un precipicio o protegiendo a otra persona, puede quedar poco terreno o ninguno.
+
+Ceder terreno puede ser:
+
+- un coste voluntario;
+- una consecuencia impuesta;
+- una forma de romper el contacto;
+- una maniobra que el rival puede intentar seguir.
+
+Si no existe terreno suficiente, no puede elegirse un efecto o Técnica que exija cederlo.
+
+## 4.11. Terreno y espacio
+
+El terreno forma parte de la situación de combate aunque no se mida mediante casillas.
+
+Puede determinar:
+
+- si un arma puede utilizarse correctamente;
+- si existe espacio para retroceder;
+- si puede mantenerse la distancia Larga;
+- si un combatiente puede rodear un obstáculo;
+- si alguien puede escapar;
+- si una pared, puerta, desnivel o precipicio limita las opciones;
+- si una posición concede modificadores narrativos.
+
+El director describe estas limitaciones antes de que resulten relevantes siempre que sean evidentes para los personajes.
+
+## 4.12. Combatir desarmado frente a un adversario armado
+
+Un personaje desarmado que combate cuerpo a cuerpo contra un adversario armado capaz de utilizar eficazmente su arma se encuentra en una situación extremadamente desfavorable.
+
+Mientras persista:
+
+- la Guardia del personaje desarmado está **Comprometida**;
+- el adversario armado obtiene normalmente **+2 al resultado**.
+
+El personaje desarmado no puede Recomponer Guardia Firme mientras siga en esa situación, salvo que una regla indique lo contrario.
+
+El +2 sólo se aplica cuando el arma proporciona realmente esa superioridad.
+
+Puede desaparecer si:
+
+- el espacio impide utilizar el arma;
+- el alcance ha sido neutralizado;
+- el arma está físicamente controlada;
+- otra circunstancia elimina razonablemente la ventaja.
+
+Dos personajes desarmados no sufren estas penalizaciones simplemente por carecer de arma.
+
+## 4.13. Combate sin armas y Golpes
+
+El combate sin armas causa **Golpes**, no Heridas, salvo que una regla indique expresamente lo contrario.
+
+Los Golpes producen únicamente Fatiga:
+
+| Golpe | Fatiga perdida |
+|---|---:|
+| **Leve** | 1 |
+| **Grave** | 2 |
+| **Crítico** | 3 |
+
+Los efectos se corresponden con los efectos de Herida del combate armado:
+
+- Crítico contra Guardia Firme → **Golpe leve**;
+- Éxito contra Guardia Comprometida → **Golpe grave**;
+- Crítico contra Guardia Comprometida → **Golpe crítico**.
+
+Una Técnica puede aumentar el daño de un Golpe o hacer que produzca también Salud.
+
+La regla de Golpes presupone un combate desarmado normal. Si la ficción convierte una acción en algo claramente letal —por ejemplo arrojar a alguien desde una altura o golpear su cabeza contra una superficie mortal— el director resuelve las consecuencias de acuerdo con la situación real, no como un simple puñetazo.
+
+## 4.14. Derribado
+
+Un personaje **Derribado** está en el suelo y no puede combatir con normalidad.
 
 Mientras permanezca Derribado:
 
 - su Guardia está **Comprometida**;
-- no puede Recomponer Guardia hasta Firme;
-- no puede realizar ataques ni utilizar Técnicas con las etiquetas **Ataque** o **Presión**, salvo que una Técnica indique expresamente que puede utilizarse desde el suelo;
-- no puede ceder terreno ni utilizar Técnicas que requieran desplazamiento o juego de pies incompatibles con estar en el suelo.
+- no puede Recomponerla hasta Firme;
+- no puede realizar ataques normalmente;
+- no puede utilizar acciones o Técnicas ofensivas incompatibles con estar en el suelo;
+- no puede ceder terreno;
+- no puede utilizar juego de pies o movimientos incompatibles con su posición.
 
-El personaje continúa participando en los Intercambios para defenderse e intentar recuperar la posición.
+El personaje continúa participando en los Intercambios para defenderse y recuperar la posición.
 
-Si un personaje Derribado gana un Intercambio, su única opción estándar es **Levantarse**. Levantarse elimina la condición Derribado, pero **no recupera Guardia Firme**: el personaje continúa con Guardia Comprometida y deberá Recomponerla posteriormente por los medios normales.
+Si gana un Intercambio mientras está Derribado, su opción estándar es **Levantarse**.
 
-Una Técnica puede modificar estas restricciones, permitir atacar desde el suelo o mejorar la forma de levantarse.
+Levantarse:
 
-Si ya no existe presión inmediata de un adversario, el personaje puede levantarse sin necesidad de ganar un Intercambio.
+- elimina Derribado;
+- no recupera Guardia Firme;
+- deja al personaje con Guardia Comprometida.
 
-## 4.10. Decisiones después de una victoria
+Si ya no existe presión inmediata, puede levantarse sin ganar un Intercambio.
 
-El vencedor elige qué efecto legal desea aplicar.
+## 4.15. Desarmar
 
-Por ejemplo, si ambos combatientes tienen Guardia Comprometida y uno obtiene un Éxito, puede elegir entre:
+**Desarmar** significa quitar al adversario el arma que está utilizando.
 
-- Recomponer su propia Guardia;
-- causar una Herida grave al adversario.
+El director decide dónde queda el arma y si puede recuperarse de acuerdo con la ficción.
 
-La primera opción reduce el riesgo futuro. La segunda intenta terminar antes el combate, pero deja al vencedor con Guardia Comprometida.
+No existe una distancia universal a la que cae ni una acción fija para recuperarla.
 
-Si obtiene un Crítico, puede además elegir una Herida mortal si se cumplen sus requisitos.
+Si dispone de otra arma, el personaje puede utilizarla cuando la situación permita acceder a ella.
 
-Las Técnicas pueden ampliar estas posibilidades con opciones como Desarmar, Derribar, controlar un arma, obligar a ceder terreno u otros efectos.
+Un personaje que queda desarmado frente a un adversario armado pasa inmediatamente a estar sujeto a las reglas de combate desarmado contra armado si se cumplen sus condiciones.
 
-## 4.11. Suerte en combate
+## 4.16. Suerte en combate
 
 La Suerte se utiliza durante los Intercambios mediante **cartas de Suerte**.
 
-El conjunto de prueba utiliza cartas de:
+Las cartas disponibles representan:
 
 - Suerte +1
 - Suerte +2
@@ -536,84 +641,78 @@ El conjunto de prueba utiliza cartas de:
 - Suerte +4
 - Suerte +5
 
-La carta representa cuántos puntos de Suerte desea gastar el personaje durante ese Intercambio.
+Para jugar una carta el personaje debe disponer de los puntos correspondientes. Los puntos se gastan al utilizarla.
 
-Para jugar una carta debe disponer de suficientes puntos de Suerte. Los puntos indicados se gastan al utilizarla.
+La economía de Suerte sigue las reglas generales:
 
-La economía de Suerte conserva las reglas generales de **Active Cthulhu**:
-
-- cada punto de Suerte gastado proporciona **+1**;
-- los puntos gastados se pierden aunque finalmente no permitan obtener el resultado deseado;
+- cada punto gastado proporciona **+1**;
+- los puntos se pierden aunque no permitan obtener el resultado deseado;
 - la Suerte nunca puede bajar de 0;
 - no existe un máximo acumulable;
-- los puntos de Suerte se conservan entre aventuras.
+- los puntos se conservan entre aventuras.
 
-Fuera de los Intercambios, el jugador decide cuánta Suerte gasta antes de conocer la dificultad, siguiendo la resolución general de retos. Dentro de un Intercambio, esa decisión queda representada por la carta de Suerte elegida en secreto.
+### La Suerte nunca crea un Crítico
 
-### La Suerte y los Críticos
+Para obtener un Crítico deben cumplirse ambas condiciones:
 
-La Suerte **nunca puede crear un Crítico**.
-
-Para que un combatiente obtenga un Crítico deben cumplirse las dos condiciones siguientes:
-
-1. Antes de aplicar Suerte ya debía superar al adversario por +2 o más.
-2. Después de aplicar toda la Suerte utilizada en el Intercambio debe seguir superándolo por +2 o más.
+1. antes de aplicar Suerte, el personaje ya superaba al adversario por +2 o más;
+2. después de aplicar toda la Suerte utilizada, continúa superándolo por +2 o más.
 
 La Suerte puede:
 
 - convertir una derrota en Empate;
-- convertir un Empate o una derrota en Éxito;
+- convertir Empate o derrota en Éxito;
 - aumentar el margen de un Éxito;
-- reducir el margen del adversario;
-- impedir que el adversario conserve un Crítico.
+- reducir el margen del rival;
+- impedir un Crítico.
 
-Aunque la Suerte haga que el resultado final supere al adversario por +2 o más, el resultado continúa siendo un Éxito si antes de aplicar Suerte no existía ya margen suficiente para Crítico.
+Si la Suerte crea un margen final de +2 o más cuando antes no existía, el resultado sigue siendo **Éxito**, no Crítico.
 
-Esta regla impide que una reserva de Suerte pueda transformarse directamente en una oportunidad mortal que el personaje no había creado mediante capacidad, situación o Técnicas.
+## 4.17. Elección secreta
 
-## 4.12. Elección secreta del Intercambio
+Al comienzo de cada Intercambio cada combatiente realiza una elección secreta:
 
-Al comienzo de cada Intercambio, cada combatiente puede realizar **una única elección secreta**:
-
-- jugar una Técnica activa;
+- utilizar una Técnica activa;
 - jugar una carta de Suerte;
-- no jugar ninguna carta.
+- no utilizar ninguna de las dos.
 
-Después las elecciones se revelan simultáneamente.
+Después ambas elecciones se revelan simultáneamente.
 
-Un personaje no puede utilizar durante el mismo Intercambio una Técnica activa y una carta de Suerte.
+No puede utilizarse una Técnica activa y una carta de Suerte en el mismo Intercambio.
 
-La elección entre entrenamiento y Suerte forma parte de la táctica del combate.
+Las Técnicas pasivas no ocupan esta elección y pueden activarse cuando se cumplan sus condiciones.
 
-Las Técnicas pasivas no ocupan esta elección secreta y pueden utilizarse cuando se cumplan sus condiciones.
+Las reglas completas de las Técnicas y su catálogo se encuentran fuera de este capítulo.
 
-## 4.13. Secuencia provisional de un Intercambio
+## 4.18. Secuencia de un Intercambio
 
-La secuencia de resolución es:
+Cada Intercambio se resuelve en este orden:
 
-1. **Establecer la situación.** Se determinan Guardia, armas, posición, distancia, terreno, visibilidad, modificadores narrativos y demás circunstancias.
-2. **Elección secreta.** Cada combatiente elige una Técnica activa, una carta de Suerte o ninguna carta.
+1. **Establecer la situación.** Guardia, armas, distancia, terreno, visibilidad, Fatiga, Tensión y modificadores narrativos.
+2. **Elección secreta.** Técnica activa, Suerte o ninguna.
 3. **Revelación simultánea.**
-4. **Resolver Técnicas activas.** Se comprueban requisitos, contexto, costes, counters y efectos.
-5. **Calcular resultados previos a Suerte.** Se calcula el resultado de cada combatiente sin aplicar la carta de Suerte.
-6. **Comprobar posibilidad de Crítico.** Se registra si algún combatiente posee ya un margen de +2 o superior.
+4. **Resolver efectos previos al resultado.**
+5. **Calcular resultados sin Suerte.**
+6. **Comprobar quién podría obtener Crítico.**
 7. **Aplicar Suerte.**
 8. **Determinar Empate, Éxito o Crítico.**
-9. **Elegir un efecto.** El vencedor elige un único efecto estándar o proporcionado por una Técnica que resulte legal.
-10. **Resolver Técnicas pasivas y reacciones aplicables.** Se aplican cuando su condición concreta se produce.
-11. **Actualizar la situación.** Guardia, terreno, Fatiga, Tensión, Heridas, posición, duración de efectos y Cooldowns pasan a definir el siguiente Intercambio.
+9. **Elegir y resolver el efecto correspondiente.**
+10. **Resolver efectos pasivos o reactivos aplicables.**
+11. **Actualizar Guardia, distancia, terreno, Fatiga, Tensión, Salud y demás condiciones.**
 
-Algunas Técnicas pueden alterar este orden mediante una excepción explícita.
+Una regla específica puede alterar esta secuencia cuando lo indique expresamente.
 
 ### Efectos simultáneos
 
-Si un mismo Intercambio activa efectos para ambos combatientes, **todos los efectos aplicables se resuelven**. Un efecto no cancela otro simplemente por proceder de una Técnica activa, pasiva o de un Empate, salvo que una regla indique expresamente lo contrario.
+Si un mismo Intercambio activa efectos para ambos combatientes, **se aplican todos los efectos compatibles**.
 
-Por ejemplo, si un Empate permite a un combatiente Derribar y al otro Comprometer Guardia mediante una Técnica, ambos efectos se aplican.
+Un efecto no cancela otro únicamente porque proceda de un Empate, una Técnica o una reacción.
 
-## 4.14. Fatiga
+Por ejemplo, si un Empate permite a un combatiente Derribar y al otro Comprometer Guardia, ambos efectos se aplican.
 
-La Fatiga conserva la escala y las penalizaciones de **Active Cthulhu**.
+## 4.19. Fatiga
+
+La Fatiga representa cansancio, dolor, conmoción y pérdida inmediata de capacidad.
 
 | Fatiga perdida | Estado | Penalización |
 |---:|---|---:|
@@ -624,17 +723,23 @@ La Fatiga conserva la escala y las penalizaciones de **Active Cthulhu**.
 | 4 | Exhausto | −3 |
 | 5 | Inconsciente | No puede actuar |
 
-La penalización de Fatiga se aplica a todas las acciones que requieran esfuerzo, concentración o coordinación, incluidos los Intercambios de combate.
+La penalización se aplica a todas las acciones que requieran esfuerzo, concentración o coordinación, incluidos los Intercambios.
 
-Al alcanzar **Fatiga 3 (Agotado, −2)**, la Guardia pasa a estar **Comprometida** y no puede Recomponerse a Firme mientras el personaje permanezca en Fatiga 3 o superior.
+Al alcanzar **Fatiga 3**, la Guardia pasa a estar **Comprometida** y no puede Recomponerse mientras el personaje permanezca en Fatiga 3 o superior.
 
-La Fatiga máxima es 5. Como en **Active Cthulhu**, cualquier nivel de Fatiga que exceda ese máximo se convierte en 1 nivel de Salud perdido. La integración definitiva entre Salud y el sistema de Heridas de **Sengoku Jidai** se concretará en el capítulo de daño.
+Una regla específica puede retrasar este umbral.
 
-Como orientación, se recupera **1 nivel de Fatiga por cada media hora de descanso adecuado**. El director puede modificar este ritmo según la causa del cansancio y las circunstancias. Un personaje que continúa combatiendo, corriendo o trabajando bajo presión no recupera Fatiga.
+La Fatiga máxima es 5.
 
-## 4.15. Tensión
+Cada nivel que exceda Fatiga 5 se convierte en **1 nivel de Salud perdido**. Esta pérdida de Salud no genera nueva Fatiga.
 
-La **Tensión** representa desgaste mental inmediato: miedo, presión, frustración, dolor contenido, esfuerzo de autocontrol y sobrecarga emocional. No representa por sí misma una enfermedad mental ni una pérdida permanente de estabilidad.
+Como orientación, se recupera **1 Fatiga por cada media hora de descanso adecuado**. El director modifica el ritmo según la causa y las circunstancias.
+
+## 4.20. Tensión
+
+La **Tensión** representa desgaste mental inmediato: miedo, presión, frustración, dolor contenido, esfuerzo de autocontrol y sobrecarga emocional.
+
+No representa por sí misma una enfermedad mental ni una secuela permanente.
 
 | Tensión perdida | Penalización |
 |---:|---:|
@@ -645,66 +750,135 @@ La **Tensión** representa desgaste mental inmediato: miedo, presión, frustraci
 | 4 | −3 |
 | 5 | −4 |
 
-La penalización de Tensión se aplica a acciones que requieran concentración, autocontrol, precisión o capacidad para actuar bajo presión, incluidos normalmente los Intercambios de combate.
+La penalización se aplica a acciones que requieran concentración, autocontrol, precisión o capacidad para actuar bajo presión, incluidos normalmente los Intercambios.
 
-La Tensión puede aumentar por miedo intenso, amenazas inmediatas, presión prolongada, dolor, situaciones emocionalmente extremas o como coste de determinadas Técnicas.
+La Tensión puede aumentar por:
 
-Al alcanzar Tensión 5 el personaje **continúa pudiendo actuar**, pero sufre **−4** mientras permanezca en ese nivel.
+- miedo intenso;
+- amenazas inmediatas;
+- presión prolongada;
+- dolor;
+- situaciones emocionalmente extremas;
+- costes de determinadas reglas.
 
-Como orientación provisional, un personaje recupera **1 nivel de Tensión por cada hora de descanso real en un entorno que considere razonablemente seguro**. Dormir adecuadamente permite recuperar toda la Tensión que no esté sostenida por una causa persistente. El director puede retrasar la recuperación mientras continúen presentes miedo, amenaza, dolor intenso u otras fuentes de presión.
+A Tensión 5 el personaje continúa pudiendo actuar, pero con **−4**.
 
-## 4.16. Salud, Heridas y Golpes
+Como orientación, recupera **1 Tensión por cada hora de descanso real en un lugar que considere razonablemente seguro**.
 
-Sengoku Jidai conserva de **Active Cthulhu** la idea de que el daño físico real se registra mediante **Salud**, mientras que la conmoción, el dolor y el agotamiento inmediato se reflejan mediante **Fatiga**.
+Dormir adecuadamente permite recuperar toda la Tensión no sostenida por una causa persistente.
 
-### Heridas causadas por armas
+## 4.21. Salud
 
-Las armas capaces de producir daño letal causan simultáneamente pérdida de **Salud** y de **Fatiga**.
+La Salud representa daño corporal real.
 
-Los efectos estándar del combate se traducen así:
+| Salud perdida | Estado |
+|---:|---|
+| 0 | Ileso |
+| 1 | Lastimado |
+| 2 | Lesionado |
+| 3 | Herido |
+| 4 | Gravemente herido |
+| 5 | Incapacitado |
+| 6 | Muerto |
 
-| Efecto | Salud perdida | Fatiga perdida |
+Con Salud 5 el personaje no puede actuar de forma normal.
+
+Al alcanzar Salud 6 muere.
+
+La naturaleza concreta de una lesión puede producir consecuencias narrativas adicionales antes de alcanzar esos niveles.
+
+## 4.22. Heridas
+
+Toda pérdida de Salud debe describirse mediante una **Herida concreta**.
+
+Una Herida indica:
+
+- qué parte del cuerpo ha sido afectada;
+- qué lesión se ha producido;
+- si puede empeorar;
+- qué tratamiento requiere;
+- qué acciones puede impedir.
+
+Los efectos estándar del combate producen:
+
+| Herida | Salud | Fatiga |
 |---|---:|---:|
-| **Herida leve** | 1 | 1 |
-| **Herida grave** | 3 | 3 |
-| **Herida mortal** | 4 | 4 |
+| **Leve** | 1 | 1 |
+| **Grave** | 3 | 3 |
+| **Mortal** | 4 | 4 |
 
-No existe una categoría separada de **Herida crítica**.
+No existe Herida crítica.
 
-Una **Herida mortal** representa una lesión con una probabilidad muy alta de causar la muerte si no recibe tratamiento adecuado, pero **no implica muerte automática**.
+### Herida mortal
 
-En el Japón feudal muchas Heridas mortales pueden resultar imposibles de tratar eficazmente con los medios disponibles. El director decide, según la naturaleza concreta de la lesión, el lugar, los recursos, el tiempo transcurrido y la ayuda disponible, si existe una posibilidad realista de estabilizarla o salvar al personaje.
+Una Herida mortal implica una probabilidad muy alta de morir, pero no muerte automática.
 
-Esta decisión es narrativa. Una perforación abdominal profunda, una hemorragia interna, una lesión vascular importante o una infección posterior pueden resultar prácticamente incurables en determinadas circunstancias, mientras que otras lesiones de gravedad similar pueden admitir alguna posibilidad de supervivencia.
+En el Japón feudal muchas lesiones de esta gravedad son imposibles de tratar eficazmente.
 
-Una Herida mortal puede empeorar y provocar pérdida adicional de Salud. La muerte se produce cuando el daño acumulado o la naturaleza concreta de la lesión hacen inviable la supervivencia.
+El director decide si la supervivencia es médicamente posible de acuerdo con:
 
-### Golpes y combate sin armas
+- la naturaleza de la lesión;
+- la hemorragia;
+- los órganos afectados;
+- contaminación e infección;
+- tiempo hasta recibir ayuda;
+- conocimientos disponibles;
+- recursos y condiciones del lugar.
 
-El combate sin armas utiliza **Golpes**, no Heridas, salvo que una Técnica indique expresamente lo contrario.
+Una Herida mortal puede ser simplemente intratable.
 
-Los Golpes causan únicamente Fatiga:
+Esta decisión es narrativa y no exige que todas las Heridas de la misma categoría tengan la misma posibilidad de supervivencia.
 
-| Golpe | Fatiga perdida |
-|---|---:|
-| **Leve** | 1 |
-| **Grave** | 2 |
-| **Crítico** | 3 |
+Una lesión puede empeorar y provocar Salud adicional.
 
-Por defecto, un puñetazo, patada, proyección o golpe semejante no causa pérdida directa de Salud, aunque el director puede considerar imposible aplicar esta regla cuando la ficción implique una fuente claramente letal, como arrojar a alguien desde una gran altura o golpear repetidamente su cabeza contra una superficie peligrosa.
+La muerte inmediata sigue siendo posible cuando la ficción la hace inequívoca, como una decapitación o una destrucción corporal incompatible con la vida.
 
-Las escuelas especializadas en combate sin armas pueden poseer Técnicas pasivas que hagan sus Golpes más peligrosos.
+## 4.23. Fortaleza y daño
 
-Dos ejemplos presentes en las Técnicas iniciales son:
+La Fortaleza reduce de forma natural parte del daño recibido.
 
-- **Takenouchi-ryū:** mantiene **1 / 2 / 3** de Fatiga y añade **1 nivel de Salud** a los Golpes graves y críticos;
-- **tradición clandestina de Iga:** aumenta la Fatiga a **1 / 3 / 4** para Golpe leve / grave / crítico.
+### Reducción de Fatiga
 
-Estas mejoras no forman parte de la regla general: proceden de Técnicas concretas.
+Se reduce 1 punto de Fatiga por cada 2 puntos completos de Fortaleza positiva.
 
-### Fortaleza
+| Fortaleza | Reducción |
+|---:|---:|
+| −1 a +1 | 0 |
+| +2 a +3 | 1 |
+| +4 a +5 | 2 |
+| +6 a +7 | 3 |
 
-Como en **Active Cthulhu**, la Fortaleza puede reducir la Fatiga y la Salud perdidas. Las reglas exactas de reducción se conservarán salvo que una regla específica de Sengoku Jidai indique lo contrario.
+### Reducción de Salud
+
+Se reduce 1 punto de Salud por cada 3 puntos completos de Fortaleza positiva.
+
+| Fortaleza | Reducción |
+|---:|---:|
+| −1 a +2 | 0 |
+| +3 a +5 | 1 |
+| +6 a +8 | 2 |
+| +9 a +11 | 3 |
+
+La reducción de Salud y la reducción de Fatiga se calculan por separado.
+
+Fortaleza representa capacidad para soportar dolor, conmoción y trauma físico, pero no convierte al cuerpo humano en una armadura.
+
+## 4.24. Fin del combate
+
+Un combate termina cuando deja de existir oposición efectiva.
+
+Puede ocurrir porque un combatiente:
+
+- muere;
+- queda inconsciente;
+- queda incapacitado;
+- se rinde;
+- huye;
+- rompe el contacto;
+- es capturado;
+- queda en una posición en la que ya no puede defenderse de forma efectiva.
+
+El director no debe seguir resolviendo Intercambios cuando el resultado de la situación ya no sea incierto.
 
 # 5. Técnicas marciales
 
@@ -931,51 +1105,17 @@ Estas Técnicas no deberían:
 - recuperar gratuitamente Guardia;
 - eliminar todos los costes sufridos.
 
-# 6. Terreno, distancia y armas en las Técnicas
+# 6. Armas y requisitos de las Técnicas
 
-## 6.1. El terreno como parte del sistema
+Las reglas generales de terreno, distancia, combate desarmado y Desarmar se encuentran en el capítulo de **Combate**.
 
-El terreno no se representa mediante casillas obligatorias ni distancias tácticas exactas.
+Este capítulo define únicamente cómo pueden utilizar esas propiedades las Técnicas.
 
-Se representa por lo que permite, impide y arriesga.
-
-Una Técnica puede exigir:
-
-- ceder terreno;
-- avanzar;
-- mantener la posición;
-- disponer de espacio lateral;
-- tener una ruta de retirada;
-- contar con obstáculos próximos;
-- conservar una distancia favorable.
-
-**Ceder terreno** significa retroceder lo suficiente para quedar fuera del alcance inmediato del rival. No equivale a cambiar entre las categorías de distancia Corta, Media y Larga.
-
-El director decide cuánto terreno puede cederse según la escena. En un campo abierto puede existir terreno prácticamente ilimitado. En una habitación, junto a una pared, defendiendo una puerta, junto a un precipicio o protegiendo a otra persona, el espacio disponible puede agotarse muy deprisa o no existir.
-
-Una Técnica puede impedir que ceder terreno rompa el contacto, permitir perseguir al adversario o exigir precisamente que exista espacio disponible para retroceder.
-
-## 6.2. Distancias de combate
-
-El combate cuerpo a cuerpo utiliza tres categorías abstractas de distancia. No representan una medida exacta en metros, sino qué clase de arma puede utilizarse con comodidad en la situación actual.
-
-| Distancia | Armas apropiadas | Resto de armas |
-|---|---|---:|
-| **Corta** | combate sin armas y armas pequeñas | −1 |
-| **Media** | espadas y armas de longitud semejante | −1 |
-| **Larga** | yari, naginata y otras armas de asta | −1 |
-
-El penalizador de distancia es **−1 al resultado** y se aplica cuando el arma utilizada no pertenece a la categoría apropiada para la distancia actual.
-
-El director determina la distancia inicial según la ficción. Las Técnicas pueden modificarla, cerrarla o impedir que el rival la cambie.
-
-Una escuela cuyo estilo dependa de combatir deliberadamente a distancia Corta puede incluir una Técnica pasiva que elimine el −1 provocado por esa distancia.
-
-## 6.3. Propiedades funcionales de las armas
+## 6.1. Propiedades funcionales de las armas
 
 Las armas pueden poseer propiedades funcionales utilizadas como requisitos de Técnicas.
 
-Lista inicial orientativa:
+Lista inicial:
 
 - Arma de asta
 - Larga
@@ -987,67 +1127,20 @@ Lista inicial orientativa:
 - Dos manos
 - Dos armas
 
-No es necesario convertir estas propiedades en una colección de bonificadores permanentes.
+Estas propiedades no proporcionan bonificadores permanentes por sí mismas.
 
-Su principal función es indicar qué Técnicas y opciones físicas resultan posibles.
+Indican qué acciones y Técnicas resultan físicamente posibles.
 
-## 6.4. Requisito mínimo y mejoras por arma
+## 6.2. Requisito mínimo y propiedades adicionales
 
-Una Técnica puede separar:
+Una Técnica puede distinguir entre:
 
-1. el requisito mínimo para poder utilizarla;
-2. propiedades adicionales del arma que amplían sus posibilidades.
+1. el requisito mínimo necesario para utilizarla;
+2. propiedades adicionales que desbloquean efectos distintos.
 
-Ejemplo conceptual:
+Una Técnica nunca crea una propiedad que el arma no posee realmente.
 
-> **Controlar la distancia**  
-> Requiere: Arma de asta.  
-> Con Punta: permite amenazar durante la aproximación.  
-> Con Gancho: permite interferir o controlar el arma rival.  
-> Con Filo: permite convertir ciertos movimientos laterales en amenazas de corte.
-
-De este modo, un combatiente puede conservar parte de su entrenamiento aunque pierda su arma tradicional.
-
-Un practicante especializado puede utilizar:
-
-- un bō y conservar parte de su repertorio;
-- un yari ordinario y recuperar más opciones;
-- el arma característica de su escuela y disponer del repertorio completo.
-
-El arma ideal debe desbloquear capacidades, no limitarse a conceder números mayores.
-
-## 6.5. Combatir desarmado contra un adversario armado
-
-Un personaje desarmado que combate cuerpo a cuerpo contra un adversario armado y capaz de utilizar eficazmente su arma se encuentra en una situación extremadamente desfavorable.
-
-Mientras se mantenga esta situación:
-
-- la Guardia del personaje desarmado está **Comprometida**;
-- el adversario armado obtiene normalmente **+2 al resultado** por la superioridad que proporciona el arma.
-
-La Guardia permanece Comprometida mientras continúe la causa que la compromete. Por tanto, un personaje desarmado no puede Recomponer Guardia hasta Firme mientras siga enfrentándose en esas condiciones a un adversario armado, salvo que una regla o Técnica indique expresamente lo contrario.
-
-Si el personaje ya tenía Guardia Comprometida, no existe un estado adicional de Guardia: simplemente continúa Comprometida.
-
-El +2 presupone que el adversario puede utilizar eficazmente su arma. El entorno o la situación pueden reducir o eliminar esta ventaja si el arma deja de proporcionar realmente esa superioridad, por ejemplo porque se ha neutralizado su alcance, se controla físicamente el arma o el espacio impide utilizarla correctamente.
-
-Esta regla representa simultáneamente la dificultad de defenderse sin arma y la gravedad de cualquier apertura cuando el adversario dispone de un medio eficaz para herir.
-
-### Golpes sin armas
-
-El combate sin armas **no causa Heridas** mediante los efectos normales de combate. En su lugar causa **Golpes**: leve 1 Fatiga, grave 2 Fatiga y crítico 3 Fatiga, salvo que una Técnica modifique estos valores o añada pérdida de Salud.
-
-Cuando una Técnica permita sustituir una Herida por otro efecto —por ejemplo Desarmar o Derribar—, en combate sin armas puede utilizarse del mismo modo si el resultado obtenido permitiría causar un **Golpe**.
-
-Dos personajes desarmados no sufren Guardia Comprometida ni el +2 anterior simplemente por carecer ambos de arma.
-
-## 6.6. Desarmar
-
-**Desarmar** significa quitar al adversario el arma que estaba utilizando.
-
-El director decide, según lo ocurrido en la ficción, dónde queda el arma, si continúa al alcance del personaje y qué tendría que hacer para recuperarla. No existe una regla universal adicional para la posición exacta del arma o su recuperación.
-
-Si el personaje dispone de otra arma, puede intentar utilizarla normalmente cuando la situación lo permita.
+El arma utilizada y las circunstancias de la escena deben justificar siempre el efecto.
 
 # 7. Escuelas marciales — planificación provisional
 
