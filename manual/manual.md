@@ -388,93 +388,181 @@ Una persona que no sabe leer no puede interpretar un documento únicamente gasta
 
 ## 2.1. Personas del periodo Sengoku
 
-Los personajes de **Sengoku Jidai** representan personas reales del Japón del periodo Sengoku.
+Los personajes de **Sengoku Jidai** son seres humanos plausibles del Japón del periodo Sengoku.
 
-Pueden ser individuos excepcionalmente capaces, experimentados o influyentes, pero siguen estando sujetos a los límites físicos, sociales y psicológicos propios de seres humanos reales. El reglamento no presupone héroes legendarios ni capacidades sobrehumanas.
+Pueden ser individuos excepcionalmente capaces, experimentados o influyentes, pero siguen sujetos a los límites físicos, sociales y psicológicos humanos.
 
-Los personajes pueden proceder de ámbitos muy distintos: casas guerreras, aldeas, ciudades, comunidades religiosas, talleres artesanales, redes mercantiles, ejércitos, administraciones señoriales u otros entornos propios del periodo.
+Un personaje se define mediante:
 
-El reglamento no presupone que todos los personajes sean samuráis ni que todos estén dedicados al combate. Un personaje puede ser guerrero, campesino, artesano, mercader, religioso, criado, administrador, mensajero, marinero, médico, intérprete o desempeñar cualquier otra función históricamente adecuada a la campaña.
+- **Características:** capacidades naturales.
+- **Habilidades:** formación y experiencia.
+- **Clase social:** entorno social amplio del que procede y oportunidades de formación normalmente disponibles.
+- **Oficio:** actividad para la que ha recibido formación o mediante la que se gana la vida.
+- **Origen:** lugar, familia y ambiente concreto donde creció.
+- **Afiliaciones:** casas, templos, comunidades, compañías, bandas u otras redes a las que pertenece o sirve.
+- **Rasgos:** personalidad, principios, obligaciones, relaciones y circunstancias personales.
+- **Suerte:** recurso que permite mejorar un resultado.
+- **Salud, Fatiga y Tensión:** estado físico y emocional actual.
+- **Heridas:** lesiones concretas.
+- **Equipo:** armas, herramientas y otros recursos.
+- **Técnicas marciales:** maniobras aprendidas cuando el personaje ha recibido esa formación.
 
-La forma en que un personaje actúa y las oportunidades de las que dispone dependen tanto de sus capacidades personales como de su educación, experiencia, origen, posición social y circunstancias.
+Estas categorías se complementan entre sí.
+
+Un samurái puede ejercer como administrador y ser un espadachín mediocre. Un campesino puede convertirse en ashigaru y adquirir amplia experiencia militar. Un mercader puede actuar como informador. Un monje puede proceder de una familia guerrera.
 
 ## 2.2. Características
 
 Las **Características** representan las capacidades naturales del personaje: fuerza, coordinación, percepción, presencia, inteligencia y voluntad.
 
-Determinan el potencial general de una persona, pero no sustituyen al entrenamiento ni a la experiencia.
+Determinan su potencial general, pero no sustituyen al entrenamiento ni a la experiencia.
 
 Dos personajes con una Destreza semejante pueden combatir de forma completamente distinta si uno ha recibido años de entrenamiento con una espada y el otro nunca ha utilizado un arma.
 
-Las reglas completas de Características se describen en el capítulo correspondiente.
+Las reglas completas se describen en el capítulo 3.
 
 ## 2.3. Habilidades
 
 Las **Habilidades** representan conocimientos adquiridos, entrenamiento, práctica y experiencia.
 
-Una Habilidad puede proceder de la educación, de un oficio, del entrenamiento militar, de la vida cotidiana, de una tradición familiar, de la instrucción recibida de un maestro o de la experiencia acumulada por el personaje.
+Durante la creación, un personaje no puede comprar necesariamente cualquier Habilidad del manual.
 
-La posición social de una persona no determina automáticamente sus Habilidades.
+Su acceso procede de tres fuentes:
 
-Un samurái puede ser un arquero mediocre. Un ashigaru veterano puede dominar el uso de la yari. Un religioso puede haber recibido formación militar. Un mercader puede ser un jinete experimentado. Un campesino puede conocer mejor que cualquier viajero los caminos, ríos y montañas de su región.
+1. **Habilidades generales**, disponibles para cualquier personaje.
+2. **Habilidades de Clase social**.
+3. **Habilidades profesionales de su Oficio**.
 
-Las reglas completas de Habilidades se describen en el capítulo correspondiente.
+Tener acceso a una Habilidad permite comprarla con puntos de creación. **No concede ningún nivel gratuito por sí mismo.**
 
-## 2.4. Origen
+El Oficio puede conceder además niveles gratuitos concretos, como se explica en el capítulo 5.
 
-El **Origen** describe el entorno social, familiar y material en el que se formó el personaje.
+Después de comenzar la campaña, un personaje puede acceder a Habilidades nuevas si la ficción justifica cómo aprende: entrenamiento militar, un maestro, cambio de oficio, ingreso en una institución, experiencia prolongada u otra oportunidad equivalente.
 
-Puede indicar, entre otras cosas:
+## 2.4. Clase social
 
-- La familia o comunidad en la que nació.
-- El lugar donde creció.
-- El ambiente social en el que fue educado.
-- Las actividades habituales durante su juventud.
-- Las personas o instituciones de las que recibió formación.
-- Las experiencias tempranas que explican parte de sus conocimientos actuales.
+La **Clase social** es una categoría amplia utilizada durante la creación del personaje.
 
-El Origen no determina necesariamente la posición actual del personaje.
+No pretende reproducir una legislación uniforme para todo Japón. Resume el entorno social en el que el personaje ha crecido y las oportunidades de formación que normalmente ha tenido a su alcance.
 
-Una persona nacida en una familia campesina puede haber entrado al servicio de una casa guerrera. Alguien nacido en una familia de guerreros puede haber adoptado una vida religiosa. Un criado puede haber ascendido dentro de una organización militar o administrativa.
+El reglamento utiliza cinco clases:
 
-El Origen ayuda a establecer qué cosas resultan familiares para el personaje, qué conocimientos cotidianos puede poseer sin necesidad de una Habilidad especializada y qué relaciones o experiencias previas pueden ser relevantes durante la partida.
+- **Campesino**
+- **Artesano**
+- **Mercader**
+- **Samurái**
+- **Noble**
 
-## 2.5. Posición social
+La Clase social determina:
 
-La **Posición social** representa el lugar real que ocupa el personaje dentro de las estructuras sociales, políticas, militares, económicas o religiosas de su entorno.
+- los Oficios que el personaje puede elegir normalmente al crearse;
+- determinadas Habilidades adicionales que puede comprar con sus puntos de creación;
+- parte de las expectativas sociales, contactos y oportunidades que resultan razonables.
 
-No es una clase de personaje y no concede por sí sola un conjunto fijo de Habilidades o capacidades.
+No determina automáticamente riqueza, autoridad personal ni competencia.
 
-La Posición social puede influir en:
+Dos personajes de la misma Clase social pueden ocupar posiciones muy diferentes.
 
-- El trato que otras personas consideran apropiado.
-- Las personas o instituciones a las que puede acceder.
-- La autoridad que puede ejercer.
-- Las autoridades a las que está sometido.
-- Los comportamientos que se esperan de él.
-- Las obligaciones asociadas a su posición.
-- Los recursos que puede poseer o utilizar de forma razonable.
-- Las consecuencias sociales de determinadas acciones.
+Un campesino puede ser un jornalero pobre o pertenecer a una familia importante de su aldea. Un samurái puede ser un servidor humilde o un vasallo con responsabilidades relevantes.
 
-La Posición social tampoco equivale a riqueza. Una persona de posición formalmente inferior puede disponer de más dinero, propiedades o recursos materiales que otra situada por encima de ella dentro de una jerarquía determinada.
+Las particularidades sociales se desarrollan en el capítulo de Sociedad.
 
-La posición de un personaje debe interpretarse siempre dentro de su contexto. El territorio, la autoridad bajo la que se encuentra, sus relaciones personales y el momento histórico pueden modificar considerablemente el significado práctico de una misma posición.
+## 2.5. Oficio
 
-## 2.6. Posición real y posición aparente
+El **Oficio** representa la actividad principal para la que el personaje ha recibido formación o mediante la que se gana habitualmente la vida.
 
-La **Posición social real** de un personaje y la posición que otras personas le atribuyen pueden ser diferentes.
+El Oficio tiene dos efectos durante la creación:
 
-Un guerrero puede viajar vestido como un criado. Un ashigaru puede presentarse como miembro de una casa guerrera lejana. Un mercader puede intentar aparentar una posición superior a la que realmente posee. Una persona de origen guerrero puede vivir bajo una identidad religiosa o civil.
+1. proporciona acceso a una lista de **Habilidades profesionales**;
+2. concede un **paquete gratuito de Habilidades** propio.
 
-Mientras una identidad aparente resulte creíble y nadie tenga motivos para cuestionarla, los demás personajes pueden reaccionar de acuerdo con lo que creen estar viendo.
+Los paquetes gratuitos no poseen un valor matemático uniforme.
 
-Esto no modifica la posición real del personaje. Cambia únicamente la manera en que es percibido y tratado.
+Un oficio cuya Habilidad central tiene poca utilidad habitual en una aventura puede conceder más formación complementaria.
 
-Cuando exista incertidumbre sobre una identidad, una afiliación, un rango o una posición declarada, la situación puede resolverse mediante los retos y Habilidades apropiados.
+Un oficio cuya Habilidad principal es especialmente útil puede conceder un paquete mucho más pequeño.
 
-Las reglas detalladas sobre identidad, reputación, reconocimiento, afiliaciones, funciones, disfraces y operaciones encubiertas se desarrollan en capítulos posteriores.
+Por ejemplo:
 
-## 2.7. Rasgos
+- un agricultor puede recibir **Oficio (agricultura) +2** y varias Habilidades adicionales a +1;
+- un ladrón recibe **Hurto +2**, mientras que Sigilo, Atletismo o Cerrajería forman parte de sus Habilidades profesionales y debe comprarlas con sus puntos normales si las desea.
+
+El Oficio no determina por sí solo la Clase social.
+
+## 2.6. Origen
+
+El **Origen** describe el lugar, familia y ambiente concreto donde creció el personaje.
+
+Puede incluir:
+
+- región;
+- aldea o ciudad;
+- familia;
+- institución;
+- condiciones materiales;
+- acontecimientos de juventud;
+- experiencias previas.
+
+El Origen es principalmente narrativo.
+
+No concede automáticamente niveles de Habilidad.
+
+Puede justificar:
+
+- familiaridad con un lugar;
+- conocimientos cotidianos;
+- contactos;
+- lenguas o dialectos;
+- una excepción razonable a las Habilidades normalmente accesibles durante la creación, con autorización del director.
+
+Ejemplos:
+
+- aldea agrícola;
+- ciudad portuaria;
+- familia guerrera empobrecida;
+- monasterio;
+- taller artesanal;
+- comunidad marinera;
+- familia mercantil;
+- región montañosa.
+
+## 2.7. Afiliaciones
+
+Una **Afiliación** indica a qué organización, comunidad o red pertenece, sirve o debe lealtad el personaje.
+
+No posee puntuación.
+
+Puede proporcionar acceso, obligaciones, contactos, protección, enemigos o responsabilidades.
+
+Ejemplos:
+
+- servir a una casa o clan;
+- pertenecer a un templo;
+- formar parte de una comunidad rural;
+- trabajar para una casa mercantil;
+- pertenecer a una banda criminal;
+- formar parte de una compañía de mercenarios;
+- servir temporalmente a un señor sin integrarse en su casa;
+- ejercer como mercader independiente;
+- ser un rōnin sin afiliación estable.
+
+Un personaje puede poseer varias Afiliaciones cuando resulten compatibles.
+
+La Afiliación no concede automáticamente Habilidades. Puede, sin embargo, proporcionar durante la campaña acceso narrativo a maestros, entrenamiento, equipo, información u otras oportunidades.
+
+## 2.8. Posición percibida e identidad
+
+La posición real de un personaje y la que otras personas creen que ocupa pueden ser diferentes.
+
+Un guerrero puede viajar vestido como criado. Un ashigaru puede presentarse como servidor de una casa lejana. Un mercader puede fingir una función oficial. Una persona de origen guerrero puede vivir bajo una identidad religiosa o civil.
+
+Mientras la identidad resulte creíble y nadie tenga motivos para comprobarla, los demás reaccionan de acuerdo con lo que creen estar viendo.
+
+Cuando exista incertidumbre se utilizan las Habilidades apropiadas, especialmente Disfraz, Etiqueta, Engaño, Falsificación y las competencias relacionadas con la identidad adoptada.
+
+Las reglas prácticas de infiltración mediante identidad aparecen en el capítulo 9.
+
+## 2.9. Rasgos
 
 Los **Rasgos** describen elementos importantes del personaje que no necesitan una puntuación propia.
 
@@ -491,8 +579,6 @@ Pueden representar:
 - hábitos;
 - experiencias pasadas.
 
-Un Rasgo puede ayudar en una situación y perjudicar en otra.
-
 Ejemplos:
 
 - Leal a su señor.
@@ -505,26 +591,20 @@ Ejemplos:
 - Incapaz de abandonar a un compañero.
 - Busca vengar la muerte de su hermano.
 
-Los Rasgos no sustituyen Características ni Habilidades.
+Los Rasgos no sustituyen Características ni Habilidades y no conceden automáticamente un modificador.
 
-Un Rasgo **no concede automáticamente un modificador**.
+Pueden:
 
-Puede influir cuando la ficción lo justifique:
-
-- proporcionar una ventaja narrativa real;
+- justificar una ventaja narrativa real;
 - justificar conocimiento, contacto o acceso;
-- limitar una decisión;
-- producir una complicación;
-- hacer que determinada conducta resulte incoherente con el personaje.
+- provocar una complicación;
+- señalar que una decisión entra en conflicto con la personalidad o historia del personaje.
 
-Ejemplos:
+**Un Rasgo nunca obliga al jugador a tomar una decisión determinada.**
 
-- **Antiguo ashigaru** puede justificar familiaridad con campamentos militares, pero no sustituye a Táctica.
-- **Conocido entre los mercaderes de Sakai** puede facilitar encontrar un contacto, pero no sustituye a Comercio.
-- **Leal a su señor** puede llevar al personaje a aceptar un riesgo que otro evitaría.
-- **Mala reputación en la provincia** puede perjudicar una negociación antes incluso de hablar.
+Actuar contra un Rasgo puede representar conflicto interno, cambio de prioridades o evolución del personaje. Si deja de describir al personaje de forma duradera, puede modificarse o sustituirse.
 
-Cuando un Rasgo provoca una complicación, sacrificio o decisión especialmente significativa, el director puede conceder **1 punto de Suerte**.
+Cuando seguir un Rasgo provoca una complicación, sacrificio o decisión especialmente significativa, el director puede conceder **1 punto de Suerte**.
 
 Como orientación, un personaje jugador comienza con **entre dos y cuatro Rasgos**.
 
@@ -790,6 +870,20 @@ Imitar o alterar documentos, sellos, marcas, firmas, permisos y otros elementos 
 
 No garantiza que el personaje conozca el contenido, formato o tratamiento correcto del documento. Para eso pueden ser necesarias **Escritura y documentos, Administración o Etiqueta**.
 
+### Hurto
+
+Sustraer, ocultar o manipular pequeños objetos sin que la víctima o los observadores lo adviertan.
+
+Se utiliza para:
+
+- vaciar una bolsa;
+- robar una llave;
+- tomar un objeto de una mesa sin llamar la atención;
+- ocultar discretamente un objeto pequeño;
+- realizar juegos de manos orientados al robo.
+
+Hurto no sustituye a **Sigilo** para desplazarse sin ser visto, a **Cerrajería** para abrir un cierre ni a **Engaño** para mantener una historia falsa.
+
 ## 4.5. Combate
 
 ### Espadas `*`
@@ -1015,11 +1109,27 @@ Ejemplos:
 
 # 5. Creación de personajes
 
-El director determina el nivel general de capacidad apropiado para la campaña.
+El director determina si los personajes jugadores serán **ordinarios** o **excepcionales**.
 
-## 5.1. Coste de las Habilidades
+Salvo que la campaña busque deliberadamente protagonistas modestos, los personajes jugadores son normalmente excepcionales.
 
-Las Habilidades comienzan como **no adquiridas**, salvo las concedidas gratuitamente por ocupación y origen.
+## 5.1. Orden de creación
+
+Un personaje se crea en este orden:
+
+1. determinar la Clase social;
+2. elegir un Oficio permitido por esa Clase;
+3. definir Origen y Afiliaciones;
+4. repartir Características;
+5. aplicar las Habilidades gratuitas del Oficio;
+6. gastar los puntos de Habilidad entre las Habilidades disponibles;
+7. elegir Rasgos;
+8. determinar Técnicas marciales iniciales cuando corresponda;
+9. anotar Suerte, equipo y estado inicial.
+
+## 5.2. Coste de las Habilidades
+
+Las Habilidades comienzan como **no adquiridas**, salvo los niveles concedidos gratuitamente por el Oficio.
 
 Durante la creación:
 
@@ -1032,9 +1142,321 @@ Durante la creación:
 
 Cada punto compra un paso.
 
-Si la ocupación u origen conceden gratuitamente una Habilidad, sólo se pagan los pasos adicionales.
+Cuando el Oficio concede gratuitamente una Habilidad, el personaje sólo paga los pasos adicionales.
 
-## 5.2. Personaje ordinario
+Ejemplos:
+
+- si el Oficio concede una Habilidad a +1, llevarla a +2 cuesta 1 punto;
+- si concede una Habilidad a +2, llevarla a +3 cuesta 1 punto.
+
+Los máximos de la categoría de personaje siguen aplicándose.
+
+## 5.3. Habilidades generales
+
+Las siguientes Habilidades pueden comprarse durante la creación independientemente de Clase u Oficio:
+
+- Alerta;
+- Registro;
+- Engaño;
+- Persuasión;
+- Intimidación;
+- Perspicacia;
+- Templanza;
+- Pelea.
+
+Las demás deben estar disponibles por Clase social, por Oficio o mediante una excepción justificada por el Origen y aceptada por el director.
+
+## 5.4. Clase social
+
+El jugador puede elegir la Clase social apropiada para su concepto.
+
+Cuando se quiera determinar al azar, se tiran **2d6**:
+
+| 2d6 | Clase social |
+|---:|---|
+| **2–8** | Campesino |
+| **9** | Artesano |
+| **10** | Mercader |
+| **11** | Samurái |
+| **12** | Noble |
+
+La tabla sirve como herramienta de generación, no como censo exacto de la población.
+
+La Clase social determina los Oficios normalmente accesibles y algunas Habilidades adicionales que pueden comprarse durante la creación.
+
+### Campesino
+
+**Habilidades de Clase:**
+
+- Atletismo;
+- Natación;
+- Supervivencia;
+- Rastreo;
+- Vigilancia;
+- Armas de asta;
+- Arco;
+- Primeros auxilios;
+- Oficio relacionado con actividades rurales.
+
+**Oficios habituales:** Agricultor, Pescador, Cazador, Leñador o carbonero, Criado, Porteador, Marinero, Mensajero, Ladrón, Bandido, Ashigaru, Guardia, Mercenario, Monje, Yamabushi, Artista o entretenedor, Prostituta/o, Agente clandestino.
+
+### Artesano
+
+**Habilidades de Clase:**
+
+- Oficio relacionado con una artesanía;
+- Comercio;
+- Registro;
+- Cerrajería;
+- Ingeniería;
+- Primeros auxilios.
+
+**Oficios habituales:** Artesano, Herrero o armero, Carpintero o constructor, Criado, Mensajero, Ladrón, Bandido, Guardia, Mercenario, Escribano, Médico, Monje, Yamabushi, Artista o entretenedor, Prostituta/o, Agente clandestino.
+
+### Mercader
+
+**Habilidades de Clase:**
+
+- Comercio;
+- Administración;
+- Escritura y documentos;
+- Etiqueta;
+- Vigilancia;
+- Idiomas.
+
+**Oficios habituales:** Mercader, Administrador, Escribano, Marinero, Mensajero, Criado, Ladrón, Guardia, Médico, Monje, Artista o entretenedor, Prostituta/o, Agente clandestino.
+
+### Samurái
+
+**Habilidades de Clase:**
+
+- Espadas;
+- Armas de asta;
+- Arco;
+- Equitación;
+- Táctica;
+- Liderazgo;
+- Etiqueta;
+- Escritura y documentos;
+- Historia;
+- Vigilancia;
+- Primeros auxilios.
+
+**Oficios habituales:** Samurai de armas, Oficial militar, Administrador, Guardia, Mensajero, Mercenario, Escribano, Médico, Monje, Yamabushi, Agente clandestino.
+
+Un samurái sin señor puede conservar esta Clase social aunque su situación concreta sea la de rōnin.
+
+### Noble
+
+**Habilidades de Clase:**
+
+- Administración;
+- Escritura y documentos;
+- Historia;
+- Idiomas;
+- Etiqueta;
+- Liderazgo;
+- Religión;
+- Equitación.
+
+**Oficios habituales:** Cortesano o emisario, Oficial militar, Administrador, Samurai de armas, Escribano, Médico, Monje.
+
+La Clase Noble representa personajes procedentes de la élite aristocrática o de familias situadas en la cúspide política de la campaña. No implica gobernar personalmente un territorio.
+
+### Excepciones
+
+Las listas indican el acceso habitual durante la creación, no una prohibición metafísica.
+
+Un concepto bien justificado puede permitir una combinación distinta con autorización del director.
+
+Después de comenzar la campaña, las oportunidades reales de aprendizaje pueden ampliar el acceso del personaje independientemente de su Clase de nacimiento.
+
+## 5.5. Oficios
+
+Cada Oficio indica:
+
+- qué Clases pueden elegirlo normalmente;
+- qué **Habilidades profesionales** permite comprar;
+- qué **bonificaciones gratuitas** concede.
+
+Las Habilidades profesionales se añaden a las generales y a las de Clase.
+
+Las bonificaciones gratuitas no se diseñan mediante un presupuesto uniforme. Representan qué formación resulta inevitable para ejercer ese Oficio y cuánto valor tiene esa formación dentro del juego.
+
+### Agricultor
+
+**Clases:** Campesino.  
+**Habilidades profesionales:** Oficio (agricultura), Atletismo, Supervivencia, Alerta, Primeros auxilios, Armas de asta.  
+**Bonificaciones gratuitas:** Oficio (agricultura) +2, Atletismo +1, Supervivencia +1, Alerta +1.
+
+### Pescador
+
+**Clases:** Campesino.  
+**Habilidades profesionales:** Oficio (pesca), Marinería, Natación, Navegación, Alerta, Supervivencia.  
+**Bonificaciones gratuitas:** Oficio (pesca) +2, Marinería +1, Natación +1, Alerta +1.
+
+### Cazador
+
+**Clases:** Campesino.  
+**Habilidades profesionales:** Rastreo, Arco, Supervivencia, Sigilo, Vigilancia, Trampas, Alerta.  
+**Bonificaciones gratuitas:** Rastreo +1, Arco +1, Supervivencia +1.
+
+### Leñador o carbonero
+
+**Clases:** Campesino.  
+**Habilidades profesionales:** Oficio (trabajo forestal), Atletismo, Supervivencia, Rastreo, Alerta, Armas de asta.  
+**Bonificaciones gratuitas:** Oficio (trabajo forestal) +2, Atletismo +1, Supervivencia +1, Alerta +1.
+
+### Artesano
+
+**Clases:** Campesino, Artesano.  
+**Especialidad:** herrería, cerámica, tejido, fabricación de papel, cocina, construcción naval u otra apropiada.  
+**Habilidades profesionales:** Oficio de la especialidad, Comercio, Registro, Perspicacia y las Habilidades técnicas coherentes con el oficio.  
+**Bonificaciones gratuitas:** Oficio de la especialidad +2, Comercio +1, Registro +1.
+
+### Herrero o armero
+
+**Clases:** Artesano.  
+**Habilidades profesionales:** Oficio (herrería o fabricación de armas), Ingeniería, Comercio, Registro, Armas de asta, Espadas.  
+**Bonificaciones gratuitas:** Oficio (herrería o fabricación de armas) +2, Ingeniería +1, Registro +1.
+
+### Carpintero o constructor
+
+**Clases:** Campesino, Artesano.  
+**Habilidades profesionales:** Oficio (carpintería o construcción), Ingeniería, Atletismo, Registro, Trampas.  
+**Bonificaciones gratuitas:** Oficio (carpintería o construcción) +2, Ingeniería +1, Atletismo +1.
+
+### Mercader
+
+**Clases:** Artesano, Mercader.  
+**Habilidades profesionales:** Comercio, Administración, Escritura y documentos, Persuasión, Engaño, Etiqueta, Vigilancia, Idiomas.  
+**Bonificaciones gratuitas:** Comercio +2, Persuasión +1.
+
+### Criado
+
+**Clases:** Campesino, Artesano, Mercader.  
+**Habilidades profesionales:** Etiqueta, Alerta, Perspicacia, Vigilancia, Sigilo, Oficio (servicio doméstico), Administración.  
+**Bonificaciones gratuitas:** Etiqueta +1, Alerta +1, Perspicacia +1.
+
+### Porteador
+
+**Clases:** Campesino.  
+**Habilidades profesionales:** Atletismo, Supervivencia, Alerta, Intimidación.  
+**Bonificaciones gratuitas:** Atletismo +1, Supervivencia +1, Alerta +1.
+
+### Marinero
+
+**Clases:** Campesino, Mercader.  
+**Habilidades profesionales:** Marinería, Navegación, Natación, Atletismo, Alerta, Supervivencia.  
+**Bonificaciones gratuitas:** Marinería +1, Navegación +1, Natación +1.
+
+### Mensajero
+
+**Clases:** Campesino, Artesano, Mercader, Samurái.  
+**Habilidades profesionales:** Atletismo, Equitación, Navegación, Alerta, Supervivencia, Vigilancia.  
+**Bonificaciones gratuitas:** Navegación +1, Alerta +1 y una de las siguientes: Atletismo +1 o Equitación +1.
+
+### Ladrón
+
+**Clases:** Campesino, Artesano, Mercader.  
+**Habilidades profesionales:** Hurto, Sigilo, Cerrajería, Atletismo, Vigilancia, Engaño, Disfraz, Perspicacia.  
+**Bonificación gratuita:** Hurto +2.
+
+### Bandido
+
+**Clases:** Campesino, Artesano, Mercader, Samurái.  
+**Habilidades profesionales:** Armas de asta, Arco, Espadas, Atletismo, Supervivencia, Rastreo, Sigilo, Alerta, Intimidación, Táctica.  
+**Bonificaciones gratuitas:** una entre Armas de asta, Arco o Espadas +1; Supervivencia +1; Intimidación +1.
+
+### Ashigaru
+
+**Clases:** Campesino, Artesano, Mercader.  
+**Habilidades profesionales:** Armas de asta, Arco, Armas de fuego, Atletismo, Alerta, Templanza, Táctica, Supervivencia, Primeros auxilios.  
+**Bonificaciones gratuitas:** una entre Armas de asta, Arco o Armas de fuego +1; Atletismo +1; Templanza +1.
+
+La opción de Armas de fuego sólo está disponible cuando la fecha y región de la campaña hacen plausible ese entrenamiento.
+
+### Guardia
+
+**Clases:** Campesino, Artesano, Mercader, Samurái.  
+**Habilidades profesionales:** Alerta, Vigilancia, Templanza, Intimidación, Atletismo, Armas de asta, Arco, Espadas, Armas de fuego.  
+**Bonificaciones gratuitas:** Alerta +1, Templanza +1 y una Habilidad de arma apropiada +1.
+
+### Mercenario
+
+**Clases:** Campesino, Artesano, Mercader, Samurái.  
+**Habilidades profesionales:** Armas de asta, Arco, Espadas, Armas de fuego, Atletismo, Supervivencia, Alerta, Intimidación, Táctica, Primeros auxilios.  
+**Bonificaciones gratuitas:** una Habilidad de arma apropiada +1, Supervivencia +1, Alerta +1.
+
+### Samurai de armas
+
+**Clases:** Samurái, Noble.  
+**Habilidades profesionales:** Espadas, Armas de asta, Arco, Equitación, Táctica, Templanza, Liderazgo, Etiqueta, Armas de fuego.  
+**Bonificaciones gratuitas:** una entre Espadas, Armas de asta o Arco +1; Etiqueta +1; Equitación +1.
+
+### Oficial militar
+
+**Clases:** Samurái, Noble.  
+**Habilidades profesionales:** Táctica, Liderazgo, Administración, Etiqueta, Escritura y documentos, Equitación, Espadas, Armas de asta, Arco, Armas de fuego.  
+**Bonificaciones gratuitas:** Táctica +1, Liderazgo +1, Etiqueta +1.
+
+### Administrador
+
+**Clases:** Artesano, Mercader, Samurái, Noble.  
+**Habilidades profesionales:** Administración, Escritura y documentos, Etiqueta, Comercio, Historia, Persuasión, Perspicacia.  
+**Bonificaciones gratuitas:** Administración +1, Escritura y documentos +1, Etiqueta +1.
+
+### Escribano
+
+**Clases:** Artesano, Mercader, Samurái, Noble.  
+**Habilidades profesionales:** Escritura y documentos, Administración, Historia, Falsificación, Idiomas, Etiqueta.  
+**Bonificaciones gratuitas:** Escritura y documentos +2, Administración +1, Historia +1.
+
+### Médico
+
+**Clases:** Artesano, Mercader, Samurái, Noble.  
+**Habilidades profesionales:** Medicina, Primeros auxilios, Escritura y documentos, Venenos, Religión.  
+**Bonificaciones gratuitas:** Medicina +1, Primeros auxilios +1, Escritura y documentos +1.
+
+### Monje
+
+**Clases:** cualquiera.  
+**Habilidades profesionales:** Religión, Escritura y documentos, Historia, Templanza, Primeros auxilios, Persuasión, Etiqueta.  
+**Bonificaciones gratuitas:** Religión +2, Templanza +1, Escritura y documentos +1.
+
+### Yamabushi
+
+**Clases:** cualquiera.  
+**Habilidades profesionales:** Religión, Supervivencia, Atletismo, Templanza, Rastreo, Primeros auxilios, Armas de asta.  
+**Bonificaciones gratuitas:** Religión +1, Supervivencia +1, Templanza +1.
+
+### Artista o entretenedor
+
+**Clases:** Campesino, Artesano, Mercader.  
+**Habilidades profesionales:** Oficio (música, danza, teatro u otra especialidad), Persuasión, Engaño, Disfraz, Perspicacia, Etiqueta, Vigilancia.  
+**Bonificaciones gratuitas:** Oficio artístico +2, Persuasión +1, Perspicacia +1.
+
+### Prostituta/o
+
+**Clases:** Campesino, Artesano, Mercader.  
+**Habilidades profesionales:** Perspicacia, Engaño, Persuasión, Vigilancia, Etiqueta, Disfraz, Comercio.  
+**Bonificaciones gratuitas:** Perspicacia +1, Engaño +1, Persuasión +1.
+
+### Agente clandestino
+
+**Clases:** cualquiera.  
+**Habilidades profesionales:** Sigilo, Vigilancia, Disfraz, Engaño, Cerrajería, Trampas, Falsificación, Atletismo, Rastreo, Venenos.  
+**Bonificaciones gratuitas:** Sigilo +1, Vigilancia +1, Disfraz +1.
+
+Este Oficio representa a una persona formada de manera habitual para tareas clandestinas. No crea una clase social o casta de «ninja» y no sustituye a las Habilidades concretas.
+
+### Cortesano o emisario
+
+**Clases:** Samurái, Noble.  
+**Habilidades profesionales:** Etiqueta, Persuasión, Escritura y documentos, Historia, Administración, Idiomas, Perspicacia, Liderazgo.  
+**Bonificaciones gratuitas:** Etiqueta +1, Persuasión +1, Escritura y documentos +1.
+
+## 5.6. Personaje ordinario
 
 Representa a la mayoría de las personas y es una buena referencia para PNJ comunes.
 
@@ -1055,11 +1477,11 @@ Distribuciones habituales:
 - 5 puntos de Habilidad;
 - ninguna puede comenzar por encima de +2.
 
-## 5.3. Personaje excepcional
+Los niveles gratuitos del Oficio se aplican antes de gastar estos puntos.
+
+## 5.7. Personaje excepcional
 
 Representa a protagonistas especialmente capaces, veteranos destacados, especialistas y antagonistas importantes.
-
-Salvo que la campaña busque personajes deliberadamente modestos, ésta es la categoría recomendada para personajes jugadores.
 
 ### Características
 
@@ -1080,7 +1502,9 @@ Distribuciones habituales:
 - una sola puede comenzar a +3;
 - las demás no pueden superar +2.
 
-## 5.4. Deficiencias
+Los niveles gratuitos del Oficio se aplican antes de gastar estos puntos.
+
+## 5.8. Deficiencias
 
 Durante la creación puede reducirse una Característica de 0 a −1.
 
@@ -1088,73 +1512,29 @@ Cada reducción proporciona **1 punto adicional de Característica**.
 
 La deficiencia debe describirse y sus consecuencias físicas o psicológicas se aplican siempre que sean relevantes.
 
-## 5.5. Ocupación
+## 5.9. Origen
 
-La **Ocupación** describe la actividad principal para la que el personaje ha sido formado o mediante la que se gana habitualmente la vida.
+El Origen no concede automáticamente Habilidades.
 
-Ejemplos:
+Debe describirse de forma breve y concreta.
 
-- samurái al servicio de una casa;
-- ashigaru veterano;
-- campesino;
-- mercader;
-- artesano;
-- marinero;
-- monje;
-- administrador;
-- médico;
-- mensajero;
-- ladrón;
-- bandido;
-- criado;
-- artista o entretenedor.
+Puede justificar familiaridad, contactos, conocimiento local o, con autorización del director, acceso durante la creación a una Habilidad que normalmente no estaría disponible por Clase u Oficio.
 
-La ocupación concede gratuitamente:
+## 5.10. Afiliaciones
 
-- una Habilidad coherente a **+1**;
-- otra Habilidad coherente a **+0**.
+El personaje anota las Afiliaciones que resulten relevantes.
 
-La ocupación no determina la posición social por sí sola.
+No tienen coste ni valor numérico.
 
-## 5.6. Origen
+Deben reflejar relaciones reales de servicio, pertenencia, dependencia o lealtad.
 
-El Origen representa la formación anterior y el ambiente donde creció el personaje.
-
-Concede gratuitamente una Habilidad coherente a **+0**.
-
-Ejemplos:
-
-- aldea agrícola;
-- ciudad portuaria;
-- familia guerrera;
-- monasterio;
-- taller artesanal;
-- comunidad marinera;
-- séquito de una casa;
-- familia mercantil;
-- región montañosa.
-
-Origen y Ocupación pueden ser muy diferentes.
-
-## 5.7. Posición social
-
-La posición social se elige de acuerdo con el concepto y la campaña y debe ser aprobada por el director.
-
-No se compra con puntos y no pretende estar «equilibrada» numéricamente.
-
-Ser miembro reconocido de una casa guerrera puede proporcionar acceso, autoridad y obligaciones. Ser un mercader rico puede proporcionar recursos sin conceder autoridad militar. Ser un campesino puede facilitar la integración en una aldea y dificultar el acceso a determinados espacios.
-
-Las reglas y ejemplos completos se desarrollan en el capítulo de Sociedad.
-
-## 5.8. Rasgos
+## 5.11. Rasgos
 
 El personaje comienza normalmente con **dos a cuatro Rasgos**.
 
 Los Rasgos no cuestan puntos.
 
-Deben ser suficientemente concretos para poder influir en decisiones y relaciones durante la partida.
-
-## 5.9. Suerte y estado inicial
+## 5.12. Suerte y estado inicial
 
 Todo personaje comienza normalmente con:
 
@@ -1164,13 +1544,15 @@ Todo personaje comienza normalmente con:
 - Tensión perdida 0;
 - ninguna Herida.
 
-## 5.10. Técnicas marciales iniciales
+## 5.13. Técnicas marciales iniciales
 
 Las Técnicas no se compran con puntos de Habilidad.
 
 El acceso inicial depende de la formación marcial real del personaje, de los maestros o escuela a los que haya tenido acceso y del nivel de campaña.
 
-El director determina qué Técnicas iniciales son coherentes con el personaje. Una persona que posee una Habilidad de combate elevada no adquiere automáticamente Técnicas de una escuela que nunca ha estudiado.
+El director determina qué Técnicas iniciales son coherentes con el personaje.
+
+Poseer una Habilidad de combate elevada no concede automáticamente Técnicas de una escuela que el personaje nunca haya estudiado.
 
 # 6. Combate
 
@@ -1987,9 +2369,13 @@ La posición de una persona dependía de una combinación de:
 
 Las categorías sociales del periodo Edo no deben proyectarse automáticamente hacia atrás. Durante el Sengoku podían producirse ascensos, cambios de servicio, adopciones, pérdida de tierras, movilización de población rural como soldados y otras transformaciones.
 
-## 8.1. Posición social como circunstancia
+## 8.1. Clase y posición social
 
-La Posición social no concede un bonificador universal.
+La **Clase social** utilizada durante la creación determina acceso inicial a Oficios y Habilidades, pero no resume por sí sola la posición concreta que una persona ocupa en el mundo.
+
+La posición social real depende además de rango, riqueza, función, afiliaciones, reputación y circunstancias.
+
+Durante el juego no concede un bonificador universal.
 
 Cambia la situación.
 
