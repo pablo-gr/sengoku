@@ -1440,7 +1440,7 @@ No puede utilizarse una Técnica activa y una carta de Suerte en el mismo Interc
 
 Las Técnicas pasivas no ocupan esta elección y pueden activarse cuando se cumplan sus condiciones.
 
-Las reglas generales de Técnicas se encuentran en el capítulo 11 y el catálogo de Técnicas permanece al final del manual.
+Las reglas generales de Técnicas se encuentran en el capítulo 12 y el catálogo de Técnicas permanece al final del manual.
 
 ## 6.18. Secuencia de un Intercambio
 
@@ -3052,9 +3052,215 @@ Conseguir un bien raro puede convertirse en una escena de **Comercio, Persuasió
 
 Una campaña centrada en comercio o administración puede utilizar precios concretos y monedas históricas, pero esos valores deben adaptarse a la región y fecha de la campaña en lugar de asumir una economía uniforme para todo el Sengoku.
 
-# 11. Reglas de Técnicas marciales
+# 11. Mejora y aprendizaje
 
-## 11.1. Función de las Técnicas
+Una vez creado el personaje, las Habilidades se adquieren y mejoran mediante **experiencia práctica y aprendizaje narrativo**.
+
+Los puntos utilizados durante la creación dejan de emplearse.
+
+La mejora no se produce simplemente por acumular sesiones. Debe existir una razón dentro de la ficción para que el personaje haya aprendido.
+
+## 11.1. Fallos relevantes
+
+Un fracaso puede contar como **fallo relevante** cuando:
+
+1. el reto era importante para la partida;
+2. el personaje estuvo razonablemente cerca de conseguirlo.
+
+Como referencia objetiva, un fracaso puede considerarse cercano cuando el personaje habría tenido éxito gastando todos los puntos de Suerte que aún conservaba.
+
+Ejemplo:
+
+Un personaje conserva 2 puntos de Suerte.
+
+- Fallar por 1 o 2 puede contar como fallo relevante.
+- Fallar por 3 o más normalmente no.
+
+La diferencia sólo se consulta para esta regla de aprendizaje. No crea grados de fracaso en la resolución normal.
+
+## 11.2. Qué retos cuentan
+
+El director decide si un reto era relevante.
+
+Normalmente cuenta cuando afecta a:
+
+- seguridad del personaje o del grupo;
+- éxito de una misión;
+- información importante;
+- relaciones con PNJ;
+- recursos significativos;
+- una operación clandestina;
+- combate;
+- supervivencia;
+- una decisión con consecuencias reales.
+
+Los retos provocados artificialmente para acumular experiencia no cuentan.
+
+## 11.3. Registro
+
+Los fallos relevantes se anotan en la Habilidad utilizada.
+
+También pueden anotarse para una Habilidad no adquirida cuando la experiencia obtenida pueda justificar comenzar a aprenderla.
+
+## 11.4. Cantidades orientativas
+
+| Mejora | Fallos relevantes orientativos |
+|---|---:|
+| Adquirir una Habilidad a +0 | 2 |
+| Mejorarla a +1 | 4 |
+| Mejorarla a +2 | 8 |
+| Mejorarla a +3 | 16 |
+
+Estas cantidades son una guía.
+
+El director puede:
+
+- reducirlas;
+- aumentarlas;
+- considerar suficiente una experiencia especialmente formativa;
+- permitir una mejora mediante formación excepcional;
+- exigir más práctica cuando el aprendizaje resulte difícil de justificar.
+
+## 11.5. Justificación narrativa
+
+La justificación narrativa es obligatoria.
+
+### Adquirir +0
+
+Representa familiaridad rudimentaria.
+
+Puede proceder de:
+
+- instrucción básica;
+- experiencia directa;
+- práctica breve pero real;
+- acompañar a alguien competente;
+- exposición continuada a la actividad.
+
+### Nivel +1
+
+Representa una competencia básica utilizable de forma fiable.
+
+Puede exigir:
+
+- días o semanas de práctica;
+- instrucción regular;
+- experiencia repetida;
+- ayuda de una persona competente.
+
+### Nivel +2
+
+Representa competencia profesional.
+
+Exige normalmente:
+
+- formación estructurada;
+- práctica continuada;
+- experiencia real en situaciones diferentes;
+- un periodo significativo de trabajo o entrenamiento;
+- un maestro, oficio, unidad o institución apropiada cuando la Habilidad lo requiera.
+
+### Nivel +3
+
+Representa dominio excepcional.
+
+Puede exigir:
+
+- años de experiencia;
+- entrenamiento avanzado;
+- dedicación intensiva;
+- maestros excepcionales;
+- experiencia acumulada en situaciones difíciles.
+
+Un personaje no alcanza +3 porque haya utilizado una Habilidad muchas veces de forma trivial.
+
+## 11.6. Aprendizaje entre aventuras
+
+El tiempo entre aventuras puede utilizarse para:
+
+- entrenar;
+- trabajar en un oficio;
+- estudiar;
+- practicar una Habilidad;
+- recuperarse;
+- buscar un maestro;
+- aprender una Técnica;
+- mejorar relaciones o contactos.
+
+El director determina cuánto progreso cabe razonablemente en el tiempo disponible.
+
+Una campaña con largos periodos de inactividad puede permitir mejoras mediante entrenamiento aunque no se hayan acumulado todos los fallos orientativos.
+
+## 11.7. Aprender Técnicas marciales
+
+Las Técnicas marciales no se adquieren mediante fallos relevantes.
+
+Requieren acceso real a una fuente de enseñanza.
+
+Puede ser:
+
+- un maestro;
+- una escuela;
+- un compañero que conozca la Técnica y pueda enseñarla;
+- una tradición familiar;
+- entrenamiento militar específico;
+- otra fuente coherente con la Técnica.
+
+Aprender una Técnica puede requerir:
+
+- tiempo;
+- práctica;
+- cumplir prerrequisitos;
+- pertenecer o tener acceso a una escuela;
+- demostrar un nivel mínimo de Habilidad;
+- encontrar a alguien dispuesto a enseñarla.
+
+El director decide cuándo el entrenamiento ha sido suficiente.
+
+Una Técnica especialmente compleja puede requerir semanas, meses o años.
+
+## 11.8. Escuelas y acceso
+
+Conocer una Técnica de una escuela no implica automáticamente tener acceso a todo su repertorio.
+
+La enseñanza puede depender de:
+
+- fecha;
+- región;
+- maestro;
+- relación personal;
+- posición;
+- secretos de transmisión;
+- nivel alcanzado por el alumno.
+
+Una campaña puede utilizar este acceso como recompensa narrativa.
+
+## 11.9. Características
+
+Las Características representan capacidades generales relativamente estables y **no mejoran mediante el sistema ordinario de fallos relevantes**.
+
+Un cambio de Característica debe ser excepcional y estar justificado por una transformación prolongada o importante del personaje.
+
+El director puede permitir cambios derivados de:
+
+- entrenamiento físico de larga duración;
+- envejecimiento;
+- enfermedad;
+- lesión permanente;
+- recuperación;
+- cambios vitales excepcionales.
+
+Las Características siguen respetando la escala humana definida por el reglamento.
+
+## 11.10. Límite humano
+
+Una Habilidad ordinaria no puede superar normalmente **+3**.
+
+Valores superiores representarían una excepción deliberada de campaña y no forman parte de la escala humana normal.
+
+# 12. Reglas de Técnicas marciales
+
+## 12.1. Función de las Técnicas
 
 Las **Técnicas** representan entrenamiento marcial concreto: métodos aprendidos, principios tácticos, respuestas practicadas y capacidades especiales desarrolladas mediante instrucción y experiencia.
 
@@ -3078,7 +3284,7 @@ No todas las Técnicas proporcionan bonificaciones numéricas.
 
 Las Técnicas que alteran reglas, abren posibilidades o dependen del contexto son preferibles a convertir el sistema en una acumulación de modificadores.
 
-## 11.2. Técnicas activas
+## 12.2. Técnicas activas
 
 Una Técnica **activa** debe elegirse expresamente como la elección secreta del personaje durante un Intercambio.
 
@@ -3099,7 +3305,7 @@ Una Técnica activa puede tener:
 - efectos condicionados al resultado;
 - interacciones con Técnicas del adversario.
 
-## 11.3. Técnicas pasivas
+## 12.3. Técnicas pasivas
 
 Una Técnica **pasiva** forma permanentemente parte de las capacidades disponibles del personaje.
 
@@ -3120,7 +3326,7 @@ Puede poseer:
 
 El personaje decide si desea utilizarla cuando se produzca la situación correspondiente, salvo que la propia Técnica indique expresamente que su efecto es automático.
 
-## 11.4. Costes
+## 12.4. Costes
 
 Una Técnica puede exigir un coste al utilizarse.
 
@@ -3141,7 +3347,7 @@ Una Técnica no debe considerarse equilibrada simplemente porque exista alguna T
 
 Especialmente, una Técnica activa que conceda un modificador numérico incondicional necesita una limitación significativa, como coste, Cooldown, riesgo o requisito restrictivo. De otro modo se convertiría en la elección automática de todos los Intercambios.
 
-## 11.5. Cooldown
+## 12.5. Cooldown
 
 Cuando una Técnica con **Cooldown** se utiliza durante un Intercambio, no puede utilizarse durante el Intercambio siguiente.
 
@@ -3153,7 +3359,7 @@ El Cooldown representa la imposibilidad de repetir inmediatamente una misma mani
 
 Como criterio general de diseño, **la mayoría de las Técnicas activas deben tener Cooldown**. La ausencia de Cooldown debe justificarse por un coste acumulativo, un riesgo importante o una limitación equivalente que impida convertir la Técnica en la elección automática de todos los Intercambios.
 
-## 11.6. Contexto y requisitos
+## 12.6. Contexto y requisitos
 
 Una Técnica sólo puede utilizarse cuando se cumplen sus requisitos físicos y narrativos.
 
@@ -3174,7 +3380,7 @@ Ejemplos:
 
 Si el entorno hace imposible cumplir el requisito, la Técnica no puede utilizarse.
 
-## 11.7. Duración
+## 12.7. Duración
 
 Una Técnica activa se declara en un Intercambio concreto, pero su efecto puede durar más de ese Intercambio si así lo especifica.
 
@@ -3185,11 +3391,11 @@ La Técnica debe indicar claramente:
 - qué condiciones pueden finalizarlo;
 - si sigue contando como utilizada a efectos de Cooldown.
 
-## 11.8. Etiquetas funcionales
+## 12.8. Etiquetas funcionales
 
 Las Técnicas pueden utilizar etiquetas descriptivas para facilitar interacciones generales.
 
-Etiquetas provisionales:
+Etiquetas:
 
 - **Ataque**
 - **Defensa**
@@ -3210,7 +3416,7 @@ Por ejemplo, una Técnica puede indicar:
 
 > Si el adversario juega una Técnica de Movimiento, obtienes +2.
 
-## 11.9. Criterio de equilibrio
+## 12.9. Criterio de equilibrio
 
 Una Técnica poderosa no es necesariamente problemática.
 
@@ -3242,7 +3448,7 @@ Existe una diferencia fundamental entre:
 
 Una Técnica que evita perder puede mantener un combate vivo. Una Técnica que fuerza automáticamente una victoria puede Comprometer Guardia, causar Heridas o terminar un duelo sin dar al adversario una respuesta suficiente.
 
-## 11.10. Técnicas y efectos de resultado
+## 12.10. Técnicas y efectos de resultado
 
 Las Técnicas pueden utilizar Empate, Éxito y Crítico como condiciones.
 
@@ -3257,7 +3463,7 @@ Ejemplos:
 
 Un Crítico incluye todas las posibilidades de un Éxito, además de las opciones exclusivas de Crítico.
 
-## 11.11. Técnicas de supervivencia
+## 12.11. Técnicas de supervivencia
 
 Algunas Técnicas pueden actuar como último recurso después de que el personaje haya perdido un Intercambio.
 
@@ -3277,11 +3483,11 @@ Estas Técnicas no deberían:
 - recuperar gratuitamente Guardia;
 - eliminar todos los costes sufridos.
 
-# 12. Escuelas marciales — planificación provisional
+# 13. Escuelas marciales
 
 > Este capítulo define la identidad mecánica prevista para las primeras escuelas. No pretende afirmar que las escuelas históricas utilizaran literalmente las reglas o Técnicas descritas. Se distingue entre la base histórica conocida y la interpretación creada para el juego.
 
-## 12.1. Tenshin Shōden Katori Shintō-ryū
+## 13.1. Tenshin Shōden Katori Shintō-ryū
 
 **Base histórica:** tradición de amplio currículo marcial, con entrenamiento en distintas armas y disciplinas.
 
@@ -3301,7 +3507,7 @@ Idea central:
 
 > **Sé explotar armas distintas de formas distintas.**
 
-## 12.2. Kashima-Shinryū
+## 13.2. Kashima-Shinryū
 
 **Base histórica:** tradición marcial asociada a principios que integran movimiento y quietud, ataque y defensa, y conceptos de apariencia y realidad.
 
@@ -3319,7 +3525,7 @@ Idea central:
 
 > **Defender y atacar pueden formar parte de una misma acción.**
 
-## 12.3. Shinkage-ryū / Yagyū Shinkage-ryū
+## 13.3. Shinkage-ryū / Yagyū Shinkage-ryū
 
 **Base histórica:** tradición surgida durante el siglo XVI y posteriormente desarrollada por la línea Yagyū, con fuerte énfasis en adaptación, lectura e interacción con la iniciativa del adversario.
 
@@ -3338,7 +3544,7 @@ Idea central:
 
 > **Dejo que reveles tu intención y utilizo esa decisión contra ti.**
 
-## 12.4. Hōzōin-ryū Sōjutsu
+## 13.4. Hōzōin-ryū Sōjutsu
 
 **Base histórica:** tradición de sōjutsu del siglo XVI vinculada al uso de yari y especialmente formas de kamayari o jūmonji-yari capaces de estocar, barrer, enganchar y controlar.
 
@@ -3358,7 +3564,7 @@ Idea central:
 
 > **Yo decido a qué distancia se combate.**
 
-## 12.5. Takenouchi-ryū
+## 13.5. Takenouchi-ryū
 
 **Base histórica:** tradición fundada en el siglo XVI asociada a kogusoku, armas cortas, agarres, captura y combate a distancia muy corta.
 
@@ -3380,7 +3586,7 @@ Idea central:
 
 > **Quiero estar demasiado cerca para que utilices tu arma como deseas.**
 
-## 12.6. Taisha-ryū
+## 13.6. Taisha-ryū
 
 **Base histórica:** tradición surgida hacia el final del Sengoku, vinculada a Shinkage y conocida por un repertorio marcial pragmático que incluye movimientos engañosos y recursos diversos.
 
@@ -3399,7 +3605,7 @@ Idea central:
 
 > **Te presiono hasta que dejas una apertura.**
 
-## 12.7. Tradición clandestina de Iga
+## 13.7. Tradición clandestina de Iga
 
 **Base histórica:** Iga no se trata como una única «escuela ninja». La región reunió familias, guerreros y comunidades con experiencia en guerra irregular, infiltración, operaciones nocturnas, uso del terreno y otras funciones que posteriormente contribuyeron a su reputación.
 
@@ -3423,7 +3629,7 @@ Idea central:
 
 > **Si estoy obligado a combatir limpiamente, mi plan ya ha fallado.**
 
-## 12.8. Equilibrio entre escuelas
+## 13.8. Equilibrio entre escuelas
 
 Las escuelas se equilibran como **conjuntos de opciones**, no necesariamente Técnica por Técnica.
 
@@ -3435,7 +3641,7 @@ Las combinaciones especialmente poderosas pueden mantenerse separadas mediante e
 
 Los counters importantes deben poder aparecer en varias escuelas o depender también de recursos universales como terreno, distancia, Fatiga, Suerte o lectura del adversario.
 
-## 12.9. Cronología
+## 13.9. Cronología
 
 No todas las escuelas existen durante todo el periodo Sengoku.
 
@@ -3448,17 +3654,17 @@ La disponibilidad debe depender de:
 
 El manual definitivo deberá incluir cronologías y condiciones de acceso suficientemente precisas para cada tradición.
 
-# 13. Técnicas marciales
+# 14. Técnicas marciales
 
 Este capítulo reúne el catálogo de Técnicas disponibles para los personajes.
 
-Las reglas generales que determinan cómo funcionan las Técnicas —tipos, elección secreta, costes, Cooldown, etiquetas, requisitos y duración— se explican en el capítulo 11. Las Técnicas de este catálogo modifican o amplían esas reglas cuando su descripción lo indica expresamente.
+Las reglas generales que determinan cómo funcionan las Técnicas —tipos, elección secreta, costes, Cooldown, etiquetas, requisitos y duración— se explican en el capítulo 12. Las Técnicas de este catálogo modifican o amplían esas reglas cuando su descripción lo indica expresamente.
 
 El catálogo debe permanecer como **capítulo final del manual**. Si se añaden nuevos capítulos de reglas, equipo, ambientación, sociedad, viaje u otros subsistemas, se insertarán antes de éste. De este modo pueden añadirse nuevas Técnicas sin reorganizar el cuerpo principal del reglamento.
 
 Salvo que una Técnica indique lo contrario, se aplican todas las reglas normales de Combate. Cuando una Técnica contradice expresamente una regla general, prevalece la excepción indicada por la Técnica.
 
-## 13.1. Técnicas generales
+## 14.1. Técnicas generales
 
 ### Defensa Activa
 
@@ -3556,7 +3762,7 @@ La derrota permanece y la Guardia no mejora.
 **Coste:** 2 Suerte.  
 **Cooldown:** sí.
 
-## 13.2. Katori Shintō-ryū
+## 14.2. Katori Shintō-ryū
 
 ### Control de alcance
 
@@ -3591,7 +3797,7 @@ La derrota permanece y la Guardia no mejora.
 **Efecto:** si el rival utiliza una Técnica activa con la etiqueta **Ataque** y, antes de aplicar el efecto de Dos hojas, el personaje perdería el Intercambio, obtiene **+2 al resultado**. Si no se cumplen ambas condiciones, Dos hojas no concede bonificación.  
 **Cooldown:** sí.
 
-## 13.3. Kashima-Shinryū
+## 14.3. Kashima-Shinryū
 
 ### Ataque y defensa como uno
 
@@ -3628,7 +3834,7 @@ Si gana el Intercambio, obtiene **+1 al resultado del siguiente Intercambio** co
 **Efecto:** puede ceder terreno para impedir que el rival utilice **Comprometer Guardia** contra él. La victoria del rival no desaparece y cualquier otro efecto legal se resuelve normalmente. En particular, si el rival obtuvo un Crítico puede seguir eligiendo **Herida leve**.  
 **Cooldown:** sí.
 
-## 13.4. Shinkage-ryū
+## 14.4. Shinkage-ryū
 
 ### Leer la intención
 
@@ -3664,7 +3870,7 @@ Si gana el Intercambio, obtiene **+1 al resultado del siguiente Intercambio** co
 
 Muto no convierte el enfrentamiento en una situación favorable ni permite recuperar Guardia Firme. Su función es reducir la enorme desventaja normal de combatir desarmado, manteniendo el riesgo de sufrir una Herida grave con cualquier Éxito del adversario.
 
-## 13.5. Hōzōin-ryū
+## 14.5. Hōzōin-ryū
 
 ### Mantener a raya
 
@@ -3705,7 +3911,7 @@ Por tanto, contra un rival con Guardia Firme normalmente necesita un **Crítico*
 **Efecto:** el personaje puede avanzar con él. El rival paga el coste de ceder terreno, pero no aumenta automáticamente la distancia.  
 **Cooldown:** sí.
 
-## 13.6. Takenouchi-ryū
+## 14.6. Takenouchi-ryū
 
 ### Entrar bajo el arma
 
@@ -3767,7 +3973,7 @@ Si la Técnica no consigue Derribar al rival, el personaje sufre **−1 al resul
 **Efecto:** sufrir 1 Fatiga permite impedir que ese desplazamiento, por sí solo, rompa el contacto.  
 **Cooldown:** sí.
 
-## 13.7. Taisha-ryū
+## 14.7. Taisha-ryū
 
 ### Asalto temerario
 
@@ -3803,7 +4009,7 @@ Si la Técnica no consigue Derribar al rival, el personaje sufre **−1 al resul
 **Limitación:** si el personaje gana el Intercambio, el resultado se considera **Empate**. Por tanto, la Técnica puede impedir que un rival comprometido se recomponga, pero no puede utilizarse para obtener progreso ofensivo ni causar una Herida.  
 **Cooldown:** sí.
 
-## 13.8. Tradición clandestina de Iga
+## 14.8. Tradición clandestina de Iga
 
 ### Golpe oportunista
 
