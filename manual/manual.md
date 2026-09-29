@@ -1262,7 +1262,7 @@ La Clase social determina los Oficios normalmente accesibles y algunas Habilidad
 - Primeros auxilios;
 - Oficio relacionado con actividades rurales.
 
-**Oficios habituales:** Agricultor, Pescador, Cazador, Leñador o carbonero, Criado, Porteador, Marinero, Mensajero, Ladrón, Bandido, Ashigaru, Guardia, Mercenario, Monje, Yamabushi, Artista o entretenedor, Prostituta/o, Agente clandestino.
+**Oficios habituales:** Agricultor, Pescador, Cazador, Leñador o carbonero, Criado, Porteador, Marinero, Mensajero, Posadero, Ladrón, Bandido, Ashigaru, Guardia, Mercenario, Curandero o herbolario, Monje, Yamabushi, Artista o entretenedor, Prostituta/o, Espía o agente clandestino.
 
 ### Artesano
 
@@ -1275,7 +1275,7 @@ La Clase social determina los Oficios normalmente accesibles y algunas Habilidad
 - Ingeniería;
 - Primeros auxilios.
 
-**Oficios habituales:** Artesano, Herrero o armero, Carpintero o constructor, Criado, Mensajero, Ladrón, Bandido, Guardia, Mercenario, Escribano, Médico, Monje, Yamabushi, Artista o entretenedor, Prostituta/o, Agente clandestino.
+**Oficios habituales:** Artesano, Herrero o armero, Carpintero o constructor, Criado, Mensajero, Posadero, Ladrón, Bandido, Guardia, Mercenario, Escribano, Médico, Curandero o herbolario, Monje, Yamabushi, Artista o entretenedor, Prostituta/o, Espía o agente clandestino.
 
 ### Mercader
 
@@ -1288,7 +1288,7 @@ La Clase social determina los Oficios normalmente accesibles y algunas Habilidad
 - Vigilancia;
 - Idiomas.
 
-**Oficios habituales:** Mercader, Administrador, Escribano, Marinero, Mensajero, Criado, Ladrón, Guardia, Médico, Monje, Artista o entretenedor, Prostituta/o, Agente clandestino.
+**Oficios habituales:** Mercader, Administrador, Escribano, Marinero, Mensajero, Posadero, Criado, Ladrón, Guardia, Médico, Monje, Artista o entretenedor, Prostituta/o, Espía o agente clandestino, Emisario.
 
 ### Samurái
 
@@ -1310,7 +1310,7 @@ La Clase social determina los Oficios normalmente accesibles y algunas Habilidad
 - Vigilancia;
 - Primeros auxilios.
 
-**Oficios habituales:** Samurai de armas, Oficial militar, Administrador, Guardia, Mensajero, Mercenario, Escribano, Médico, Monje, Yamabushi, Agente clandestino.
+**Oficios habituales:** Samurai de armas, Oficial militar, Administrador, Guardia, Mensajero, Mercenario, Escribano, Médico, Monje, Yamabushi, Espía o agente clandestino, Cortesano, Emisario.
 
 Además de habilitar estas Habilidades, la Clase **Samurái** permite que el personaje tenga acceso inicial a una **escuela marcial** cuando su origen, maestro, región y fecha lo hagan plausible.
 
@@ -1331,7 +1331,7 @@ Un samurái sin señor puede conservar esta Clase social aunque su situación co
 - Religión;
 - Equitación.
 
-**Oficios habituales:** Cortesano o emisario, Oficial militar, Administrador, Samurai de armas, Escribano, Médico, Monje.
+**Oficios habituales:** Cortesano, Emisario, Oficial militar, Administrador, Samurai de armas, Escribano, Médico, Monje.
 
 La Clase Noble representa personajes procedentes de la élite aristocrática o de familias situadas en la cúspide política de la campaña. No implica gobernar personalmente un territorio.
 
@@ -1437,6 +1437,12 @@ El cazador puede comprar Arco, Supervivencia, Sigilo y las demás Habilidades pr
 **Clases:** Campesino, Artesano, Mercader, Samurái.  
 **Habilidades profesionales:** Atletismo, Equitación, Navegación, Alerta, Supervivencia, Vigilancia.  
 **Bonificaciones gratuitas:** Navegación +1, Alerta +1 y una de las siguientes: Atletismo +1 o Equitación +1.
+
+### Posadero
+
+**Clases:** Campesino, Artesano, Mercader.  
+**Habilidades profesionales:** Oficio (hostelería), Comercio, Perspicacia, Persuasión, Alerta, Vigilancia, Engaño.  
+**Bonificaciones gratuitas:** Oficio (hostelería) +2, Perspicacia +1, Comercio +1.
 
 ### Ladrón
 
@@ -1544,7 +1550,17 @@ Este Oficio representa una formación marcial seria. Etiqueta, Equitación, Tác
 
 **Clases:** Artesano, Mercader, Samurái, Noble.  
 **Habilidades profesionales:** Medicina, Primeros auxilios, Escritura y documentos, Venenos, Religión.  
-**Bonificaciones gratuitas:** Medicina +1, Primeros auxilios +1, Escritura y documentos +1.
+**Bonificaciones gratuitas:** Medicina +2, Primeros auxilios +1.
+
+Este Oficio representa formación médica especializada. Escritura y documentos, Venenos o Religión están habilitadas cuando resulten coherentes, pero deben comprarse normalmente con puntos.
+
+### Curandero o herbolario
+
+**Clases:** Campesino, Artesano.  
+**Habilidades profesionales:** Primeros auxilios, Medicina, Venenos, Supervivencia, Oficio (herbolaria), Religión.  
+**Bonificaciones gratuitas:** Primeros auxilios +2, Oficio (herbolaria) +1.
+
+El Curandero puede comprar Medicina, pero su Oficio no presupone automáticamente la misma formación teórica o institucional que un Médico.
 
 ### Monje
 
@@ -1570,19 +1586,29 @@ Este Oficio representa una formación marcial seria. Etiqueta, Equitación, Tác
 **Habilidades profesionales:** Perspicacia, Engaño, Persuasión, Vigilancia, Etiqueta, Disfraz, Comercio.  
 **Bonificaciones gratuitas:** Perspicacia +1, Engaño +1, Persuasión +1.
 
-### Agente clandestino
+### Espía o agente clandestino
 
 **Clases:** cualquiera.  
-**Habilidades profesionales:** Sigilo, Vigilancia, Disfraz, Engaño, Cerrajería, Trampas, Falsificación, Atletismo, Rastreo, Venenos.  
+**Habilidades profesionales:** Sigilo, Vigilancia, Disfraz, Engaño, Cerrajería, Trampas, Falsificación, Hurto, Atletismo, Rastreo, Venenos, Perspicacia, Alerta, Escritura y documentos.  
 **Bonificaciones gratuitas:** Sigilo +1, Vigilancia +1, Disfraz +1.
 
-Este Oficio representa a una persona formada de manera habitual para tareas clandestinas. No crea una clase social o casta de «ninja» y no sustituye a las Habilidades concretas.
+Este Oficio representa a una persona cuya actividad habitual incluye obtención clandestina de información, infiltración, vigilancia o sabotaje.
 
-### Cortesano o emisario
+No crea una clase social o casta de «ninja» y no sustituye a las Habilidades concretas. Un personaje puede realizar una misión de shinobi sin poseer este Oficio.
+
+### Cortesano
 
 **Clases:** Samurái, Noble.  
 **Habilidades profesionales:** Etiqueta, Persuasión, Escritura y documentos, Historia, Administración, Idiomas, Perspicacia, Liderazgo.  
+**Bonificaciones gratuitas:** Etiqueta +2, Perspicacia +1.
+
+### Emisario
+
+**Clases:** Mercader, Samurái, Noble.  
+**Habilidades profesionales:** Etiqueta, Persuasión, Escritura y documentos, Historia, Administración, Idiomas, Perspicacia, Liderazgo, Comercio.  
 **Bonificaciones gratuitas:** Etiqueta +1, Persuasión +1, Escritura y documentos +1.
+
+Un Emisario representa una función habitual de representación, negociación o transmisión de mensajes importantes. Una persona enviada de forma excepcional como mensajero político no necesita adoptar este Oficio.
 
 ## 5.6. Personaje ordinario
 
