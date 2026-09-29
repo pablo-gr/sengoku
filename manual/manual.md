@@ -1259,8 +1259,6 @@ La Clase social determina los Oficios normalmente accesibles y algunas Habilidad
 - Supervivencia;
 - Rastreo;
 - Vigilancia;
-- Lanzas;
-- Arco;
 - Primeros auxilios;
 - Oficio relacionado con actividades rurales.
 
@@ -1297,7 +1295,10 @@ La Clase social determina los Oficios normalmente accesibles y algunas Habilidad
 **Habilidades habilitadas por la Clase:**
 
 - Espadas;
+- Cuchillos;
 - Lanzas;
+- Naginata;
+- Bastones;
 - Arco;
 - Equitación;
 - Táctica;
@@ -3672,6 +3673,12 @@ Una vez creado el personaje, las Habilidades se adquieren y mejoran mediante **e
 
 Los puntos utilizados durante la creación dejan de emplearse.
 
+Una Habilidad ya habilitada por Clase u Oficio puede mejorar normalmente si existe experiencia suficiente.
+
+Para adquirir una Habilidad que **no estaba habilitada** para el personaje, primero debe existir una oportunidad narrativa que abra ese aprendizaje: un maestro, entrenamiento militar, un nuevo Oficio, ingreso en una institución, convivencia prolongada con especialistas u otra circunstancia equivalente.
+
+El director decide cuándo esa oportunidad habilita realmente la nueva Habilidad.
+
 La mejora no se produce simplemente por acumular sesiones. Debe existir una razón dentro de la ficción para que el personaje haya aprendido.
 
 ## 11.1. Fallos relevantes
@@ -3690,7 +3697,7 @@ Un personaje conserva 2 puntos de Suerte.
 - Fallar por 1 o 2 puede contar como fallo relevante.
 - Fallar por 3 o más normalmente no.
 
-La diferencia sólo se consulta para esta regla de aprendizaje. No crea grados de fracaso en la resolución normal.
+La diferencia se consulta aquí para decidir si el fracaso cuenta como experiencia relevante. En la resolución normal, un fracaso por 2 o más también puede utilizarse como referencia para una pifia cuando la situación lo justifique, según el capítulo 1.
 
 ## 11.2. Qué retos cuentan
 
@@ -3714,7 +3721,7 @@ Los retos provocados artificialmente para acumular experiencia no cuentan.
 
 Los fallos relevantes se anotan en la Habilidad utilizada.
 
-También pueden anotarse para una Habilidad no adquirida cuando la experiencia obtenida pueda justificar comenzar a aprenderla.
+También pueden anotarse para una Habilidad no adquirida cuando ya esté habilitada para el personaje o cuando el director considere que la situación está creando una oportunidad real de aprendizaje.
 
 ## 11.4. Cantidades orientativas
 
