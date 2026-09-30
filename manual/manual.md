@@ -1741,7 +1741,7 @@ Interpretación representa actuación dramática y adopción de papeles. Las dis
 ### Prostituta/o
 
 **Clases:** Campesino, Artesano, Mercader.  
-**Habilidades profesionales:** Perspicacia, Engaño, Persuasión, Etiqueta, Interpretación, Comercio.  
+**Habilidades profesionales:** Perspicacia, Engaño, Persuasión, Etiqueta, Interpretación, Comercio, Alerta.  
 **Bonificaciones gratuitas:** Perspicacia +1, Engaño +1, Persuasión +1.
 
 ### Espía
