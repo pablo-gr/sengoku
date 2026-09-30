@@ -1733,10 +1733,10 @@ Las armas de fuego sólo están disponibles cuando la fecha y región lo permita
 ### Artista o entretenedor
 
 **Clases:** Campesino, Artesano, Mercader.  
-**Habilidades profesionales:** Interpretación, Profesión (especialidad artística: música, danza, recitación, acrobacia u otra apropiada), Persuasión, Engaño, Perspicacia, Etiqueta.  
-**Bonificaciones gratuitas:** elige **Interpretación +2** o **Profesión (especialidad artística) +2**; además, Persuasión +1 y Perspicacia +1.
+**Habilidades profesionales:** Interpretación, Atletismo, Profesión (especialidad artística: música, danza, recitación u otra apropiada), Persuasión, Engaño, Perspicacia, Etiqueta.  
+**Bonificaciones gratuitas:** elige **Interpretación +2**, **Atletismo +2** o **Profesión (especialidad artística) +2**; además, Persuasión +1 y Perspicacia +1.
 
-Interpretación representa actuación dramática y adopción de papeles. Las disciplinas artísticas que no tienen una Habilidad propia, como música o danza, utilizan una especialidad de **Profesión**.
+Interpretación representa actuación dramática y adopción de papeles. Atletismo representa acrobacia y otras disciplinas basadas principalmente en técnica corporal. Las disciplinas artísticas que no tienen una Habilidad propia, como música o danza, utilizan una especialidad de **Profesión**.
 
 ### Prostituta/o
 
