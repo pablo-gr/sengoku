@@ -1232,7 +1232,8 @@ Un personaje se crea en este orden:
 6. gastar los puntos de Habilidad entre las Habilidades disponibles;
 7. elegir Rasgos;
 8. elegir escuela cuando corresponda, recibir sus Técnicas Iniciales y comprar Técnicas adicionales si se desea;
-9. anotar Suerte, equipo y estado inicial.
+9. calcular el dinero inicial y comprar equipo;
+10. anotar Suerte y estado inicial.
 
 ## 5.2. Coste de las Habilidades
 
@@ -1792,7 +1793,35 @@ El personaje comienza normalmente con **dos a cuatro Rasgos**.
 
 Los Rasgos no cuestan puntos.
 
-## 5.12. Suerte y estado inicial
+## 5.12. Dinero inicial
+
+Todo personaje comienza con una cantidad de dinero determinada principalmente por su **Clase social**.
+
+| Clase | Dinero inicial |
+|---|---:|
+| Campesino | 300 mon |
+| Artesano | 600 mon |
+| Mercader | 1.200 mon |
+| Samurái | 2.000 mon |
+| Noble cortesano (kuge) | 2.000 mon |
+
+Algunos Oficios añaden dinero porque implican disponer habitualmente de capital, ingresos acumulados o efectivo de trabajo:
+
+| Oficio | Dinero adicional |
+|---|---:|
+| Mercader | +1.500 mon |
+| Posadero | +500 mon |
+| Mercenario | +500 mon |
+
+El dinero adicional del Oficio se suma al de la Clase.
+
+El personaje utiliza este dinero para comprar su equipo inicial a los precios del capítulo 10.
+
+La ropa cotidiana más básica y pequeños objetos personales sin utilidad aventurera apreciable pueden darse por incluidos. Armas, armaduras, herramientas, suministros, animales y demás equipo con precio indicado deben pagarse.
+
+El dinero que no se gaste permanece en poder del personaje.
+
+## 5.13. Suerte y estado inicial
 
 Todo personaje comienza normalmente con:
 
@@ -1802,7 +1831,7 @@ Todo personaje comienza normalmente con:
 - Tensión perdida 0;
 - ninguna Herida.
 
-## 5.13. Habilidades de arma y Técnicas marciales iniciales
+## 5.14. Habilidades de arma y Técnicas marciales iniciales
 
 Las Habilidades **Espadas, Cuchillos, Lanzas, Naginata, Bastones, Arco y Armas de fuego** representan experiencia práctica con esas armas.
 
@@ -3553,31 +3582,36 @@ Una herramienta adecuada puede:
 
 El equipo no proporciona bonificaciones automáticas sólo por figurar en la ficha.
 
-## 10.1. Disponibilidad y recursos
+## 10.1. Dinero y disponibilidad
 
-La disponibilidad de un objeto depende de:
+El dinero determina si el personaje **puede pagar** un objeto.
+
+La disponibilidad determina si puede encontrar a alguien dispuesto y capaz de vendérselo.
+
+Un personaje que posee suficiente dinero puede comprar normalmente cualquier objeto disponible para la venta, con independencia de su Clase social.
+
+La disponibilidad puede depender de:
 
 - fecha;
 - región;
-- posición social;
-- contactos;
-- riqueza;
-- autoridad;
+- tamaño del mercado;
 - situación militar;
-- tiempo disponible.
+- tiempo disponible;
+- existencia de artesanos o comerciantes apropiados;
+- restricciones legales o locales concretas.
 
-En lugar de utilizar una tabla universal de precios para todo el periodo Sengoku, el manual clasifica los bienes de forma orientativa:
+La posición social sólo importa cuando exista una razón concreta: una prohibición local, un vendedor que no quiera tratar con determinada persona, un bien reservado por una autoridad o una compra que requiera contactos especiales.
 
-- **Común:** puede conseguirse normalmente en el entorno adecuado.
-- **Especializado:** requiere un artesano, mercado o contacto apropiado.
-- **Militar:** su disponibilidad depende del servicio, guerra, señor o mercado de armas.
-- **Restringido:** obtenerlo puede exigir autoridad, relaciones, robo, contrabando o una explicación creíble.
+No sustituye al precio.
 
-Un objeto puede cambiar de categoría según el lugar.
+El manual utiliza estas categorías:
 
-Una yari puede ser relativamente corriente en un ejército y muy llamativa en manos de un viajero que intenta pasar por comerciante.
+- **Común:** suele encontrarse en el entorno adecuado.
+- **Especializado:** requiere un artesano, mercado o proveedor apropiado.
+- **Militar:** suele encontrarse a través de ejércitos, armeros, mercados de armas o redes militares.
+- **Restringido:** exige una justificación específica, autorización, contactos, contrabando u otra vía adecuada.
 
-Un teppō puede ser raro o inexistente en una campaña temprana y relativamente accesible en determinados ejércitos décadas después.
+Un objeto puede cambiar de categoría según el lugar y la fecha.
 
 ## 10.2. Carga y transporte
 
@@ -3847,25 +3881,109 @@ También necesita:
 
 Los carros, embarcaciones y porteadores se tratan del mismo modo: son recursos narrativos cuya utilidad depende de la ruta y de las circunstancias.
 
-## 10.15. Bienes, dinero y compras
+## 10.15. Moneda y precios
 
-El reglamento básico no exige llevar una contabilidad detallada de cada gasto cotidiano.
+Para las compras ordinarias el juego utiliza el **mon** como unidad de cuenta.
 
-Las compras ordinarias coherentes con la posición y recursos del personaje pueden resolverse directamente.
+> **1 kanmon = 1.000 mon**
 
-Cuando una adquisición es importante, el director considera:
+Durante el periodo Sengoku circularon monedas de procedencias y calidades diferentes y su valoración podía variar. El reglamento ignora normalmente esas diferencias para mantener una economía jugable.
 
-- riqueza disponible;
-- relaciones;
-- disponibilidad local;
-- autoridad;
-- tiempo;
-- riesgo;
-- necesidad de mantener el secreto.
+Los precios siguientes son **valores de referencia de juego**. El director puede modificarlos por escasez, guerra, aislamiento, calidad excepcional o abundancia local.
 
-Conseguir un bien raro puede convertirse en una escena de **Comercio, Persuasión, Engaño, contactos o robo**, no simplemente en pagar una cifra.
+El personaje debe pagar el precio indicado para adquirir el objeto.
 
-Una campaña centrada en comercio o administración puede utilizar precios concretos y monedas históricas, pero esos valores deben adaptarse a la región y fecha de la campaña en lugar de asumir una economía uniforme para todo el Sengoku.
+### Ropa y equipo cotidiano
+
+| Objeto | Precio | Disponibilidad |
+|---|---:|---|
+| Waraji / sandalias de paja | 10 mon | Común |
+| Ropa ordinaria adicional | 60 mon | Común |
+| Ropa de viaje resistente | 100 mon | Común |
+| Ropa de buena calidad | 250 mon | Especializado |
+| Conjunto para una identidad o disfraz preparado | 180 mon | Especializado |
+| Cuerda, 10 m | 30 mon | Común |
+| Gancho de hierro | 25 mon | Común |
+| Yesca y útiles para encender fuego | 5 mon | Común |
+| Linterna o farol sencillo | 30 mon | Común |
+| Aceite para una noche | 5 mon | Común |
+| Cantimplora o recipiente de viaje | 15 mon | Común |
+| Material de escritura básico | 50 mon | Especializado |
+| Papel para varios documentos o cartas | 20 mon | Especializado |
+| Provisiones de viaje para una semana | 80 mon | Común |
+
+### Herramientas
+
+| Objeto | Precio | Disponibilidad |
+|---|---:|---|
+| Juego sencillo de herramientas | 80 mon | Común |
+| Herramientas de cerrajería | 150 mon | Especializado |
+| Herramientas de carpintería | 200 mon | Especializado |
+| Herramientas de herrería portátiles | 300 mon | Especializado |
+| Material para trampas o alarmas sencillas | 100 mon | Especializado |
+| Equipo básico de primeros auxilios | 150 mon | Especializado |
+| Equipo médico completo transportable | 400 mon | Especializado |
+| Material de herbolaria o preparación de remedios | 100 mon | Especializado |
+
+### Armas cuerpo a cuerpo
+
+| Arma | Precio | Disponibilidad |
+|---|---:|---|
+| Tantō / cuchillo | 150 mon | Común |
+| Wakizashi / espada corta | 350 mon | Especializado |
+| Katana / uchigatana | 700 mon | Especializado |
+| Tachi | 900 mon | Especializado |
+| Yari | 250 mon | Militar |
+| Kamayari / jūmonji-yari | 500 mon | Militar |
+| Naginata | 500 mon | Militar |
+| Bō | 20 mon | Común |
+| Kama / hoz | 30 mon | Común |
+| Garrote o herramienta pesada | 20 mon | Común |
+
+El precio representa un arma funcional de calidad corriente. Una pieza excepcional, ornamentada o realizada por un artesano prestigioso puede costar varias veces más.
+
+### Armas a distancia y munición
+
+| Objeto | Precio | Disponibilidad |
+|---|---:|---|
+| Yumi | 500 mon | Especializado |
+| 12 flechas | 100 mon | Especializado |
+| Teppō | 1.200 mon | Militar |
+| Pólvora y proyectiles para 10 disparos | 100 mon | Militar |
+
+El teppō sólo está disponible cuando la fecha y región de la campaña permiten su presencia.
+
+### Armaduras
+
+| Protección | Precio | Disponibilidad |
+|---|---:|---|
+| Casco o protección militar equivalente | 300 mon | Militar |
+| Protección parcial de buena calidad | 900 mon | Militar |
+| Armadura de campaña completa o casi completa | 2.500 mon | Militar |
+
+Las armaduras ornamentadas, de prestigio o hechas específicamente para un personaje pueden costar mucho más.
+
+### Animales y transporte
+
+| Recurso | Precio | Disponibilidad |
+|---|---:|---|
+| Animal de carga corriente | 700 mon | Especializado |
+| Caballo de monta corriente | 1.500 mon | Especializado |
+| Caballo adecuado para uso militar | 2.500 mon | Militar |
+| Carro sencillo | 500 mon | Especializado |
+| Embarcación pequeña de río o costa | 3.000 mon | Especializado |
+
+### Servicios orientativos
+
+| Servicio | Precio |
+|---|---:|
+| Comida y alojamiento modestos, un día | 10 mon |
+| Alojamiento de buena calidad, una noche | 30 mon |
+| Porteador o trabajador, un día | 15 mon |
+| Animal de carga alquilado, un día | 20 mon |
+| Caballo de monta alquilado, un día | 40 mon |
+
+Estos precios describen situaciones ordinarias. Guerra, hambre, festividades, rutas peligrosas o aislamiento pueden alterarlos radicalmente.
 
 # 11. Mejora y aprendizaje
 
