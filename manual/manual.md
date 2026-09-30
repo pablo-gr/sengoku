@@ -257,7 +257,18 @@ Ejemplos:
 - Agilidad + Sigilo contra Percepción + Alerta;
 - Presencia + Engaño contra Percepción + Perspicacia;
 - Percepción + Vigilancia contra Agilidad + Sigilo;
-- Presencia + Intimidación contra Templanza.
+- Presencia + Intimidación contra Inteligencia + Templanza.
+
+En los enfrentamientos sociales **no existe una Característica defensiva universal**.
+
+El director decide la Característica defensiva a partir de la situación y de cómo el personaje explica que se resiste:
+
+- **Percepción** cuando la defensa depende de advertir tono, gestos, nerviosismo, intención o señales inmediatas;
+- **Inteligencia** cuando depende de analizar argumentos, contradicciones, consecuencias, hechos o coherencia.
+
+La Habilidad defensiva también depende del método. **Perspicacia** puede servir para interpretar a la otra persona; **Templanza**, para mantener la propia decisión y no ceder ante presión, intimidación, persuasión o coerción.
+
+Por tanto, dos personajes pueden defenderse de la misma maniobra social mediante combinaciones diferentes si la ficción lo justifica.
 
 El personaje activo tiene éxito si iguala o supera la dificultad.
 
@@ -745,9 +756,19 @@ No existe una lista completamente cerrada. Las Habilidades siguientes cubren las
 | **+2** | Competencia profesional |
 | **+3** | Dominio excepcional dentro de la capacidad humana |
 
+Durante la creación y el aprendizaje conviene distinguir tres conceptos:
+
+- **Habilitada:** la Clase, el Oficio o una excepción del director permiten al personaje adquirir o mejorar esa Habilidad.
+- **Adquirida:** el personaje posee realmente la Habilidad a +0 o más.
+- **No adquirida:** el personaje no posee ningún nivel en ella.
+
+Que una Habilidad esté **habilitada** no significa que el personaje haya recibido entrenamiento. Sólo significa que tiene acceso a aprenderla.
+
 Una Habilidad no adquirida puede utilizarse sin bonificación cuando la tarea sea accesible a una persona sin formación.
 
-Las Habilidades marcadas con un asterisco (`*`) requieren normalmente instrucción. Sin ella, ciertas tareas son imposibles aunque el personaje posea una Característica elevada.
+Las Habilidades marcadas con un asterisco (`*`) requieren normalmente instrucción para sus usos especializados. Si están habilitadas pero no adquiridas, el personaje sigue careciendo de esa formación y ciertas tareas son imposibles aunque posea una Característica elevada.
+
+Por ejemplo, un samurái puede tener **Equitación** habilitada por su Clase y no haber gastado ningún punto en ella. Puede montar en circunstancias rutinarias cuando no existe un reto relevante, pero las maniobras exigentes que requieren verdadera formación ecuestre pueden quedar fuera de su alcance hasta adquirir la Habilidad.
 
 ## 4.2. Habilidades y Características
 
@@ -1056,11 +1077,24 @@ No es un detector automático de mentiras. Puede indicar que una persona está i
 
 ### Templanza
 
-Disciplina aprendida para mantener el autocontrol bajo miedo, dolor, provocación, presión o agotamiento emocional.
+Disciplina aprendida para mantener una decisión y conservar el autocontrol bajo miedo, dolor, provocación, presión, intimidación, persuasión insistente, manipulación, interrogatorio, coerción o agotamiento emocional.
 
-Cuando el problema consiste únicamente en mantener el control, **Templanza puede utilizarse con Característica 0**.
+Templanza representa la capacidad de **no ceder** cuando el problema no consiste en descubrir si la otra persona miente, sino en mantener la propia decisión o seguir actuando pese a la presión.
 
-Si otra capacidad es realmente esencial para el método empleado, el director puede combinar Templanza con la Característica apropiada.
+Puede utilizarse, por ejemplo, para:
+
+- resistir miedo o pánico;
+- mantener la compostura ante una provocación;
+- no ceder ante una amenaza;
+- resistir presión durante un interrogatorio;
+- mantener una decisión frente a persuasión o manipulación;
+- continuar actuando bajo dolor o estrés intenso.
+
+Cuando ninguna Característica represente razonablemente la forma concreta de resistencia, **Templanza puede utilizarse con Característica 0**.
+
+Cuando la resistencia depende de comprender o percibir lo que está haciendo la otra persona, puede combinarse con **Percepción** o **Inteligencia** según el método y la situación.
+
+Templanza no permite descubrir automáticamente una mentira ni comprender las intenciones de otra persona. Para eso pueden ser necesarias **Perspicacia**, Percepción, Inteligencia u otras Habilidades apropiadas.
 
 Templanza no elimina la Tensión acumulada, pero puede permitir actuar con eficacia ante una causa concreta de estrés.
 
