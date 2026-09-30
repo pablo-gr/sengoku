@@ -1349,7 +1349,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Primeros auxilios;
 - Profesión relacionada con actividades rurales.
 
-**Oficios habilitados:** Agricultor, Pescador, Cazador, Leñador o carbonero, Artesano, Carpintero o constructor, Criado, Porteador, Marinero, Mensajero, Posadero, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Curandero o herbolario, Monje, Yamabushi, Sacerdote o servidor de santuario, Guerrero de templo, Artista o entretenedor, Prostituta/o, Espía o agente clandestino, Saboteador.
+**Oficios habilitados:** Agricultor, Pescador, Cazador, Leñador o carbonero, Artesano, Carpintero o constructor, Criado, Porteador, Marinero, Mensajero, Posadero, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Curandero o herbolario, Monje, Yamabushi, Sacerdote o servidor de santuario, Guerrero de templo, Artista o entretenedor, Prostituta/o, Espía, Saboteador.
 
 ### Artesano
 
@@ -1360,7 +1360,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Escritura y documentos;
 - Cerrajería.
 
-**Oficios habilitados:** Artesano, Herrero o armero, Carpintero o constructor, Mercader, Criado, Mensajero, Posadero, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Administrador, Escribano, Médico, Curandero o herbolario, Monje, Yamabushi, Sacerdote o servidor de santuario, Guerrero de templo, Artista o entretenedor, Prostituta/o, Espía o agente clandestino, Saboteador.
+**Oficios habilitados:** Artesano, Herrero o armero, Carpintero o constructor, Mercader, Criado, Mensajero, Posadero, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Administrador, Escribano, Médico, Curandero o herbolario, Monje, Yamabushi, Sacerdote o servidor de santuario, Guerrero de templo, Artista o entretenedor, Prostituta/o, Espía, Saboteador.
 
 ### Mercader
 
@@ -1372,7 +1372,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Etiqueta;
 - Idiomas.
 
-**Oficios habilitados:** Mercader, Administrador, Escribano, Marinero, Mensajero, Posadero, Criado, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Médico, Monje, Yamabushi, Sacerdote o servidor de santuario, Guerrero de templo, Artista o entretenedor, Prostituta/o, Espía o agente clandestino, Saboteador, Emisario.
+**Oficios habilitados:** Mercader, Administrador, Escribano, Marinero, Mensajero, Posadero, Criado, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Médico, Monje, Yamabushi, Sacerdote o servidor de santuario, Guerrero de templo, Artista o entretenedor, Prostituta/o, Espía, Saboteador, Emisario.
 
 ### Samurái
 
@@ -1394,7 +1394,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Historia;
 - Primeros auxilios.
 
-**Oficios habilitados:** Samurái de armas, Oficial militar, Administrador, Guardia, Mensajero, Mercenario, Asesino, Bandido, Escribano, Médico, Monje, Yamabushi, Sacerdote o servidor de santuario, Guerrero de templo, Espía o agente clandestino, Saboteador, Cortesano, Emisario.
+**Oficios habilitados:** Samurái de armas, Oficial militar, Administrador, Guardia, Mensajero, Mercenario, Asesino, Bandido, Escribano, Médico, Monje, Yamabushi, Sacerdote o servidor de santuario, Guerrero de templo, Espía, Saboteador, Cortesano, Emisario.
 
 Además de habilitar estas Habilidades, la Clase **Samurái** permite que el personaje tenga acceso inicial a una **escuela marcial** cuando su origen, maestro, región y fecha lo hagan plausible.
 
@@ -1415,7 +1415,7 @@ Un samurái sin señor puede conservar esta Clase social aunque su situación co
 - Religión;
 - Equitación.
 
-**Oficios habilitados:** Cortesano, Emisario, Administrador, Escribano, Médico, Monje, Yamabushi, Sacerdote o servidor de santuario, Guerrero de templo, Espía o agente clandestino, Saboteador.
+**Oficios habilitados:** Cortesano, Emisario, Administrador, Escribano, Médico, Monje, Yamabushi, Sacerdote o servidor de santuario, Guerrero de templo, Espía, Saboteador.
 
 Esta Clase representa a la **aristocracia cortesana vinculada a la corte imperial**, especialmente las familias kuge.
 
@@ -1744,7 +1744,7 @@ Interpretación representa actuación dramática y adopción de papeles. Las dis
 **Habilidades profesionales:** Perspicacia, Engaño, Persuasión, Etiqueta, Interpretación, Comercio.  
 **Bonificaciones gratuitas:** Perspicacia +1, Engaño +1, Persuasión +1.
 
-### Espía o agente clandestino
+### Espía
 
 **Clases:** cualquiera.  
 **Habilidades profesionales:** Sigilo, Buscar, Interpretación, Engaño, Etiqueta, Cerrajería, Falsificación, Hurto, Atletismo, Rastreo, Perspicacia, Alerta, Escritura y documentos.  
