@@ -4626,7 +4626,7 @@ Salvo que una Técnica indique lo contrario, se aplican todas las reglas normale
 **Coste:** si no gana el Intercambio, sufre 1 nivel de Fatiga.  
 **Cooldown:** sí.
 
-### Romper distancia
+### Replegarse
 
 **Tipo:** Activa  
 **Etiquetas:** Defensa, Movimiento, Recuperación  
