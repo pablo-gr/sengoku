@@ -3356,7 +3356,6 @@ Las Técnicas de control pueden resultar especialmente importantes.
 
 Obtener información de un prisionero utiliza las **reglas sociales normales**.
 
-No existe una Habilidad ni una mecánica específica de interrogatorio.
 
 El jugador describe qué método utiliza y el director determina la combinación apropiada según la situación.
 
