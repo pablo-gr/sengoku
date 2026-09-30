@@ -4401,17 +4401,28 @@ Las combinaciones especialmente poderosas pueden mantenerse separadas mediante e
 
 Los counters importantes deben poder aparecer en varias escuelas o depender también de recursos universales como terreno, distancia, Fatiga, Suerte o lectura del adversario.
 
-## 13.9. Cronología
+## 13.9. Cronología y disponibilidad
 
-No todas las escuelas existen durante todo el periodo Sengoku.
+La fecha indicada es la **fecha mínima recomendada para permitir la escuela en una campaña**, no necesariamente una afirmación de que todo su repertorio posterior existiera ya exactamente en esa forma.
 
-La disponibilidad debe depender de:
+La región indicada es su zona de origen o de asociación histórica principal.
 
-- fecha de la campaña;
-- región;
-- maestros y redes de enseñanza;
-- posición y relaciones del personaje.
+| Escuela o tradición | Disponible desde | Zona inicial |
+|---|---:|---|
+| **Tenshin Shōden Katori Shintō-ryū** | **1447** | Región de Katori, provincia de Shimōsa |
+| **Kashima-Shinryū** | **1560 aprox.** | Región de Kashima, provincia de Hitachi |
+| **Shinkage-ryū** | **1560 aprox.** | Jōshū / provincia de Kōzuke |
+| **Yagyū Shinkage-ryū** | **1565** | Yagyū, provincia de Yamato |
+| **Hōzōin-ryū Sōjutsu** | **1560 aprox.** | Nara, provincia de Yamato |
+| **Takenouchi-ryū** | **1532** | Provincia de Mimasaka |
+| **Taisha-ryū** | **1567 aprox.** | Hitoyoshi, provincia de Higo |
+| **Tradición clandestina de Iga** | **1487** | Iga y regiones vecinas de Kōka |
 
+Estas fechas sirven como umbral de juego.
+
+Un personaje situado lejos de la zona de origen necesita además una explicación concreta: un maestro viajero, servicio en una casa que emplea instructores de esa tradición, una rama local, una estancia previa en la región u otra conexión equivalente.
+
+La **Tradición clandestina de Iga** es una síntesis lúdica, no una ryūha histórica única. La fecha de 1487 se utiliza porque existen referencias a guerreros de Iga y Kōka asociados a operaciones irregulares en ese periodo.
 
 # 14. Técnicas marciales
 
@@ -4525,6 +4536,7 @@ La derrota permanece y la Guardia no mejora.
 
 ### Control de alcance
 
+**Inicial:** sí  
 **Tipo:** Activa  
 **Etiquetas:** Defensa, Control  
 **Requisito:** arma Larga.  
@@ -4541,6 +4553,7 @@ La derrota permanece y la Guardia no mejora.
 
 ### Guardia de dos armas
 
+**Inicial:** sí  
 **Tipo:** Activa  
 **Etiquetas:** Defensa, Control  
 **Requisito:** dos armas apropiadas.  
@@ -4560,6 +4573,7 @@ La derrota permanece y la Guardia no mejora.
 
 ### Ataque y defensa como uno
 
+**Inicial:** sí  
 **Tipo:** Activa  
 **Etiquetas:** Defensa, Counter  
 **Contexto:** cualquier Intercambio.  
@@ -4578,6 +4592,7 @@ Si gana el Intercambio, obtiene **+1 al resultado del siguiente Intercambio** co
 
 ### Movimiento y quietud
 
+**Inicial:** sí  
 **Tipo:** Activa  
 **Etiquetas:** Defensa, Control  
 **Contexto:** cualquier Intercambio en el que la Guardia rival esté Firme.  
@@ -4597,6 +4612,7 @@ Si gana el Intercambio, obtiene **+1 al resultado del siguiente Intercambio** co
 
 ### Leer la intención
 
+**Inicial:** sí  
 **Tipo:** Activa  
 **Etiquetas:** Counter  
 **Declaración:** al jugarla se elige en secreto una etiqueta entre Ataque, Defensa, Movimiento o Engaño.  
@@ -4605,6 +4621,7 @@ Si gana el Intercambio, obtiene **+1 al resultado del siguiente Intercambio** co
 
 ### Reconocer el patrón
 
+**Inicial:** sí  
 **Tipo:** Pasiva  
 **Contexto:** el rival utiliza una Técnica activa que **ya había utilizado anteriormente durante el mismo combate**.  
 **Efecto:** el personaje obtiene **+1 al resultado** contra esa Técnica.
@@ -4633,6 +4650,7 @@ Muto no convierte el enfrentamiento en una situación favorable ni permite recup
 
 ### Mantener a raya
 
+**Inicial:** sí  
 **Tipo:** Activa  
 **Etiquetas:** Control, Defensa  
 **Requisito:** Arma de asta o arma Larga.  
@@ -4642,6 +4660,7 @@ Muto no convierte el enfrentamiento en una situación favorable ni permite recup
 
 ### Barrido
 
+**Inicial:** sí  
 **Tipo:** Activa  
 **Etiquetas:** Control, Movimiento  
 **Requisito:** yari.  
@@ -4674,6 +4693,7 @@ Por tanto, contra un rival con Guardia Firme normalmente necesita un **Crítico*
 
 ### Entrar bajo el arma
 
+**Inicial:** sí  
 **Tipo:** Activa  
 **Etiquetas:** Movimiento, Counter  
 **Contexto:** el rival utiliza un arma Larga a distancia **Larga**.  
@@ -4682,6 +4702,7 @@ Por tanto, contra un rival con Guardia Firme normalmente necesita un **Crítico*
 
 ### Kogusoku
 
+**Inicial:** sí  
 **Tipo:** Pasiva  
 **Etiquetas:** Control  
 **Requisito:** combatir desarmado o utilizar un arma corta apropiada para agarre y control.  
@@ -4734,6 +4755,20 @@ Si la Técnica no consigue Derribar al rival, el personaje sufre **−1 al resul
 
 ## 14.7. Taisha-ryū
 
+### Ataque en desplazamiento
+
+**Inicial:** sí  
+**Tipo:** Pasiva  
+**Etiquetas:** Ataque, Movimiento  
+**Requisito:** Espadas.  
+**Contexto:** el personaje puede moverse con libertad suficiente para utilizar su juego de pies.  
+**Efecto:** puede utilizar **Agilidad en lugar de Destreza** para calcular su resultado cuando ataca con Espadas.
+
+Esta sustitución no concede ningún bonificador adicional. Su ventaja consiste en permitir que un combatiente especializado en movilidad utilice la misma Característica para su juego evasivo y para determinados ataques.
+
+Si el terreno, una Herida, estar Derribado u otra circunstancia impide utilizar eficazmente el juego de pies, esta Técnica no puede aplicarse.  
+**Cooldown:** no.
+
 ### Asalto temerario
 
 **Tipo:** Activa  
@@ -4745,6 +4780,7 @@ Si la Técnica no consigue Derribar al rival, el personaje sufre **−1 al resul
 
 ### Ataque engañoso
 
+**Inicial:** sí  
 **Tipo:** Activa  
 **Etiquetas:** Ataque, Engaño  
 **Contexto:** cualquier Intercambio.  
@@ -4793,6 +4829,7 @@ Golpe oportunista representa una forma pragmática y poco ortodoxa de combatir: 
 
 ### Retirada falsa
 
+**Inicial:** sí  
 **Tipo:** Activa  
 **Etiquetas:** Engaño, Movimiento  
 **Efecto:** el personaje cede terreno. Si el rival utiliza una Técnica con las etiquetas **Ataque** o **Presión**, obtiene **+1 al resultado**. En cualquier otro caso sufre **−1 al resultado**.  
@@ -4810,6 +4847,7 @@ Esta Técnica es una excepción explícita a la regla general de un único efect
 
 ### Herramienta oportunista
 
+**Inicial:** sí  
 **Tipo:** Pasiva  
 **Contexto:** se utiliza un objeto improvisado que posee realmente una propiedad física útil.  
 **Efecto:** el objeto puede satisfacer requisitos de Técnicas basados en esa propiedad. Un palo largo puede contar como Arma de asta; una hoz puede proporcionar Gancho; una herramienta pesada puede proporcionar Contundente. No adquiere propiedades que físicamente no posee.  
