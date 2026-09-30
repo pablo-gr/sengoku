@@ -4764,7 +4764,8 @@ Si gana el Intercambio, obtiene **+1 al resultado del siguiente Intercambio** co
 **Inicial:** sí  
 **Tipo:** Pasiva  
 **Contexto:** el rival utiliza una Técnica activa que **ya había utilizado anteriormente durante el mismo combate**.  
-**Efecto:** el personaje obtiene **+1 al resultado** contra esa Técnica.
+**Efecto:** el personaje obtiene **+1 al resultado** contra esa Técnica.  
+**Cooldown:** no.
 
 ### Ceder sin quebrarse
 
