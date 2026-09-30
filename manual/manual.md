@@ -1747,7 +1747,7 @@ Interpretación representa actuación dramática y adopción de papeles. Las dis
 ### Espía o agente clandestino
 
 **Clases:** cualquiera.  
-**Habilidades profesionales:** Sigilo, Buscar, Interpretación, Engaño, Cerrajería, Trampas, Falsificación, Hurto, Atletismo, Rastreo, Venenos, Perspicacia, Alerta, Escritura y documentos.  
+**Habilidades profesionales:** Sigilo, Buscar, Interpretación, Engaño, Etiqueta, Cerrajería, Trampas, Falsificación, Hurto, Atletismo, Rastreo, Venenos, Perspicacia, Alerta, Escritura y documentos.  
 **Bonificaciones gratuitas:** elige tres Habilidades diferentes a +1 entre Alerta, Buscar, Sigilo, Interpretación, Engaño, Perspicacia y Rastreo.
 
 Este Oficio representa a una persona cuya actividad habitual incluye obtención clandestina de información, infiltración, vigilancia o sabotaje.
