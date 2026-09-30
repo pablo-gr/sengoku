@@ -4347,7 +4347,7 @@ Las Técnicas son una representación lúdica de principios, especialidades y fo
 
 ## 13.1. Tenshin Shōden Katori Shintō-ryū
 
-**Requisito inicial:** dos Habilidades de arma adquiridas, al menos una de ellas entre Espadas, Lanzas, Naginata o Bastones.
+**Requisito inicial:** dos Habilidades de arma cuerpo a cuerpo adquiridas entre Espadas, Cuchillos, Lanzas, Naginata y Bastones; al menos una de ellas debe ser Lanzas, Naginata o Bastones.
 
 **Base histórica:** tradición de amplio currículo marcial, con entrenamiento en distintas armas y disciplinas.
 
@@ -4369,7 +4369,7 @@ En pocas palabras:
 
 ## 13.2. Kashima-Shinryū
 
-**Requisito inicial:** al menos una Habilidad de combate adquirida.
+**Requisito inicial:** al menos una Habilidad de arma o Pelea adquirida.
 
 **Base histórica:** tradición marcial asociada a principios que integran movimiento y quietud, ataque y defensa, y conceptos de apariencia y realidad.
 
@@ -4477,7 +4477,7 @@ En pocas palabras:
 
 ## 13.7. Tradición clandestina de Iga
 
-**Requisito inicial:** Sigilo +0 o superior y al menos una Habilidad de combate adquirida.
+**Requisito inicial:** Sigilo +0 o superior y al menos una Habilidad de arma o Pelea adquirida.
 
 **Base histórica:** Iga no se trata como una única «escuela ninja». La región reunió familias, guerreros y comunidades con experiencia en guerra irregular, infiltración, operaciones nocturnas, uso del terreno y otras funciones que posteriormente contribuyeron a su reputación.
 
