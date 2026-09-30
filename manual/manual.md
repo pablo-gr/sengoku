@@ -1579,7 +1579,7 @@ La especialidad elegida es la **única Habilidad de arma que el Oficio Ashigaru 
 **Otras Habilidades profesionales:** Atletismo, Alerta, Templanza, Táctica, Supervivencia, Primeros auxilios.  
 **Bonificaciones gratuitas:** Habilidad de arma de la especialidad +1, Atletismo +1, Templanza +1.
 
-La especialidad Teppō sólo está disponible cuando la fecha y región de la campaña hacen plausible ese entrenamiento.
+La especialidad Teppō sólo está disponible cuando la fecha y región de la campaña hacen plausible ese entrenamiento. Su dinero adicional específico representa el mayor coste del arma, la munición y los materiales necesarios para ejercer esa función.
 
 Un ashigaru puede alcanzar niveles muy elevados en su arma mediante experiencia sin haber estudiado ninguna escuela marcial.
 
@@ -1807,6 +1807,7 @@ Algunos Oficios añaden dinero porque implican disponer habitualmente de capital
 | Posadero | +500 mon |
 | Cazador | +400 mon |
 | Ashigaru | +500 mon |
+| Ashigaru (especialidad Teppō) | +1.000 mon adicionales |
 | Guardia | +500 mon |
 | Mercenario | +500 mon |
 
