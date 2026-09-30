@@ -1838,9 +1838,11 @@ Un ashigaru veterano, mercenario, bandido o asesino puede alcanzar +2 o +3 en un
 
 ### Acceso a una escuela
 
-Para comenzar la campaña como alumno de una escuela, el personaje necesita:
+Durante la creación, un personaje puede elegir **una sola escuela inicial**.
 
-- acceso a esa escuela;
+Para comenzar la campaña como alumno de esa escuela necesita:
+
+- acceso a la escuela;
 - una historia coherente de aprendizaje;
 - un maestro, tradición o institución apropiada;
 - cumplir las condiciones de fecha y región de la escuela;
@@ -1850,11 +1852,13 @@ La Clase **Samurái** habilita normalmente este acceso cuando esas condiciones s
 
 El director puede conceder acceso excepcional a otros personajes cuando su historia lo justifique.
 
+Un personaje puede tener contactos, maestros o posibilidades de aprendizaje vinculados a otras escuelas, pero sólo su **escuela inicial** concede Técnicas gratuitas durante la creación.
+
 ### Técnicas iniciales gratuitas
 
 Cada escuela marca determinadas Técnicas como **Iniciales**.
 
-Cuando un personaje comienza la campaña perteneciendo a esa escuela, obtiene gratuitamente todas sus Técnicas Iniciales.
+Cuando un personaje comienza la campaña perteneciendo a su escuela inicial, obtiene gratuitamente todas sus Técnicas Iniciales.
 
 ### Comprar Técnicas durante la creación
 
