@@ -2648,7 +2648,31 @@ Una lesión puede estar fuera de las posibilidades reales del periodo.
 
 La infección, la pérdida de sangre y las complicaciones posteriores pueden convertir una herida inicialmente sobrevivible en mortal.
 
-## 7.9. Recuperación de Fatiga
+## 7.9. Venenos y sustancias tóxicas
+
+Los efectos de una sustancia tóxica dependen de la sustancia concreta, la cantidad recibida, la vía de exposición, el tiempo transcurrido y el estado físico del personaje.
+
+El director puede representar sus consecuencias mediante:
+
+- Fatiga;
+- pérdida de Salud;
+- penalizadores temporales;
+- vómitos, dolor, mareo, debilidad u otros síntomas;
+- inconsciencia;
+- empeoramiento progresivo;
+- muerte cuando la intoxicación sea realmente letal.
+
+El efecto puede ser inmediato o aparecer después de minutos u horas.
+
+**Venenos** puede utilizarse para reconocer una sustancia conocida, interpretar síntomas específicos, manipularla con seguridad dentro de los conocimientos del personaje, preparar una cantidad utilizable o valorar medidas de emergencia conocidas.
+
+**Medicina** puede intervenir en el diagnóstico y tratamiento de la persona afectada.
+
+Introducir una sustancia sin que nadie lo advierta puede depender además de Sigilo, Hurto, Engaño, Profesión u otra Habilidad apropiada al método empleado.
+
+La Habilidad no crea recursos. El personaje necesita disponer realmente de la sustancia, recipientes y demás medios necesarios.
+
+## 7.10. Recuperación de Fatiga
 
 Como orientación:
 
@@ -2658,7 +2682,7 @@ El director modifica el ritmo según la causa.
 
 Un personaje que continúa corriendo, combatiendo, trabajando bajo presión o sufriendo dolor intenso no recupera Fatiga normalmente.
 
-## 7.10. Recuperación de Tensión
+## 7.11. Recuperación de Tensión
 
 Como orientación:
 
@@ -2668,7 +2692,7 @@ Dormir adecuadamente permite recuperar toda la Tensión que no esté sostenida p
 
 Una amenaza todavía presente, dolor intenso, vigilancia continua, hambre extrema o miedo razonable pueden impedir la recuperación.
 
-## 7.11. Recuperación de Salud
+## 7.12. Recuperación de Salud
 
 Como orientación general:
 
