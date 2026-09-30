@@ -1348,9 +1348,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Profesión relacionada con una artesanía;
 - Comercio;
 - Escritura y documentos;
-- Cerrajería;
-- Ingeniería;
-- Primeros auxilios.
+- Cerrajería.
 
 **Oficios habilitados:** Artesano, Herrero o armero, Carpintero o constructor, Mercader, Criado, Mensajero, Posadero, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Administrador, Escribano, Médico, Curandero o herbolario, Monje, Yamabushi, Artista o entretenedor, Prostituta/o, Espía o agente clandestino.
 
@@ -1463,9 +1461,11 @@ El cazador puede comprar Arco, Supervivencia, Sigilo y las demás Habilidades pr
 ### Artesano
 
 **Clases:** Campesino, Artesano.  
-**Especialidad:** herrería, cerámica, tejido, fabricación de papel, cocina, construcción naval u otra apropiada.  
+**Especialidad:** cerámica, tejido, fabricación de papel, cocina, construcción naval, cerrajería u otra artesanía apropiada que no esté representada por un Oficio específico.  
 **Habilidades profesionales:** Profesión de la especialidad, Comercio, Perspicacia y las Habilidades técnicas coherentes con el oficio.  
 **Bonificaciones gratuitas:** Profesión de la especialidad +2, Comercio +1.
+
+Este Oficio funciona como categoría general para artesanías que no dispongan de un Oficio propio. Si una actividad ya está representada específicamente, debe utilizarse ese Oficio: por ejemplo, un herrero o fabricante de armas utiliza **Herrero o armero**, y un carpintero o constructor utiliza **Carpintero o constructor**. Un cerrajero puede utilizar **Artesano** con especialidad en cerrajería y adquirir **Cerrajería** como Habilidad técnica coherente.
 
 ### Herrero o armero
 
@@ -1501,7 +1501,9 @@ El cazador puede comprar Arco, Supervivencia, Sigilo y las demás Habilidades pr
 
 **Clases:** Campesino, Mercader.  
 **Habilidades profesionales:** Marinería, Navegación, Natación, Atletismo, Alerta, Supervivencia.  
-**Bonificaciones gratuitas:** Marinería +1, Navegación +1, Natación +1.
+**Bonificaciones gratuitas:** Marinería +2, Alerta +1.
+
+Navegación y Natación están habilitadas por el Oficio, pero no se presuponen en todo marinero. Saber trabajar a bordo no implica saber determinar una ruta ni saber nadar.
 
 ### Mensajero
 
@@ -1642,7 +1644,7 @@ Este Oficio representa una formación marcial seria. Etiqueta, Equitación, Tác
 
 **Clases:** Artesano, Mercader, Samurái, Noble cortesano (kuge).  
 **Habilidades profesionales:** Escritura y documentos, Administración, Historia, Falsificación, Idiomas, Etiqueta.  
-**Bonificaciones gratuitas:** Escritura y documentos +2, Administración +1, Historia +1.
+**Bonificaciones gratuitas:** Escritura y documentos +2, Administración +1.
 
 ### Médico
 
@@ -1688,7 +1690,7 @@ El Curandero puede comprar Medicina, pero su Oficio no presupone automáticament
 
 **Clases:** cualquiera.  
 **Habilidades profesionales:** Sigilo, Buscar, Disfraz, Engaño, Cerrajería, Trampas, Falsificación, Hurto, Atletismo, Rastreo, Venenos, Perspicacia, Alerta, Escritura y documentos.  
-**Bonificaciones gratuitas:** Sigilo +1, Alerta +1, Disfraz +1.
+**Bonificaciones gratuitas:** elige tres Habilidades diferentes a +1 entre Alerta, Buscar, Sigilo, Disfraz, Engaño, Perspicacia y Rastreo.
 
 Este Oficio representa a una persona cuya actividad habitual incluye obtención clandestina de información, infiltración, vigilancia o sabotaje.
 
@@ -3198,7 +3200,7 @@ Puede conseguir bienes, financiación e información que un guerrero no sabría 
 **Oficio:** Herrero o armero.  
 **Posición:** profesional especializado.  
 **Características destacadas:** Destreza +2, Inteligencia +1.  
-**Habilidades:** Profesión (herrería) +2, Comercio +1, Ingeniería +1, Primeros auxilios +1, Perspicacia +0.  
+**Habilidades:** Profesión (herrería) +2, Comercio +1, Ingeniería +1, Alerta +1, Perspicacia +0.  
 **Rasgos:** trabaja ocasionalmente para una casa guerrera.
 
 Su competencia técnica puede convertirlo en una persona valiosa incluso ante clientes de rango mucho mayor.
