@@ -4158,6 +4158,10 @@ Una Técnica puede:
 
 No todas las Técnicas proporcionan bonificaciones numéricas.
 
+Cuando una Técnica aparece marcada como **Inicial**, un personaje que comienza la campaña perteneciendo a esa escuela la recibe gratuitamente durante la creación.
+
+Las demás Técnicas de la escuela pueden comprarse durante la creación por **1 punto de Habilidad cada una**, según el capítulo 5.
+
 Las Técnicas que alteran reglas, abren posibilidades o dependen del contexto son preferibles a convertir el sistema en una acumulación de modificadores.
 
 ## 12.2. Técnicas activas
