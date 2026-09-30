@@ -4873,8 +4873,10 @@ Por tanto, contra un rival con Guardia Firme normalmente necesita un **Crítico*
 **Tipo:** Pasiva  
 **Etiquetas:** Control, Movimiento  
 **Requisito:** Arma de asta y espacio suficiente.  
-**Contexto:** el rival utiliza una Técnica cuyo coste sea ceder terreno.  
-**Efecto:** el personaje puede avanzar con él. El rival paga el coste de ceder terreno, pero no aumenta automáticamente la distancia.  
+**Contexto:** el rival cede terreno, ya sea como coste, efecto estándar o efecto de una Técnica.  
+**Efecto:** el personaje puede avanzar con él.
+
+El rival realiza el desplazamiento exigido, pero no aumenta automáticamente la distancia. Si pretendía **Romper contacto**, el personaje puede mantener el contacto mientras exista espacio y sea físicamente posible seguirlo.  
 **Cooldown:** sí.
 
 ## 14.6. Takenouchi-ryū
