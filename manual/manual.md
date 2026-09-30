@@ -1621,7 +1621,7 @@ Esas Habilidades quedan habilitadas por el Oficio. Las demás armas sólo estar�
 ### Samurái de armas
 
 **Clases:** Samurái.  
-**Habilidades profesionales:** Espadas, Cuchillos, Lanzas, Naginata, Bastones, Arco, Equitación, Táctica, Templanza, Liderazgo, Etiqueta, Armas de fuego.  
+**Habilidades profesionales:** Espadas, Cuchillos, Lanzas, Naginata, Bastones, Arco, Equitación, Táctica, Templanza, Liderazgo, Etiqueta, Armas de fuego cuando la fecha y región lo permitan.  
 **Bonificación gratuita:** una entre Espadas, Lanzas, Naginata o Arco +2.
 
 Este Oficio representa una formación marcial seria. Etiqueta, Equitación, Táctica y las demás Habilidades están habilitadas, pero el jugador decide si invierte puntos en ellas.
@@ -1629,7 +1629,7 @@ Este Oficio representa una formación marcial seria. Etiqueta, Equitación, Tác
 ### Oficial militar
 
 **Clases:** Samurái.  
-**Habilidades profesionales:** Táctica, Liderazgo, Administración, Etiqueta, Escritura y documentos, Equitación, Espadas, Lanzas, Arco, Armas de fuego.  
+**Habilidades profesionales:** Táctica, Liderazgo, Administración, Etiqueta, Escritura y documentos, Equitación, Espadas, Lanzas, Arco, Armas de fuego cuando la fecha y región lo permitan.  
 **Bonificaciones gratuitas:** Táctica +1, Liderazgo +1, Etiqueta +1, Escritura y documentos +1.
 
 ### Administrador
