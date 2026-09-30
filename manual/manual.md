@@ -1439,15 +1439,7 @@ Cada Oficio indica:
 
 Las Habilidades profesionales se añaden a las generales y a las de Clase.
 
-Las bonificaciones gratuitas no se diseñan mediante un presupuesto uniforme. Representan qué formación resulta inevitable para ejercer ese Oficio y cuánto valor tiene esa formación dentro del juego.
-
-Como referencia de diseño:
-
-- un Oficio centrado en una Habilidad muy útil puede conceder sólo **+2 en esa Habilidad**;
-- un Oficio más general puede conceder **+1 en tres Habilidades**;
-- un Oficio cuya competencia principal tiene poca utilidad aventurera puede conceder **+2 en esa competencia y varios +1 adicionales**.
-
-Estas pautas no son una fórmula obligatoria.
+Las bonificaciones gratuitas representan la formación que el Oficio presupone. Los paquetes no tienen por qué conceder el mismo número de niveles: una profesión muy especializada puede concentrarlos en su competencia principal, mientras que otra puede repartirlos entre varias Habilidades necesarias para ejercerla.
 
 ### Agricultor
 
@@ -1851,7 +1843,8 @@ Para comenzar la campaña como alumno de una escuela, el personaje necesita:
 - acceso a esa escuela;
 - una historia coherente de aprendizaje;
 - un maestro, tradición o institución apropiada;
-- cumplir las condiciones de fecha y región de la escuela.
+- cumplir las condiciones de fecha y región de la escuela;
+- cumplir el **requisito inicial de Habilidad** indicado en el capítulo 13.
 
 La Clase **Samurái** habilita normalmente este acceso cuando esas condiciones se cumplen.
 
@@ -4160,7 +4153,7 @@ Valores superiores representarían una excepción deliberada de campaña y no fo
 
 Las **Técnicas** representan entrenamiento marcial concreto: métodos aprendidos, principios tácticos, respuestas practicadas y capacidades especiales desarrolladas mediante instrucción y experiencia.
 
-Las Técnicas constituyen la principal fuente de profundidad táctica del combate.
+Las Técnicas amplían las opciones disponibles durante el combate y permiten representar formas concretas de entrenamiento marcial.
 
 Una Técnica puede:
 
@@ -4182,7 +4175,6 @@ Cuando una Técnica aparece marcada como **Inicial**, un personaje que comienza 
 
 Las demás Técnicas de la escuela pueden comprarse durante la creación por **1 punto de Habilidad cada una**, según el capítulo 5.
 
-Las Técnicas que alteran reglas, abren posibilidades o dependen del contexto son preferibles a convertir el sistema en una acumulación de modificadores.
 
 ## 12.2. Técnicas activas
 
@@ -4243,10 +4235,6 @@ Entre los posibles costes se encuentran:
 
 El coste se paga cuando indique la Técnica.
 
-Una Técnica no debe considerarse equilibrada simplemente porque exista alguna Técnica capaz de contrarrestarla. Cada Técnica debe ser razonablemente jugable por sí misma.
-
-Especialmente, una Técnica activa que conceda un modificador numérico incondicional necesita una limitación significativa, como coste, Cooldown, riesgo o requisito restrictivo. De otro modo se convertiría en la elección automática de todos los Intercambios.
-
 ## 12.5. Cooldown
 
 Cuando una Técnica con **Cooldown** se utiliza durante un Intercambio, no puede utilizarse durante el Intercambio siguiente.
@@ -4257,7 +4245,7 @@ Esta regla se aplica tanto a Técnicas activas como pasivas.
 
 El Cooldown representa la imposibilidad de repetir inmediatamente una misma maniobra, patrón, esfuerzo o recurso táctico con plena eficacia.
 
-Como criterio general de diseño, **la mayoría de las Técnicas activas deben tener Cooldown**. La ausencia de Cooldown debe justificarse por un coste acumulativo, un riesgo importante o una limitación equivalente que impida convertir la Técnica en la elección automática de todos los Intercambios.
+Una Técnica sin Cooldown puede utilizarse en Intercambios consecutivos siempre que siga cumpliendo todos sus requisitos y pueda pagar sus costes.
 
 ## 12.6. Contexto y requisitos
 
@@ -4316,39 +4304,7 @@ Por ejemplo, una Técnica puede indicar:
 
 > Si el adversario juega una Técnica de Movimiento, obtienes +2.
 
-## 12.9. Criterio de equilibrio
-
-Una Técnica poderosa no es necesariamente problemática.
-
-Para evaluar una Técnica debe plantearse:
-
-> **Si tengo que combatir contra un adversario que posee esta Técnica, ¿qué puedo intentar hacer?**
-
-Una Técnica puede resultar muy fuerte si existen respuestas razonables mediante:
-
-- otras Técnicas;
-- cambios de terreno;
-- distancia;
-- Fatiga o Tensión;
-- lectura del adversario;
-- coste;
-- Cooldown;
-- uso de otra arma;
-- retirada;
-- preparación previa.
-
-Una Técnica cuya única respuesta sea una carta rara y exclusiva de una escuela concreta probablemente necesita rediseñarse.
-
-Las defensas pueden ser extremadamente fuertes porque normalmente compran tiempo. Los efectos que garantizan progreso ofensivo deben ser mucho más restrictivos.
-
-Existe una diferencia fundamental entre:
-
-- impedir una derrota;
-- obligar a obtener una victoria.
-
-Una Técnica que evita perder puede mantener un combate vivo. Una Técnica que fuerza automáticamente una victoria puede Comprometer Guardia, causar Heridas o terminar un duelo sin dar al adversario una respuesta suficiente.
-
-## 12.10. Técnicas y efectos de resultado
+## 12.9. Técnicas y efectos de resultado
 
 Las Técnicas pueden utilizar Empate, Éxito y Crítico como condiciones.
 
@@ -4363,7 +4319,7 @@ Ejemplos:
 
 Un Crítico incluye todas las posibilidades de un Éxito, además de las opciones exclusivas de Crítico.
 
-## 12.11. Técnicas de supervivencia
+## 12.10. Técnicas de supervivencia
 
 Algunas Técnicas pueden actuar como último recurso después de que el personaje haya perdido un Intercambio.
 
@@ -4385,17 +4341,21 @@ Estas Técnicas no deberían:
 
 # 13. Escuelas marciales
 
-> Este capítulo define la identidad mecánica prevista para las primeras escuelas. No pretende afirmar que las escuelas históricas utilizaran literalmente las reglas o Técnicas descritas. Se distingue entre la base histórica conocida y la interpretación creada para el juego.
+Este capítulo presenta las escuelas y tradiciones marciales disponibles, su contexto histórico, los requisitos para comenzar como alumno y el estilo de combate que representan en el juego.
+
+Las Técnicas son una representación lúdica de principios, especialidades y formas de entrenamiento. No deben interpretarse como una transcripción literal de los métodos históricos de cada ryūha.
 
 ## 13.1. Tenshin Shōden Katori Shintō-ryū
 
+**Requisito inicial:** dos Habilidades de arma adquiridas, al menos una de ellas entre Espadas, Lanzas, Naginata o Bastones.
+
 **Base histórica:** tradición de amplio currículo marcial, con entrenamiento en distintas armas y disciplinas.
 
-**Interpretación para el juego:** **versatilidad y adaptación multiarma**.
+**Estilo de combate:** **versatilidad y adaptación multiarma**.
 
-Su fortaleza no debe consistir en ser la mejor escuela con cada arma, sino en conservar un repertorio útil cuando cambian las circunstancias.
+Su repertorio se caracteriza por la amplitud y la adaptación a distintas armas y circunstancias, en lugar de concentrarse en una única especialidad extrema.
 
-Principios de diseño:
+En juego, esta tradición favorece:
 
 - gran variedad de requisitos de arma;
 - Técnicas distintas para armas y configuraciones diferentes;
@@ -4403,17 +4363,19 @@ Principios de diseño:
 - repertorio amplio sin asumir que el personaje posee un arma que no lleva consigo;
 - menor especialización extrema que las escuelas centradas en un arma concreta.
 
-Idea central:
+En pocas palabras:
 
 > **Sé explotar armas distintas de formas distintas.**
 
 ## 13.2. Kashima-Shinryū
 
+**Requisito inicial:** al menos una Habilidad de combate adquirida.
+
 **Base histórica:** tradición marcial asociada a principios que integran movimiento y quietud, ataque y defensa, y conceptos de apariencia y realidad.
 
-**Interpretación para el juego:** **integración entre ataque y defensa**.
+**Estilo de combate:** **integración entre ataque y defensa**.
 
-Principios de diseño:
+En juego, esta tradición favorece:
 
 - defensas que conservan amenaza ofensiva;
 - ataques que ayudan simultáneamente a estabilizar la posición propia;
@@ -4421,17 +4383,19 @@ Principios de diseño:
 - efectos dobles muy condicionados;
 - equilibrio entre presión y conservación.
 
-Idea central:
+En pocas palabras:
 
 > **Defender y atacar pueden formar parte de una misma acción.**
 
 ## 13.3. Shinkage-ryū / Yagyū Shinkage-ryū
 
+**Requisito inicial:** Espadas +0 o superior.
+
 **Base histórica:** tradición surgida durante el siglo XVI y posteriormente desarrollada por la línea Yagyū, con fuerte énfasis en adaptación, lectura e interacción con la iniciativa del adversario.
 
-**Interpretación para el juego:** **lectura, respuesta y counter**.
+**Estilo de combate:** **lectura, respuesta y counter**.
 
-Principios de diseño:
+En juego, esta tradición favorece:
 
 - predecir qué hará el rival;
 - reaccionar a familias de Técnicas;
@@ -4440,17 +4404,19 @@ Principios de diseño:
 - conservar opciones ante una ofensiva agresiva;
 - disponer de respuestas cuyo valor depende de la acción enemiga.
 
-Idea central:
+En pocas palabras:
 
 > **Dejo que reveles tu intención y utilizo esa decisión contra ti.**
 
 ## 13.4. Hōzōin-ryū Sōjutsu
 
+**Requisito inicial:** Lanzas +0 o superior.
+
 **Base histórica:** tradición de sōjutsu del siglo XVI vinculada al uso de yari y especialmente formas de kamayari o jūmonji-yari capaces de estocar, barrer, enganchar y controlar.
 
-**Interpretación para el juego:** **control de distancia y terreno**.
+**Estilo de combate:** **control de distancia y terreno**.
 
-Principios de diseño:
+En juego, esta tradición favorece:
 
 - mantener al enemigo fuera de su distancia favorable;
 - impedir aproximaciones;
@@ -4460,17 +4426,19 @@ Principios de diseño:
 - desbloquear capacidades adicionales con Punta, Filo y Gancho;
 - depender de disponer de espacio suficiente.
 
-Idea central:
+En pocas palabras:
 
 > **Yo decido a qué distancia se combate.**
 
 ## 13.5. Takenouchi-ryū
 
+**Requisito inicial:** Pelea +0 o Cuchillos +0 o superior.
+
 **Base histórica:** tradición fundada en el siglo XVI asociada a kogusoku, armas cortas, agarres, captura y combate a distancia muy corta.
 
-**Interpretación para el juego:** **entrada, agarre y combate cerrado**.
+**Estilo de combate:** **entrada, agarre y combate cerrado**.
 
-Principios de diseño:
+En juego, esta tradición favorece:
 
 - superar la distancia favorable de armas largas;
 - entrar dentro de su alcance útil;
@@ -4482,17 +4450,19 @@ Principios de diseño:
 - causar lesiones reales mediante combate sin armas entrenado;
 - ser especialmente peligrosa cuando ya se ha cerrado la distancia.
 
-Idea central:
+En pocas palabras:
 
 > **Quiero estar demasiado cerca para que utilices tu arma como deseas.**
 
 ## 13.6. Taisha-ryū
 
+**Requisito inicial:** Espadas +0 o superior.
+
 **Base histórica:** tradición surgida hacia el final del Sengoku, vinculada a Shinkage y conocida por un repertorio marcial pragmático que incluye movimientos engañosos y recursos diversos.
 
-**Interpretación para el juego:** **ofensiva, engaño y presión**.
+**Estilo de combate:** **ofensiva, engaño y presión**.
 
-Principios de diseño:
+En juego, esta tradición favorece:
 
 - crear Guardia Comprometida;
 - castigar defensas previsibles;
@@ -4501,19 +4471,21 @@ Principios de diseño:
 - sacrificar seguridad propia para aumentar la amenaza;
 - pocas herramientas para recuperarse cuando el adversario rompe su ritmo.
 
-Idea central:
+En pocas palabras:
 
 > **Te presiono hasta que dejas una apertura.**
 
 ## 13.7. Tradición clandestina de Iga
 
+**Requisito inicial:** Sigilo +0 o superior y al menos una Habilidad de combate adquirida.
+
 **Base histórica:** Iga no se trata como una única «escuela ninja». La región reunió familias, guerreros y comunidades con experiencia en guerra irregular, infiltración, operaciones nocturnas, uso del terreno y otras funciones que posteriormente contribuyeron a su reputación.
 
-**Interpretación para el juego:** **entorno, sorpresa, engaño y ruptura del combate**.
+**Estilo de combate:** **entorno, sorpresa, engaño y ruptura del combate**.
 
 Se trata de una síntesis lúdica inspirada históricamente, no de una ryūha histórica única.
 
-Principios de diseño:
+En juego, esta tradición favorece:
 
 - aprovechar oscuridad y obstáculos;
 - crear o explotar sorpresa;
@@ -4525,23 +4497,11 @@ Principios de diseño:
 - utilizar golpes oportunistas contra puntos vulnerables cuando el combate se vuelve físico;
 - evitar enfrentamientos frontales desfavorables.
 
-Idea central:
+En pocas palabras:
 
 > **Si estoy obligado a combatir limpiamente, mi plan ya ha fallado.**
 
-## 13.8. Equilibrio entre escuelas
-
-Las escuelas se equilibran como **conjuntos de opciones**, no necesariamente Técnica por Técnica.
-
-Una escuela puede poseer una defensa excepcional si carece de herramientas equivalentes para presionar.
-
-Otra puede resultar extremadamente peligrosa cuando toma la iniciativa, pero tener dificultades para recuperar Guardia.
-
-Las combinaciones especialmente poderosas pueden mantenerse separadas mediante el acceso a escuelas diferentes.
-
-Los counters importantes deben poder aparecer en varias escuelas o depender también de recursos universales como terreno, distancia, Fatiga, Suerte o lectura del adversario.
-
-## 13.9. Cronología y disponibilidad
+## 13.8. Cronología y disponibilidad
 
 La fecha indicada es la **fecha mínima recomendada para permitir la escuela en una campaña**, no necesariamente una afirmación de que todo su repertorio posterior existiera ya exactamente en esa forma.
 
@@ -4597,6 +4557,7 @@ Salvo que una Técnica indique lo contrario, se aplican todas las reglas normale
 
 **Tipo:** Activa  
 **Etiquetas:** Defensa, Recuperación  
+**Requisito:** Fortaleza +1 o superior.  
 **Contexto:** Guardia Comprometida.  
 **Efecto:** recupera automáticamente Guardia Firme. Renuncia a efectos ofensivos durante ese Intercambio.  
 **Coste:** 1 Fatiga.  
@@ -4654,6 +4615,7 @@ Esta Técnica puede utilizarse aunque el personaje haya jugado una Técnica acti
 ### Resiliencia
 
 **Tipo:** Pasiva  
+**Requisito:** Fortaleza +2.  
 **Contexto:** permanente.  
 **Efecto:** la Fatiga no compromete automáticamente la Guardia al alcanzar **Fatiga 3 (−2)**. Con Resiliencia, la Guardia sólo queda automáticamente Comprometida al alcanzar **Fatiga 4 (−3)** o superior.  
 **Coste:** ninguno.  
@@ -4837,7 +4799,11 @@ Por tanto, contra un rival con Guardia Firme normalmente necesita un **Crítico*
 **Tipo:** Activa  
 **Etiquetas:** Movimiento, Counter  
 **Contexto:** el rival utiliza un arma Larga a distancia **Larga**.  
-**Efecto:** si el rival juega una Técnica con la etiqueta **Control** basada en esa arma, el personaje obtiene **+1 al resultado**. Si gana puede elegir **Cerrar distancia** como efecto de la victoria, reduciendo la distancia en una categoría.  
+**Efecto:** si el rival juega una Técnica con la etiqueta **Control** basada en esa arma, el personaje obtiene **+1 al resultado**.
+
+Si gana el Intercambio, **cierra además una categoría de distancia** después de resolver el efecto normal de su victoria, siempre que exista espacio y la posición permita físicamente la aproximación.
+
+Cerrar distancia mediante esta Técnica no consume el efecto obtenido por la victoria.  
 **Cooldown:** sí.
 
 ### Kogusoku
