@@ -744,7 +744,9 @@ Por ejemplo, la ceguera impide utilizar la vista, pero no impone automáticament
 
 Las **Habilidades** representan formación, práctica, conocimientos adquiridos y experiencia.
 
-No existe una lista completamente cerrada. Las Habilidades siguientes cubren las situaciones más habituales de una campaña de **Sengoku Jidai**. El director puede aceptar otras cuando un oficio, tradición o actividad requiera una competencia diferenciada.
+No existe una lista completamente cerrada. Las Habilidades siguientes cubren las situaciones más habituales de una campaña de **Sengoku Jidai**.
+
+El director puede aceptar otras cuando un oficio, tradición o actividad requiera una competencia diferenciada. Cuando se añade una Habilidad nueva, el director debe indicar también qué **Clases y Oficios la habilitan** durante la creación.
 
 ## 4.1. Valores de Habilidad
 
@@ -1166,21 +1168,28 @@ Puede servir para reconocer un templo, comprender la posición de un monje, iden
 
 ### Profesión `*`
 
-Representa una profesión artesanal o técnica concreta y debe especificarse.
+Representa una actividad profesional, artesanal, productiva o especializada concreta y debe especificarse.
 
 Ejemplos:
 
+- agricultura;
+- pesca;
 - herrería;
 - carpintería;
 - fabricación de armas;
 - construcción;
 - cerámica;
 - tejido;
-- agricultura especializada;
 - cocina;
+- hostelería;
+- herbolaria;
+- servicio doméstico;
+- música, danza o teatro;
 - construcción naval.
 
-Una Profesión permite realizar el trabajo cotidiano correspondiente y resolver situaciones técnicas relacionadas con él.
+Una Profesión permite realizar el trabajo cotidiano correspondiente y resolver situaciones técnicas o prácticas propias de esa actividad.
+
+No sustituye a otras Habilidades cuando el problema pertenece claramente a ellas. Por ejemplo, **Profesión (herrería)** permite fabricar o reparar una pieza metálica, pero no convierte al personaje en Ingeniero; **Profesión (hostelería)** permite gestionar el trabajo cotidiano de una posada, pero no sustituye a Comercio o Persuasión.
 
 ### Venenos `*`
 
