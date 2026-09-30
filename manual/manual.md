@@ -465,7 +465,7 @@ El reglamento utiliza cinco clases:
 - **Artesano**
 - **Mercader**
 - **Samurái**
-- **Noble**
+- **Noble cortesano (kuge)**
 
 La Clase social determina:
 
@@ -4071,9 +4071,7 @@ Una campaña con largos periodos de inactividad puede permitir avances important
 
 ## 11.3. Aprender Técnicas marciales
 
-Las Técnicas marciales no se adquieren mediante fallos relevantes.
-
-Requieren acceso real a una fuente de enseñanza.
+Las Técnicas marciales requieren acceso real a una fuente de enseñanza.
 
 Puede ser:
 
@@ -4115,7 +4113,7 @@ Una campaña puede utilizar este acceso como recompensa narrativa.
 
 ## 11.5. Características
 
-Las Características representan capacidades generales relativamente estables y **no mejoran mediante el sistema ordinario de fallos relevantes**.
+Las Características representan capacidades generales relativamente estables y no mejoran mediante el aprendizaje ordinario de Habilidades.
 
 Un cambio de Característica debe ser excepcional y estar justificado por una transformación prolongada o importante del personaje.
 
