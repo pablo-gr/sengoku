@@ -1396,7 +1396,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 
 Además de habilitar estas Habilidades, la Clase **Samurái** permite que el personaje tenga acceso inicial a una **escuela marcial** cuando su origen, maestro, región y fecha lo hagan plausible.
 
-Tener acceso significa que el personaje puede pertenecer a esa escuela y aprender sus Técnicas. Si comienza efectivamente la campaña como alumno de la escuela, recibe sus **Técnicas Iniciales** conforme a la sección 5.14.
+Tener acceso significa que el personaje puede pertenecer a esa escuela y aprender sus Técnicas. Si la elige como su **escuela inicial de creación**, recibe sus Técnicas Iniciales conforme a la sección 5.14.
 
 Un samurái sin señor puede conservar esta Clase social aunque su situación concreta sea la de rōnin.
 
@@ -4175,7 +4175,7 @@ Una Técnica puede:
 
 No todas las Técnicas proporcionan bonificaciones numéricas.
 
-Cuando una Técnica aparece marcada como **Inicial**, un personaje que comienza la campaña perteneciendo a esa escuela la recibe gratuitamente durante la creación.
+Cuando una Técnica aparece marcada como **Inicial**, un personaje que ha elegido esa tradición como su **escuela inicial de creación** la recibe gratuitamente.
 
 Las demás Técnicas de la escuela pueden comprarse durante la creación por **1 punto de Habilidad cada una**, según el capítulo 5.
 
