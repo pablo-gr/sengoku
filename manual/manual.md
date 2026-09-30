@@ -4275,6 +4275,8 @@ Entre los posibles costes se encuentran:
 
 El coste se paga cuando indique la Técnica.
 
+Si el personaje no puede pagar el coste completo, no puede utilizar la Técnica. Esto incluye costes de Fatiga, Tensión, Suerte, ceder terreno o cualquier otro recurso exigido.
+
 ## 12.5. Cooldown
 
 Cuando una Técnica con **Cooldown** se utiliza durante un Intercambio, no puede utilizarse durante el Intercambio siguiente.
