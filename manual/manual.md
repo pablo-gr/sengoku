@@ -1229,9 +1229,9 @@ Un personaje se crea en este orden:
 3. definir Origen y Afiliaciones;
 4. repartir Características;
 5. aplicar las Habilidades gratuitas del Oficio;
-6. gastar los puntos de Habilidad entre las Habilidades disponibles;
+6. gastar o reservar los puntos de Habilidad entre las Habilidades disponibles;
 7. elegir Rasgos;
-8. elegir escuela cuando corresponda, recibir sus Técnicas Iniciales y comprar Técnicas adicionales si se desea;
+8. elegir escuela cuando corresponda, recibir sus Técnicas Iniciales y gastar en Técnicas los puntos de Habilidad reservados si se desea;
 9. calcular el dinero inicial y comprar equipo;
 10. anotar Suerte y estado inicial.
 
@@ -1860,7 +1860,7 @@ Cuando un personaje comienza la campaña perteneciendo a esa escuela, obtiene gr
 
 ### Comprar Técnicas durante la creación
 
-Después de recibir las Técnicas Iniciales, el personaje puede gastar sus **puntos de Habilidad** para aprender Técnicas adicionales.
+Después de recibir las Técnicas Iniciales, el personaje puede gastar los **puntos de Habilidad que haya reservado** para aprender Técnicas adicionales.
 
 > **1 punto de Habilidad = 1 Técnica**
 
