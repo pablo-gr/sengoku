@@ -2307,7 +2307,7 @@ No puede utilizarse una Técnica activa y una carta de Suerte en el mismo Interc
 
 Las Técnicas pasivas no ocupan esta elección y pueden activarse cuando se cumplan sus condiciones.
 
-Las reglas generales de Técnicas se encuentran en el capítulo 12 y el catálogo de Técnicas permanece al final del manual.
+Las reglas generales de Técnicas se encuentran en el capítulo 12.
 
 ## 6.18. Secuencia de un Intercambio
 
