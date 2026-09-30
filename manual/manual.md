@@ -2053,6 +2053,21 @@ La Guardia pasa a estar **Firme**, siempre que ninguna causa persistente impida 
 
 La Guardia rival pasa a estar **Comprometida**.
 
+#### Modificar distancia
+
+**Requisito:** el espacio y la posición permiten el desplazamiento.
+
+El personaje puede:
+
+- **cerrar distancia**, pasando una categoría hacia Corta;
+- **aumentar distancia**, pasando una categoría hacia Larga.
+
+Sólo se modifica una categoría por cada efecto.
+
+Modificar distancia no termina el enfrentamiento ni implica necesariamente ceder terreno suficiente para romper el contacto.
+
+Una Técnica puede mejorar, restringir o reaccionar a este efecto.
+
 #### Romper contacto
 
 **Requisito:** existe espacio suficiente para retirarse y una dirección razonable por la que hacerlo.
@@ -2122,7 +2137,7 @@ Un arma utilizada fuera de su distancia apropiada sufre **−1 al resultado**.
 
 El director determina la distancia inicial a partir de la ficción.
 
-Cerrar distancia significa pasar a una categoría más próxima cuando una regla, acción o Técnica lo permita. Alejarse puede producir el efecto contrario.
+El efecto estándar **Modificar distancia** permite cerrar o aumentar la distancia una categoría cuando el espacio y la situación lo permiten. Algunas Técnicas modifican o reaccionan a este efecto.
 
 La distancia no sustituye al terreno. Es posible combatir a distancia Corta en un campo abierto o a distancia Larga dentro de un espacio suficientemente amplio.
 
