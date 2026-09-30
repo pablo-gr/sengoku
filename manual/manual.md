@@ -4517,6 +4517,8 @@ En pocas palabras:
 
 ## 13.7. Tradición clandestina de Iga
 
+**Acceso:** puede elegirse como escuela inicial desde cualquier Clase social cuando el personaje posea una relación plausible con Iga, Kōka o una red de enseñanza vinculada a esas prácticas.
+
 **Requisito inicial:** Sigilo +0 o superior y al menos una Habilidad de arma o Pelea adquirida.
 
 **Base histórica:** Iga no se trata como una única «escuela ninja». La región reunió familias, guerreros y comunidades con experiencia en guerra irregular, infiltración, operaciones nocturnas, uso del terreno y otras funciones que posteriormente contribuyeron a su reputación.
