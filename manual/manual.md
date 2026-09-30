@@ -3695,7 +3695,7 @@ Se utiliza la Habilidad correspondiente al objeto si el lanzamiento forma parte 
 
 Las armas improvisadas y objetos pequeños tienen un alcance limitado y pueden sufrir penalizadores importantes.
 
-No existe una categoría especial de armas arrojadizas «ninja» con reglas superiores a las demás.
+Las armas arrojadizas utilizadas en operaciones clandestinas siguen estas mismas reglas y dependen de las propiedades físicas del objeto y de la formación del personaje.
 
 ## 10.10. Armaduras
 
@@ -3756,9 +3756,9 @@ Ejemplos:
 - vendas;
 - armas que puedan ocultarse.
 
-No existe un «uniforme ninja» que proporcione bonificaciones.
+La ropa adecuada depende del método elegido: a veces debe ocultar al personaje y otras veces debe permitir que sea visto sin despertar sospechas.
 
-La mejor ropa es la que funciona para el método elegido: a veces debe ocultar al personaje y otras veces debe permitir que sea visto sin despertar sospechas.
+Las prendas oscuras pueden resultar útiles en determinadas condiciones nocturnas, mientras que una identidad creíble puede exigir ropa completamente ordinaria.
 
 ## 10.12. Herramientas
 
