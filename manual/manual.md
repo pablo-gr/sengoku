@@ -2768,7 +2768,31 @@ Un infiltrado que pretende ser criado puede necesitar:
 
 Cuanto más cercana sea la interacción y más familiarizado esté el observador con la identidad alegada, más difícil resulta mantener la ficción.
 
-## 8.3. Guerreros y casas militares
+## 8.3. Corte imperial y nobleza kuge
+
+Los **kuge** son la aristocracia cortesana vinculada a la corte imperial de Kioto.
+
+No forman parte de la misma categoría social que los daimyō, grandes vasallos y demás élites guerreras. Un daimyō poderoso pertenece al mundo **buke** de los guerreros aunque posea mucha más riqueza, tropas y poder territorial que la mayoría de los nobles cortesanos.
+
+Durante el periodo Sengoku la corte imperial conserva prestigio, títulos, funciones ceremoniales y redes de relaciones, aunque el poder militar y gran parte del poder político efectivo estén en manos de casas guerreras.
+
+Un personaje kuge puede disponer de:
+
+- conocimiento de protocolo y precedencias;
+- acceso a círculos cortesanos;
+- educación literaria y documental;
+- vínculos familiares con otras casas aristocráticas;
+- autoridad derivada de un título o cargo concreto;
+- conocimientos de historia, genealogías, poesía, ceremonias o asuntos religiosos;
+- contactos con guerreros, templos y patronos interesados en el prestigio de la cultura cortesana.
+
+Nada de esto equivale automáticamente a riqueza.
+
+Una familia kuge puede conservar enorme prestigio y, al mismo tiempo, atravesar dificultades económicas o depender del patronazgo de una casa guerrera.
+
+Del mismo modo, un título cortesano no concede autoridad militar sobre samuráis que no estén sometidos por alguna relación concreta de servicio, cargo o circunstancia política.
+
+## 8.4. Guerreros y casas militares
 
 ### Daimyō y grandes señores
 
@@ -2834,7 +2858,7 @@ Puede convertirse en:
 
 «Rōnin» describe una situación respecto al servicio, no una personalidad ni una profesión uniforme.
 
-## 8.4. Aldeas y población rural
+## 8.5. Aldeas y población rural
 
 La mayor parte de la población vive directa o indirectamente de la producción agrícola.
 
@@ -2857,7 +2881,7 @@ También posee redes propias de solidaridad, jerarquía, conocimiento local y ne
 
 Un extraño puede descubrir rápidamente que «ser sólo campesino» no significa carecer de influencia dentro de una comunidad.
 
-## 8.5. Artesanos
+## 8.6. Artesanos
 
 Los artesanos especializados pueden disfrutar de gran valor económico y libertad de movimiento, especialmente cuando sus conocimientos son necesarios para la guerra, la construcción o el comercio.
 
@@ -2877,7 +2901,7 @@ Su posición concreta depende de quién los emplea, el prestigio del oficio, su 
 
 Un maestro artesano puede tener poco rango formal y una gran capacidad de negociación porque un señor necesita su trabajo.
 
-## 8.6. Mercaderes
+## 8.7. Mercaderes
 
 Los mercaderes participan en redes de transporte, crédito, almacenamiento, distribución y comercio local o regional.
 
@@ -2895,7 +2919,7 @@ y seguir careciendo de la autoridad formal de un guerrero.
 
 Las ciudades mercantiles, puertos y mercados pueden otorgar a estos personajes un peso muy distinto al que tendrían dentro de un castillo militar.
 
-## 8.7. Religiosos e instituciones religiosas
+## 8.8. Religiosos e instituciones religiosas
 
 Los religiosos tampoco forman un grupo uniforme.
 
@@ -2914,7 +2938,7 @@ Los grandes templos y organizaciones religiosas pueden actuar como centros espir
 
 La pertenencia religiosa puede proporcionar educación, contactos, alojamiento, movilidad o autoridad dentro de determinadas redes sin convertir automáticamente al personaje en guerrero.
 
-## 8.8. Criados, trabajadores y dependientes
+## 8.9. Criados, trabajadores y dependientes
 
 Muchas personas viven y trabajan dentro de hogares, talleres, casas guerreras, establecimientos comerciales o instituciones religiosas.
 
@@ -2933,7 +2957,7 @@ Su posición depende en gran medida de la casa o persona a la que sirven.
 
 Un criado de confianza puede tener acceso físico a espacios que resultarían imposibles para personas de rango mucho mayor.
 
-## 8.9. Ladrones, bandidos y otros fuera de la ley
+## 8.10. Ladrones, bandidos y otros fuera de la ley
 
 «Bandido» o «ladrón» describe principalmente una relación con la ley y la comunidad, no una clase social única.
 
@@ -2950,7 +2974,7 @@ Sus capacidades pueden ser útiles para actividades clandestinas: observar rutin
 
 Una casa militar puede reclutar temporalmente a personas de estos ambientes para operaciones concretas.
 
-## 8.10. Prostitutas, entretenedores e itinerantes
+## 8.11. Prostitutas, entretenedores e itinerantes
 
 El trabajo sexual y el entretenimiento existían en contextos variados y no deben reducirse a un único modelo posterior de barrio licenciado.
 
@@ -2965,7 +2989,7 @@ Una prostituta, cantante, bailarina, narradora, músico, sirviente de establecim
 
 La posición y condiciones de estas personas pueden variar enormemente: desde profesionales integrados en grupos familiares o artísticos hasta personas sometidas a explotación y dependencia.
 
-## 8.11. Mujeres y posición social
+## 8.12. Mujeres y posición social
 
 «Mujer» no es una clase social.
 
@@ -2994,7 +3018,7 @@ Pueden existir mujeres como:
 
 El director debe evitar sustituir la diversidad histórica por una prohibición universal del tipo «las mujeres no podían hacer X». Cuando una limitación social sea relevante debe depender de una situación concreta.
 
-## 8.12. Grupos marginados
+## 8.13. Grupos marginados
 
 Determinadas ocupaciones, comunidades y personas podían sufrir discriminación severa por razones locales, religiosas, económicas o relacionadas con trabajos considerados contaminantes o deshonrosos.
 
@@ -3002,7 +3026,7 @@ No existe una única categoría que funcione igual en todo Japón y durante todo
 
 Cuando una campaña quiera tratar estas situaciones, el director debe definir quién discrimina, por qué, en qué territorio y qué consecuencias concretas produce.
 
-## 8.13. Shinobi no es una clase social
+## 8.14. Shinobi no es una clase social
 
 **Shinobi** describe principalmente un ámbito de actividad clandestina, no una casta separada.
 
@@ -3023,7 +3047,7 @@ La ficha representa quién es la persona.
 
 La misión describe qué está haciendo.
 
-## 8.14. Ejemplos de personajes y PNJ
+## 8.15. Ejemplos de personajes y PNJ
 
 Los ejemplos siguientes no son plantillas obligatorias. Sirven para mostrar cómo Clase, Oficio, posición y capacidades pueden combinarse de formas muy distintas.
 
@@ -3038,6 +3062,18 @@ Los ejemplos siguientes no son plantillas obligatorias. Sirven para mostrar cóm
 **Rasgos:** conoce compradores de mercancía robada; evita matar si puede.
 
 Es muy eficaz entrando en edificios y robando objetos, pero no posee entrenamiento militar por el mero hecho de ser delincuente.
+
+### Cortesano kuge
+
+**Categoría:** ordinario.  
+**Clase:** Noble cortesano (kuge).  
+**Oficio:** Cortesano.  
+**Posición:** miembro de una familia aristocrática vinculada a la corte de Kioto.  
+**Características destacadas:** Presencia +2, Inteligencia +1.  
+**Habilidades:** Etiqueta +2, Perspicacia +1, Escritura y documentos +1, Historia +1, Persuasión +0.  
+**Rasgos:** orgulloso de su linaje; depende económicamente del favor de un patrón guerrero.
+
+Puede desenvolverse con enorme soltura en ambientes cortesanos y comprender precedencias que resultarían opacas para otros personajes, pero no posee autoridad militar ni entrenamiento de combate por su nacimiento.
 
 ### Samurái bien entrenado
 
