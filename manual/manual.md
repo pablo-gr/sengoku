@@ -3985,7 +3985,7 @@ Para las compras ordinarias el juego utiliza el **mon** como unidad de cuenta.
 
 > **1 kanmon = 1.000 mon**
 
-Durante el periodo Sengoku circularon monedas de procedencias y calidades diferentes y su valoración podía variar. El reglamento ignora normalmente esas diferencias para mantener una economía jugable.
+Durante el periodo Sengoku circularon monedas de procedencias y calidades diferentes y su valoración podía variar. A efectos de juego, estas diferencias se abstraen y todas las cantidades se expresan mediante la misma unidad de cuenta.
 
 Los precios siguientes son **valores de referencia de juego**. El director puede modificarlos por escasez, guerra, aislamiento, calidad excepcional o abundancia local.
 
