@@ -1461,11 +1461,11 @@ El cazador puede comprar Arco, Supervivencia, Sigilo y las demás Habilidades pr
 ### Artesano
 
 **Clases:** Campesino, Artesano.  
-**Especialidad:** cerámica, tejido, fabricación de papel, cocina, construcción naval, cerrajería u otra artesanía apropiada que no esté representada por un Oficio específico.  
+**Especialidad:** cerámica, tejido, fabricación de papel, cocina, cerrajería u otra artesanía apropiada que no esté representada por un Oficio específico.  
 **Habilidades profesionales:** Profesión de la especialidad, Comercio, Perspicacia y las Habilidades técnicas coherentes con el oficio.  
 **Bonificaciones gratuitas:** Profesión de la especialidad +2, Comercio +1.
 
-Este Oficio funciona como categoría general para artesanías que no dispongan de un Oficio propio. Si una actividad ya está representada específicamente, debe utilizarse ese Oficio: por ejemplo, un herrero o fabricante de armas utiliza **Herrero o armero**, y un carpintero o constructor utiliza **Carpintero o constructor**. Un cerrajero puede utilizar **Artesano** con especialidad en cerrajería y adquirir **Cerrajería** como Habilidad técnica coherente.
+Este Oficio funciona como categoría general para artesanías que no dispongan de un Oficio propio. Si una actividad ya está representada específicamente, debe utilizarse ese Oficio: por ejemplo, un herrero o fabricante de armas utiliza **Herrero o armero**, y un carpintero, constructor o constructor naval utiliza **Carpintero o constructor**. Un cerrajero puede utilizar **Artesano** con especialidad en cerrajería y adquirir **Cerrajería** como Habilidad técnica coherente.
 
 ### Herrero o armero
 
