@@ -1231,7 +1231,7 @@ Un personaje se crea en este orden:
 5. aplicar las Habilidades gratuitas del Oficio;
 6. gastar los puntos de Habilidad entre las Habilidades disponibles;
 7. elegir Rasgos;
-8. determinar Técnicas marciales iniciales cuando corresponda;
+8. elegir escuela cuando corresponda, recibir sus Técnicas Iniciales y comprar Técnicas adicionales si se desea;
 9. anotar Suerte, equipo y estado inicial.
 
 ## 5.2. Coste de las Habilidades
@@ -1304,9 +1304,16 @@ Debe utilizarse para representar una historia concreta, no como una forma genera
 
 ## 5.4. Clase social
 
-El jugador puede elegir la Clase social apropiada para su concepto.
+El director decide cómo se determina la Clase social en la campaña.
 
-Cuando se quiera determinar al azar, se tiran **2d6**:
+Puede:
+
+- asignar la Clase social de cada personaje;
+- permitir que cada jugador elija libremente;
+- utilizar la tabla aleatoria;
+- combinar estos métodos según el concepto de la campaña.
+
+Cuando se utilice la tabla aleatoria, se tiran **2d6**:
 
 | 2d6 | Clase social |
 |---:|---|
@@ -1314,7 +1321,7 @@ Cuando se quiera determinar al azar, se tiran **2d6**:
 | **9** | Artesano |
 | **10** | Mercader |
 | **11** | Samurái |
-| **12** | Noble |
+| **12** | Noble cortesano (kuge) |
 
 La tabla sirve como herramienta de generación, no como censo exacto de la población.
 
@@ -1392,7 +1399,7 @@ Ese acceso no concede Técnicas gratuitamente por sí mismo. Sólo permite apren
 
 Un samurái sin señor puede conservar esta Clase social aunque su situación concreta sea la de rōnin.
 
-### Noble
+### Noble cortesano (kuge)
 
 **Habilidades habilitadas por la Clase:**
 
@@ -1405,9 +1412,13 @@ Un samurái sin señor puede conservar esta Clase social aunque su situación co
 - Religión;
 - Equitación.
 
-**Oficios habilitados:** Cortesano, Emisario, Oficial militar, Administrador, Samurái de armas, Escribano, Médico, Monje.
+**Oficios habilitados:** Cortesano, Emisario, Administrador, Escribano, Médico, Monje.
 
-La Clase Noble representa personajes procedentes de la élite aristocrática o de familias situadas en la cúspide política de la campaña. No implica gobernar personalmente un territorio.
+Esta Clase representa a la **aristocracia cortesana vinculada a la corte imperial**, especialmente las familias kuge.
+
+No incluye por defecto a daimyō, grandes vasallos ni otras élites guerreras. Esos personajes pertenecen normalmente a la Clase **Samurái** y su enorme rango, riqueza o autoridad se representa mediante su posición social, Afiliaciones y Rasgos.
+
+Un personaje kuge puede recibir formación militar si su historia lo justifica, pero ese acceso utiliza la regla opcional del director en lugar de tratar el rango cortesano como formación guerrera automática.
 
 ### Excepciones
 
@@ -1615,7 +1626,7 @@ Esas Habilidades quedan habilitadas por el Oficio. Las demás armas sólo estar�
 
 ### Samurái de armas
 
-**Clases:** Samurái, Noble.  
+**Clases:** Samurái.  
 **Habilidades profesionales:** Espadas, Cuchillos, Lanzas, Naginata, Bastones, Arco, Equitación, Táctica, Templanza, Liderazgo, Etiqueta, Armas de fuego.  
 **Bonificación gratuita:** una entre Espadas, Lanzas, Naginata o Arco +2.
 
@@ -1623,25 +1634,25 @@ Este Oficio representa una formación marcial seria. Etiqueta, Equitación, Tác
 
 ### Oficial militar
 
-**Clases:** Samurái, Noble.  
+**Clases:** Samurái.  
 **Habilidades profesionales:** Táctica, Liderazgo, Administración, Etiqueta, Escritura y documentos, Equitación, Espadas, Lanzas, Arco, Armas de fuego.  
 **Bonificaciones gratuitas:** Táctica +1, Liderazgo +1, Etiqueta +1.
 
 ### Administrador
 
-**Clases:** Artesano, Mercader, Samurái, Noble.  
+**Clases:** Artesano, Mercader, Samurái, Noble cortesano (kuge).  
 **Habilidades profesionales:** Administración, Escritura y documentos, Etiqueta, Comercio, Historia, Persuasión, Perspicacia.  
 **Bonificaciones gratuitas:** Administración +1, Escritura y documentos +1, Etiqueta +1.
 
 ### Escribano
 
-**Clases:** Artesano, Mercader, Samurái, Noble.  
+**Clases:** Artesano, Mercader, Samurái, Noble cortesano (kuge).  
 **Habilidades profesionales:** Escritura y documentos, Administración, Historia, Falsificación, Idiomas, Etiqueta.  
 **Bonificaciones gratuitas:** Escritura y documentos +2, Administración +1, Historia +1.
 
 ### Médico
 
-**Clases:** Artesano, Mercader, Samurái, Noble.  
+**Clases:** Artesano, Mercader, Samurái, Noble cortesano (kuge).  
 **Habilidades profesionales:** Medicina, Primeros auxilios, Escritura y documentos, Venenos, Religión.  
 **Bonificaciones gratuitas:** Medicina +2, Primeros auxilios +1.
 
@@ -1691,13 +1702,13 @@ No crea una clase social o casta de «ninja» y no sustituye a las Habilidades c
 
 ### Cortesano
 
-**Clases:** Samurái, Noble.  
+**Clases:** Samurái, Noble cortesano (kuge).  
 **Habilidades profesionales:** Etiqueta, Persuasión, Escritura y documentos, Historia, Administración, Idiomas, Perspicacia, Liderazgo.  
 **Bonificaciones gratuitas:** Etiqueta +2, Perspicacia +1.
 
 ### Emisario
 
-**Clases:** Mercader, Samurái, Noble.  
+**Clases:** Mercader, Samurái, Noble cortesano (kuge).  
 **Habilidades profesionales:** Etiqueta, Persuasión, Escritura y documentos, Historia, Administración, Idiomas, Perspicacia, Liderazgo, Comercio.  
 **Bonificaciones gratuitas:** Etiqueta +1, Persuasión +1, Escritura y documentos +1.
 
@@ -1795,26 +1806,42 @@ Todo personaje comienza normalmente con:
 
 Las Habilidades **Espadas, Cuchillos, Lanzas, Naginata, Bastones, Arco y Armas de fuego** representan experiencia práctica con esas armas.
 
-No requieren pertenecer a una escuela y **no conceden Técnicas marciales**.
+No requieren pertenecer a una escuela y no conceden Técnicas marciales.
 
-Un ashigaru veterano, mercenario, bandido o asesino puede alcanzar +2 o +3 en una Habilidad de arma sin haber recibido jamás enseñanza formal de una escuela.
+Un ashigaru veterano, mercenario, bandido o asesino puede alcanzar +2 o +3 en una Habilidad de arma sin haber recibido enseñanza formal de una escuela.
 
-Las Técnicas son una capa diferente de formación.
+### Acceso a una escuela
 
-Para comenzar la campaña con Técnicas de una escuela, el personaje necesita:
+Para comenzar la campaña como alumno de una escuela, el personaje necesita:
 
 - acceso a esa escuela;
 - una historia coherente de aprendizaje;
 - un maestro, tradición o institución apropiada;
-- cualquier requisito adicional que establezca la campaña.
+- cumplir las condiciones de fecha y región de la escuela.
 
-La Clase **Samurái** habilita normalmente el acceso inicial a escuelas marciales, siempre que la escuela concreta sea plausible para la fecha, región y formación del personaje.
+La Clase **Samurái** habilita normalmente este acceso cuando esas condiciones se cumplen.
 
-Otros personajes no obtienen acceso a una escuela sólo por poseer una Habilidad de arma elevada.
+El director puede conceder acceso excepcional a otros personajes cuando su historia lo justifique.
 
-El director puede conceder acceso excepcional a una escuela cuando la historia del personaje lo justifique, utilizando la regla opcional de excepciones del director.
+### Técnicas iniciales gratuitas
 
-El director determina qué Técnicas iniciales ha aprendido realmente el personaje.
+Cada escuela marca determinadas Técnicas como **Iniciales**.
+
+Cuando un personaje comienza la campaña perteneciendo a esa escuela, obtiene gratuitamente todas sus Técnicas Iniciales.
+
+### Comprar Técnicas durante la creación
+
+Después de recibir las Técnicas Iniciales, el personaje puede gastar sus **puntos de Habilidad** para aprender Técnicas adicionales.
+
+> **1 punto de Habilidad = 1 Técnica**
+
+Una Técnica de escuela sólo puede comprarse si el personaje tiene acceso a esa escuela y cumple sus requisitos.
+
+Las **Técnicas generales** pueden comprarse por 1 punto de Habilidad cuando el personaje posee una Habilidad de combate coherente con la Técnica y cumple sus requisitos.
+
+Comprar una Técnica reduce los mismos puntos disponibles para adquirir o mejorar Habilidades.
+
+Los límites de +2 o +3 aplicables a las Habilidades no limitan el número de Técnicas compradas.
 
 # 6. Combate
 
@@ -2517,7 +2544,11 @@ La Tensión puede aumentar por:
 - situaciones emocionalmente extremas;
 - costes de determinadas Técnicas.
 
-A Tensión 5 el personaje **sigue pudiendo actuar** con −4. No existe un estado automático de colapso.
+A Tensión 5 el personaje **sigue pudiendo actuar** con −4.
+
+La Tensión máxima es **5**. Cualquier aumento adicional se ignora.
+
+Un coste que exija ganar o perder un nivel de Tensión no puede pagarse si el personaje ya está en Tensión 5.
 
 El director puede representar narrativamente temblores, irritabilidad, impulsividad, silencio, miedo u otras reacciones coherentes, pero no retira el control del personaje al jugador por alcanzar un nivel concreto.
 
@@ -3632,14 +3663,18 @@ La tabla describe configuraciones habituales. Un arma concreta puede poseer prop
 
 ## 10.6. Armas improvisadas
 
-Un objeto sólo cuenta como arma según lo que físicamente pueda hacer.
+Un objeto improvisado utiliza la **Habilidad de arma genérica cuyo manejo se parezca realmente al objeto**.
 
 Ejemplos:
 
-- una vara larga puede funcionar como Arma de asta y Contundente;
-- una hoz puede proporcionar Filo y Gancho;
-- un martillo puede proporcionar Contundente;
-- una cuerda no se convierte en arma de asta porque una Técnica la necesite.
+- una vara larga puede utilizar **Bastones**;
+- un palo preparado para estocar como una lanza puede utilizar **Lanzas**;
+- una hoz o kama manejada como arma corta puede utilizar **Cuchillos**;
+- una herramienta pesada de mano puede utilizar **Cuchillos** o **Pelea** según cómo se emplee.
+
+Si el personaje no posee la Habilidad apropiada, puede utilizar el objeto sin bonificación cuando la acción sea accesible sin formación.
+
+Las propiedades físicas siguen siendo independientes de la Habilidad utilizada. Una kama puede proporcionar **Filo** y **Gancho**, permitiendo Técnicas que requieran esas propiedades, sin necesitar una Habilidad especial de kama.
 
 El director puede aplicar un penalizador cuando el objeto sea incómodo, frágil o claramente peor que un arma diseñada para la tarea.
 
@@ -3834,82 +3869,21 @@ Una campaña centrada en comercio o administración puede utilizar precios concr
 
 # 11. Mejora y aprendizaje
 
-Una vez creado el personaje, las Habilidades se adquieren y mejoran mediante **experiencia práctica y aprendizaje narrativo**.
+Una vez creado el personaje, las Habilidades se adquieren y mejoran mediante **experiencia práctica, entrenamiento y aprendizaje narrativo**.
 
-Los puntos utilizados durante la creación dejan de emplearse.
+Los puntos de Habilidad utilizados durante la creación dejan de emplearse para mejorar Habilidades durante la campaña.
 
-Una Habilidad ya habilitada por Clase u Oficio puede mejorar normalmente si existe experiencia suficiente.
+Una Habilidad ya habilitada por Clase u Oficio puede mejorar cuando la ficción justifique que el personaje ha aprendido lo suficiente.
 
-Para adquirir una Habilidad que **no estaba habilitada** para el personaje, primero debe existir una oportunidad narrativa que abra ese aprendizaje: un maestro, entrenamiento militar, un nuevo Oficio, ingreso en una institución, convivencia prolongada con especialistas u otra circunstancia equivalente.
+Para adquirir una Habilidad que **no estaba habilitada**, primero debe existir una oportunidad narrativa que abra ese aprendizaje: un maestro, entrenamiento militar, un nuevo Oficio, ingreso en una institución, convivencia prolongada con especialistas u otra circunstancia equivalente.
 
-El director decide cuándo esa oportunidad habilita realmente la nueva Habilidad.
+El director decide cuándo la experiencia o entrenamiento son suficientes para adquirir o mejorar una Habilidad.
 
-La mejora no se produce simplemente por acumular sesiones. Debe existir una razón dentro de la ficción para que el personaje haya aprendido.
+## 11.1. Justificación narrativa
 
-## 11.1. Fallos relevantes
+La mejora debe corresponder a lo que el personaje ha hecho, practicado o estudiado.
 
-Un fracaso puede contar como **fallo relevante** cuando:
-
-1. el reto era importante para la partida;
-2. el personaje estuvo razonablemente cerca de conseguirlo.
-
-Como referencia objetiva, un fracaso puede considerarse cercano cuando el personaje habría tenido éxito gastando todos los puntos de Suerte que aún conservaba.
-
-Ejemplo:
-
-Un personaje conserva 2 puntos de Suerte.
-
-- Fallar por 1 o 2 puede contar como fallo relevante.
-- Fallar por 3 o más normalmente no.
-
-La diferencia se consulta aquí para decidir si el fracaso cuenta como experiencia relevante. En la resolución normal, un fracaso por 2 o más también puede utilizarse como referencia para una pifia cuando la situación lo justifique, según el capítulo 1.
-
-## 11.2. Qué retos cuentan
-
-El director decide si un reto era relevante.
-
-Normalmente cuenta cuando afecta a:
-
-- seguridad del personaje o del grupo;
-- éxito de una misión;
-- información importante;
-- relaciones con PNJ;
-- recursos significativos;
-- una operación clandestina;
-- combate;
-- supervivencia;
-- una decisión con consecuencias reales.
-
-Los retos provocados artificialmente para acumular experiencia no cuentan.
-
-## 11.3. Registro
-
-Los fallos relevantes se anotan en la Habilidad utilizada.
-
-También pueden anotarse para una Habilidad no adquirida cuando ya esté habilitada para el personaje o cuando el director considere que la situación está creando una oportunidad real de aprendizaje.
-
-## 11.4. Cantidades orientativas
-
-| Mejora | Fallos relevantes orientativos |
-|---|---:|
-| Adquirir una Habilidad a +0 | 2 |
-| Mejorarla a +1 | 4 |
-| Mejorarla a +2 | 8 |
-| Mejorarla a +3 | 16 |
-
-Estas cantidades son una guía.
-
-El director puede:
-
-- reducirlas;
-- aumentarlas;
-- considerar suficiente una experiencia especialmente formativa;
-- permitir una mejora mediante formación excepcional;
-- exigir más práctica cuando el aprendizaje resulte difícil de justificar.
-
-## 11.5. Justificación narrativa
-
-La justificación narrativa es obligatoria.
+No basta con acumular sesiones ni repetir artificialmente una acción sin consecuencias.
 
 ### Adquirir +0
 
@@ -3960,7 +3934,7 @@ Puede exigir:
 
 Un personaje no alcanza +3 porque haya utilizado una Habilidad muchas veces de forma trivial.
 
-## 11.6. Aprendizaje entre aventuras
+## 11.2. Aprendizaje entre aventuras
 
 El tiempo entre aventuras puede utilizarse para:
 
@@ -3975,9 +3949,9 @@ El tiempo entre aventuras puede utilizarse para:
 
 El director determina cuánto progreso cabe razonablemente en el tiempo disponible.
 
-Una campaña con largos periodos de inactividad puede permitir mejoras mediante entrenamiento aunque no se hayan acumulado todos los fallos orientativos.
+Una campaña con largos periodos de inactividad puede permitir avances importantes mediante entrenamiento estructurado.
 
-## 11.7. Aprender Técnicas marciales
+## 11.3. Aprender Técnicas marciales
 
 Las Técnicas marciales no se adquieren mediante fallos relevantes.
 
@@ -4005,7 +3979,7 @@ El director decide cuándo el entrenamiento ha sido suficiente.
 
 Una Técnica especialmente compleja puede requerir semanas, meses o años.
 
-## 11.8. Escuelas y acceso
+## 11.4. Escuelas y acceso
 
 Conocer una Técnica de una escuela no implica automáticamente tener acceso a todo su repertorio.
 
@@ -4021,7 +3995,7 @@ La enseñanza puede depender de:
 
 Una campaña puede utilizar este acceso como recompensa narrativa.
 
-## 11.9. Características
+## 11.5. Características
 
 Las Características representan capacidades generales relativamente estables y **no mejoran mediante el sistema ordinario de fallos relevantes**.
 
@@ -4038,7 +4012,7 @@ El director puede permitir cambios derivados de:
 
 Las Características siguen respetando la escala humana definida por el reglamento.
 
-## 11.10. Límite humano
+## 11.6. Límite humano
 
 Una Habilidad ordinaria no puede superar normalmente **+3**.
 
