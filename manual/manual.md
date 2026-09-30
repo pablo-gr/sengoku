@@ -1109,6 +1109,8 @@ Negociar personalmente un precio puede combinar Comercio con Presencia o utiliza
 
 Leer, escribir y producir textos adecuados al nivel cultural del personaje.
 
+La Habilidad no presupone que toda la población sea alfabetizada. Un personaje que no la haya adquirido puede ser analfabeto o poseer sólo una familiaridad mínima con signos, nombres, cifras o fórmulas habituales, según su historia. **Escritura y documentos +0** representa ya una alfabetización funcional básica.
+
 Incluye reconocer formatos ordinarios, copiar textos, redactar cartas y trabajar con documentos cuando la dificultad procede de la escritura misma.
 
 No implica conocer todos los procedimientos administrativos; para eso se utiliza **Administración**.
@@ -1345,6 +1347,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 
 - Profesión relacionada con una artesanía;
 - Comercio;
+- Escritura y documentos;
 - Cerrajería;
 - Ingeniería;
 - Primeros auxilios.
@@ -1480,7 +1483,7 @@ El cazador puede comprar Arco, Supervivencia, Sigilo y las demás Habilidades pr
 
 **Clases:** Artesano, Mercader.  
 **Habilidades profesionales:** Comercio, Administración, Escritura y documentos, Persuasión, Engaño, Etiqueta, Idiomas.  
-**Bonificaciones gratuitas:** Comercio +2, Persuasión +1.
+**Bonificaciones gratuitas:** Comercio +2, Persuasión +1, Escritura y documentos +1.
 
 ### Criado
 
@@ -1627,7 +1630,7 @@ Este Oficio representa una formación marcial seria. Etiqueta, Equitación, Tác
 
 **Clases:** Samurái.  
 **Habilidades profesionales:** Táctica, Liderazgo, Administración, Etiqueta, Escritura y documentos, Equitación, Espadas, Lanzas, Arco, Armas de fuego.  
-**Bonificaciones gratuitas:** Táctica +1, Liderazgo +1, Etiqueta +1.
+**Bonificaciones gratuitas:** Táctica +1, Liderazgo +1, Etiqueta +1, Escritura y documentos +1.
 
 ### Administrador
 
@@ -1645,9 +1648,9 @@ Este Oficio representa una formación marcial seria. Etiqueta, Equitación, Tác
 
 **Clases:** Artesano, Mercader, Samurái, Noble cortesano (kuge).  
 **Habilidades profesionales:** Medicina, Primeros auxilios, Escritura y documentos, Venenos, Religión.  
-**Bonificaciones gratuitas:** Medicina +2, Primeros auxilios +1.
+**Bonificaciones gratuitas:** Medicina +2, Primeros auxilios +1, Escritura y documentos +1.
 
-Este Oficio representa formación médica especializada. Escritura y documentos, Venenos o Religión están habilitadas cuando resulten coherentes, pero deben comprarse normalmente con puntos.
+Este Oficio representa formación médica especializada y presupone alfabetización funcional suficiente para trabajar con textos, recetas y notas de carácter médico. Venenos o Religión están habilitadas cuando resulten coherentes, pero deben comprarse normalmente con puntos.
 
 ### Curandero o herbolario
 
@@ -1695,7 +1698,7 @@ No crea una clase social o casta de «ninja» y no sustituye a las Habilidades c
 
 **Clases:** Samurái, Noble cortesano (kuge).  
 **Habilidades profesionales:** Etiqueta, Persuasión, Escritura y documentos, Historia, Administración, Idiomas, Perspicacia, Liderazgo.  
-**Bonificaciones gratuitas:** Etiqueta +2, Perspicacia +1.
+**Bonificaciones gratuitas:** Etiqueta +2, Perspicacia +1, Escritura y documentos +1.
 
 ### Emisario
 
