@@ -2948,34 +2948,40 @@ La misión describe qué está haciendo.
 
 ## 8.14. Ejemplos de personajes y PNJ
 
-Los ejemplos siguientes no son plantillas obligatorias. Sirven para mostrar cómo posición, ocupación y capacidades pueden combinarse de formas muy distintas.
+Los ejemplos siguientes no son plantillas obligatorias. Sirven para mostrar cómo Clase, Oficio, posición y capacidades pueden combinarse de formas muy distintas.
 
 ### Ladrón urbano
 
 **Categoría:** ordinario.  
+**Clase:** Artesano.  
+**Oficio:** Ladrón.  
 **Posición:** baja; conocido en determinados ambientes criminales.  
-**Características destacadas:** Destreza +2, Percepción +1.  
-**Habilidades:** Sigilo +2, Cerrajería +1, Vigilancia +0, Engaño +0.  
+**Características destacadas:** Destreza +2, Agilidad +1.  
+**Habilidades:** Hurto +2, Sigilo +2, Cerrajería +1.  
 **Rasgos:** conoce compradores de mercancía robada; evita matar si puede.
 
-Es muy eficaz entrando en edificios y observando rutinas, pero no posee entrenamiento militar por el mero hecho de ser delincuente.
+Es muy eficaz entrando en edificios y robando objetos, pero no posee entrenamiento militar por el mero hecho de ser delincuente.
 
-### Samurai bien entrenado
+### Samurái bien entrenado
 
 **Categoría:** excepcional.  
+**Clase:** Samurái.  
+**Oficio:** Samurái de armas.  
 **Posición:** guerrero al servicio de una casa.  
 **Características destacadas:** Destreza +2, Agilidad +1, Percepción +1.  
-**Habilidades:** Espadas +3, Lanzas +2, Táctica +1, Equitación +1, Etiqueta +0.  
+**Habilidades:** Espadas +3, Lanzas +2, Táctica +1, Equitación +1, Etiqueta +1.  
 **Rasgos:** disciplinado; reputación de duelista.
 
 Es un adversario formidable en combate, pero sus competencias administrativas o clandestinas pueden ser mediocres.
 
-### Samurai que descuidó su entrenamiento
+### Samurái que descuidó su entrenamiento
 
 **Categoría:** ordinario.  
+**Clase:** Samurái.  
+**Oficio:** Administrador.  
 **Posición:** miembro de una familia guerrera con función administrativa.  
 **Características destacadas:** Inteligencia +2, Presencia +1.  
-**Habilidades:** Administración +2, Escritura y documentos +1, Etiqueta +1, Espadas +0.  
+**Habilidades:** Administración +2, Escritura y documentos +1, Etiqueta +1, Espadas +1, Historia +1.  
 **Rasgos:** evita los enfrentamientos físicos; conoce bien los procedimientos de su casa.
 
 Tiene rango guerrero, pero un ashigaru veterano puede superarlo ampliamente con las armas.
@@ -2983,9 +2989,11 @@ Tiene rango guerrero, pero un ashigaru veterano puede superarlo ampliamente con 
 ### Funcionario o administrador
 
 **Categoría:** ordinario.  
+**Clase:** Mercader.  
+**Oficio:** Administrador.  
 **Posición:** servidor especializado de una autoridad.  
 **Características destacadas:** Inteligencia +2, Percepción +1.  
-**Habilidades:** Administración +2, Escritura y documentos +1, Comercio +0, Perspicacia +0.  
+**Habilidades:** Administración +2, Escritura y documentos +1, Etiqueta +1, Comercio +1, Perspicacia +1.  
 **Rasgos:** memoria excelente para nombres y obligaciones.
 
 Puede detectar irregularidades en inventarios, permisos o suministros sin poseer autoridad social fuera de la institución que representa.
@@ -2993,9 +3001,11 @@ Puede detectar irregularidades en inventarios, permisos o suministros sin poseer
 ### Campesino
 
 **Categoría:** ordinario.  
+**Clase:** Campesino.  
+**Oficio:** Agricultor.  
 **Posición:** miembro de una comunidad rural.  
 **Características destacadas:** Fortaleza +1, Agilidad +1, Percepción +1.  
-**Habilidades:** Supervivencia +1, Profesión (agricultura) +1, Atletismo +0.  
+**Habilidades:** Profesión (agricultura) +2, Atletismo +1, Supervivencia +1, Alerta +1, Rastreo +1, Primeros auxilios +1, Vigilancia +0.  
 **Rasgos:** conoce cada camino de su valle; familia extensa en aldeas próximas.
 
 Dentro de su región puede poseer información y contactos que ningún guerrero forastero tiene.
@@ -3003,9 +3013,11 @@ Dentro de su región puede poseer información y contactos que ningún guerrero 
 ### Prostituta
 
 **Categoría:** ordinario.  
+**Clase:** Mercader.  
+**Oficio:** Prostituta/o.  
 **Posición:** depende del establecimiento, ciudad y relaciones de protección o deuda.  
 **Características destacadas:** Presencia +2, Percepción +1.  
-**Habilidades:** Perspicacia +2, Engaño +1, Persuasión +0, Vigilancia +0.  
+**Habilidades:** Perspicacia +2, Engaño +1, Persuasión +1, Vigilancia +1, Etiqueta +1.  
 **Rasgos:** recuerda clientes y conversaciones; conoce sirvientes de varias casas.
 
 Su valor como informadora puede proceder de acceso social, memoria y capacidad para leer a otras personas, no de habilidades de combate.
@@ -3013,9 +3025,11 @@ Su valor como informadora puede proceder de acceso social, memoria y capacidad p
 ### Mercader
 
 **Categoría:** ordinario.  
+**Clase:** Mercader.  
+**Oficio:** Mercader.  
 **Posición:** económicamente cómodo, sin autoridad militar formal.  
 **Características destacadas:** Inteligencia +1, Presencia +1, Percepción +1.  
-**Habilidades:** Comercio +2, Persuasión +1, Administración +0, Vigilancia +0.  
+**Habilidades:** Comercio +2, Persuasión +1, Administración +1, Escritura y documentos +1, Vigilancia +0.  
 **Rasgos:** crédito en dos ciudades; conoce transportistas y posaderos.
 
 Puede conseguir bienes, financiación e información que un guerrero no sabría obtener por la fuerza.
@@ -3023,9 +3037,11 @@ Puede conseguir bienes, financiación e información que un guerrero no sabría 
 ### Artesano
 
 **Categoría:** ordinario.  
+**Clase:** Artesano.  
+**Oficio:** Herrero o armero.  
 **Posición:** profesional especializado.  
 **Características destacadas:** Destreza +2, Inteligencia +1.  
-**Habilidades:** Profesión (herrería) +2, Comercio +0, Ingeniería +0.  
+**Habilidades:** Profesión (herrería) +2, Ingeniería +1, Registro +1, Comercio +1, Primeros auxilios +1, Perspicacia +0.  
 **Rasgos:** trabaja ocasionalmente para una casa guerrera.
 
 Su competencia técnica puede convertirlo en una persona valiosa incluso ante clientes de rango mucho mayor.
@@ -3033,9 +3049,11 @@ Su competencia técnica puede convertirlo en una persona valiosa incluso ante cl
 ### Bandido veterano
 
 **Categoría:** excepcional.  
+**Clase:** Campesino.  
+**Oficio:** Bandido.  
 **Posición:** fuera de la ley; depende de una banda y de apoyos locales.  
 **Características destacadas:** Fortaleza +1, Destreza +2, Percepción +1.  
-**Habilidades:** Lanzas +2, Sigilo +1, Supervivencia +1, Táctica +1, Intimidación +0.  
+**Habilidades:** Lanzas +2, Supervivencia +1, Intimidación +1, Sigilo +2, Táctica +2, Rastreo +1, Alerta +0.  
 **Rasgos:** conoce pasos de montaña; perseguido por una autoridad local.
 
 Es peligroso porque combina experiencia violenta, conocimiento del terreno y ausencia de obligaciones legales, no porque pertenezca a una «clase de bandido» especial.
@@ -3044,9 +3062,7 @@ Es peligroso porque combina experiencia violenta, conocimiento del terreno y aus
 
 Este capítulo explica cómo resolver operaciones de reconocimiento, infiltración, espionaje, sabotaje y otras actividades asociadas históricamente al ámbito de los **shinobi**.
 
-No existe un «modo de infiltración» separado ni un minijuego para entrar en fortalezas.
-
-La operación se resuelve mediante las reglas normales:
+Las operaciones clandestinas se resuelven mediante las reglas normales:
 
 1. el director describe el problema;
 2. el jugador explica su método;
@@ -3078,7 +3094,7 @@ En una misión de inteligencia, obtener la información y no regresar con ella e
 
 El combate innecesario suele ser un riesgo, no un objetivo.
 
-## 9.2. No existe una Habilidad universal de shinobi
+## 9.2. Habilidades utilizadas en operaciones shinobi
 
 La operación determina las capacidades necesarias.
 
@@ -3090,7 +3106,7 @@ Un informador puede ser un mercader, religioso o criado.
 
 Un grupo encargado de una emboscada puede estar formado por guerreros irregulares.
 
-Por tanto, no existe una Habilidad «Ninjutsu» que sustituya a las competencias concretas.
+Las tareas de infiltración, espionaje, reconocimiento o sabotaje utilizan las Habilidades concretas apropiadas a cada método.
 
 ## 9.3. Preparar la operación
 
