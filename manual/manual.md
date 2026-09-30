@@ -4964,7 +4964,11 @@ Golpe oportunista representa una forma pragmática y poco ortodoxa de combatir: 
 **Tipo:** Activa  
 **Etiquetas:** Defensa, Recuperación, Movimiento  
 **Requisito:** existe una dirección razonable hacia la que retirarse.  
-**Efecto:** renuncia a efectos ofensivos, recupera automáticamente **Guardia Firme** y cede terreno. Si el rival obtiene una victoria durante ese mismo Intercambio, sus efectos se resuelven **contra la Guardia Firme recién recuperada**.  
+**Efecto:** renuncia a efectos ofensivos, recupera automáticamente **Guardia Firme** y cede terreno.
+
+Si el personaje termina el Intercambio en **Empate o victoria**, rompe el contacto y termina el enfrentamiento cuerpo a cuerpo inmediato.
+
+Si el rival obtiene una victoria, el contacto no se rompe y sus efectos se resuelven **contra la Guardia Firme recién recuperada**.  
 **Cooldown:** sí.
 
 ### Retirada falsa
@@ -4989,6 +4993,8 @@ Esta Técnica es una excepción explícita a la regla general de un único efect
 
 **Inicial:** sí  
 **Tipo:** Pasiva  
-**Contexto:** se utiliza un objeto improvisado que posee realmente una propiedad física útil.  
-**Efecto:** el objeto puede satisfacer requisitos de Técnicas basados en esa propiedad. Un palo largo puede contar como Arma de asta; una hoz puede proporcionar Gancho; una herramienta pesada puede proporcionar Contundente. No adquiere propiedades que físicamente no posee.  
+**Contexto:** se utiliza un objeto improvisado cuyo tamaño, forma y resistencia permiten emplearlo razonablemente como arma.  
+**Efecto:** ignora hasta **−1 de penalización** aplicado específicamente porque el objeto sea improvisado, incómodo o peor equilibrado que un arma diseñada para la tarea.
+
+El objeto conserva únicamente las propiedades que posea físicamente. Un palo largo puede funcionar como Bastón o Arma de asta, una hoz puede proporcionar Filo y Gancho y una herramienta pesada puede proporcionar Contundente.  
 **Cooldown:** no.
