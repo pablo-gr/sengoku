@@ -1644,7 +1644,7 @@ El personaje elige hasta **dos Habilidades de arma** coherentes con su historial
 
 Esas Habilidades quedan habilitadas por el Oficio. Las demás armas sólo estarán disponibles si las habilita también la Clase u otra fuente.
 
-**Otras Habilidades profesionales:** Atletismo, Supervivencia, Alerta, Intimidación, Táctica, Primeros auxilios.  
+**Otras Habilidades profesionales:** Atletismo, Supervivencia, Rastreo, Sigilo, Alerta, Intimidación, Táctica, Primeros auxilios.  
 **Bonificaciones gratuitas:** una de las Habilidades de arma elegidas +1, Supervivencia +1, Alerta +1.
 
 ### Samurái de armas
