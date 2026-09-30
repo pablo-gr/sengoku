@@ -4556,13 +4556,13 @@ La región indicada es su zona de origen o de asociación histórica principal.
 | **Hōzōin-ryū Sōjutsu** | **1560 aprox.** | Nara, provincia de Yamato |
 | **Takenouchi-ryū** | **1532** | Provincia de Mimasaka |
 | **Taisha-ryū** | **1567 aprox.** | Hitoyoshi, provincia de Higo |
-| **Tradición clandestina de Iga** | **1487** | Iga y regiones vecinas de Kōka |
+| **Tradición clandestina de Iga** | **1541** | Iga y regiones vecinas de Kōka |
 
 Estas fechas sirven como umbral de juego.
 
 Un personaje situado lejos de la zona de origen necesita además una explicación concreta: un maestro viajero, servicio en una casa que emplea instructores de esa tradición, una rama local, una estancia previa en la región u otra conexión equivalente.
 
-La **Tradición clandestina de Iga** es una síntesis lúdica, no una ryūha histórica única. La fecha de 1487 se utiliza porque existen referencias a guerreros de Iga y Kōka asociados a operaciones irregulares en ese periodo.
+La **Tradición clandestina de Iga** es una síntesis lúdica, no una ryūha histórica única. Se utiliza 1541 como umbral conservador porque existen referencias documentadas a una fuerza de Iga y Kōka que se infiltró en el castillo de Kasagi y provocó un incendio.
 
 # 14. Técnicas marciales
 
