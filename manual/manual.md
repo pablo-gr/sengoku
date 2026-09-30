@@ -1368,6 +1368,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 
 **Habilidades habilitadas por la Clase:**
 
+- Atletismo;
 - Espadas;
 - Cuchillos;
 - Lanzas;
@@ -1441,13 +1442,15 @@ Las bonificaciones gratuitas representan la formación que el Oficio presupone. 
 ### Pescador
 
 **Clases:** Campesino.  
-**Habilidades profesionales:** Profesión (pesca), Marinería, Natación, Navegación, Alerta, Supervivencia.  
-**Bonificaciones gratuitas:** Profesión (pesca) +2, Marinería +1, Natación +1, Alerta +1.
+**Habilidades profesionales:** Profesión (pesca), Marinería, Natación, Navegación, Atletismo, Alerta, Supervivencia.  
+**Bonificaciones gratuitas:** Profesión (pesca) +2, Alerta +1.
+
+Marinería, Natación y Navegación están habilitadas por el Oficio, pero no se presuponen en todo pescador. La forma concreta de pesca determina cuáles resultan relevantes.
 
 ### Cazador
 
 **Clases:** Campesino.  
-**Habilidades profesionales:** Rastreo, Arco, Supervivencia, Sigilo, Trampas, Alerta.  
+**Habilidades profesionales:** Rastreo, Arco, Supervivencia, Atletismo, Sigilo, Trampas, Alerta.  
 **Bonificaciones gratuitas:** Rastreo +2.
 
 El cazador puede comprar Arco, Supervivencia, Sigilo y las demás Habilidades profesionales con sus puntos normales. El oficio no presupone que todo cazador sea además un arquero experto o un infiltrador excepcional.
@@ -1470,13 +1473,13 @@ Este Oficio funciona como categoría general para artesanías que no dispongan d
 ### Herrero o armero
 
 **Clases:** Artesano.  
-**Habilidades profesionales:** Profesión (herrería o fabricación de armas), Ingeniería, Comercio.  
+**Habilidades profesionales:** Profesión (herrería o fabricación de armas), Atletismo, Ingeniería, Comercio.  
 **Bonificaciones gratuitas:** Profesión (herrería o fabricación de armas) +2, Comercio +1.
 
 ### Carpintero o constructor
 
 **Clases:** Campesino, Artesano.  
-**Habilidades profesionales:** Profesión (carpintería o construcción), Ingeniería, Atletismo, Trampas.  
+**Habilidades profesionales:** Profesión (carpintería o construcción), Ingeniería, Atletismo.  
 **Bonificaciones gratuitas:** Profesión (carpintería o construcción) +2, Ingeniería +1, Atletismo +1.
 
 ### Mercader
@@ -1488,14 +1491,16 @@ Este Oficio funciona como categoría general para artesanías que no dispongan d
 ### Criado
 
 **Clases:** Campesino, Artesano, Mercader.  
-**Habilidades profesionales:** Etiqueta, Alerta, Perspicacia, Sigilo, Profesión (servicio doméstico), Administración.  
+**Habilidades profesionales:** Etiqueta, Alerta, Perspicacia, Sigilo, Administración.  
 **Bonificaciones gratuitas:** Etiqueta +1, Alerta +1, Perspicacia +1.
+
+Sigilo puede representar a un criado acostumbrado a moverse sin llamar la atención, escuchar sin ser visto o acceder discretamente a zonas de una casa, pero debe comprarse normalmente con puntos.
 
 ### Porteador
 
 **Clases:** Campesino.  
-**Habilidades profesionales:** Atletismo, Supervivencia, Alerta, Intimidación.  
-**Bonificaciones gratuitas:** Atletismo +1, Supervivencia +1, Alerta +1.
+**Habilidades profesionales:** Atletismo, Supervivencia, Alerta.  
+**Bonificaciones gratuitas:** Atletismo +2, Alerta +1.
 
 ### Marinero
 
@@ -1623,7 +1628,7 @@ Esas Habilidades quedan habilitadas por el Oficio. Las demás armas sólo estar�
 ### Samurái de armas
 
 **Clases:** Samurái.  
-**Habilidades profesionales:** Espadas, Cuchillos, Lanzas, Naginata, Bastones, Arco, Equitación, Táctica, Templanza, Liderazgo, Etiqueta, Armas de fuego cuando la fecha y región lo permitan.  
+**Habilidades profesionales:** Atletismo, Espadas, Cuchillos, Lanzas, Naginata, Bastones, Arco, Equitación, Táctica, Templanza, Liderazgo, Etiqueta, Armas de fuego cuando la fecha y región lo permitan.  
 **Bonificación gratuita:** una entre Espadas, Lanzas, Naginata o Arco +2.
 
 Este Oficio representa una formación marcial seria. Etiqueta, Equitación, Táctica y las demás Habilidades están habilitadas, pero el jugador decide si invierte puntos en ellas.
