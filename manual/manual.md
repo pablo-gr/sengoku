@@ -4438,7 +4438,6 @@ La disponibilidad debe depender de:
 - maestros y redes de enseñanza;
 - posición y relaciones del personaje.
 
-El manual definitivo deberá incluir cronologías y condiciones de acceso suficientemente precisas para cada tradición.
 
 # 14. Técnicas marciales
 
