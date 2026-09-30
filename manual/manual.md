@@ -3222,7 +3222,7 @@ Puede detectar irregularidades en inventarios, permisos o suministros sin poseer
 **Oficio:** Agricultor.  
 **Posición:** miembro de una comunidad rural.  
 **Características destacadas:** Fortaleza +1, Agilidad +1, Percepción +1.  
-**Habilidades:** Profesión (agricultura) +2, Atletismo +1, Alerta +1, Rastreo +1, Primeros auxilios +1, Comercio +0, Templanza +0.  
+**Habilidades:** Profesión (agricultura) +2, Atletismo +1, Alerta +1, Rastreo +1, Primeros auxilios +1, Templanza +0.  
 **Rasgos:** conoce cada camino de su valle; familia extensa en aldeas próximas.
 
 Dentro de su región puede poseer información y contactos que ningún guerrero forastero tiene.
