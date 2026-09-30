@@ -415,6 +415,7 @@ Un personaje se define mediante:
 - **Suerte:** recurso que permite mejorar un resultado.
 - **Salud, Fatiga y Tensión:** estado físico y emocional actual.
 - **Heridas:** lesiones concretas.
+- **Dinero:** efectivo disponible para compras y gastos.
 - **Equipo:** armas, herramientas y otros recursos.
 - **Técnicas marciales:** maniobras aprendidas cuando el personaje ha recibido esa formación.
 
@@ -485,10 +486,11 @@ Las particularidades sociales se desarrollan en el capítulo de Sociedad.
 
 El **Oficio** representa la actividad principal para la que el personaje ha recibido formación o mediante la que se gana habitualmente la vida.
 
-El Oficio tiene dos efectos durante la creación:
+El Oficio puede producir tres efectos durante la creación:
 
 1. proporciona acceso a una lista de **Habilidades profesionales**;
-2. concede un **paquete gratuito de Habilidades** propio.
+2. concede un **paquete gratuito de Habilidades** propio;
+3. algunos Oficios añaden **dinero inicial** cuando la actividad implica disponer habitualmente de capital, equipo costoso o efectivo de trabajo.
 
 Los paquetes gratuitos no poseen un valor matemático uniforme.
 
