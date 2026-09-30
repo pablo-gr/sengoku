@@ -256,7 +256,7 @@ Ejemplos:
 
 - Agilidad + Sigilo contra Percepción + Alerta;
 - Presencia + Engaño contra Percepción + Perspicacia;
-- Percepción + Vigilancia contra Agilidad + Sigilo;
+- Percepción + Buscar contra Agilidad + Sigilo;
 - Presencia + Intimidación contra Inteligencia + Templanza.
 
 En los enfrentamientos sociales **no existe una Característica defensiva universal**.
@@ -847,7 +847,7 @@ Seguir personas o animales mediante huellas, ramas, barro, restos, marcas y otro
 
 También permite estimar dirección, número aproximado, velocidad o antigüedad de un rastro cuando existan indicios suficientes.
 
-No sustituye a **Vigilancia** para seguir discretamente a alguien dentro de una población.
+No determina por sí solo si el personaje consigue seguir discretamente a alguien que permanece a la vista. En ese caso pueden intervenir **Alerta** para no perderlo y **Sigilo** para evitar que descubra el seguimiento.
 
 ## 4.4. Observación, infiltración y seguridad
 
@@ -862,7 +862,7 @@ Ejemplos:
 - advertir que alguien lleva la mano al arma;
 - notar que una ventana que debía estar cerrada está abierta.
 
-**Alerta es reactiva.** Cuando el personaje examina deliberadamente un lugar se utiliza **Buscar**. Cuando observa a una persona o lugar durante un periodo prolongado se utiliza **Vigilancia**.
+**Alerta** se utiliza para advertir lo que sucede alrededor, tanto ante un hecho inesperado como cuando el personaje permanece atento a una persona, acceso o zona. Cuando examina deliberadamente un lugar para localizar algo oculto se utiliza **Buscar**.
 
 ### Buscar
 
@@ -877,14 +877,6 @@ Ejemplos:
 - examinar a una persona antes de dejarla entrar.
 
 Buscar no deduce automáticamente el significado de lo encontrado.
-
-### Vigilancia
-
-Observar una persona, edificio, camino o zona durante un periodo prolongado para conocer rutinas, entradas, horarios, relevos, relaciones o cambios.
-
-También puede utilizarse para seguir discretamente a una persona en un entorno poblado.
-
-Vigilancia no sustituye a **Sigilo** cuando el problema es evitar ser visto ni a **Rastreo** cuando sólo quedan huellas físicas.
 
 ### Sigilo
 
@@ -1209,8 +1201,8 @@ Cuando varias Habilidades parecen posibles, debe utilizarse la que corresponde a
 Ejemplos:
 
 - **Alerta** para advertir a un guardia oculto; **Buscar** para buscarlo deliberadamente.
-- **Vigilancia** para estudiar durante días los relevos de una fortaleza; **Sigilo** para cruzar después la zona sin ser visto.
-- **Rastreo** para seguir huellas en barro; **Vigilancia** para seguir a un mensajero por una ciudad.
+- **Alerta** para observar durante días los relevos de una fortaleza; **Sigilo** para cruzar después la zona sin ser visto.
+- **Rastreo** para seguir huellas en barro; **Alerta** para no perder de vista a un mensajero por una ciudad y **Sigilo** para seguirlo sin ser descubierto.
 - **Disfraz** para parecer un monje; **Etiqueta** para comportarse como uno; **Engaño** para responder cuando alguien pregunta por qué está allí.
 - **Perspicacia** para notar que un prisionero evita un tema; **Persuasión**, **Engaño** o **Intimidación** para intentar conseguir que hable, según el método.
 - **Administración** para saber qué autorización necesita una caravana; **Falsificación** para fabricar el documento; **Escritura y documentos** para redactarlo correctamente.
@@ -1342,7 +1334,6 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Natación;
 - Supervivencia;
 - Rastreo;
-- Vigilancia;
 - Primeros auxilios;
 - Profesión relacionada con actividades rurales.
 
@@ -1368,7 +1359,6 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Administración;
 - Escritura y documentos;
 - Etiqueta;
-- Vigilancia;
 - Idiomas.
 
 **Oficios habilitados:** Mercader, Administrador, Escribano, Marinero, Mensajero, Posadero, Criado, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Médico, Monje, Yamabushi, Artista o entretenedor, Prostituta/o, Espía o agente clandestino, Emisario.
@@ -1390,7 +1380,6 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Etiqueta;
 - Escritura y documentos;
 - Historia;
-- Vigilancia;
 - Primeros auxilios.
 
 **Oficios habilitados:** Samurái de armas, Oficial militar, Administrador, Guardia, Mensajero, Mercenario, Asesino, Bandido, Escribano, Médico, Monje, Yamabushi, Espía o agente clandestino, Cortesano, Emisario.
@@ -1457,7 +1446,7 @@ Las bonificaciones gratuitas representan la formación que el Oficio presupone. 
 ### Cazador
 
 **Clases:** Campesino.  
-**Habilidades profesionales:** Rastreo, Arco, Supervivencia, Sigilo, Vigilancia, Trampas, Alerta.  
+**Habilidades profesionales:** Rastreo, Arco, Supervivencia, Sigilo, Trampas, Alerta.  
 **Bonificaciones gratuitas:** Rastreo +2.
 
 El cazador puede comprar Arco, Supervivencia, Sigilo y las demás Habilidades profesionales con sus puntos normales. El oficio no presupone que todo cazador sea además un arquero experto o un infiltrador excepcional.
@@ -1490,13 +1479,13 @@ El cazador puede comprar Arco, Supervivencia, Sigilo y las demás Habilidades pr
 ### Mercader
 
 **Clases:** Artesano, Mercader.  
-**Habilidades profesionales:** Comercio, Administración, Escritura y documentos, Persuasión, Engaño, Etiqueta, Vigilancia, Idiomas.  
+**Habilidades profesionales:** Comercio, Administración, Escritura y documentos, Persuasión, Engaño, Etiqueta, Idiomas.  
 **Bonificaciones gratuitas:** Comercio +2, Persuasión +1.
 
 ### Criado
 
 **Clases:** Campesino, Artesano, Mercader.  
-**Habilidades profesionales:** Etiqueta, Alerta, Perspicacia, Vigilancia, Sigilo, Profesión (servicio doméstico), Administración.  
+**Habilidades profesionales:** Etiqueta, Alerta, Perspicacia, Sigilo, Profesión (servicio doméstico), Administración.  
 **Bonificaciones gratuitas:** Etiqueta +1, Alerta +1, Perspicacia +1.
 
 ### Porteador
@@ -1514,19 +1503,19 @@ El cazador puede comprar Arco, Supervivencia, Sigilo y las demás Habilidades pr
 ### Mensajero
 
 **Clases:** Campesino, Artesano, Mercader, Samurái.  
-**Habilidades profesionales:** Atletismo, Equitación, Navegación, Alerta, Supervivencia, Vigilancia.  
+**Habilidades profesionales:** Atletismo, Equitación, Navegación, Alerta, Supervivencia.  
 **Bonificaciones gratuitas:** Navegación +1, Alerta +1 y una de las siguientes: Atletismo +1 o Equitación +1.
 
 ### Posadero
 
 **Clases:** Campesino, Artesano, Mercader.  
-**Habilidades profesionales:** Profesión (hostelería), Comercio, Perspicacia, Persuasión, Alerta, Vigilancia, Engaño.  
+**Habilidades profesionales:** Profesión (hostelería), Comercio, Perspicacia, Persuasión, Alerta, Engaño.  
 **Bonificaciones gratuitas:** Profesión (hostelería) +2, Perspicacia +1, Comercio +1.
 
 ### Ladrón
 
 **Clases:** Campesino, Artesano, Mercader.  
-**Habilidades profesionales:** Hurto, Sigilo, Cerrajería, Buscar, Atletismo, Vigilancia, Engaño, Disfraz, Perspicacia.  
+**Habilidades profesionales:** Hurto, Sigilo, Cerrajería, Buscar, Atletismo, Engaño, Disfraz, Perspicacia.  
 **Bonificación gratuita:** Hurto +2.
 
 ### Asesino
@@ -1543,7 +1532,7 @@ Al elegir este Oficio se escoge una **Habilidad de arma principal** coherente co
 - Arco;
 - Armas de fuego, cuando sean plausibles.
 
-**Habilidades profesionales:** Habilidad de arma elegida, Sigilo, Vigilancia, Disfraz, Engaño, Venenos, Hurto, Atletismo, Rastreo, Perspicacia.  
+**Habilidades profesionales:** Habilidad de arma elegida, Sigilo, Disfraz, Engaño, Venenos, Hurto, Atletismo, Rastreo, Perspicacia.  
 **Bonificación gratuita:** Habilidad de arma elegida +2.
 
 El Oficio representa experiencia habitual matando por encargo, por servicio o como actividad criminal. No implica pertenecer a una escuela marcial ni concede Técnicas.
@@ -1604,7 +1593,7 @@ Al elegir este Oficio se escoge una **Habilidad de arma de servicio** apropiada:
 
 El Oficio Guardia habilita por sí mismo únicamente esa Habilidad de arma.
 
-**Otras Habilidades profesionales:** Alerta, Buscar, Vigilancia, Templanza, Intimidación, Atletismo.  
+**Otras Habilidades profesionales:** Alerta, Buscar, Templanza, Intimidación, Atletismo.  
 **Bonificaciones gratuitas:** Alerta +1, Templanza +1, Habilidad de arma de servicio +1.
 
 ### Mercenario
@@ -1683,20 +1672,20 @@ El Curandero puede comprar Medicina, pero su Oficio no presupone automáticament
 ### Artista o entretenedor
 
 **Clases:** Campesino, Artesano, Mercader.  
-**Habilidades profesionales:** Profesión (especialidad artística: música, danza, teatro u otra apropiada), Persuasión, Engaño, Disfraz, Perspicacia, Etiqueta, Vigilancia.  
+**Habilidades profesionales:** Profesión (especialidad artística: música, danza, teatro u otra apropiada), Persuasión, Engaño, Disfraz, Perspicacia, Etiqueta.  
 **Bonificaciones gratuitas:** Profesión (especialidad artística) +2, Persuasión +1, Perspicacia +1.
 
 ### Prostituta/o
 
 **Clases:** Campesino, Artesano, Mercader.  
-**Habilidades profesionales:** Perspicacia, Engaño, Persuasión, Vigilancia, Etiqueta, Disfraz, Comercio.  
+**Habilidades profesionales:** Perspicacia, Engaño, Persuasión, Etiqueta, Disfraz, Comercio.  
 **Bonificaciones gratuitas:** Perspicacia +1, Engaño +1, Persuasión +1.
 
 ### Espía o agente clandestino
 
 **Clases:** cualquiera.  
-**Habilidades profesionales:** Sigilo, Vigilancia, Buscar, Disfraz, Engaño, Cerrajería, Trampas, Falsificación, Hurto, Atletismo, Rastreo, Venenos, Perspicacia, Alerta, Escritura y documentos.  
-**Bonificaciones gratuitas:** Sigilo +1, Vigilancia +1, Disfraz +1.
+**Habilidades profesionales:** Sigilo, Buscar, Disfraz, Engaño, Cerrajería, Trampas, Falsificación, Hurto, Atletismo, Rastreo, Venenos, Perspicacia, Alerta, Escritura y documentos.  
+**Bonificaciones gratuitas:** Sigilo +1, Alerta +1, Disfraz +1.
 
 Este Oficio representa a una persona cuya actividad habitual incluye obtención clandestina de información, infiltración, vigilancia o sabotaje.
 
@@ -3170,7 +3159,7 @@ Puede detectar irregularidades en inventarios, permisos o suministros sin poseer
 **Oficio:** Agricultor.  
 **Posición:** miembro de una comunidad rural.  
 **Características destacadas:** Fortaleza +1, Agilidad +1, Percepción +1.  
-**Habilidades:** Profesión (agricultura) +2, Atletismo +1, Supervivencia +1, Alerta +1, Rastreo +1, Primeros auxilios +1, Vigilancia +0.  
+**Habilidades:** Profesión (agricultura) +2, Atletismo +1, Supervivencia +1, Alerta +1, Rastreo +1, Primeros auxilios +1, Templanza +0.  
 **Rasgos:** conoce cada camino de su valle; familia extensa en aldeas próximas.
 
 Dentro de su región puede poseer información y contactos que ningún guerrero forastero tiene.
@@ -3182,7 +3171,7 @@ Dentro de su región puede poseer información y contactos que ningún guerrero 
 **Oficio:** Prostituta/o.  
 **Posición:** depende del establecimiento, ciudad y relaciones de protección o deuda.  
 **Características destacadas:** Presencia +2, Percepción +1.  
-**Habilidades:** Perspicacia +2, Engaño +1, Persuasión +1, Vigilancia +1, Etiqueta +1.  
+**Habilidades:** Perspicacia +2, Engaño +1, Persuasión +1, Alerta +1, Etiqueta +1.  
 **Rasgos:** recuerda clientes y conversaciones; conoce sirvientes de varias casas.
 
 Su valor como informadora puede proceder de acceso social, memoria y capacidad para leer a otras personas, no de habilidades de combate.
@@ -3194,7 +3183,7 @@ Su valor como informadora puede proceder de acceso social, memoria y capacidad p
 **Oficio:** Mercader.  
 **Posición:** económicamente cómodo, sin autoridad militar formal.  
 **Características destacadas:** Inteligencia +1, Presencia +1, Percepción +1.  
-**Habilidades:** Comercio +2, Persuasión +1, Administración +1, Escritura y documentos +1, Vigilancia +0.  
+**Habilidades:** Comercio +2, Persuasión +1, Administración +1, Escritura y documentos +1, Alerta +0.  
 **Rasgos:** crédito en dos ciudades; conoce transportistas y posaderos.
 
 Puede conseguir bienes, financiación e información que un guerrero no sabría obtener por la fuerza.
@@ -3291,7 +3280,7 @@ Ejemplos:
 
 Las Habilidades habituales son:
 
-- **Vigilancia** para estudiar rutinas;
+- **Alerta** para observar rutinas, cambios y relevos;
 - **Rastreo** para interpretar movimientos fuera de zonas pobladas;
 - **Supervivencia** para conocer rutas y terreno;
 - **Historia** o conocimiento local para recordar información previa;
@@ -3437,7 +3426,7 @@ El director plantea problemas concretos:
 - ¿cómo reconoce el almacén correcto?
 - ¿cómo sale después?
 
-Una preparación previa mediante Vigilancia puede evitar muchos de estos problemas.
+Una preparación previa mediante observación y **Alerta** puede evitar muchos de estos problemas.
 
 Perderse puede resolverse mediante conocimiento previo, Navegación, memoria, observación o tiempo adicional según el lugar.
 
@@ -3467,9 +3456,9 @@ Los retos se utilizan cuando importan:
 - la necesidad de distinguir entre varios elementos;
 - una oposición activa.
 
-## 9.10. Vigilancia de un objetivo
+## 9.10. Observación de un objetivo
 
-Observar una fortaleza, campamento, camino o persona durante horas o días utiliza **Vigilancia** cuando existe incertidumbre sobre la calidad de la observación.
+Observar una fortaleza, campamento, camino o persona durante horas o días utiliza normalmente **Alerta** cuando existe incertidumbre sobre la calidad de la observación.
 
 Un éxito puede proporcionar:
 
@@ -3487,15 +3476,16 @@ Más tiempo puede mejorar las posibilidades, pero también aumenta el riesgo de 
 
 ## 9.11. Seguir a una persona
 
-En un entorno poblado se utiliza normalmente:
+En un entorno poblado pueden intervenir dos problemas distintos:
 
-> **Percepción/Agilidad + Vigilancia**
+- **Percepción + Alerta** para no perder de vista al objetivo;
+- **Agilidad + Sigilo** para seguirlo sin que descubra el seguimiento.
 
-contra la capacidad del objetivo para advertir o evitar el seguimiento.
+Si ambas cosas son relevantes, el director utiliza la combinación que corresponda al problema inmediato o resuelve retos sucesivos cuando la situación cambie.
 
 En terreno rural donde la persona ya no está a la vista puede utilizarse **Rastreo**.
 
-Si el objetivo intenta deliberadamente descubrir si lo siguen, puede convertirse en personaje activo y utilizar Alerta, Vigilancia u otro método apropiado.
+Si el objetivo intenta deliberadamente descubrir si lo siguen, puede convertirse en personaje activo y utilizar **Alerta** u otro método apropiado.
 
 ## 9.12. Matar a un guardia desprevenido
 
