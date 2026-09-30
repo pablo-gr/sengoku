@@ -4325,6 +4325,10 @@ Esta regla se aplica tanto a Técnicas activas como pasivas.
 
 El Cooldown representa la imposibilidad de repetir inmediatamente una misma maniobra, patrón, esfuerzo o recurso táctico con plena eficacia.
 
+El Cooldown sólo se mantiene mientras continúa la **misma secuencia inmediata de combate**. Cuando el enfrentamiento termina y los personajes disponen de tiempo real para recomponerse antes de otro combate, todas las Técnicas vuelven a estar disponibles.
+
+Romper contacto durante unos instantes no elimina por sí solo un Cooldown si la persecución, amenaza o enfrentamiento continúan de forma inmediata.
+
 Una Técnica sin Cooldown puede utilizarse en Intercambios consecutivos siempre que siga cumpliendo todos sus requisitos y pueda pagar sus costes.
 
 ## 12.6. Contexto y requisitos
