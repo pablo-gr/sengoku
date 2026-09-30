@@ -2523,33 +2523,13 @@ El director puede representar narrativamente temblores, irritabilidad, impulsivi
 
 ## 7.6. Fortaleza y daño
 
-La Fortaleza reduce de forma natural parte del daño.
+La Fortaleza puede reducir parte de la **Fatiga** producida por esfuerzo, conmoción o trauma físico.
 
-### Fatiga
+Un personaje con **Fortaleza +2** reduce en **1 nivel** la Fatiga que reciba de una misma fuente.
 
-Se reduce 1 Fatiga por cada 2 puntos completos de Fortaleza positiva.
+Los personajes con Fortaleza −1, 0 o +1 no reciben reducción.
 
-| Fortaleza | Reducción de Fatiga |
-|---:|---:|
-| −1 a +1 | 0 |
-| +2 a +3 | 1 |
-| +4 a +5 | 2 |
-| +6 a +7 | 3 |
-
-### Salud
-
-Se reduce 1 Salud por cada 3 puntos completos de Fortaleza positiva.
-
-| Fortaleza | Reducción de Salud |
-|---:|---:|
-| −1 a +2 | 0 |
-| +3 a +5 | 1 |
-| +6 a +8 | 2 |
-| +9 a +11 | 3 |
-
-Ambas reducciones se calculan por separado.
-
-Fortaleza ayuda a soportar trauma y conmoción, pero no convierte al cuerpo en una armadura.
+Dentro de la escala humana de **Sengoku Jidai**, Fortaleza no reduce la pérdida de Salud. Una constitución extraordinaria puede ayudar a soportar el esfuerzo y la conmoción, pero no evita que una hoja, una flecha o un proyectil destruyan tejido corporal cuando alcanzan de forma eficaz.
 
 ## 7.7. Estabilización y medicina
 
