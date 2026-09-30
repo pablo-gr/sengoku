@@ -3882,7 +3882,7 @@ Un equipo básico de atención puede incluir:
 
 Los caballos son recursos valiosos.
 
-Su disponibilidad depende de posición, riqueza y función.
+Su disponibilidad depende del dinero disponible, del mercado local, del tipo de caballo buscado y de las circunstancias de la campaña. La posición social sólo interviene cuando exista una restricción o situación concreta que la haga relevante.
 
 Un caballo puede:
 
