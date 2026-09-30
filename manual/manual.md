@@ -862,9 +862,9 @@ Ejemplos:
 - advertir que alguien lleva la mano al arma;
 - notar que una ventana que debía estar cerrada está abierta.
 
-**Alerta es reactiva.** Cuando el personaje examina deliberadamente un lugar se utiliza **Registro**. Cuando observa a una persona o lugar durante un periodo prolongado se utiliza **Vigilancia**.
+**Alerta es reactiva.** Cuando el personaje examina deliberadamente un lugar se utiliza **Buscar**. Cuando observa a una persona o lugar durante un periodo prolongado se utiliza **Vigilancia**.
 
-### Registro
+### Buscar
 
 Buscar activamente objetos o detalles físicos ocultos.
 
@@ -876,7 +876,7 @@ Ejemplos:
 - descubrir un hilo, campanilla o mecanismo de alarma;
 - examinar a una persona antes de dejarla entrar.
 
-Registro no deduce automáticamente el significado de lo encontrado.
+Buscar no deduce automáticamente el significado de lo encontrado.
 
 ### Vigilancia
 
@@ -920,7 +920,7 @@ Reconocer, construir, desactivar o improvisar trampas y alarmas mecánicas senci
 
 La detección de una trampa conocida puede utilizar **Percepción + Trampas**. Desactivarla puede requerir **Destreza + Trampas**.
 
-No sustituye a **Ingeniería** para obras grandes ni a **Registro** para buscar de forma general.
+No sustituye a **Ingeniería** para obras grandes ni a **Buscar** para buscar de forma general.
 
 ### Falsificación `*`
 
@@ -1208,7 +1208,7 @@ Cuando varias Habilidades parecen posibles, debe utilizarse la que corresponde a
 
 Ejemplos:
 
-- **Alerta** para advertir a un guardia oculto; **Registro** para buscarlo deliberadamente.
+- **Alerta** para advertir a un guardia oculto; **Buscar** para buscarlo deliberadamente.
 - **Vigilancia** para estudiar durante días los relevos de una fortaleza; **Sigilo** para cruzar después la zona sin ser visto.
 - **Rastreo** para seguir huellas en barro; **Vigilancia** para seguir a un mensajero por una ciudad.
 - **Disfraz** para parecer un monje; **Etiqueta** para comportarse como uno; **Engaño** para responder cuando alguien pregunta por qué está allí.
@@ -1280,7 +1280,6 @@ Los únicos niveles gratuitos ordinarios proceden del Oficio.
 Todas las Clases sociales habilitan las siguientes Habilidades:
 
 - Alerta;
-- Registro;
 - Engaño;
 - Persuasión;
 - Intimidación;
@@ -1355,7 +1354,6 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 
 - Profesión relacionada con una artesanía;
 - Comercio;
-- Registro;
 - Cerrajería;
 - Ingeniería;
 - Primeros auxilios.
@@ -1474,19 +1472,19 @@ El cazador puede comprar Arco, Supervivencia, Sigilo y las demás Habilidades pr
 
 **Clases:** Campesino, Artesano.  
 **Especialidad:** herrería, cerámica, tejido, fabricación de papel, cocina, construcción naval u otra apropiada.  
-**Habilidades profesionales:** Profesión de la especialidad, Comercio, Registro, Perspicacia y las Habilidades técnicas coherentes con el oficio.  
-**Bonificaciones gratuitas:** Profesión de la especialidad +2, Comercio +1, Registro +1.
+**Habilidades profesionales:** Profesión de la especialidad, Comercio, Perspicacia y las Habilidades técnicas coherentes con el oficio.  
+**Bonificaciones gratuitas:** Profesión de la especialidad +2, Comercio +1.
 
 ### Herrero o armero
 
 **Clases:** Artesano.  
-**Habilidades profesionales:** Profesión (herrería o fabricación de armas), Ingeniería, Comercio, Registro.  
-**Bonificaciones gratuitas:** Profesión (herrería o fabricación de armas) +2, Ingeniería +1, Registro +1.
+**Habilidades profesionales:** Profesión (herrería o fabricación de armas), Ingeniería, Comercio.  
+**Bonificaciones gratuitas:** Profesión (herrería o fabricación de armas) +2, Comercio +1.
 
 ### Carpintero o constructor
 
 **Clases:** Campesino, Artesano.  
-**Habilidades profesionales:** Profesión (carpintería o construcción), Ingeniería, Atletismo, Registro, Trampas.  
+**Habilidades profesionales:** Profesión (carpintería o construcción), Ingeniería, Atletismo, Trampas.  
 **Bonificaciones gratuitas:** Profesión (carpintería o construcción) +2, Ingeniería +1, Atletismo +1.
 
 ### Mercader
@@ -1528,7 +1526,7 @@ El cazador puede comprar Arco, Supervivencia, Sigilo y las demás Habilidades pr
 ### Ladrón
 
 **Clases:** Campesino, Artesano, Mercader.  
-**Habilidades profesionales:** Hurto, Sigilo, Cerrajería, Atletismo, Vigilancia, Engaño, Disfraz, Perspicacia.  
+**Habilidades profesionales:** Hurto, Sigilo, Cerrajería, Buscar, Atletismo, Vigilancia, Engaño, Disfraz, Perspicacia.  
 **Bonificación gratuita:** Hurto +2.
 
 ### Asesino
@@ -1606,7 +1604,7 @@ Al elegir este Oficio se escoge una **Habilidad de arma de servicio** apropiada:
 
 El Oficio Guardia habilita por sí mismo únicamente esa Habilidad de arma.
 
-**Otras Habilidades profesionales:** Alerta, Vigilancia, Templanza, Intimidación, Atletismo.  
+**Otras Habilidades profesionales:** Alerta, Buscar, Vigilancia, Templanza, Intimidación, Atletismo.  
 **Bonificaciones gratuitas:** Alerta +1, Templanza +1, Habilidad de arma de servicio +1.
 
 ### Mercenario
@@ -1697,7 +1695,7 @@ El Curandero puede comprar Medicina, pero su Oficio no presupone automáticament
 ### Espía o agente clandestino
 
 **Clases:** cualquiera.  
-**Habilidades profesionales:** Sigilo, Vigilancia, Disfraz, Engaño, Cerrajería, Trampas, Falsificación, Hurto, Atletismo, Rastreo, Venenos, Perspicacia, Alerta, Escritura y documentos.  
+**Habilidades profesionales:** Sigilo, Vigilancia, Buscar, Disfraz, Engaño, Cerrajería, Trampas, Falsificación, Hurto, Atletismo, Rastreo, Venenos, Perspicacia, Alerta, Escritura y documentos.  
 **Bonificaciones gratuitas:** Sigilo +1, Vigilancia +1, Disfraz +1.
 
 Este Oficio representa a una persona cuya actividad habitual incluye obtención clandestina de información, infiltración, vigilancia o sabotaje.
@@ -1979,6 +1977,12 @@ Pueden modificar el resultado, entre otras circunstancias:
 - obstáculos;
 - limitaciones físicas del entorno.
 
+La **superioridad numérica** se resuelve como modificador narrativo, no mediante una bonificación automática por cada aliado. El director valora cuántos combatientes pueden intervenir realmente, desde qué ángulos, con qué armas, cuánto espacio existe y si el adversario puede controlar la aproximación mediante alcance, terreno o posición.
+
+Como referencia, **+1** suele ser apropiado cuando un aliado adicional puede atacar de forma efectiva y simultánea al mismo rival y este no dispone de un arma más larga, una posición dominante, un paso estrecho u otra circunstancia que le permita mantener a ambos a distancia o impedir que coordinen sus ataques. Más combatientes pueden justificar una ventaja mayor, ninguna ventaja adicional o incluso no poder intervenir, según la situación.
+
+El número de participantes por sí solo nunca determina el modificador. Si la superioridad y la posición hacen que un combatiente ya no pueda ofrecer una defensa efectiva, se aplica la sección 6.2 y deja de ser necesario mantener un Intercambio.
+
 Una misma circunstancia no debe contarse varias veces salvo que produzca consecuencias distintas.
 
 Por ejemplo, una situación puede:
@@ -2184,6 +2188,18 @@ Puede determinar:
 - si una posición concede modificadores narrativos.
 
 El director describe estas limitaciones antes de que resulten relevantes siempre que sean evidentes para los personajes.
+
+### Combate montado
+
+Combatir a caballo utiliza las mismas reglas de Intercambio que combatir a pie.
+
+El ataque, parada o control del arma se resuelve normalmente con la **Característica + Habilidad del arma** apropiadas. **Equitación no sustituye a la Habilidad del arma.**
+
+Equitación se utiliza cuando la incertidumbre procede de controlar o maniobrar la montura: mantenerla bajo control, girar en poco espacio, atravesar terreno difícil, realizar una maniobra exigente, evitar que se encabrite o conservar la posición durante una acción complicada.
+
+Estar montado no concede una bonificación universal. La altura, velocidad, movilidad, espacio disponible, terreno, ángulo de aproximación y alcance relativo de las armas pueden proporcionar modificadores narrativos, impedir ciertas acciones o hacer posibles otras.
+
+En terreno abierto un jinete puede explotar su movilidad para elegir la distancia o evitar quedar fijado. En un paso estrecho, una pendiente difícil, un bosque cerrado o un interior, la montura puede perder gran parte de esa ventaja o convertirse en una limitación.
 
 ## 6.12. Combatir desarmado frente a un adversario armado
 
@@ -3190,7 +3206,7 @@ Puede conseguir bienes, financiación e información que un guerrero no sabría 
 **Oficio:** Herrero o armero.  
 **Posición:** profesional especializado.  
 **Características destacadas:** Destreza +2, Inteligencia +1.  
-**Habilidades:** Profesión (herrería) +2, Ingeniería +1, Registro +1, Comercio +1, Primeros auxilios +1, Perspicacia +0.  
+**Habilidades:** Profesión (herrería) +2, Comercio +1, Ingeniería +1, Primeros auxilios +1, Perspicacia +0.  
 **Rasgos:** trabaja ocasionalmente para una casa guerrera.
 
 Su competencia técnica puede convertirlo en una persona valiosa incluso ante clientes de rango mucho mayor.
@@ -3359,7 +3375,7 @@ Una cerradura o mecanismo utiliza normalmente:
 
 Detectar un mecanismo de alarma deliberadamente oculto puede utilizar:
 
-> **Percepción + Registro**
+> **Percepción + Buscar**
 
 o, si el personaje posee formación específica:
 
@@ -3425,11 +3441,11 @@ Una preparación previa mediante Vigilancia puede evitar muchos de estos problem
 
 Perderse puede resolverse mediante conocimiento previo, Navegación, memoria, observación o tiempo adicional según el lugar.
 
-## 9.9. Registrar y obtener información
+## 9.9. Buscar y obtener información
 
 Encontrar algo físicamente oculto utiliza normalmente:
 
-> **Percepción + Registro**
+> **Percepción + Buscar**
 
 Identificar qué documento es importante puede utilizar:
 
@@ -3565,7 +3581,7 @@ El incendio puede crear confusión, obligar a mover guardias, destruir suministr
 
 ## 9.16. Robar o copiar documentos
 
-Localizar documentación puede utilizar Registro.
+Localizar documentación puede utilizar Buscar.
 
 Comprenderla puede exigir Escritura y documentos, Administración, Comercio, Historia o Idiomas.
 
