@@ -4570,7 +4570,6 @@ Este capítulo reúne el catálogo de Técnicas disponibles para los personajes.
 
 Las reglas generales que determinan cómo funcionan las Técnicas —tipos, elección secreta, costes, Cooldown, etiquetas, requisitos y duración— se explican en el capítulo 12. Las Técnicas de este catálogo modifican o amplían esas reglas cuando su descripción lo indica expresamente.
 
-El catálogo debe permanecer como **capítulo final del manual**. Si se añaden nuevos capítulos de reglas, equipo, ambientación, sociedad, viaje u otros subsistemas, se insertarán antes de éste. De este modo pueden añadirse nuevas Técnicas sin reorganizar el cuerpo principal del reglamento.
 
 Salvo que una Técnica indique lo contrario, se aplican todas las reglas normales de Combate. Cuando una Técnica contradice expresamente una regla general, prevalece la excepción indicada por la Técnica.
 
