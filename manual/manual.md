@@ -3695,12 +3695,9 @@ La disponibilidad puede depender de:
 - tamaño del mercado;
 - situación militar;
 - tiempo disponible;
-- existencia de artesanos o comerciantes apropiados;
-- restricciones legales o locales concretas.
+- existencia de artesanos o comerciantes apropiados.
 
-La posición social sólo importa cuando exista una razón concreta: una prohibición local, un vendedor que no quiera tratar con determinada persona, un bien reservado por una autoridad o una compra que requiera contactos especiales.
-
-No sustituye al precio.
+La posición social no sustituye al precio ni a la disponibilidad.
 
 El manual utiliza estas categorías:
 
