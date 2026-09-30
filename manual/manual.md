@@ -3810,7 +3810,9 @@ El arco también puede utilizarse desde posiciones preparadas o a caballo cuando
 
 Las armas de mecha utilizan **Armas de fuego**.
 
-Su disponibilidad depende fuertemente de la fecha y región de la campaña. Las armas de fuego portuguesas llegaron a Japón a mediados del siglo XVI y se difundieron con rapidez en las décadas posteriores.
+Su disponibilidad depende fuertemente de la fecha y región de la campaña.
+
+Como referencia de juego, el **teppō está disponible a partir de 1543**, fecha tradicionalmente asociada a la llegada de armas de mecha a Tanegashima. Su presencia fuera de las regiones donde ya se hayan difundido depende de la fecha concreta, las redes comerciales y militares y las circunstancias de la campaña.
 
 Características principales:
 
