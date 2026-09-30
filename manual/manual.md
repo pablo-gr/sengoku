@@ -1349,7 +1349,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Primeros auxilios;
 - Profesión relacionada con actividades rurales.
 
-**Oficios habilitados:** Agricultor, Pescador, Cazador, Leñador o carbonero, Artesano, Carpintero o constructor, Criado, Porteador, Marinero, Mensajero, Posadero, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Curandero o herbolario, Monje, Yamabushi, Sacerdote o servidor de santuario, Guerrero de templo, Artista o entretenedor, Prostituta/o, Espía o agente clandestino.
+**Oficios habilitados:** Agricultor, Pescador, Cazador, Leñador o carbonero, Artesano, Carpintero o constructor, Criado, Porteador, Marinero, Mensajero, Posadero, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Curandero o herbolario, Monje, Yamabushi, Sacerdote o servidor de santuario, Guerrero de templo, Artista o entretenedor, Prostituta/o, Espía o agente clandestino, Saboteador.
 
 ### Artesano
 
@@ -1360,7 +1360,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Escritura y documentos;
 - Cerrajería.
 
-**Oficios habilitados:** Artesano, Herrero o armero, Carpintero o constructor, Mercader, Criado, Mensajero, Posadero, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Administrador, Escribano, Médico, Curandero o herbolario, Monje, Yamabushi, Sacerdote o servidor de santuario, Guerrero de templo, Artista o entretenedor, Prostituta/o, Espía o agente clandestino.
+**Oficios habilitados:** Artesano, Herrero o armero, Carpintero o constructor, Mercader, Criado, Mensajero, Posadero, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Administrador, Escribano, Médico, Curandero o herbolario, Monje, Yamabushi, Sacerdote o servidor de santuario, Guerrero de templo, Artista o entretenedor, Prostituta/o, Espía o agente clandestino, Saboteador.
 
 ### Mercader
 
@@ -1372,7 +1372,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Etiqueta;
 - Idiomas.
 
-**Oficios habilitados:** Mercader, Administrador, Escribano, Marinero, Mensajero, Posadero, Criado, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Médico, Monje, Yamabushi, Sacerdote o servidor de santuario, Guerrero de templo, Artista o entretenedor, Prostituta/o, Espía o agente clandestino, Emisario.
+**Oficios habilitados:** Mercader, Administrador, Escribano, Marinero, Mensajero, Posadero, Criado, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Médico, Monje, Yamabushi, Sacerdote o servidor de santuario, Guerrero de templo, Artista o entretenedor, Prostituta/o, Espía o agente clandestino, Saboteador, Emisario.
 
 ### Samurái
 
@@ -1394,7 +1394,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Historia;
 - Primeros auxilios.
 
-**Oficios habilitados:** Samurái de armas, Oficial militar, Administrador, Guardia, Mensajero, Mercenario, Asesino, Bandido, Escribano, Médico, Monje, Yamabushi, Sacerdote o servidor de santuario, Guerrero de templo, Espía o agente clandestino, Cortesano, Emisario.
+**Oficios habilitados:** Samurái de armas, Oficial militar, Administrador, Guardia, Mensajero, Mercenario, Asesino, Bandido, Escribano, Médico, Monje, Yamabushi, Sacerdote o servidor de santuario, Guerrero de templo, Espía o agente clandestino, Saboteador, Cortesano, Emisario.
 
 Además de habilitar estas Habilidades, la Clase **Samurái** permite que el personaje tenga acceso inicial a una **escuela marcial** cuando su origen, maestro, región y fecha lo hagan plausible.
 
@@ -1415,7 +1415,7 @@ Un samurái sin señor puede conservar esta Clase social aunque su situación co
 - Religión;
 - Equitación.
 
-**Oficios habilitados:** Cortesano, Emisario, Administrador, Escribano, Médico, Monje, Yamabushi, Sacerdote o servidor de santuario, Guerrero de templo, Espía o agente clandestino.
+**Oficios habilitados:** Cortesano, Emisario, Administrador, Escribano, Médico, Monje, Yamabushi, Sacerdote o servidor de santuario, Guerrero de templo, Espía o agente clandestino, Saboteador.
 
 Esta Clase representa a la **aristocracia cortesana vinculada a la corte imperial**, especialmente las familias kuge.
 
@@ -1747,12 +1747,30 @@ Interpretación representa actuación dramática y adopción de papeles. Las dis
 ### Espía o agente clandestino
 
 **Clases:** cualquiera.  
-**Habilidades profesionales:** Sigilo, Buscar, Interpretación, Engaño, Etiqueta, Cerrajería, Trampas, Falsificación, Hurto, Atletismo, Rastreo, Venenos, Perspicacia, Alerta, Escritura y documentos.  
+**Habilidades profesionales:** Sigilo, Buscar, Interpretación, Engaño, Etiqueta, Cerrajería, Falsificación, Hurto, Atletismo, Rastreo, Perspicacia, Alerta, Escritura y documentos.  
 **Bonificaciones gratuitas:** elige tres Habilidades diferentes a +1 entre Alerta, Buscar, Sigilo, Interpretación, Engaño, Perspicacia y Rastreo.
 
-Este Oficio representa a una persona cuya actividad habitual incluye obtención clandestina de información, infiltración, vigilancia o sabotaje.
+Este Oficio representa a una persona cuya actividad habitual consiste en obtener información clandestinamente, infiltrarse, observar, mantener identidades falsas o acceder a lugares y documentos que no debería conocer.
+
+No incluye por sí mismo preparación de incendios, explosiones o destrucción material especializada; esas funciones corresponden al Oficio **Saboteador**.
 
 No crea una clase social o casta de «ninja» y no sustituye a las Habilidades concretas. Un personaje puede realizar una misión de shinobi sin poseer este Oficio.
+
+### Saboteador
+
+**Clases:** cualquiera.  
+**Habilidades profesionales:** Trampas, Ingeniería, Cerrajería, Atletismo, Sigilo, Interpretación, Alerta.  
+**Bonificaciones gratuitas:** Trampas +2, Atletismo +1 y elige una de las siguientes: Sigilo +1 o Interpretación +1.
+
+Este Oficio representa a una persona entrenada para introducirse en territorio o instalaciones enemigas y causar **daño material**: provocar incendios, destruir suministros, inutilizar puertas, mecanismos o infraestructuras, preparar cargas o mecanismos con pólvora cuando estén disponibles y crear daños retardados o difíciles de atribuir.
+
+El Saboteador **no recibe entrenamiento profesional en armas, asesinato, venenos ni obtención de información**. Su objetivo no es eliminar personas ni descubrir secretos, sino alcanzar un objetivo material, dañarlo y retirarse.
+
+**Sigilo** representa aproximación y acceso sin ser visto. **Interpretación** puede utilizarse cuando el acceso depende de hacerse pasar por trabajador, criado, porteador u otra identidad plausible. **Cerrajería** permite superar cierres y accesos. **Trampas** cubre mecanismos, mechas, dispositivos retardados y montajes destinados a producir el daño; **Ingeniería** puede utilizarse cuando el problema consiste en comprender estructuras, fortificaciones, puentes u otros elementos técnicos.
+
+Provocar un incendio sencillo con tiempo, combustible y medios adecuados puede seguir siendo automático conforme a las reglas de sabotaje. El Oficio representa la capacidad de hacerlo en condiciones difíciles o de ejecutar sabotajes más complejos.
+
+El término **Saboteador** es una etiqueta funcional de juego, no el nombre de una profesión formal y uniforme del Japón Sengoku. Históricamente, incendios y destrucción podían formar parte de misiones clandestinas sin constituir necesariamente una categoría profesional separada.
 
 ### Cortesano
 
