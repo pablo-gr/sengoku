@@ -1992,6 +1992,16 @@ La Guardia pasa a estar **Firme**, siempre que ninguna causa persistente impida 
 
 La Guardia rival pasa a estar **Comprometida**.
 
+#### Romper contacto
+
+**Requisito:** existe espacio suficiente para retirarse y una dirección razonable por la que hacerlo.
+
+El personaje cede terreno y termina el enfrentamiento cuerpo a cuerpo inmediato.
+
+El rival puede impedir o seguir la retirada únicamente cuando una regla, Técnica o circunstancia concreta se lo permita.
+
+Romper contacto no recupera Guardia por sí mismo.
+
 #### Herida grave
 
 **Requisito:** Guardia rival Comprometida y un medio capaz de causar Heridas.
