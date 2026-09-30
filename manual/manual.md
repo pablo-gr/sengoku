@@ -1403,8 +1403,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Liderazgo;
 - Etiqueta;
 - Escritura y documentos;
-- Historia;
-- Primeros auxilios.
+- Historia.
 
 **Oficios habilitados:** Samurái de armas, Oficial militar, Administrador, Guardia, Mensajero, Mercenario, Asesino, Bandido, Escribano, Médico, Monje, Yamabushi, Sacerdote o servidor de santuario, Guerrero de templo, Espía, Saboteador, Cortesano, Emisario.
 
@@ -1662,7 +1661,7 @@ Esas Habilidades quedan habilitadas por el Oficio. Las demás armas sólo estar�
 ### Samurái de armas
 
 **Clases:** Samurái.  
-**Habilidades profesionales:** Atletismo, Natación, Espadas, Cuchillos, Lanzas, Naginata, Bastones, Arco, Equitación, Táctica, Templanza, Liderazgo, Etiqueta, Armas de fuego cuando la fecha y región lo permitan.  
+**Habilidades profesionales:** Atletismo, Natación, Espadas, Cuchillos, Lanzas, Naginata, Bastones, Arco, Equitación, Táctica, Templanza, Liderazgo, Etiqueta, Primeros auxilios, Armas de fuego cuando la fecha y región lo permitan.  
 **Bonificación gratuita:** una entre Espadas, Lanzas, Naginata o Arco +2.
 
 Este Oficio representa una formación marcial seria. Etiqueta, Equitación, Táctica y las demás Habilidades están habilitadas, pero el jugador decide si invierte puntos en ellas.
