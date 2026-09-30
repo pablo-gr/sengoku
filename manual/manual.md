@@ -417,6 +417,7 @@ Un personaje se define mediante:
 - **Heridas:** lesiones concretas.
 - **Dinero:** efectivo disponible para compras y gastos.
 - **Equipo:** armas, herramientas y otros recursos.
+- **Escuela marcial:** tradición de entrenamiento formal cuando el personaje pertenece a una.
 - **Técnicas marciales:** maniobras aprendidas cuando el personaje ha recibido esa formación.
 
 Estas categorías se complementan entre sí.
