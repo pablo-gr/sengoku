@@ -3459,7 +3459,7 @@ Los guardias pueden:
 - cortar rutas;
 - avisar a puestos próximos.
 
-El director modifica la ficción en vez de utilizar una «barra de alerta».
+Una alarma modifica directamente la situación: cambia rutas, vigilancia, iluminación, disponibilidad de salidas y comportamiento de los guardias.
 
 ## 9.18. Fracaso y escalada de la situación
 
@@ -3484,26 +3484,26 @@ Un fallo menor durante una fase poco peligrosa no tiene por qué convertir insta
 
 ## 9.19. Dificultades orientativas
 
-Las cifras siguientes son referencias, no una tabla obligatoria.
+Las cifras siguientes utilizan la escala general de dificultad `0–6`.
 
 | Situación | Dificultad orientativa |
 |---|---:|
-| Cruzar sin ruido una zona oscura y poco vigilada | 2–3 |
-| Escalar una estructura sencilla con buenos apoyos | 2–4 |
-| Abrir un cierre sencillo con herramientas apropiadas | 3–4 |
-| Mantener una identidad genérica entre desconocidos | 3–4 |
+| Cruzar sin ruido una zona oscura y poco vigilada | 1 |
+| Escalar una estructura sencilla con buenos apoyos | 1 |
+| Abrir un cierre sencillo con herramientas apropiadas | 1 |
+| Mantener una identidad genérica entre desconocidos | 1 |
 | Atravesar una zona con vigilancia ordinaria | Reto enfrentado |
-| Abrir una cerradura de buena calidad bajo presión | 5–7 |
-| Trepar un muro difícil sin equipo adecuado | 5–7 |
-| Hacerse pasar por miembro de un grupo ante alguien familiarizado con él | 6–8 |
-| Entrar en una zona militar especialmente vigilada tras una alarma | 7–10 o reto enfrentado |
-| Suplantar a una persona concreta ante alguien que la conoce bien | 9+ |
+| Abrir una cerradura de buena calidad bajo presión | 2 |
+| Trepar un muro difícil sin equipo adecuado | 3 |
+| Hacerse pasar por miembro de un grupo ante alguien familiarizado con él | 3 |
+| Entrar en una zona militar especialmente vigilada tras una alarma | 4 o reto enfrentado |
+| Suplantar a una persona concreta ante alguien que la conoce bien | 5 |
 
 La preparación puede cambiar radicalmente estas cifras.
 
 Un permiso auténtico puede eliminar un reto.
 
-Una ruta observada durante varios días puede convertir una dificultad 7 en una dificultad 4.
+Una ruta observada durante varios días puede convertir una dificultad 4 en una dificultad 2.
 
 Una alarma previa puede hacer exactamente lo contrario.
 
