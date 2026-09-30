@@ -575,7 +575,7 @@ Un guerrero puede viajar vestido como criado. Un ashigaru puede presentarse como
 
 Mientras la identidad resulte creíble y nadie tenga motivos para comprobarla, los demás reaccionan de acuerdo con lo que creen estar viendo.
 
-Cuando exista incertidumbre se utilizan las Habilidades apropiadas, especialmente Disfraz, Etiqueta, Engaño, Falsificación y las competencias relacionadas con la identidad adoptada.
+Cuando exista incertidumbre se utilizan las Habilidades apropiadas, especialmente Interpretación, Etiqueta, Engaño, Falsificación y las competencias relacionadas con la identidad adoptada.
 
 Las reglas prácticas de infiltración mediante identidad aparecen en el capítulo 9.
 
@@ -890,13 +890,19 @@ Se utiliza para:
 - cambiar de posición sin llamar la atención;
 - reducir el ruido producido por el movimiento.
 
-Sigilo no permite aparentar una identidad legítima. Entrar por la puerta principal vestido como un criado puede depender de **Disfraz, Etiqueta y Engaño**, no de Sigilo.
+Sigilo no permite aparentar una identidad legítima. Entrar por la puerta principal vestido como un criado puede depender de **Interpretación, Etiqueta y Engaño**, no de Sigilo.
 
-### Disfraz
+### Interpretación
 
-Modificar apariencia, vestimenta, peinado, postura y detalles visibles para parecer otra persona o pertenecer a otro grupo social u ocupación.
+Adoptar y mantener un papel o una identidad distinta de la real.
 
-Un buen disfraz puede evitar que alguien formule preguntas, pero no enseña al personaje cómo comportarse. Mantener una identidad bajo conversación puede exigir **Etiqueta** o **Engaño**.
+Incluye modificar apariencia, vestimenta, peinado, postura y otros detalles visibles, pero también controlar voz, forma de hablar, gestos, modales y personalidad aparente para resultar creíble.
+
+Puede utilizarse para representar un oficio, posición social o identidad genérica, o para intentar hacerse pasar por una persona concreta. Cuanto mejor conozcan los observadores a la identidad imitada, mayor será la dificultad.
+
+Interpretación no proporciona los conocimientos reales de la identidad adoptada. **Etiqueta** permite conocer las formas sociales correctas; una Habilidad profesional puede ser necesaria para realizar de forma convincente tareas propias del oficio fingido; **Engaño** se utiliza cuando el problema consiste en conseguir que alguien acepte una afirmación falsa concreta.
+
+Un cambio sencillo de ropa o aspecto que nadie examine con atención puede no requerir ningún reto.
 
 ### Cerrajería `*`
 
@@ -1016,7 +1022,7 @@ No sustituye a **Liderazgo** para conseguir que personas desmoralizadas obedezca
 
 Conseguir que otra persona acepte como cierta una afirmación falsa o una interpretación deliberadamente engañosa.
 
-Engaño cubre la mentira y la historia inventada. No sustituye a **Disfraz** para cambiar la apariencia ni a **Etiqueta** para conocer el comportamiento correcto de la identidad adoptada.
+Engaño cubre la mentira, la historia inventada y las afirmaciones falsas concretas. No sustituye a **Interpretación** para construir y mantener un papel o identidad ni a **Etiqueta** para conocer el comportamiento correcto del entorno imitado.
 
 ### Persuasión
 
@@ -1205,7 +1211,7 @@ Ejemplos:
 - **Alerta** para advertir a un guardia oculto; **Buscar** para buscarlo deliberadamente.
 - **Alerta** para observar durante días los relevos de una fortaleza; **Sigilo** para cruzar después la zona sin ser visto.
 - **Rastreo** para seguir huellas en barro; **Alerta** para no perder de vista a un mensajero por una ciudad y **Sigilo** para seguirlo sin ser descubierto.
-- **Disfraz** para parecer un monje; **Etiqueta** para comportarse como uno; **Engaño** para responder cuando alguien pregunta por qué está allí.
+- **Interpretación** para adoptar el papel de un monje; **Etiqueta** para conocer las formas correctas de ese entorno; **Engaño** para sostener una afirmación falsa concreta cuando alguien lo interroga.
 - **Perspicacia** para notar que un prisionero evita un tema; **Persuasión**, **Engaño** o **Intimidación** para intentar conseguir que hable, según el método.
 - **Administración** para saber qué autorización necesita una caravana; **Falsificación** para fabricar el documento; **Escritura y documentos** para redactarlo correctamente.
 - **Primeros auxilios** para detener una hemorragia; **Medicina** para determinar si la lesión puede sobrevivirse y cómo tratarla.
@@ -1525,7 +1531,7 @@ Navegación y Natación están habilitadas por el Oficio, pero no se presuponen 
 ### Ladrón
 
 **Clases:** Campesino, Artesano, Mercader.  
-**Habilidades profesionales:** Hurto, Sigilo, Cerrajería, Buscar, Atletismo, Engaño, Disfraz, Perspicacia.  
+**Habilidades profesionales:** Hurto, Sigilo, Cerrajería, Buscar, Atletismo, Engaño, Interpretación, Perspicacia.  
 **Bonificación gratuita:** Hurto +2.
 
 ### Asesino
@@ -1542,7 +1548,7 @@ Al elegir este Oficio se escoge una **Habilidad de arma principal** coherente co
 - Arco;
 - Armas de fuego, cuando sean plausibles.
 
-**Habilidades profesionales:** Habilidad de arma elegida, Sigilo, Disfraz, Engaño, Venenos, Hurto, Atletismo, Rastreo, Perspicacia.  
+**Habilidades profesionales:** Habilidad de arma elegida, Sigilo, Interpretación, Engaño, Venenos, Hurto, Atletismo, Rastreo, Perspicacia.  
 **Bonificación gratuita:** Habilidad de arma elegida +2.
 
 El Oficio representa experiencia habitual matando por encargo, por servicio o como actividad criminal. No implica pertenecer a una escuela marcial ni concede Técnicas.
@@ -1682,20 +1688,22 @@ El Curandero puede comprar Medicina, pero su Oficio no presupone automáticament
 ### Artista o entretenedor
 
 **Clases:** Campesino, Artesano, Mercader.  
-**Habilidades profesionales:** Profesión (especialidad artística: música, danza, teatro u otra apropiada), Persuasión, Engaño, Disfraz, Perspicacia, Etiqueta.  
-**Bonificaciones gratuitas:** Profesión (especialidad artística) +2, Persuasión +1, Perspicacia +1.
+**Habilidades profesionales:** Interpretación, Profesión (especialidad artística: música, danza, recitación, acrobacia u otra apropiada), Persuasión, Engaño, Perspicacia, Etiqueta.  
+**Bonificaciones gratuitas:** elige **Interpretación +2** o **Profesión (especialidad artística) +2**; además, Persuasión +1 y Perspicacia +1.
+
+Interpretación representa actuación dramática y adopción de papeles. Las disciplinas artísticas que no tienen una Habilidad propia, como música o danza, utilizan una especialidad de **Profesión**.
 
 ### Prostituta/o
 
 **Clases:** Campesino, Artesano, Mercader.  
-**Habilidades profesionales:** Perspicacia, Engaño, Persuasión, Etiqueta, Disfraz, Comercio.  
+**Habilidades profesionales:** Perspicacia, Engaño, Persuasión, Etiqueta, Interpretación, Comercio.  
 **Bonificaciones gratuitas:** Perspicacia +1, Engaño +1, Persuasión +1.
 
 ### Espía o agente clandestino
 
 **Clases:** cualquiera.  
-**Habilidades profesionales:** Sigilo, Buscar, Disfraz, Engaño, Cerrajería, Trampas, Falsificación, Hurto, Atletismo, Rastreo, Venenos, Perspicacia, Alerta, Escritura y documentos.  
-**Bonificaciones gratuitas:** elige tres Habilidades diferentes a +1 entre Alerta, Buscar, Sigilo, Disfraz, Engaño, Perspicacia y Rastreo.
+**Habilidades profesionales:** Sigilo, Buscar, Interpretación, Engaño, Cerrajería, Trampas, Falsificación, Hurto, Atletismo, Rastreo, Venenos, Perspicacia, Alerta, Escritura y documentos.  
+**Bonificaciones gratuitas:** elige tres Habilidades diferentes a +1 entre Alerta, Buscar, Sigilo, Interpretación, Engaño, Perspicacia y Rastreo.
 
 Este Oficio representa a una persona cuya actividad habitual incluye obtención clandestina de información, infiltración, vigilancia o sabotaje.
 
@@ -2811,9 +2819,9 @@ La apariencia correcta no basta por sí sola.
 
 Un infiltrado que pretende ser criado puede necesitar:
 
-- **Disfraz** para parecerlo;
-- **Etiqueta** para comportarse correctamente;
-- **Engaño** para responder preguntas;
+- **Interpretación** para construir y mantener el papel;
+- **Etiqueta** para conocer las formas correctas de ese entorno;
+- **Engaño** para sostener una afirmación falsa concreta;
 - **Falsificación** si necesita documentos;
 - conocimientos previos para saber nombres, lugares y obligaciones.
 
@@ -3406,18 +3414,18 @@ Un personaje puede intentar pasar por:
 
 Pueden intervenir varias Habilidades:
 
-- **Disfraz:** parecer físicamente apropiado;
-- **Etiqueta:** comportarse de forma correcta;
-- **Engaño:** mantener la historia;
+- **Interpretación:** construir y mantener la identidad mediante apariencia, voz, postura y conducta;
+- **Etiqueta:** conocer las formas sociales correctas del entorno imitado;
+- **Engaño:** sostener afirmaciones falsas concretas;
 - **Falsificación:** producir documentación;
 - **Escritura y documentos:** redactarla correctamente;
 - **Administración:** saber qué documento tendría sentido.
 
 No se realiza automáticamente un reto de todas ellas.
 
-Si nadie examina al personaje de cerca, un disfraz razonable puede bastar.
+Si nadie examina al personaje de cerca, una apariencia razonable puede bastar sin reto.
 
-Si un guardia pregunta por una orden, el problema pasa a ser Engaño.
+Si un guardia pregunta por una orden, Interpretación puede mantener el papel general, pero una respuesta falsa concreta puede requerir Engaño.
 
 Si un funcionario inspecciona un salvoconducto, el problema puede ser Falsificación.
 
