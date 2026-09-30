@@ -1537,6 +1537,8 @@ Al elegir este Oficio se escoge una **Habilidad de arma principal** coherente co
 - Cuchillos;
 - Espadas;
 - Lanzas;
+- Naginata;
+- Bastones;
 - Arco;
 - Armas de fuego, cuando sean plausibles.
 
@@ -1556,6 +1558,8 @@ Al elegir este Oficio se escoge una **Habilidad de arma** coherente con la histo
 - Espadas;
 - Cuchillos;
 - Lanzas;
+- Naginata;
+- Bastones;
 - Arco;
 - Armas de fuego, si la fecha y región lo permiten.
 
@@ -1593,6 +1597,8 @@ Al elegir este Oficio se escoge una **Habilidad de arma de servicio** apropiada:
 - Arco;
 - Espadas;
 - Cuchillos;
+- Naginata;
+- Bastones;
 - Armas de fuego, cuando sean plausibles.
 
 El Oficio Guardia habilita por sí mismo únicamente esa Habilidad de arma.
@@ -1609,6 +1615,8 @@ El personaje elige hasta **dos Habilidades de arma** coherentes con su historial
 - Espadas;
 - Cuchillos;
 - Lanzas;
+- Naginata;
+- Bastones;
 - Arco;
 - Armas de fuego, cuando sean plausibles.
 
