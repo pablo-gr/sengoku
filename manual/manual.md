@@ -139,7 +139,7 @@ Un reto no debería plantearse sólo porque una acción tenga dificultad 0. Si u
 
 ## 1.8. Modificadores
 
-Existen tres fuentes principales de modificación:
+Existen cuatro fuentes principales de modificación:
 
 1. **modificadores de estado**;
 2. **modificador narrativo**;
@@ -473,9 +473,9 @@ La Clase social determina:
 - determinadas Habilidades adicionales que puede comprar con sus puntos de creación;
 - parte de las expectativas sociales, contactos y oportunidades que resultan razonables.
 
-No determina automáticamente riqueza, autoridad personal ni competencia.
+La Clase determina el **dinero inicial de creación**, pero no fija por sí sola la riqueza total, patrimonio, autoridad personal ni competencia del personaje.
 
-Dos personajes de la misma Clase social pueden ocupar posiciones muy diferentes.
+Dos personajes de la misma Clase social pueden ocupar posiciones muy diferentes y disponer de patrimonios, obligaciones y recursos muy distintos en la ficción.
 
 Un campesino puede ser un jornalero pobre o pertenecer a una familia importante de su aldea. Un samurái puede ser un servidor humilde o un vasallo con responsabilidades relevantes.
 
