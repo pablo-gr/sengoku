@@ -1336,7 +1336,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Primeros auxilios;
 - Profesión relacionada con actividades rurales.
 
-**Oficios habituales:** Agricultor, Pescador, Cazador, Leñador o carbonero, Criado, Porteador, Marinero, Mensajero, Posadero, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Curandero o herbolario, Monje, Yamabushi, Artista o entretenedor, Prostituta/o, Espía o agente clandestino.
+**Oficios habilitados:** Agricultor, Pescador, Cazador, Leñador o carbonero, Criado, Porteador, Marinero, Mensajero, Posadero, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Curandero o herbolario, Monje, Yamabushi, Artista o entretenedor, Prostituta/o, Espía o agente clandestino.
 
 ### Artesano
 
@@ -1349,7 +1349,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Ingeniería;
 - Primeros auxilios.
 
-**Oficios habituales:** Artesano, Herrero o armero, Carpintero o constructor, Criado, Mensajero, Posadero, Ladrón, Asesino, Bandido, Guardia, Mercenario, Escribano, Médico, Curandero o herbolario, Monje, Yamabushi, Artista o entretenedor, Prostituta/o, Espía o agente clandestino.
+**Oficios habilitados:** Artesano, Herrero o armero, Carpintero o constructor, Criado, Mensajero, Posadero, Ladrón, Asesino, Bandido, Guardia, Mercenario, Escribano, Médico, Curandero o herbolario, Monje, Yamabushi, Artista o entretenedor, Prostituta/o, Espía o agente clandestino.
 
 ### Mercader
 
@@ -1362,7 +1362,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Vigilancia;
 - Idiomas.
 
-**Oficios habituales:** Mercader, Administrador, Escribano, Marinero, Mensajero, Posadero, Criado, Ladrón, Asesino, Guardia, Médico, Monje, Artista o entretenedor, Prostituta/o, Espía o agente clandestino, Emisario.
+**Oficios habilitados:** Mercader, Administrador, Escribano, Marinero, Mensajero, Posadero, Criado, Ladrón, Asesino, Guardia, Médico, Monje, Artista o entretenedor, Prostituta/o, Espía o agente clandestino, Emisario.
 
 ### Samurái
 
@@ -1384,7 +1384,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Vigilancia;
 - Primeros auxilios.
 
-**Oficios habituales:** Samurái de armas, Oficial militar, Administrador, Guardia, Mensajero, Mercenario, Asesino, Escribano, Médico, Monje, Yamabushi, Espía o agente clandestino, Cortesano, Emisario.
+**Oficios habilitados:** Samurái de armas, Oficial militar, Administrador, Guardia, Mensajero, Mercenario, Asesino, Escribano, Médico, Monje, Yamabushi, Espía o agente clandestino, Cortesano, Emisario.
 
 Además de habilitar estas Habilidades, la Clase **Samurái** permite que el personaje tenga acceso inicial a una **escuela marcial** cuando su origen, maestro, región y fecha lo hagan plausible.
 
@@ -1405,7 +1405,7 @@ Un samurái sin señor puede conservar esta Clase social aunque su situación co
 - Religión;
 - Equitación.
 
-**Oficios habituales:** Cortesano, Emisario, Oficial militar, Administrador, Samurái de armas, Escribano, Médico, Monje.
+**Oficios habilitados:** Cortesano, Emisario, Oficial militar, Administrador, Samurái de armas, Escribano, Médico, Monje.
 
 La Clase Noble representa personajes procedentes de la élite aristocrática o de familias situadas en la cúspide política de la campaña. No implica gobernar personalmente un territorio.
 
@@ -1670,8 +1670,8 @@ El Curandero puede comprar Medicina, pero su Oficio no presupone automáticament
 ### Artista o entretenedor
 
 **Clases:** Campesino, Artesano, Mercader.  
-**Habilidades profesionales:** Profesión (música, danza, teatro u otra especialidad), Persuasión, Engaño, Disfraz, Perspicacia, Etiqueta, Vigilancia.  
-**Bonificaciones gratuitas:** Profesión artística +2, Persuasión +1, Perspicacia +1.
+**Habilidades profesionales:** Profesión (especialidad artística: música, danza, teatro u otra apropiada), Persuasión, Engaño, Disfraz, Perspicacia, Etiqueta, Vigilancia.  
+**Bonificaciones gratuitas:** Profesión (especialidad artística) +2, Persuasión +1, Perspicacia +1.
 
 ### Prostituta/o
 
