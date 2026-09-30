@@ -1180,15 +1180,19 @@ Ejemplos:
 - herrería;
 - carpintería;
 - fabricación de armas;
+- fabricación de armaduras;
 - construcción;
+- construcción naval;
 - cerámica;
 - tejido;
+- fabricación de papel;
 - cocina;
 - hostelería;
 - herbolaria;
-- servicio doméstico;
-- música, danza o teatro;
-- construcción naval.
+- música;
+- danza.
+
+**Profesión sólo se utiliza cuando la actividad no dispone ya de una Habilidad estándar que represente de forma suficiente esa competencia.** No existen, por ejemplo, Profesión (cerrajería) ni Profesión (interpretación): esos trabajos utilizan respectivamente **Cerrajería** e **Interpretación**.
 
 Una Profesión permite realizar el trabajo cotidiano correspondiente y resolver situaciones técnicas o prácticas propias de esa actividad.
 
@@ -1345,7 +1349,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Primeros auxilios;
 - Profesión relacionada con actividades rurales.
 
-**Oficios habilitados:** Agricultor, Pescador, Cazador, Leñador o carbonero, Artesano, Carpintero o constructor, Criado, Porteador, Marinero, Mensajero, Posadero, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Curandero o herbolario, Monje, Yamabushi, Artista o entretenedor, Prostituta/o, Espía o agente clandestino.
+**Oficios habilitados:** Agricultor, Pescador, Cazador, Leñador o carbonero, Artesano, Carpintero o constructor, Criado, Porteador, Marinero, Mensajero, Posadero, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Curandero o herbolario, Monje, Yamabushi, Sacerdote o servidor de santuario, Guerrero de templo, Artista o entretenedor, Prostituta/o, Espía o agente clandestino.
 
 ### Artesano
 
@@ -1356,7 +1360,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Escritura y documentos;
 - Cerrajería.
 
-**Oficios habilitados:** Artesano, Herrero o armero, Carpintero o constructor, Mercader, Criado, Mensajero, Posadero, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Administrador, Escribano, Médico, Curandero o herbolario, Monje, Yamabushi, Artista o entretenedor, Prostituta/o, Espía o agente clandestino.
+**Oficios habilitados:** Artesano, Herrero o armero, Carpintero o constructor, Mercader, Criado, Mensajero, Posadero, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Administrador, Escribano, Médico, Curandero o herbolario, Monje, Yamabushi, Sacerdote o servidor de santuario, Guerrero de templo, Artista o entretenedor, Prostituta/o, Espía o agente clandestino.
 
 ### Mercader
 
@@ -1368,7 +1372,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Etiqueta;
 - Idiomas.
 
-**Oficios habilitados:** Mercader, Administrador, Escribano, Marinero, Mensajero, Posadero, Criado, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Médico, Monje, Yamabushi, Artista o entretenedor, Prostituta/o, Espía o agente clandestino, Emisario.
+**Oficios habilitados:** Mercader, Administrador, Escribano, Marinero, Mensajero, Posadero, Criado, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Médico, Monje, Yamabushi, Sacerdote o servidor de santuario, Guerrero de templo, Artista o entretenedor, Prostituta/o, Espía o agente clandestino, Emisario.
 
 ### Samurái
 
@@ -1390,7 +1394,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Historia;
 - Primeros auxilios.
 
-**Oficios habilitados:** Samurái de armas, Oficial militar, Administrador, Guardia, Mensajero, Mercenario, Asesino, Bandido, Escribano, Médico, Monje, Yamabushi, Espía o agente clandestino, Cortesano, Emisario.
+**Oficios habilitados:** Samurái de armas, Oficial militar, Administrador, Guardia, Mensajero, Mercenario, Asesino, Bandido, Escribano, Médico, Monje, Yamabushi, Sacerdote o servidor de santuario, Guerrero de templo, Espía o agente clandestino, Cortesano, Emisario.
 
 Además de habilitar estas Habilidades, la Clase **Samurái** permite que el personaje tenga acceso inicial a una **escuela marcial** cuando su origen, maestro, región y fecha lo hagan plausible.
 
@@ -1411,7 +1415,7 @@ Un samurái sin señor puede conservar esta Clase social aunque su situación co
 - Religión;
 - Equitación.
 
-**Oficios habilitados:** Cortesano, Emisario, Administrador, Escribano, Médico, Monje, Yamabushi, Espía o agente clandestino.
+**Oficios habilitados:** Cortesano, Emisario, Administrador, Escribano, Médico, Monje, Yamabushi, Sacerdote o servidor de santuario, Guerrero de templo, Espía o agente clandestino.
 
 Esta Clase representa a la **aristocracia cortesana vinculada a la corte imperial**, especialmente las familias kuge.
 
@@ -1442,8 +1446,10 @@ Las bonificaciones gratuitas representan la formación que el Oficio presupone. 
 ### Agricultor
 
 **Clases:** Campesino.  
-**Habilidades profesionales:** Profesión (agricultura), Atletismo, Supervivencia, Alerta, Primeros auxilios.  
-**Bonificaciones gratuitas:** Profesión (agricultura) +2, Atletismo +1, Supervivencia +1, Alerta +1.
+**Habilidades profesionales:** Profesión (agricultura), Atletismo, Alerta, Primeros auxilios, Comercio.  
+**Bonificaciones gratuitas:** Profesión (agricultura) +2, Atletismo +1, Alerta +1.
+
+Comercio puede representar la venta de cosechas, ganado, herramientas o excedentes en mercados locales, pero debe comprarse normalmente con puntos.
 
 ### Pescador
 
@@ -1457,9 +1463,9 @@ Marinería, Natación y Navegación están habilitadas por el Oficio, pero no se
 
 **Clases:** Campesino.  
 **Habilidades profesionales:** Rastreo, Arco, Supervivencia, Atletismo, Sigilo, Trampas, Alerta.  
-**Bonificaciones gratuitas:** Rastreo +2.
+**Bonificaciones gratuitas:** Rastreo +2 y elige una de las siguientes: Arco +1 o Trampas +1.
 
-El cazador puede comprar Arco, Supervivencia, Sigilo y las demás Habilidades profesionales con sus puntos normales. El oficio no presupone que todo cazador sea además un arquero experto o un infiltrador excepcional.
+La elección representa el método habitual de caza del personaje. Supervivencia, Sigilo y las demás Habilidades profesionales pueden comprarse con puntos normales; pasar largos periodos lejos de asentamientos puede justificar una Supervivencia elevada, pero no se presupone en todo cazador.
 
 ### Leñador o carbonero
 
@@ -1471,16 +1477,20 @@ El cazador puede comprar Arco, Supervivencia, Sigilo y las demás Habilidades pr
 
 **Clases:** Campesino, Artesano.  
 **Especialidad:** cerámica, tejido, fabricación de papel, cocina, cerrajería u otra artesanía apropiada que no esté representada por un Oficio específico.  
-**Habilidades profesionales:** Profesión de la especialidad, Comercio, Perspicacia y las Habilidades técnicas coherentes con el oficio.  
-**Bonificaciones gratuitas:** Profesión de la especialidad +2, Comercio +1.
+**Habilidades profesionales:** Habilidad principal de la especialidad, Comercio, Perspicacia y las Habilidades técnicas coherentes con el oficio.  
+**Bonificaciones gratuitas:** Habilidad principal de la especialidad +2, Comercio +1.
 
-Este Oficio funciona como categoría general para artesanías que no dispongan de un Oficio propio. Si una actividad ya está representada específicamente, debe utilizarse ese Oficio: por ejemplo, un herrero o fabricante de armas utiliza **Herrero o armero**, y un carpintero, constructor o constructor naval utiliza **Carpintero o constructor**. Un cerrajero puede utilizar **Artesano** con especialidad en cerrajería y adquirir **Cerrajería** como Habilidad técnica coherente.
+Cuando la especialidad no posee una Habilidad estándar propia, su Habilidad principal es **Profesión (especialidad)**. Por ejemplo: Profesión (cerámica), Profesión (tejido) o Profesión (fabricación de papel).
+
+Cuando la actividad ya está cubierta por una Habilidad estándar, se utiliza directamente esa Habilidad y no se crea una Profesión duplicada. Por ejemplo, un cerrajero utiliza **Cerrajería +2**, no Profesión (cerrajería).
+
+Este Oficio funciona como categoría general para artesanías que no dispongan de un Oficio propio. Si una actividad ya está representada específicamente, debe utilizarse ese Oficio: por ejemplo, un herrero o fabricante de armas o armaduras utiliza **Herrero o armero**, y un carpintero, constructor o constructor naval utiliza **Carpintero o constructor**.
 
 ### Herrero o armero
 
 **Clases:** Artesano.  
-**Habilidades profesionales:** Profesión (herrería o fabricación de armas), Atletismo, Ingeniería, Comercio.  
-**Bonificaciones gratuitas:** Profesión (herrería o fabricación de armas) +2, Comercio +1.
+**Habilidades profesionales:** Profesión (herrería, fabricación de armas o fabricación de armaduras), Atletismo, Ingeniería, Comercio.  
+**Bonificaciones gratuitas:** Profesión (herrería, fabricación de armas o fabricación de armaduras) +2, Comercio +1.
 
 ### Carpintero o constructor
 
@@ -1519,8 +1529,10 @@ Navegación y Natación están habilitadas por el Oficio, pero no se presuponen 
 ### Mensajero
 
 **Clases:** Campesino, Artesano, Mercader, Samurái.  
-**Habilidades profesionales:** Atletismo, Equitación, Navegación, Alerta, Supervivencia.  
-**Bonificaciones gratuitas:** Navegación +1, Alerta +1 y una de las siguientes: Atletismo +1 o Equitación +1.
+**Habilidades profesionales:** Atletismo, Equitación, Alerta, Supervivencia, Sigilo.  
+**Bonificaciones gratuitas:** Atletismo +1, Equitación +1, Alerta +1.
+
+Supervivencia puede representar viajes prolongados por rutas poco seguras y Sigilo la capacidad de evitar atención o controles durante un encargo. Ninguna de las dos se presupone en todo mensajero.
 
 ### Posadero
 
@@ -1532,7 +1544,9 @@ Navegación y Natación están habilitadas por el Oficio, pero no se presuponen 
 
 **Clases:** Campesino, Artesano, Mercader.  
 **Habilidades profesionales:** Hurto, Sigilo, Cerrajería, Buscar, Atletismo, Engaño, Interpretación, Perspicacia.  
-**Bonificación gratuita:** Hurto +2.
+**Bonificaciones gratuitas:** Sigilo +1 y elige una de las siguientes: Hurto +2 o Cerrajería +2.
+
+La elección distingue, por ejemplo, a un carterista o ladrón de objetos de un especialista en entradas, cerraduras y allanamientos.
 
 ### Asesino
 
@@ -1549,7 +1563,7 @@ Al elegir este Oficio se escoge una **Habilidad de arma principal** coherente co
 - Armas de fuego, cuando sean plausibles.
 
 **Habilidades profesionales:** Habilidad de arma elegida, Sigilo, Interpretación, Engaño, Venenos, Hurto, Atletismo, Rastreo, Perspicacia.  
-**Bonificación gratuita:** Habilidad de arma elegida +2.
+**Bonificación gratuita:** elige una de las siguientes: Habilidad de arma elegida +2 o Venenos +2.
 
 El Oficio representa experiencia habitual matando por encargo, por servicio o como actividad criminal. No implica pertenecer a una escuela marcial ni concede Técnicas.
 
@@ -1634,7 +1648,7 @@ Esas Habilidades quedan habilitadas por el Oficio. Las demás armas sólo estar�
 ### Samurái de armas
 
 **Clases:** Samurái.  
-**Habilidades profesionales:** Atletismo, Espadas, Cuchillos, Lanzas, Naginata, Bastones, Arco, Equitación, Táctica, Templanza, Liderazgo, Etiqueta, Armas de fuego cuando la fecha y región lo permitan.  
+**Habilidades profesionales:** Atletismo, Natación, Espadas, Cuchillos, Lanzas, Naginata, Bastones, Arco, Equitación, Táctica, Templanza, Liderazgo, Etiqueta, Armas de fuego cuando la fecha y región lo permitan.  
 **Bonificación gratuita:** una entre Espadas, Lanzas, Naginata o Arco +2.
 
 Este Oficio representa una formación marcial seria. Etiqueta, Equitación, Táctica y las demás Habilidades están habilitadas, pero el jugador decide si invierte puntos en ellas.
@@ -1684,6 +1698,37 @@ El Curandero puede comprar Medicina, pero su Oficio no presupone automáticament
 **Clases:** cualquiera.  
 **Habilidades profesionales:** Religión, Supervivencia, Atletismo, Templanza, Rastreo, Primeros auxilios, Bastones, Naginata.  
 **Bonificaciones gratuitas:** Religión +1, Supervivencia +1, Templanza +1.
+
+### Sacerdote o servidor de santuario
+
+**Clases:** cualquiera.  
+**Habilidades profesionales:** Religión, Etiqueta, Historia, Administración, Escritura y documentos, Persuasión, Alerta.  
+**Bonificaciones gratuitas:** Religión +2, Etiqueta +1.
+
+Este Oficio representa de forma amplia a personal vinculado al culto y funcionamiento de un santuario. Puede abarcar sacerdotes, especialistas rituales y servidores de distinto rango. Las instituciones medievales no utilizaban una jerarquía única y uniforme en todo Japón, por lo que el nombre concreto del cargo debe adaptarse al santuario, región y época.
+
+Escritura y documentos y Administración están habilitadas porque algunos cargos implican gestión de tierras, registros, ofrendas o correspondencia, pero no se presupone que todo servidor de santuario sea alfabetizado o administrador.
+
+### Guerrero de templo
+
+**Clases:** cualquiera.
+
+Al elegir este Oficio se escoge una **Habilidad de arma principal** coherente con la institución, región y fecha:
+
+- Lanzas;
+- Naginata;
+- Arco;
+- Bastones;
+- Armas de fuego, cuando la fecha y región lo permitan.
+
+**Habilidades profesionales:** Habilidad de arma elegida, Atletismo, Religión, Templanza, Alerta, Supervivencia, Táctica, Primeros auxilios.  
+**Bonificaciones gratuitas:** Habilidad de arma elegida +1, Religión +1, Templanza +1.
+
+El Oficio representa a una persona integrada en las fuerzas armadas de un templo, santuario o liga religiosa. **No presupone que sea un monje ordenado.** Las fuerzas de instituciones religiosas podían incluir religiosos, servidores, dependientes, guerreros afiliados y combatientes laicos.
+
+La imagen moderna del *sōhei* como una categoría uniforme de «monje guerrero» no debe utilizarse como una clase social separada. En juego, el personaje conserva su Clase social y este Oficio describe su función militar dentro de una institución religiosa.
+
+Las armas de fuego sólo están disponibles cuando la fecha y región lo permitan. Instituciones como Negoro adoptaron tempranamente el teppō tras su introducción en Japón.
 
 ### Artista o entretenedor
 
@@ -3177,7 +3222,7 @@ Puede detectar irregularidades en inventarios, permisos o suministros sin poseer
 **Oficio:** Agricultor.  
 **Posición:** miembro de una comunidad rural.  
 **Características destacadas:** Fortaleza +1, Agilidad +1, Percepción +1.  
-**Habilidades:** Profesión (agricultura) +2, Atletismo +1, Supervivencia +1, Alerta +1, Rastreo +1, Primeros auxilios +1, Templanza +0.  
+**Habilidades:** Profesión (agricultura) +2, Atletismo +1, Alerta +1, Rastreo +1, Primeros auxilios +1, Comercio +0, Templanza +0.  
 **Rasgos:** conoce cada camino de su valle; familia extensa en aldeas próximas.
 
 Dentro de su región puede poseer información y contactos que ningún guerrero forastero tiene.
