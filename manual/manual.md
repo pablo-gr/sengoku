@@ -1151,15 +1151,28 @@ Construirla realmente puede requerir trabajadores, materiales, tiempo y Profesio
 
 Diagnosticar enfermedades y lesiones, establecer pronósticos, aplicar tratamientos complejos y utilizar los conocimientos médicos disponibles en la época.
 
-Medicina no hace posible un tratamiento que los medios históricos no permiten realizar.
+En el tratamiento de Heridas:
 
-Detener una hemorragia o vendar una herida inmediata puede utilizar **Primeros auxilios**.
+- puede **curar una Herida leve** con dificultad **1**;
+- puede **curar una Herida grave** con dificultad **3**;
+- puede **estabilizar una Herida mortal** con dificultad **5**.
+
+Una Herida mortal **no puede curarse mediante ninguna mecánica de Medicina**. Si el personaje sobrevive finalmente a una lesión de esa gravedad, su salvación se resuelve por la vía narrativa según la lesión concreta, los medios disponibles y las decisiones del director.
+
+Medicina no hace posible un tratamiento que los medios históricos no permiten realizar.
 
 ### Primeros auxilios
 
-Atención inmediata a heridas y accidentes: presión sobre hemorragias, vendajes, inmovilización básica, limpieza y traslado seguro.
+Atención inmediata y limitada a heridas y accidentes: presión sobre hemorragias, vendajes, inmovilización básica, limpieza y traslado seguro.
 
-Puede estabilizar ciertas lesiones, pero no sustituye a Medicina para diagnóstico, cirugía, enfermedades o tratamientos prolongados.
+En el tratamiento de Heridas:
+
+- puede **curar una Herida leve** con dificultad **1**;
+- puede **estabilizar una Herida grave** con dificultad **4**;
+- **no puede curar una Herida grave**;
+- **no puede estabilizar ni curar una Herida mortal**.
+
+Primeros auxilios sirve para resolver problemas inmediatos y ganar tiempo. No sustituye a **Medicina** para el tratamiento definitivo de lesiones graves, diagnóstico, cirugía, enfermedades o tratamientos prolongados.
 
 ### Religión `*`
 
@@ -1346,7 +1359,6 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Natación;
 - Supervivencia;
 - Rastreo;
-- Primeros auxilios;
 - Profesión relacionada con actividades rurales.
 
 **Oficios habilitados:** Agricultor, Pescador, Cazador, Leñador o carbonero, Artesano, Carpintero o constructor, Criado, Porteador, Marinero, Mensajero, Posadero, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Curandero o herbolario, Monje, Yamabushi, Sacerdote o servidor de santuario, Guerrero de templo, Artista o entretenedor, Prostituta/o, Espía, Saboteador.
@@ -1446,7 +1458,7 @@ Las bonificaciones gratuitas representan la formación que el Oficio presupone. 
 ### Agricultor
 
 **Clases:** Campesino.  
-**Habilidades profesionales:** Profesión (agricultura), Atletismo, Alerta, Primeros auxilios, Comercio.  
+**Habilidades profesionales:** Profesión (agricultura), Atletismo, Alerta, Comercio.  
 **Bonificaciones gratuitas:** Profesión (agricultura) +2, Atletismo +1, Alerta +1.
 
 Comercio puede representar la venta de cosechas, ganado, herramientas o excedentes en mercados locales, pero debe comprarse normalmente con puntos.
@@ -1462,7 +1474,7 @@ Marinería, Natación y Navegación están habilitadas por el Oficio, pero no se
 ### Cazador
 
 **Clases:** Campesino.  
-**Habilidades profesionales:** Rastreo, Arco, Supervivencia, Atletismo, Sigilo, Trampas, Alerta.  
+**Habilidades profesionales:** Rastreo, Arco, Supervivencia, Atletismo, Sigilo, Trampas, Alerta, Primeros auxilios.  
 **Bonificaciones gratuitas:** Rastreo +2 y elige una de las siguientes: Arco +1 o Trampas +1.
 
 La elección representa el método habitual de caza del personaje. Supervivencia, Sigilo y las demás Habilidades profesionales pueden comprarse con puntos normales; pasar largos periodos lejos de asentamientos puede justificar una Supervivencia elevada, pero no se presupone en todo cazador.
@@ -2710,9 +2722,31 @@ Dentro de la escala humana de **Sengoku Jidai**, Fortaleza no reduce la pérdida
 
 ## 7.7. Estabilización y medicina
 
-Una Herida puede necesitar ser estabilizada para evitar que continúe empeorando.
+Las Habilidades médicas tienen límites distintos según la gravedad de la Herida.
 
-Según la lesión, estabilizar puede significar:
+| Herida | Primeros auxilios | Medicina |
+|---|---|---|
+| **Leve** | Curar, dificultad **1** | Curar, dificultad **1** |
+| **Grave** | Estabilizar, dificultad **4** | Curar, dificultad **3** |
+| **Mortal** | No puede tratarla de forma resolutiva | Estabilizar, dificultad **5** |
+
+La atención inmediata con **Primeros auxilios** utiliza normalmente:
+
+> **Destreza/Inteligencia + Primeros auxilios**
+
+El tratamiento médico utiliza normalmente:
+
+> **Destreza/Inteligencia + Medicina**
+
+**Curar una Herida** significa que deja de requerir tratamiento médico adicional y puede comenzar la recuperación correspondiente. No significa que desaparezcan inmediatamente la Salud perdida, el dolor, la Fatiga, las limitaciones funcionales ni el tiempo de recuperación.
+
+**Estabilizar una Herida** impide o reduce su empeoramiento inmediato cuando el tratamiento puede conseguirlo, pero la Herida sigue existiendo y todavía necesita tratamiento adecuado.
+
+Una Herida grave estabilizada mediante Primeros auxilios **sigue siendo una Herida grave**. Primeros auxilios puede ganar tiempo, detener una hemorragia o permitir el traslado, pero no completa su tratamiento. Para curarla mecánicamente es necesaria **Medicina**.
+
+Una Herida mortal estabilizada mediante Medicina **sigue siendo mortal**. Ninguna tirada permite curarla. La estabilización sólo crea la posibilidad de que el personaje sobreviva el tiempo suficiente para que su destino se resuelva narrativamente.
+
+Según la lesión, estabilizar o tratar puede significar:
 
 - detener una hemorragia;
 - aplicar presión o un torniquete;
@@ -2722,27 +2756,15 @@ Según la lesión, estabilizar puede significar:
 - mantener al herido inmóvil;
 - realizar una intervención disponible para la medicina del periodo.
 
-La atención inmediata suele utilizar:
-
-> **Destreza/Inteligencia + Primeros auxilios**
-
-Los tratamientos complejos utilizan normalmente:
-
-> **Destreza/Inteligencia + Medicina**
-
-Estabilizar:
-
-- detiene o reduce el empeoramiento cuando el tratamiento puede hacerlo;
-- no recupera automáticamente Salud;
-- no elimina las consecuencias físicas de la Herida.
-
-El director puede declarar que una lesión no puede estabilizarse con los medios disponibles.
+El director puede declarar que una lesión concreta no puede estabilizarse ni tratarse con los medios disponibles, incluso si la Habilidad y la dificultad indicadas serían normalmente aplicables.
 
 ## 7.8. Límites de la medicina
 
 La medicina disponible depende del lugar, conocimientos, recursos, limpieza, tiempo y naturaleza de la lesión.
 
 No existe una garantía mecánica de supervivencia por poseer Medicina elevada.
+
+Una **Herida mortal nunca puede curarse mediante una tirada**. Medicina sólo puede estabilizarla con dificultad 5. La supervivencia posterior, cuando sea posible, depende de la lesión concreta y se resuelve narrativamente.
 
 Una lesión puede estar fuera de las posibilidades reales del periodo.
 
@@ -2808,8 +2830,9 @@ El director puede:
 - retrasar heridas profundas;
 - exigir semanas o meses de reposo;
 - imponer pérdida funcional temporal;
-- establecer secuelas permanentes;
-- declarar que una Herida mortal no puede curarse con los medios disponibles.
+- establecer secuelas permanentes.
+
+Las Heridas mortales quedan fuera de esta recuperación mecánica: aunque hayan sido estabilizadas con Medicina, su posible supervivencia y evolución se resuelven narrativamente.
 
 La recuperación de Salud no significa que los tejidos se regeneren de forma abstracta. Debe corresponder a la evolución real de las Heridas descritas.
 
@@ -3242,7 +3265,7 @@ Puede detectar irregularidades en inventarios, permisos o suministros sin poseer
 **Oficio:** Agricultor.  
 **Posición:** miembro de una comunidad rural.  
 **Características destacadas:** Fortaleza +1, Agilidad +1, Percepción +1.  
-**Habilidades:** Profesión (agricultura) +2, Atletismo +1, Alerta +1, Rastreo +1, Primeros auxilios +1, Templanza +0.  
+**Habilidades:** Profesión (agricultura) +2, Atletismo +1, Alerta +1, Rastreo +1, Comercio +1, Templanza +0.  
 **Rasgos:** conoce cada camino de su valle; familia extensa en aldeas próximas.
 
 Dentro de su región puede poseer información y contactos que ningún guerrero forastero tiene.
