@@ -1489,14 +1489,16 @@ Este Oficio funciona como categoría general para artesanías que no dispongan d
 ### Herrero o armero
 
 **Clases:** Artesano.  
-**Habilidades profesionales:** Profesión (herrería, fabricación de armas o fabricación de armaduras), Atletismo, Ingeniería, Comercio.  
-**Bonificaciones gratuitas:** Profesión (herrería, fabricación de armas o fabricación de armaduras) +2, Comercio +1.
+**Especialidad profesional:** elige una entre Profesión (herrería), Profesión (fabricación de armas) o Profesión (fabricación de armaduras).  
+**Habilidades profesionales:** Profesión de la especialidad elegida, Atletismo, Ingeniería, Comercio.  
+**Bonificaciones gratuitas:** Profesión de la especialidad elegida +2, Comercio +1.
 
 ### Carpintero o constructor
 
 **Clases:** Campesino, Artesano.  
-**Habilidades profesionales:** Profesión (carpintería o construcción), Ingeniería, Atletismo.  
-**Bonificaciones gratuitas:** Profesión (carpintería o construcción) +2, Ingeniería +1, Atletismo +1.
+**Especialidad profesional:** elige una entre Profesión (carpintería), Profesión (construcción) o Profesión (construcción naval).  
+**Habilidades profesionales:** Profesión de la especialidad elegida, Ingeniería, Atletismo.  
+**Bonificaciones gratuitas:** Profesión de la especialidad elegida +2, Ingeniería +1, Atletismo +1.
 
 ### Mercader
 
