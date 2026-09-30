@@ -785,8 +785,8 @@ Ejemplos:
 - **Inteligencia + Cerrajería:** comprender el mecanismo o diagnosticar por qué está bloqueado.
 - **Percepción + Rastreo:** seguir huellas.
 - **Inteligencia + Rastreo:** deducir cuántas personas pasaron y hace cuánto.
-- **Presencia + Interrogatorio:** presionar a un prisionero mediante preguntas.
-- **Inteligencia + Interrogatorio:** detectar contradicciones entre respuestas.
+- **Presencia + Persuasión:** intentar obtener cooperación de un prisionero mediante un trato.
+- **Inteligencia + Perspicacia:** analizar contradicciones y cambios de comportamiento durante una conversación.
 - **Fortaleza + Intimidación:** amenazar físicamente.
 - **Templanza** con Característica 0: mantener el autocontrol cuando ninguna otra Característica sea pertinente.
 
@@ -1061,14 +1061,6 @@ También puede permitir advertir que otra persona se comporta de manera impropia
 
 Etiqueta no concede automáticamente acceso. Una persona puede saber perfectamente cómo comportarse ante un daimyō y carecer de cualquier motivo para ser recibida.
 
-### Interrogatorio
-
-Obtener información de una persona que no desea proporcionarla o que intenta ocultar parte de lo que sabe.
-
-Puede combinarse con Presencia para dirigir la conversación, Inteligencia para encontrar contradicciones o Percepción para observar reacciones.
-
-Interrogatorio no implica necesariamente violencia. Persuasión, engaño, presión, silencios, confrontación de versiones y amenazas pueden formar parte del método.
-
 ### Perspicacia
 
 Interpretar emociones, intenciones inmediatas, dudas, hostilidad, miedo y cambios de comportamiento.
@@ -1208,7 +1200,7 @@ Ejemplos:
 - **Vigilancia** para estudiar durante días los relevos de una fortaleza; **Sigilo** para cruzar después la zona sin ser visto.
 - **Rastreo** para seguir huellas en barro; **Vigilancia** para seguir a un mensajero por una ciudad.
 - **Disfraz** para parecer un monje; **Etiqueta** para comportarse como uno; **Engaño** para responder cuando alguien pregunta por qué está allí.
-- **Perspicacia** para notar que un prisionero evita un tema; **Interrogatorio** para conseguir que hable.
+- **Perspicacia** para notar que un prisionero evita un tema; **Persuasión**, **Engaño** o **Intimidación** para intentar conseguir que hable, según el método.
 - **Administración** para saber qué autorización necesita una caravana; **Falsificación** para fabricar el documento; **Escritura y documentos** para redactarlo correctamente.
 - **Primeros auxilios** para detener una hemorragia; **Medicina** para determinar si la lesión puede sobrevivirse y cómo tratarla.
 - **Táctica** para elegir dónde colocar una emboscada; **Liderazgo** para conseguir que una unidad mantenga la posición cuando comienza el combate.
@@ -3360,40 +3352,27 @@ Si el objetivo consigue reaccionar efectivamente, se utilizan las reglas normale
 
 Las Técnicas de control pueden resultar especialmente importantes.
 
-## 9.14. Interrogar a un prisionero
+## 9.14. Obtener información de un prisionero
 
-No existe un minijuego de interrogatorio.
+Obtener información de un prisionero utiliza las **reglas sociales normales**.
 
-Primero debe decidirse:
+No existe una Habilidad ni una mecánica específica de interrogatorio.
 
-- qué sabe realmente el prisionero;
-- qué desea proteger;
-- qué teme;
-- qué espera obtener;
-- qué consecuencias prevé si habla.
+El jugador describe qué método utiliza y el director determina la combinación apropiada según la situación.
 
-Después el jugador elige método.
+Ejemplos:
 
-Puede utilizar:
+- **Persuasión:** ofrecer cooperación, un trato o una salida aceptable;
+- **Engaño:** hacer creer al prisionero algo falso;
+- **Intimidación:** conseguir que ceda por miedo a las consecuencias;
+- **Perspicacia:** interpretar reacciones, dudas o temas que intenta evitar;
+- **Templanza:** resistir presión cuando es el personaje quien está siendo forzado a hablar.
 
-- **Persuasión:** cooperación voluntaria o trato;
-- **Engaño:** hacerle creer algo falso;
-- **Intimidación:** miedo a consecuencias;
-- **Interrogatorio:** estructurar preguntas y explotar contradicciones;
-- **Perspicacia:** observar qué temas provocan reacciones.
+La defensa puede utilizar **Percepción** o **Inteligencia** según cómo se justifique narrativamente, igual que en cualquier otro enfrentamiento social.
 
-Una persona puede ceder y aun así mentir.
+Lo que un prisionero puede revelar depende de lo que realmente sabe. Un éxito social no permite obtener información que desconoce.
 
-La violencia no convierte automáticamente una respuesta en verdad.
-
-Un fracaso puede producir:
-
-- silencio;
-- información incompleta;
-- una mentira plausible;
-- hostilidad;
-- pérdida de tiempo;
-- que el prisionero comprenda qué busca el interrogador.
+Una persona puede ceder y aun así mentir. La violencia tampoco convierte automáticamente una respuesta en verdad.
 
 ## 9.15. Sabotaje e incendio
 
