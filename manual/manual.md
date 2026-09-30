@@ -1811,6 +1811,9 @@ Algunos Oficios añaden dinero porque implican disponer habitualmente de capital
 |---|---:|
 | Mercader | +1.500 mon |
 | Posadero | +500 mon |
+| Cazador | +400 mon |
+| Ashigaru | +500 mon |
+| Guardia | +500 mon |
 | Mercenario | +500 mon |
 
 El dinero adicional del Oficio se suma al de la Clase.
