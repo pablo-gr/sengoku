@@ -1344,7 +1344,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Primeros auxilios;
 - Profesión relacionada con actividades rurales.
 
-**Oficios habilitados:** Agricultor, Pescador, Cazador, Leñador o carbonero, Criado, Porteador, Marinero, Mensajero, Posadero, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Curandero o herbolario, Monje, Yamabushi, Artista o entretenedor, Prostituta/o, Espía o agente clandestino.
+**Oficios habilitados:** Agricultor, Pescador, Cazador, Leñador o carbonero, Artesano, Carpintero o constructor, Criado, Porteador, Marinero, Mensajero, Posadero, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Curandero o herbolario, Monje, Yamabushi, Artista o entretenedor, Prostituta/o, Espía o agente clandestino.
 
 ### Artesano
 
@@ -1357,7 +1357,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Ingeniería;
 - Primeros auxilios.
 
-**Oficios habilitados:** Artesano, Herrero o armero, Carpintero o constructor, Criado, Mensajero, Posadero, Ladrón, Asesino, Bandido, Guardia, Mercenario, Escribano, Médico, Curandero o herbolario, Monje, Yamabushi, Artista o entretenedor, Prostituta/o, Espía o agente clandestino.
+**Oficios habilitados:** Artesano, Herrero o armero, Carpintero o constructor, Mercader, Criado, Mensajero, Posadero, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Administrador, Escribano, Médico, Curandero o herbolario, Monje, Yamabushi, Artista o entretenedor, Prostituta/o, Espía o agente clandestino.
 
 ### Mercader
 
@@ -1370,7 +1370,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Vigilancia;
 - Idiomas.
 
-**Oficios habilitados:** Mercader, Administrador, Escribano, Marinero, Mensajero, Posadero, Criado, Ladrón, Asesino, Guardia, Médico, Monje, Artista o entretenedor, Prostituta/o, Espía o agente clandestino, Emisario.
+**Oficios habilitados:** Mercader, Administrador, Escribano, Marinero, Mensajero, Posadero, Criado, Ladrón, Asesino, Bandido, Ashigaru, Guardia, Mercenario, Médico, Monje, Yamabushi, Artista o entretenedor, Prostituta/o, Espía o agente clandestino, Emisario.
 
 ### Samurái
 
@@ -1392,7 +1392,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 - Vigilancia;
 - Primeros auxilios.
 
-**Oficios habilitados:** Samurái de armas, Oficial militar, Administrador, Guardia, Mensajero, Mercenario, Asesino, Escribano, Médico, Monje, Yamabushi, Espía o agente clandestino, Cortesano, Emisario.
+**Oficios habilitados:** Samurái de armas, Oficial militar, Administrador, Guardia, Mensajero, Mercenario, Asesino, Bandido, Escribano, Médico, Monje, Yamabushi, Espía o agente clandestino, Cortesano, Emisario.
 
 Además de habilitar estas Habilidades, la Clase **Samurái** permite que el personaje tenga acceso inicial a una **escuela marcial** cuando su origen, maestro, región y fecha lo hagan plausible.
 
@@ -1413,7 +1413,7 @@ Un samurái sin señor puede conservar esta Clase social aunque su situación co
 - Religión;
 - Equitación.
 
-**Oficios habilitados:** Cortesano, Emisario, Administrador, Escribano, Médico, Monje.
+**Oficios habilitados:** Cortesano, Emisario, Administrador, Escribano, Médico, Monje, Yamabushi, Espía o agente clandestino.
 
 Esta Clase representa a la **aristocracia cortesana vinculada a la corte imperial**, especialmente las familias kuge.
 
