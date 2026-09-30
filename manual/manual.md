@@ -3707,7 +3707,6 @@ El manual utiliza estas categorías:
 - **Común:** suele encontrarse en el entorno adecuado.
 - **Especializado:** requiere un artesano, mercado o proveedor apropiado.
 - **Militar:** suele encontrarse a través de ejércitos, armeros, mercados de armas o redes militares.
-- **Restringido:** exige una justificación específica, autorización, contactos, contrabando u otra vía adecuada.
 
 Un objeto puede cambiar de categoría según el lugar y la fecha.
 
