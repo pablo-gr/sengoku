@@ -1396,7 +1396,7 @@ Algunos nombres pueden coincidir entre Clase y Oficio sin representar lo mismo. 
 
 Además de habilitar estas Habilidades, la Clase **Samurái** permite que el personaje tenga acceso inicial a una **escuela marcial** cuando su origen, maestro, región y fecha lo hagan plausible.
 
-Ese acceso no concede Técnicas gratuitamente por sí mismo. Sólo permite aprender las Técnicas de la escuela conforme a las reglas de formación marcial.
+Tener acceso significa que el personaje puede pertenecer a esa escuela y aprender sus Técnicas. Si comienza efectivamente la campaña como alumno de la escuela, recibe sus **Técnicas Iniciales** conforme a la sección 5.14.
 
 Un samurái sin señor puede conservar esta Clase social aunque su situación concreta sea la de rōnin.
 
@@ -1731,12 +1731,13 @@ Distribuciones habituales:
 - `+2, +1, 0, 0, 0, 0`
 - `+1, +1, +1, 0, 0, 0`
 
-### Habilidades
+### Habilidades y Técnicas
 
 - 5 puntos de Habilidad;
-- ninguna puede comenzar por encima de +2.
+- estos puntos pueden gastarse en Habilidades o reservarse para comprar Técnicas;
+- ninguna Habilidad puede comenzar por encima de +2.
 
-Los niveles gratuitos del Oficio se aplican antes de gastar estos puntos.
+Los niveles gratuitos del Oficio se aplican antes de gastar estos puntos. El límite de +2 se comprueba sobre el valor final de la Habilidad.
 
 ## 5.7. Personaje excepcional
 
@@ -1755,13 +1756,14 @@ Distribuciones habituales:
 - `+2, +1, +1, 0, 0, 0`
 - `+1, +1, +1, +1, 0, 0`
 
-### Habilidades
+### Habilidades y Técnicas
 
 - 10 puntos de Habilidad;
-- una sola puede comenzar a +3;
+- estos puntos pueden gastarse en Habilidades o reservarse para comprar Técnicas;
+- una sola Habilidad puede comenzar a +3;
 - las demás no pueden superar +2.
 
-Los niveles gratuitos del Oficio se aplican antes de gastar estos puntos.
+Los niveles gratuitos del Oficio se aplican antes de gastar estos puntos. Los límites se comprueban sobre los valores finales: si una Habilidad gratuita a +2 se mejora a +3, ocupa la única Habilidad inicial que puede alcanzar +3.
 
 ## 5.8. Deficiencias
 
