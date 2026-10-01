@@ -2448,98 +2448,180 @@ Por ejemplo, si un Empate permite a un combatiente Derribar y al otro Compromete
 
 ## 6.19. Ataques a distancia
 
-Los ataques con arco, armas de fuego y otros proyectiles se resuelven normalmente como **retos ordinarios**, no como Intercambios.
+Los ataques con arcos, armas de fuego, armas arrojadizas y otros proyectiles se resuelven como **retos ordinarios**, no como Intercambios.
 
-Un ataque utiliza habitualmente:
+Un ataque utiliza normalmente:
 
-> **Destreza + Habilidad de arma + modificadores narrativos + modificador por tiempo + Suerte**
+> **Destreza + Habilidad de arma + modificadores de estado + modificadores narrativos + modificador por tiempo + Suerte**
 
-La dificultad depende de circunstancias como:
+La **dificultad base es 0** cuando se dispara contra un blanco humano expuesto, dentro del alcance óptimo del arma y en condiciones normales.
 
-- distancia;
-- tamaño y movimiento del objetivo;
+Después se aplican los modificadores correspondientes por:
+
+- alcance;
+- armadura o cobertura;
+- movimiento del objetivo;
 - visibilidad;
-- cobertura;
-- viento o lluvia cuando resulten relevantes;
-- posición del tirador;
-- tiempo dedicado a apuntar;
-- calidad del arma y munición;
-- presión inmediata.
+- posición;
+- condiciones ambientales;
+- presión;
+- tiempo dedicado a preparar o apuntar;
+- cualquier otra circunstancia relevante.
 
-Si el objetivo está actuando deliberadamente para evitar el disparo y dispone de libertad real para hacerlo, su capacidad defensiva puede establecer la dificultad mediante un reto enfrentado.
+### Resultado del disparo
 
-Un personaje completamente sorprendido, inmóvil o indefenso no recibe una defensa artificial sólo por ser un objetivo humano.
+El margen determina si el proyectil consigue producir una Herida efectiva.
 
-### Consecuencia de un impacto
+| Margen | Resultado |
+|---:|---|
+| **0 o menos** | No produce Herida |
+| **+1** | Herida leve |
+| **+2 o más** | Herida grave |
 
-Un impacto limpio con un arma de proyectil capaz de matar causa normalmente una **Herida grave**.
+Un resultado sin Herida no significa necesariamente que el proyectil haya pasado lejos del blanco. Puede haber rozado, golpeado sin penetrar, impactado contra la armadura o cobertura o no haber alcanzado una zona capaz de producir una lesión relevante.
 
-El director puede modificar esta consecuencia cuando la ficción lo justifique claramente:
+Los ataques a distancia ordinarios no producen automáticamente Heridas mortales por obtener márgenes superiores.
 
-- un impacto superficial puede causar una Herida leve;
-- un disparo a una zona vital desde muy corta distancia contra una persona indefensa puede causar una Herida mortal;
-- una cobertura o armadura eficaz puede impedir la Herida aunque el proyectil alcance al objetivo;
-- una fuente físicamente devastadora puede producir consecuencias mayores.
+Una situación que haga prácticamente inevitable una lesión mortal —por ejemplo, una ejecución a quemarropa contra una persona completamente indefensa— puede resolverse directamente conforme a la ficción sin necesidad de aplicar esta tabla.
 
-No se calcula un daño distinto sólo porque un arco, una espada o una yari tengan tamaños diferentes. La gravedad representa **dónde y cómo ha alcanzado el ataque**, no una cifra abstracta de energía del arma.
+### Suerte
 
-### Apuntar
+La Suerte puede conseguir que un disparo que no habría producido una Herida provoque una **Herida leve**.
 
-Dedicar tiempo a apuntar utiliza las reglas normales de tiempo.
+Sin embargo, la Suerte no puede crear por sí sola una Herida grave.
 
-El tiempo adicional sólo ayuda mientras el objetivo y la situación permitan mantener la puntería.
+Para producir una Herida grave, el resultado antes de aplicar Suerte debe alcanzar ya un margen de **+2 o más**.
 
-### Disparar bajo presión
+## 6.20. Alcance
 
-Un personaje amenazado directamente en combate cuerpo a cuerpo puede tener dificultades para preparar o utilizar un arma a distancia.
+Cada arma a distancia posee una categoría de **Alcance**:
 
-El director puede aplicar penalizadores, declarar que el arma no puede utilizarse eficazmente o exigir primero romper el contacto.
+- Bajo;
+- Medio;
+- Alto.
 
-## 6.20. Cobertura
+La categoría determina los modificadores aplicables según la distancia.
 
-La cobertura protege porque oculta al objetivo, dificulta una trayectoria limpia o interpone material.
+| Alcance | Sin penalizador | −1 | −2 | Fuera de alcance |
+|---|---:|---:|---:|---:|
+| **Bajo** | 0–5 m | 6–10 m | 11–20 m | más de 20 m |
+| **Medio** | 0–25 m | 26–50 m | 51–100 m | más de 100 m |
+| **Alto** | 0–50 m | 51–100 m | 101–200 m | más de 200 m |
 
-Puede:
+**Fuera de alcance** significa que no puede realizarse un disparo dirigido contra un blanco individual mediante las reglas normales.
 
-- aumentar la dificultad;
-- impedir completamente el disparo;
-- proteger sólo parte del cuerpo;
-- detener determinados proyectiles y no otros.
+Estas distancias representan el alcance práctico para intentar alcanzar deliberadamente a una persona. No representan necesariamente la distancia máxima que puede recorrer físicamente el proyectil.
 
-El director valora el material, grosor, ángulo y parte del cuerpo expuesta.
+### Categorías básicas de armas
 
-Asomarse para observar o disparar puede reducir la protección durante ese momento.
+| Arma | Alcance | Penetración |
+|---|---|---|
+| **Armas arrojadizas** | Bajo | Baja |
+| **Arcos** | Medio | Media |
+| **Teppō / arcabuces** | Alto | Alta |
 
-## 6.21. Armadura
+Un arma concreta puede utilizar una categoría diferente cuando sus características físicas lo justifiquen.
 
-La armadura no posee puntos de vida ni una reducción fija de daño.
+## 6.21. Protección y Penetración
 
-Cuando una armadura protege de forma efectiva contra el ataque que recibe el personaje, proporciona normalmente un **modificador defensivo de +1**.
+Armaduras y coberturas pueden dificultar que un impacto produzca una Herida efectiva.
 
-En un ataque a distancia este modificador aumenta en +1 la dificultad necesaria para conseguir un impacto eficaz.
+Toda protección relevante posee un valor de **Protección**.
 
-En un Intercambio cuerpo a cuerpo se suma +1 al resultado del combatiente protegido cuando la armadura resulta relevante para la amenaza del adversario.
+| Protección | Valor | Ejemplos |
+|---|---:|---|
+| **Ligera** | **1** | ropa protectora gruesa, armadura ligera o protección equivalente |
+| **Moderada** | **2** | armadura parcial considerable, madera relativamente ligera, puerta o tablones ordinarios |
+| **Sólida** | **3** | armadura militar samurái eficaz, empalizada robusta, parapeto o construcción sólida de madera |
+| **Pesada** | **4** | mantelete, barricada de varias capas, portón grueso o construcción de madera específicamente capaz de ofrecer una protección importante |
 
-El modificador representa que el atacante debe:
+La Penetración de un arma reduce este valor:
 
-- alcanzar una abertura;
-- golpear una zona menos protegida;
-- producir un impacto capaz de superar la protección;
-- o crear una oportunidad mejor antes de herir.
+| Penetración | Protección ignorada |
+|---|---:|
+| **Baja** | 0 |
+| **Media** | 1 |
+| **Alta** | 2 |
 
-La armadura no concede el modificador cuando no puede proteger razonablemente de la amenaza.
+Se calcula:
 
-Ejemplos:
+> **Protección efectiva = Protección − Penetración**
 
-- una protección corporal sólida es útil contra cortes y muchas flechas;
-- una zona descubierta no recibe protección;
-- controlar, derribar o desarmar a alguien puede ignorar en gran medida su armadura;
-- determinadas armas de fuego, distancias o ángulos pueden reducir o eliminar la protección;
-- una armadura inadecuada, dañada o incompleta puede proteger sólo en contextos concretos.
+con un mínimo de **0**.
 
-El director no determina aleatoriamente una localización de impacto. La cobertura de la armadura forma parte de la situación general y de la descripción del resultado.
+La Protección efectiva se aplica como penalizador al resultado del disparo.
 
-### Inconvenientes
+### Ejemplos
+
+Una armadura samurái de Protección 3 proporciona:
+
+- **−3** contra un arma arrojadiza de Penetración Baja;
+- **−2** contra un arco de Penetración Media;
+- **−1** contra un teppō de Penetración Alta.
+
+Una cobertura de madera Moderada, Protección 2, proporciona:
+
+- **−2** contra Penetración Baja;
+- **−1** contra Penetración Media;
+- ninguna penalización contra Penetración Alta.
+
+### Cobertura
+
+No existe una tabla de porcentajes de cobertura.
+
+El director determina si el personaje está **suficientemente protegido por el obstáculo** para beneficiarse de su Protección.
+
+Encontrarse simplemente cerca de una pared, árbol o barricada no concede Protección. El personaje debe utilizar realmente el obstáculo de una forma que dificulte que el proyectil produzca un impacto eficaz.
+
+La Protección representa conjuntamente:
+
+- la dificultad de alcanzar una parte vulnerable del blanco;
+- la posibilidad de que el proyectil golpee el obstáculo;
+- la capacidad del material para detenerlo o desviarlo.
+
+### Cobertura completa
+
+Si el objetivo se encuentra completamente detrás de un obstáculo que el proyectil no puede atravesar, el disparo es simplemente **imposible**.
+
+Una pared gruesa de piedra, un terraplén considerable u otra barrera físicamente impenetrable para el arma no recibe un valor arbitrariamente alto de Protección.
+
+La Penetración Alta no permite atravesar cualquier material.
+
+### Cobertura pesada
+
+**Protección 4** no significa simplemente «madera gruesa».
+
+Representa una protección de madera excepcional en comparación con construcciones corrientes: varias capas de tablones, un mantelete militar, una barricada preparada, un portón particularmente robusto u otra estructura diseñada o suficientemente gruesa para ofrecer una protección muy importante.
+
+Una pared o empalizada ordinariamente robusta utiliza normalmente Protección 3.
+
+### Armadura y cobertura simultáneas
+
+Armadura y cobertura **no se suman normalmente**.
+
+Cuando ambas protegen al personaje se utiliza normalmente el valor de Protección más alto.
+
+Sólo se suman cuando la situación exige realmente que el proyectil atraviese sucesivamente ambas barreras antes de alcanzar al personaje.
+
+El director decide cuándo ocurre esto de acuerdo con la posición y trayectoria reales del disparo.
+
+### Ocultación
+
+Algo puede dificultar ver al blanco sin proporcionar Protección.
+
+Vegetación, humo, oscuridad, telas, sombras y otros obstáculos que no pueden detener razonablemente el proyectil se resuelven mediante **modificadores narrativos**, no mediante Protección.
+
+### Armadura en combate cuerpo a cuerpo
+
+Los valores de Protección y Penetración anteriores se utilizan para los ataques a distancia.
+
+En un Intercambio cuerpo a cuerpo, una armadura que resulte eficaz contra la amenaza proporciona normalmente **+1 al resultado** del combatiente protegido, como establece la regla general de armadura.
+
+La Protección numérica de la armadura no se convierte en un bonificador equivalente en cuerpo a cuerpo.
+
+La armadura no concede esta ventaja cuando no puede proteger razonablemente frente al efecto buscado. Controlar, derribar o desarmar a alguien, por ejemplo, puede ignorar en gran medida la protección física de la armadura.
+
+### Inconvenientes de la armadura
 
 La armadura puede producir consecuencias cuando su peso, volumen o ruido importan.
 
@@ -2553,7 +2635,94 @@ Puede penalizar:
 
 No se aplica un penalizador permanente por llevar armadura. Sólo cuando la limitación resulta relevante para la acción concreta.
 
-## 6.22. Fin del combate
+## 6.22. Movimiento y otras circunstancias
+
+No existe una defensa enfrentada automática contra un proyectil.
+
+Un personaje no «esquiva» normalmente una flecha o una bala después de que haya sido disparada.
+
+Moverse rápidamente, cambiar de dirección, correr entre obstáculos o utilizar otras medidas para dificultar que el tirador prediga su posición puede imponer un **modificador narrativo negativo**.
+
+Del mismo modo pueden producir modificadores:
+
+- mala visibilidad;
+- viento;
+- lluvia;
+- disparar desde una posición inestable;
+- disparar contra un blanco pequeño;
+- intentar alcanzar deliberadamente una parte concreta del cuerpo;
+- disparar contra una persona mezclada con aliados;
+- utilizar el arma bajo presión inmediata.
+
+El director aplica los modificadores generales del juego según la importancia real de estas circunstancias.
+
+No existe una tabla adicional para cada una de ellas.
+
+## 6.23. Apuntar y tiempo
+
+Los ataques a distancia utilizan las reglas generales de tiempo.
+
+Como referencia, disparar con un arma preparada tiene un **tiempo normal de 3 segundos**.
+
+Por tanto:
+
+- intentar hacerlo en 1 segundo aplica **−1**;
+- dedicar 10 segundos útiles aplica **+1**;
+- dedicar 30 segundos útiles aplica **+2**.
+
+El tiempo adicional sólo proporciona una ventaja cuando puede aprovecharse realmente para:
+
+- observar al blanco;
+- seguir su movimiento;
+- controlar la respiración;
+- preparar la postura;
+- escoger el momento del disparo;
+- estimar distancia o trayectoria.
+
+Un objetivo que desaparece, cambia constantemente de posición o fuerza al tirador a reaccionar inmediatamente puede impedir aprovechar tiempo adicional.
+
+En el caso del arco, dedicar más tiempo no significa necesariamente mantenerlo tensado durante todo el intervalo.
+
+Un personaje amenazado directamente en combate cuerpo a cuerpo puede tener dificultades para preparar o utilizar un arma a distancia. El director puede aplicar un penalizador, declarar que el arma no puede utilizarse eficazmente o exigir primero romper el contacto.
+
+## 6.24. Recarga
+
+Preparar un nuevo proyectil forma parte del funcionamiento normal de cada arma.
+
+### Arco
+
+Preparar la siguiente flecha está incluido normalmente en el tiempo de un nuevo disparo.
+
+### Armas arrojadizas
+
+El personaje debe disponer físicamente de otra arma y poder acceder a ella.
+
+Extraerla o prepararla puede formar parte del tiempo normal o requerir tiempo adicional cuando su posición en el equipo lo haga necesario.
+
+### Teppō
+
+Un teppō cargado puede dispararse utilizando el tiempo normal de un ataque a distancia.
+
+Después debe recargarse.
+
+Como referencia de juego:
+
+> **Tiempo normal de recarga: 30 segundos**
+
+La recarga utiliza las reglas generales de tiempo cuando alguien intenta realizarla más deprisa.
+
+Las condiciones pueden hacerla más difícil o incluso impedirla:
+
+- presión enemiga;
+- lluvia;
+- humedad;
+- falta de espacio;
+- movimiento intenso;
+- problemas con la mecha o la pólvora.
+
+Ayudantes, armas previamente cargadas y procedimientos militares organizados pueden modificar radicalmente la cadencia efectiva de una unidad.
+
+## 6.25. Fin del combate
 
 Un combate termina cuando deja de existir oposición efectiva.
 
@@ -3912,21 +4081,29 @@ El director puede aplicar un penalizador cuando el objeto sea incómodo, frágil
 
 El **yumi** utiliza la Habilidad **Arco**.
 
+A efectos de las reglas de ataques a distancia utiliza normalmente:
+
+- **Alcance:** Medio;
+- **Penetración:** Media.
+
 Características principales:
 
 - arma letal a distancia;
 - silenciosa comparada con un arma de fuego;
 - permite realizar nuevos disparos con relativa rapidez;
 - su eficacia depende de distancia, visibilidad, viento, posición y habilidad;
-- la armadura puede proporcionar protección cuando cubre la zona alcanzada.
-
-Un impacto limpio causa normalmente una Herida grave según las reglas de ataques a distancia.
+- la armadura y la cobertura pueden reducir la eficacia del impacto según su Protección.
 
 El arco también puede utilizarse desde posiciones preparadas o a caballo cuando la formación del personaje lo justifique.
 
 ## 10.8. Teppō y armas de fuego
 
 Las armas de mecha utilizan **Armas de fuego**.
+
+A efectos de las reglas de ataques a distancia un teppō corriente utiliza normalmente:
+
+- **Alcance:** Alto;
+- **Penetración:** Alta.
 
 Su disponibilidad depende fuertemente de la fecha y región de la campaña.
 
@@ -3940,17 +4117,13 @@ Características principales:
 - revela con facilidad la posición del tirador;
 - necesita tiempo para recargar;
 - la mecha y la pólvora crean problemas bajo lluvia o humedad;
-- puede ser especialmente eficaz contra protección corporal.
-
-A distancia eficaz, un teppō puede **ignorar el +1 defensivo de una armadura** cuando el director considere que el disparo posee energía y ángulo suficientes para que la protección no proporcione una ventaja fiable.
-
-Esto no significa que toda bala atraviese cualquier armadura. El tipo de protección, distancia, ángulo y arma concreta siguen formando parte de la ficción.
+- posee una Penetración elevada frente a armaduras y coberturas que no sean físicamente impenetrables.
 
 ### Recarga
 
-Recargar un teppō requiere un intervalo significativo.
+El tiempo normal para recargar un teppō es de **30 segundos**.
 
-En una escena donde el tiempo importa, el personaje no puede disparar repetidamente como si el arma estuviera siempre preparada.
+La recarga y cualquier intento de acelerarla utilizan las reglas generales de tiempo y las reglas de ataques a distancia.
 
 La preparación previa, ayudantes, armas adicionales y formaciones militares pueden cambiar radicalmente la cadencia de fuego.
 
@@ -3958,9 +4131,14 @@ La preparación previa, ayudantes, armas adicionales y formaciones militares pue
 
 Un cuchillo, piedra, lanza u objeto semejante puede arrojarse cuando resulte físicamente razonable.
 
-Se utiliza la Habilidad correspondiente al objeto si el lanzamiento forma parte natural de su entrenamiento. En caso contrario puede utilizarse **Destreza + Atletismo** u otra combinación apropiada.
+A efectos de las reglas de ataques a distancia, un arma arrojadiza corriente utiliza normalmente:
 
-Las armas improvisadas y objetos pequeños tienen un alcance limitado y pueden sufrir penalizadores importantes.
+- **Alcance:** Bajo;
+- **Penetración:** Baja.
+
+Un arma concreta puede utilizar categorías diferentes cuando sus propiedades físicas lo justifiquen.
+
+Se utiliza la Habilidad correspondiente al objeto si el lanzamiento forma parte natural de su entrenamiento. En caso contrario puede utilizarse **Destreza + Atletismo** u otra combinación apropiada.
 
 Las armas arrojadizas utilizadas en operaciones clandestinas siguen estas mismas reglas y dependen de las propiedades físicas del objeto y de la formación del personaje.
 
@@ -3968,11 +4146,11 @@ Las armas arrojadizas utilizadas en operaciones clandestinas siguen estas mismas
 
 Las armaduras utilizan las reglas del capítulo de Combate.
 
-Cuando una protección resulta eficaz contra una amenaza, concede normalmente **+1 defensivo**.
+Para ataques a distancia, una armadura militar samurái eficaz utiliza normalmente **Protección 3**.
 
-Este bonificador no se acumula pieza por pieza.
+Protecciones más ligeras, parciales o incompletas pueden utilizar **Protección 1 o 2** cuando cubran de forma relevante al personaje.
 
-La diferencia entre protecciones ligeras, parciales y completas se representa sobre todo mediante **cobertura y contexto**.
+El valor de Protección no se acumula pieza por pieza. Representa la protección efectiva que ofrece el conjunto frente al ataque concreto.
 
 ### Protección parcial
 
@@ -3983,11 +4161,15 @@ Ejemplos:
 - piezas de torso;
 - combinaciones incompletas.
 
-Sólo concede protección cuando el ataque afecta razonablemente a la zona cubierta.
+Una protección parcial sólo concede su Protección cuando el director considera que cubre de forma relevante al personaje frente a ese disparo.
+
+No se determina aleatoriamente una localización de impacto.
 
 ### Armadura de campaña
 
-Una armadura militar completa o casi completa proporciona protección contra una gama mucho mayor de ataques.
+Una armadura militar completa o casi completa proporciona protección contra una gama mucho mayor de ataques y utiliza normalmente **Protección 3** frente a proyectiles.
+
+En combate cuerpo a cuerpo se aplican las reglas generales de armadura del capítulo de Combate; el valor de Protección utilizado contra proyectiles no se convierte en un bonificador equivalente.
 
 Las armaduras del siglo XVI evolucionaron hacia configuraciones adecuadas para combates a pie y para la guerra de grandes contingentes.
 
