@@ -1695,10 +1695,10 @@ Este Oficio representa formación médica especializada y presupone alfabetizaci
 ### Curandero o herbolario
 
 **Clases:** Campesino, Artesano.  
-**Habilidades profesionales:** Primeros auxilios, Medicina, Venenos, Supervivencia, Profesión (herbolaria), Religión.  
-**Bonificaciones gratuitas:** Primeros auxilios +2, Profesión (herbolaria) +1.
+**Habilidades profesionales:** Primeros auxilios, Medicina, Venenos, Supervivencia, Religión.  
+**Bonificaciones gratuitas:** Primeros auxilios +2, Medicina +1.
 
-El Curandero puede comprar Medicina, pero su Oficio no presupone automáticamente la misma formación teórica o institucional que un Médico.
+El Curandero puede comprar y utilizar Medicina, pero su Oficio no presupone automáticamente la misma formación teórica o institucional que un Médico. El conocimiento práctico de plantas medicinales se resuelve mediante Medicina, Primeros auxilios, Venenos o Supervivencia según la tarea concreta, sin crear una Habilidad separada de Profesión (herbolaria).
 
 ### Monje
 
